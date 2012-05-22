@@ -9,5 +9,7 @@ All content copyright Thomas R. Elliott, 2004-2012.
 
 LICENSE.md contains a copy of the above license information.
 
+You may get some idea of where I think I'm going next by looking at what's in TODO.txt.
+
 For questions, comments, or critiques, please email me at tom.elliott@nyu.edu.
   
