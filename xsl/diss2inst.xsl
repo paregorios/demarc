@@ -13,7 +13,8 @@
         </xd:desc>
     </xd:doc>
     
-    <xsl:output encoding="UTF-8" method="xml" indent="yes"/>
+    <xsl:output encoding="UTF-8" method="xml" indent="no"/>
+    
     
     <xsl:template match="/">
         <xsl:apply-templates select="//text:bookmark-start[contains(@text:name, 'INST')]">
@@ -26,20 +27,23 @@
         <xsl:variable name="bkmkend" select="following::text:bookmark-end[@text:name=$bkmkstart/@text:name]"/>
         <xsl:variable name="nextbkmk" select="$bkmkend/following::text:bookmark-start[contains(@text:name, 'INST') and not(contains(@text:name, '_'))][1]"/>        
         <xsl:variable name="elestart" select=".."/>
-        <xsl:variable name="eleend" select="$nextbkmk/.."/>
-        <div type="instance">
-            <idno type="original"><xsl:value-of select="$bkmkstart/@text:name"/></idno>
-            <start><xsl:value-of select="local-name(//*[generate-id()=generate-id($elestart)])"/></start>
-            <end><xsl:value-of select="local-name(//*[generate-id()=generate-id($eleend)])"/></end>
+        <xsl:variable name="eleend" select="$nextbkmk/.."/><xsl:text>
+</xsl:text>
+        <div type="instance"><xsl:text>
+</xsl:text>
+        <idno type="original"><xsl:value-of select="$bkmkstart/@text:name"/></idno><xsl:text>
+</xsl:text>
             <xsl:variable name="ns1" select="$elestart/following-sibling::*"/>
             <xsl:variable name="ns2" select="$eleend/preceding-sibling::*"/>
             <xsl:apply-templates select="$elestart | $ns1[count(. | $ns2)=count($ns2)] | $eleend" mode="instance"/>            
-        </div>
+        </div><xsl:text>
+</xsl:text>
     </xsl:template>
     
     <!-- text:h with style-name treInstance can become a plain head -->
     <xsl:template match="text:h[@text:style-name='treInstance']" mode="instance">
-        <head><xsl:apply-templates mode="instance"/></head>
+        <head><xsl:apply-templates mode="instance"/></head><xsl:text>
+</xsl:text>
     </xsl:template>
     
     <!-- other headings preserve their style -->
@@ -47,19 +51,28 @@
         <xsl:element name="head">
             <xsl:call-template name="stdattr"/>
             <xsl:apply-templates mode="instance"/>
-        </xsl:element>
+        </xsl:element><xsl:text>
+</xsl:text>
     </xsl:template>
 
     <!-- capture Burton concordances -->
     <xsl:template match="text:p[starts-with(., 'Burton 2000')]" mode="instance">
-        <p><bibl><ptr ref="dbib:burton-2000"/><xsl:text> </xsl:text><xsl:value-of select="normalize-space(substring-after(., 'Burton 2000, '))"/></bibl></p>
+        <p><bibl><ptr ref="dbib:burton-2000"/><xsl:text> </xsl:text><xsl:value-of select="normalize-space(substring-after(., 'Burton 2000, '))"/></bibl></p><xsl:text>
+</xsl:text>
+    </xsl:template>
+
+    <!-- capture dates -->
+    <xsl:template match="text:p[starts-with(., 'Date(s):')]" mode="instance">
+        <p>Date(s): <date><xsl:value-of select="normalize-space(substring-after(., 'Date(s): '))"/></date></p><xsl:text>
+</xsl:text>        
     </xsl:template>
     
     <xsl:template match="text:p" mode="instance">
         <xsl:element name="p">
             <xsl:call-template name="stdattr"/>
             <xsl:apply-templates mode="instance"/>
-        </xsl:element>        
+        </xsl:element><xsl:text>
+</xsl:text>        
     </xsl:template>
     <xsl:template match="text:span" mode="instance">
         <xsl:element name="seg">
@@ -82,9 +95,27 @@
     
     <xsl:template match="*"/>
     
+    <xsl:template match="text()" mode="instance">
+        <xsl:choose>
+            <xsl:when test="substring(., 1, 1) = ' ' and substring(., string-length(.), 1) = ' '">
+                <xsl:text> </xsl:text><xsl:value-of select="normalize-space(.)"/><xsl:text> </xsl:text>
+            </xsl:when>
+            <xsl:when test="substring(., 1, 1) = ' '">
+                <xsl:text> </xsl:text><xsl:value-of select="normalize-space(.)"/><xsl:text></xsl:text>
+            </xsl:when>
+            <xsl:when test="substring(., string-length(.), 1) = ' '">
+                <xsl:text></xsl:text><xsl:value-of select="normalize-space(.)"/><xsl:text> </xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text></xsl:text><xsl:value-of select="normalize-space(.)"/><xsl:text></xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
     <xsl:template name="stdattr">
         <xsl:if test="@text:style-name">
             <xsl:attribute name="type"><xsl:value-of select="normalize-space(@text:style-name)"/></xsl:attribute>
         </xsl:if>        
     </xsl:template>    
+    
+    
 </xsl:stylesheet>
