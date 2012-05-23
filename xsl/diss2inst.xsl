@@ -67,15 +67,6 @@
 </xsl:text>        
     </xsl:template>
     
-    <!-- regular paragraphs -->
-    <xsl:template match="text:p" mode="instance">
-        <xsl:element name="p">
-            <xsl:call-template name="stdattr"/>
-            <xsl:apply-templates mode="instance"/>
-        </xsl:element><xsl:text>
-</xsl:text>        
-    </xsl:template>
-    
     <!-- bold -->
     <xsl:template match="text:span[@text:style-name='treBold']" mode="instance">
         <hi rend="bold"><xsl:apply-templates mode="instance"/></hi>
@@ -104,11 +95,15 @@
     <xsl:template match="text:note-body" mode="instance">
         <xsl:apply-templates mode="instance"/>
     </xsl:template>
-    <xsl:template match="text:p[@text:style-name='Footnote' and count(../text:p) &gt; 1]">
-        <xsl:message>bastages!</xsl:message>
-    </xsl:template>
-    <xsl:template match="text:p[@text:style-name='Footnote' and count(../text:p) = 1]">
-        <xsl:apply-templates mode="instance"/>
+    <xsl:template match="text:p[@text:style-name='Footnote' ]" mode="instance">
+        <xsl:choose>
+            <xsl:when test="count(../text:p) &gt; 1">
+                <xsl:message>damn</xsl:message>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates mode="instance"/>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <!-- any other kind of span element -->
@@ -125,6 +120,16 @@
     
     <!-- suppress seg type=40, which was hidden text -->
     <xsl:template match="text:span[@text:style-name='T40']" mode="instance"/>
+    
+    <!-- regular paragraphs -->
+    <xsl:template match="text:p" mode="instance">
+        <xsl:element name="p">
+            <xsl:call-template name="stdattr"/>
+            <xsl:apply-templates mode="instance"/>
+        </xsl:element><xsl:text>
+</xsl:text>        
+    </xsl:template>
+    
     
     <!-- traps -->
     
