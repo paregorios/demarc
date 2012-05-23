@@ -18,9 +18,14 @@
     
     
     <xsl:template match="/">
-        <xsl:apply-templates select="//text:bookmark-start[contains(@text:name, 'INST')]">
+        <xsl:text>
+</xsl:text>
+        <div><xsl:text>
+</xsl:text>
+            <xsl:apply-templates select="//text:bookmark-start[contains(@text:name, 'INST')]">
             <xsl:sort select="substring-after(@text:name, 'INST')" data-type="number"/>
-        </xsl:apply-templates>    
+        </xsl:apply-templates>
+        </div>    
     </xsl:template>
     
     <xsl:template match="text:bookmark-start[contains(@text:name, 'INST') and not(contains(@text:name, '_'))]">
