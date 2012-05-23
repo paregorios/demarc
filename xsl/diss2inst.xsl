@@ -76,6 +76,12 @@
     <xsl:template match="text:span[@text:style-name='T36']" mode="instance">
         <foreign rend="italic"><xsl:apply-templates mode="instance"/></foreign>
     </xsl:template>
+    <xsl:template match="text:span[@text:style-name='treLatin']" mode="instance">
+        <foreign xml:lang="la"><xsl:apply-templates mode="instance"/></foreign>
+    </xsl:template>
+    <xsl:template match="text:span[@text:style-name='treGreek']" mode="instance">
+        <foreign xml:lang="grc"><xsl:apply-templates mode="instance"/></foreign>
+    </xsl:template>
     
     <!-- terms -->
     <xsl:template match="text:span[@text:style-name='treTerm']" mode="instance">
@@ -85,6 +91,14 @@
     <!-- personal names -->
     <xsl:template match="text:span[@text:style-name='trePerson']" mode="instance">
         <persName><xsl:apply-templates mode="instance"/></persName>
+    </xsl:template>
+    
+    <!-- emperor's names -->
+    <xsl:template match="text:span[@text:style-name='treEmperor']" mode="instance">
+        <persName type="emperor"><xsl:apply-templates mode="instance"/></persName>
+    </xsl:template>
+    <xsl:template match="text:span[@text:style-name='treEmperorStealth']" mode="instance">
+        <persName type="emperor" rend="normal"><xsl:apply-templates mode="instance"/></persName>
     </xsl:template>
     
     
