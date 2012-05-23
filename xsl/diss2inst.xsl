@@ -8,8 +8,9 @@
     <xd:doc scope="stylesheet">
         <xd:desc>
             <xd:p><xd:b>Created on:</xd:b> May 23, 2012</xd:p>
+            <xd:p><xd:b>Last modified on:</xd:b> May 23, 2012</xd:p>
             <xd:p><xd:b>Author:</xd:b> Tom Elliott</xd:p>
-            <xd:p>This stylsheet is intended to extract basic informations about "instances" and "documents" from the elliottDiss.xml file in such a way that stable URIs and other valuable linked data resources can be generated therefrom. Note that INST and DOC numbers are primary keys from an old database; they do not reflect the order or numeration in which these "instances" and "documents" were presented in the dissertation. Both sets of identifiers will need to be kept.</xd:p>
+            <xd:p>This stylsheet is intended to extract basic informations about "instances" from the elliottDiss.xml file in such a way that stable URIs and other valuable linked data resources can be generated therefrom (maybe even fully-marked up text in TEI). Note that INST and DOC numbers are primary keys from an old database; they do not reflect the order or numeration in which these "instances" and "documents" were presented in the dissertation. Both sets of identifiers will need to be kept. Right now some of the elements used in serializing the output are stolen from the TEI.</xd:p>
         </xd:desc>
     </xd:doc>
     
