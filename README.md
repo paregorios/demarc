@@ -11,7 +11,7 @@ The following other files may be of interest:
 
 * [xml/instances.xml](https://github.com/paregorios/demarc/blob/master/xml/instances.xml) : output from running diss2inst.xsl against elliottDiss.xml (i.e., an xmlized list of each "instance" identified in the dissertation, with some amount of markup of the content ... some content hasn't come through successfully yet) 
 
-You may get some further idea of where I think I'm going next by looking at what's in TODO.md.
+You may get some further idea of where I think I'm going next by looking at what's in [TODO.md](https://github.com/paregorios/demarc/blob/master/TODO.md).
 
 For questions, comments, or critiques, please email me at tom.elliott@nyu.edu.
   
@@ -19,4 +19,4 @@ All content copyright Thomas R. Elliott, 2004-2012.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Epigraphic Evidence for Boundary Disputes in the Early Roman Empire</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://isaw.nyu.edu/people/staff/tom-elliott" property="cc:attributionName" rel="cc:attributionURL">Tom Elliott</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-ShareAlike 3.0 United States License</a>.
 
-LICENSE.md contains a copy of the above license information.
+[LICENSE.md](https://github.com/paregorios/demarc/blob/master/LICENSE.md) contains a copy of the above license information.

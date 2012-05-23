@@ -1,5 +1,5 @@
-License file for contents of repository at https://paregorios@github.com/paregorios/demarc.git
-==============================================================================================
+License file for contents of repository at [https://paregorios@github.com/paregorios/demarc.git](https://paregorios@github.com/paregorios/demarc.git)
+=================================================================================================================================================================
 
 All content copyright Thomas R. Elliott, 2004-2012.
 
