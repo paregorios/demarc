@@ -27,7 +27,7 @@
         <xsl:variable name="bkmkend" select="following::text:bookmark-end[@text:name=$bkmkstart/@text:name]"/>
         <xsl:variable name="nextbkmk" select="$bkmkend/following::text:bookmark-start[contains(@text:name, 'INST') and not(contains(@text:name, '_'))][1]"/>        
         <xsl:variable name="elestart" select=".."/>
-        <xsl:variable name="eleend" select="$nextbkmk/.."/><xsl:text>
+        <xsl:variable name="eleend" select="$nextbkmk/../preceding-sibling::*[1]"/><xsl:text>
 </xsl:text>
         <div type="instance" xml:id="{normalize-space(@text:name)}"><xsl:text>
 </xsl:text>
