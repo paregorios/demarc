@@ -137,6 +137,23 @@
         </xsl:choose>
     </xsl:template>
     
+    <!-- cross-references -->
+    <xsl:template match="text:bookmark-ref[starts-with(@text:ref-name, 'DOC')]" mode="instance">
+        <ref target="ddoc:{substring-after(@text:ref-name, 'DOC')}"><bibl><biblScope><xsl:value-of select="."/></biblScope> (<title type="short">Elliott 2004</title>)</bibl></ref>
+    </xsl:template>
+    <xsl:template match="text:bookmark-ref[starts-with(@text:ref-name, 'INST')]" mode="instance">
+        <ref target="#{@text:ref-name}"><bibl><biblScope><xsl:value-of select="."/></biblScope> (<title type="short">Elliott 2004</title>)</bibl></ref>
+    </xsl:template>
+    <xsl:template match="text:bookmark-ref[starts-with(@text:ref-name, '_Ref')]" mode="instance">
+        <bibl><biblScope type="page"><xsl:value-of select="."/></biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+    </xsl:template>
+    <xsl:template match="text:bookmark-ref" mode="instance">
+        <ref type="trouble" target="{@text:ref-name}"><bibl><biblScope><xsl:value-of select="."/></biblScope> (<title type="short">Elliott 2004</title>)</bibl></ref>
+    </xsl:template>
+    <xsl:template match="text:note-ref" mode="instance">
+        <bibl><biblScope type="note"><xsl:value-of select="."/></biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+    </xsl:template>
+    
     <!-- any other kind of span element -->
     <xsl:template match="text:span" mode="instance">
         <xsl:element name="seg">
@@ -156,6 +173,9 @@
     
     <!-- suppress seg type=40, which was hidden text -->
     <xsl:template match="text:span[@text:style-name='T40']" mode="instance"/>
+    
+    <!-- suppress text:s which seems to have been a hack for keeping space between note numbers and note content -->
+    <xsl:template match="text:s" mode="instance"/>
     
     <!-- regular paragraphs -->
     <xsl:template match="text:p" mode="instance">
