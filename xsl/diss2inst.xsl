@@ -67,6 +67,7 @@
 </xsl:text>        
     </xsl:template>
     
+    <!-- regular paragraphs -->
     <xsl:template match="text:p" mode="instance">
         <xsl:element name="p">
             <xsl:call-template name="stdattr"/>
@@ -74,11 +75,35 @@
         </xsl:element><xsl:text>
 </xsl:text>        
     </xsl:template>
+    
+    <!-- bold -->
+    <xsl:template match="text:span[@text:style-name='treBold']" mode="instance">
+        <hi rend="bold"><xsl:apply-templates mode="instance"/></hi>
+    </xsl:template>
+    
+    <!-- placenames -->
+    <xsl:template match="text:span[@text:style-name='trePlaceAncient']" mode="instance">
+        <placeName type="ancient"><xsl:apply-templates mode="instance"/></placeName>
+    </xsl:template>
+    <xsl:template match="text:span[@text:style-name='trePlaceModern']" mode="instance">
+        <placeName type="modern"><xsl:apply-templates mode="instance"/></placeName>
+    </xsl:template>
+    
+    <!-- footnote symbol markup is passed through -->
+    <xsl:template match="text:span[@text:style-name='Footnote_20_Symbol']" mode="instance">
+        <xsl:apply-templates mode="instance"/>
+    </xsl:template>
+    
+    <!-- any other kind of span element -->
     <xsl:template match="text:span" mode="instance">
         <xsl:element name="seg">
             <xsl:call-template name="stdattr"/>
             <xsl:apply-templates mode="instance"/>
         </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="text:note" mode="instance">
+        <note><xsl:apply-templates mode="instance"/></note>
     </xsl:template>
     
     <!-- suppress bookmarks -->
