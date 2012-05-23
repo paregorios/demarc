@@ -1,7 +1,7 @@
 demarc
 ======
 
-This repository contains an open-access and slowly refactored and enhanced version of [Tom Elliott's](http://isaw.nyu.edu/people/staff/tom-elliott) 2004 Ph.D. dissertation (Ancient History, Chapel Hill) entitled "Epigraphic Evidence for Boundary Disputes in the Early Roman Empire." The original "dead tree" dissertation was completed under the direction of [Richard J.A. Talbert](http://en.wikipedia.org/wiki/Richard_Talbert). At present, the repository contains the PDF versions of the main content of the dissertations as prepared for final printing and submission, as well as Open Document Text (ODT) format exports of the corresponding Microsoft Word files in which the dissertation was originally created and edited.
+This repository contains an open-access and slowly refactored and enhanced version of [Tom Elliott's](http://isaw.nyu.edu/people/staff/tom-elliott) 2004 Ph.D. dissertation (Ancient History, Chapel Hill) entitled "Epigraphic Evidence for Boundary Disputes in the Early Roman Empire." The original "dead tree" dissertation was completed under the direction of [Richard J.A. Talbert](http://en.wikipedia.org/wiki/Richard_Talbert). At present, the repository contains the PDF versions of the main content of the dissertation as prepared for final printing and submission, as well as Open Document Text (ODT) format exports of the corresponding Microsoft Word files in which the dissertation was originally created and edited.
 
 The following other files may be of interest:
 
@@ -9,7 +9,7 @@ The following other files may be of interest:
 
 * xsl/diss2inst.xsl : an XSLT file whose purpose in life is to extract information about the "instances of boundary demarcation and dispute" that I identified in the dissertation from the elliottDiss.xml and serialize it to a more tractable XML form on the basis of which subsequent work can continue. Possible eventual products include: standalone files (XML:TEI, HTML) for each instance, stable URIs for each instance, RDF for each instance. 
 
-You may get some further idea of where I think I'm going next by looking at what's in TODO.txt.
+You may get some further idea of where I think I'm going next by looking at what's in TODO.md.
 
 For questions, comments, or critiques, please email me at tom.elliott@nyu.edu.
   
