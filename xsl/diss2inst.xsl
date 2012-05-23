@@ -112,9 +112,15 @@
         </xsl:choose>
     </xsl:template>
     <xsl:template name="stdattr">
-        <xsl:if test="@text:style-name">
-            <xsl:attribute name="type"><xsl:value-of select="normalize-space(@text:style-name)"/></xsl:attribute>
-        </xsl:if>        
+        <xsl:choose>
+            <xsl:when test="@text:style-name='treParaIndent'">
+                <xsl:attribute name="rend">indent</xsl:attribute>
+            </xsl:when>
+            <xsl:when test="@text:style-name">
+                <xsl:attribute name="type"><xsl:value-of select="normalize-space(@text:style-name)"/></xsl:attribute>
+            </xsl:when>        
+            <xsl:otherwise/>
+        </xsl:choose>
     </xsl:template>    
     
     
