@@ -77,6 +77,11 @@
         <foreign rend="italic"><xsl:apply-templates mode="instance"/></foreign>
     </xsl:template>
     
+    <!-- terms -->
+    <xsl:template match="text:span[@text:style-name='treTerm']" mode="instance">
+        <seg type="term"><xsl:apply-templates mode="instance"/></seg>
+    </xsl:template>
+    
     <!-- placenames -->
     <xsl:template match="text:span[@text:style-name='trePlaceAncient']" mode="instance">
         <placeName type="ancient"><xsl:apply-templates mode="instance"/></placeName>
