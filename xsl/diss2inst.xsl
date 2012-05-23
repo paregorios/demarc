@@ -29,7 +29,7 @@
         <xsl:variable name="elestart" select=".."/>
         <xsl:variable name="eleend" select="$nextbkmk/.."/><xsl:text>
 </xsl:text>
-        <div type="instance"><xsl:text>
+        <div type="instance" xml:id="{normalize-space(@text:name)}"><xsl:text>
 </xsl:text>
         <idno type="original"><xsl:value-of select="$bkmkstart/@text:name"/></idno><xsl:text>
 </xsl:text>
@@ -89,8 +89,25 @@
         <placeName type="modern"><xsl:apply-templates mode="instance"/></placeName>
     </xsl:template>
     
-    <!-- footnote symbol markup is passed through -->
+    <!-- footnotes -->
     <xsl:template match="text:span[@text:style-name='Footnote_20_Symbol']" mode="instance">
+        <xsl:apply-templates mode="instance"/>
+    </xsl:template>
+    <xsl:template match="text:note" mode="instance">
+        <xsl:element name="note">
+            <xsl:if test="text:note-citation">
+                <xsl:attribute name="n" select="normalize-space(text:note-citation)"/>
+            </xsl:if>
+            <xsl:apply-templates select="text:note-body" mode="instance"/>
+        </xsl:element>        
+    </xsl:template>
+    <xsl:template match="text:note-body" mode="instance">
+        <xsl:apply-templates mode="instance"/>
+    </xsl:template>
+    <xsl:template match="text:p[@text:style-name='Footnote' and count(../text:p) &gt; 1]">
+        <xsl:message>bastages!</xsl:message>
+    </xsl:template>
+    <xsl:template match="text:p[@text:style-name='Footnote' and count(../text:p) = 1]">
         <xsl:apply-templates mode="instance"/>
     </xsl:template>
     
@@ -102,9 +119,6 @@
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="text:note" mode="instance">
-        <note><xsl:apply-templates mode="instance"/></note>
-    </xsl:template>
     
     <!-- suppress bookmarks -->
     <xsl:template match="text:bookmark-start | text:bookmark-end" mode="instance"/>
