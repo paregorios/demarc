@@ -146,6 +146,11 @@
     </xsl:template>
     
     
+    <!-- suppress everything related to document presentation -->
+    <xsl:template match="text:h[@text:style-name='treDocument']" mode="instance"/>
+    <xsl:template match="text:p[@text:style-name='treText']" mode="instance"/>
+    <xsl:template match="text:p[@text:style-name='treTranslation']" mode="instance"/>
+    
     <!-- suppress bookmarks -->
     <xsl:template match="text:bookmark-start | text:bookmark-end" mode="instance"/>
     
