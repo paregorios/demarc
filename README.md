@@ -7,7 +7,9 @@ The following other files may be of interest:
 
 * original-xml/elliottDiss.xml : I opened original-odt/elliottDiss.odt in the OxygenXML editor and exported the content.xml file to this file
 
-* xsl/diss2inst.xsl : an XSLT file whose purpose in life is to extract information about the "instances of boundary demarcation and dispute" that I identified in the dissertation from the elliottDiss.xml and serialize it to a more tractable XML form on the basis of which subsequent work can continue. Possible eventual products include: standalone files (XML:TEI, HTML) for each instance, stable URIs for each instance, RDF for each instance. 
+* xsl/diss2inst.xsl : an XSLT file whose purpose in life is to extract information about the "instances of boundary demarcation and dispute" that I identified in the dissertation from the elliottDiss.xml and serialize it to a more tractable XML form on the basis of which subsequent work can continue. Possible eventual products include: standalone files (XML:TEI, HTML) for each instance, stable URIs for each instance, RDF for each instance.
+
+* [[xml/instances.xml]] : output from running diss2inst.xsl against elliottDiss.xml (i.e., an xmlized list of each "instance" identified in the dissertation, with some amount of markup of the content ... some content hasn't come through successfully yet) 
 
 You may get some further idea of where I think I'm going next by looking at what's in TODO.md.
 
