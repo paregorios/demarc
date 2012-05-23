@@ -82,6 +82,13 @@
         <seg type="term"><xsl:apply-templates mode="instance"/></seg>
     </xsl:template>
     
+    <!-- personal names -->
+    <xsl:template match="text:span[@text:style-name='trePerson']" mode="instance">
+        <persName><xsl:apply-templates mode="instance"/></persName>
+    </xsl:template>
+    
+    
+    
     <!-- placenames -->
     <xsl:template match="text:span[@text:style-name='trePlaceAncient']" mode="instance">
         <placeName type="ancient"><xsl:apply-templates mode="instance"/></placeName>
