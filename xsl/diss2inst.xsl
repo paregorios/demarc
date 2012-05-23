@@ -72,6 +72,11 @@
         <hi rend="bold"><xsl:apply-templates mode="instance"/></hi>
     </xsl:template>
     
+    <!-- foreign -->
+    <xsl:template match="text:span[@text:style-name='T36']" mode="instance">
+        <foreign rend="italic"><xsl:apply-templates mode="instance"/></foreign>
+    </xsl:template>
+    
     <!-- placenames -->
     <xsl:template match="text:span[@text:style-name='trePlaceAncient']" mode="instance">
         <placeName type="ancient"><xsl:apply-templates mode="instance"/></placeName>
