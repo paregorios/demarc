@@ -1,15 +1,15 @@
 demarc
 ======
 
-This repository contains an open-access and slowly refactored and enhanced version of [Tom Elliott's](http://isaw.nyu.edu/people/staff/tom-elliott) 2004 Ph.D. dissertation (Ancient History, Chapel Hill) entitled "Epigraphic Evidence for Boundary Disputes in the Early Roman Empire." The original "dead tree" dissertation was completed under the direction of [Richard J.A. Talbert](http://en.wikipedia.org/wiki/Richard_Talbert). At present, the repository contains the PDF versions of the main content of the dissertation as prepared for final printing and submission, as well as Open Document Text (ODT) format exports of the corresponding Microsoft Word files in which the dissertation was originally created and edited.
+This repository contains an open-access and slowly refactored and enhanced version of [Tom Elliott's](http://isaw.nyu.edu/people/staff/tom-elliott) 2004 Ph.D. dissertation (Ancient History, Chapel Hill) entitled "Epigraphic Evidence for Boundary Disputes in the Early Roman Empire." The original "dead tree" dissertation was completed under the direction of [Richard J.A. Talbert](http://en.wikipedia.org/wiki/Richard_Talbert). At present, the repository contains the [PDF versions of the main content of the dissertation](./blob/master/original-pdf/BoundaryDisputes.pdf) as prepared for final printing and submission, as well as [Open Document Text (ODT) format exports](./tree/master/original-odt/) of the corresponding Microsoft Word files in which the dissertation was originally created and edited.
 
 The following other files may be of interest:
 
-* original-xml/elliottDiss.xml : I opened original-odt/elliottDiss.odt in the OxygenXML editor and exported the content.xml file to this file
+* [original-xml/elliottDiss.xml](./blob/master/original-xml/elliottDiss.xml) : I opened original-odt/elliottDiss.odt in the OxygenXML editor and exported the content.xml file to this file
 
-* xsl/diss2inst.xsl : an XSLT file whose purpose in life is to extract information about the "instances of boundary demarcation and dispute" that I identified in the dissertation from the elliottDiss.xml and serialize it to a more tractable XML form on the basis of which subsequent work can continue. Possible eventual products include: standalone files (XML:TEI, HTML) for each instance, stable URIs for each instance, RDF for each instance.
+* [xsl/diss2inst.xsl](./blob/master/xsl/diss2inst.xsl) : an XSLT file whose purpose in life is to extract information about the "instances of boundary demarcation and dispute" that I identified in the dissertation from the elliottDiss.xml and serialize it to a more tractable XML form on the basis of which subsequent work can continue. Possible eventual products include: standalone files (XML:TEI, HTML) for each instance, stable URIs for each instance, RDF for each instance.
 
-* [xml/instances.xml](./tree/master/xml/instances.xml) : output from running diss2inst.xsl against elliottDiss.xml (i.e., an xmlized list of each "instance" identified in the dissertation, with some amount of markup of the content ... some content hasn't come through successfully yet) 
+* [xml/instances.xml](./blob/master/xml/instances.xml) : output from running diss2inst.xsl against elliottDiss.xml (i.e., an xmlized list of each "instance" identified in the dissertation, with some amount of markup of the content ... some content hasn't come through successfully yet) 
 
 You may get some further idea of where I think I'm going next by looking at what's in TODO.md.
 
