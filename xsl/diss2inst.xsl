@@ -154,6 +154,26 @@
         <bibl><biblScope type="note"><xsl:value-of select="."/></biblScope> (<title type="short">Elliott 2004</title>)</bibl>
     </xsl:template>
     
+    <!-- lists -->
+    <xsl:template match="text:list" mode="instance">
+        <ul><xsl:text>
+</xsl:text>
+            <xsl:apply-templates mode="instance"/>
+        </ul><xsl:text>
+</xsl:text>
+    </xsl:template>
+    <xsl:template match="text:list-item" mode="instance">
+        <xsl:choose>
+            <xsl:when test="text:p">
+                <li><xsl:apply-templates select="text:p/node()" mode="instance"/></li><xsl:text>
+</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                OH CRAP
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
     <!-- any other kind of span element -->
     <xsl:template match="text:span" mode="instance">
         <xsl:element name="seg">
