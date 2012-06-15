@@ -34,7 +34,8 @@
 <http://paregorios.org/demarc/people/tius-pegasus> a foaf:Person ;
         foaf:name "[Plo?]tius Pegasus, [L.?]" ;
         bio:olb "Consul suffectus during the reign of Vespasian. Governor (legate) of Dalmatia under Vespasian." .
-        <http://paregorios.org/demarc/people/acilius-glabrio-m’> a foaf:Person ;
+        
+<http://paregorios.org/demarc/people/acilius-glabrio-m> a foaf:Person ;
         foaf:name "Acilius Glabrio, M’." ;
         bio:olb "As Roman consul (191 BC), he defeated Antiochus III at Thermopylae (triumphed 190 BC) and besieged the Aetolians at Naupactus." .
 
