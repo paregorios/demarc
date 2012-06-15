@@ -1,0 +1,1370 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix bio: <http://vocab.org/bio/0.1/olb/> .     
+        
+<http://paregorios.org/demarc/people/us-pollio> a foaf:Person ,
+
+            foaf:name "[ - - - ]us Pollio" ,
+            bio:olb "Unidentifiable member of Nigrinus’ consilium." .
+        
+        
+    <http://paregorios.org/demarc/people/nus-laco-l> a foaf:Person ,
+
+            foaf:name "[ --- ]nus Laco, L(?)." ,
+            bio:olb "Otherwise unknown centurion(?) of Legio VII, appointed as a iudex in a boundary dispute in Dalmatia by L. Volusius Saturninus." .
+        
+    <http://paregorios.org/demarc/people/s-bassus> a foaf:Person ,
+
+            foaf:name "[ --- ]s Bassus" ,
+            bio:olb "Otherwise unknown governor (imperial legate) of Dalmatia at an uncertain date, possibly first century AD." .
+        
+        
+    <http://paregorios.org/demarc/people/augusti-pro-p> a foaf:Person ,
+
+            foaf:name "[ --- leg(atus)] Aug(usti) pro p[r(aetore)]" ,
+            bio:olb "Otherwise unknown governor (legate) of Dalmatia, possibly during the first century AD." .
+        
+        
+    <http://paregorios.org/demarc/people/ullius-t> a foaf:Person ,
+
+            foaf:name "[ --- Vib]ullius T[ --- ]" ,
+            bio:olb "Otherwise unknown centurion(?) of Legio VII, appointed as a iudex in a boundary dispute in Dalmatia by L. Volusius Saturninus." .
+        
+    <http://paregorios.org/demarc/people/ius-se-minus-p> a foaf:Person ,
+
+            foaf:name "[.]e[..]ius Se[--]minus, P." ,
+            bio:olb "Otherwise unknown centurion who effected a boundary demarcation between the Thabborenses and the Thimisuenses." .
+        
+    <http://paregorios.org/demarc/people/asprenas-c> a foaf:Person ,
+
+            foaf:name "[Nonius] Asprenas C[ --- ]anus, [P.]" ,
+            bio:olb "Individual who settled a boundary dispute in Cilicia, acting either as govenor or as a iudex datus of the governor. He may be identifiable with one of two known Nonii who flourished under Vespasian and Domitian." .
+        
+        
+    <http://paregorios.org/demarc/people/tius-pegasus> a foaf:Person ,
+
+            foaf:name "[Plo?]tius Pegasus, [L.?]" ,
+            bio:olb "Consul suffectus during the reign of Vespasian. Governor (legate) of Dalmatia under Vespasian." .
+        
+        
+    <http://paregorios.org/demarc/people/acilius-glabrio-m’> a foaf:Person ,
+
+            foaf:name "Acilius Glabrio, M’." ,
+            bio:olb "As Roman consul (191 BC), he defeated Antiochus III at Thermopylae (triumphed 190 BC) and besieged the Aetolians at Naupactus." .
+        
+        
+    <http://paregorios.org/demarc/people/acilius-strabo-clodius-nummus-l> a foaf:Person ,
+
+            foaf:name "Acilius Strabo Clodius Nummus, L." ,
+            bio:olb "Imperial legate in command of Legio III Augusta (AD 116)." .
+        
+        
+    <http://paregorios.org/demarc/people/acilius-strabo-l> a foaf:Person ,
+
+            foaf:name "Acilius Strabo, L." ,
+            bio:olb "Special legate of the emperors Claudius and Nero in Cyrene from AD 53-56." .
+        
+        
+    <http://paregorios.org/demarc/people/aebutius-liberalis-q> a foaf:Person ,
+
+            foaf:name "Aebutius Liberalis, Q." ,
+            bio:olb "Some scholars have conjectured that this centurion of Legio XI in Dalmatia is the same “Aebutius Liberalis” to whom Seneca dedicated his de beneficiis, although this association is not assured. This Aebutius Liberalis was a colleague of A. Resius Maximus in completing a boundary demarcation under A. Ducennius Geminus. He also completed another on his own under a legate whose name is lost." .
+        
+        
+    <http://paregorios.org/demarc/people/aelius-caesar-l> a foaf:Person ,
+
+            foaf:name "Aelius Caesar, L." ,
+            bio:olb "Hadrian’s adopted son (summer 136)." .
+        
+        
+    <http://paregorios.org/demarc/people/aelius-modestus-sex> a foaf:Person ,
+
+            foaf:name "Aelius Modestus, Sex." ,
+            bio:olb "Served on the consilium of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+        
+    <http://paregorios.org/demarc/people/aemilius-iuncus-l> a foaf:Person ,
+
+            foaf:name "Aemilius Iuncus, L." ,
+            bio:olb "Following his suffect consulate in AD 127, he served as a special legate (corrector) to the free cities in Greece from AD 132-135." .
+        
+        
+    <http://paregorios.org/demarc/people/ailianos-earinos> a foaf:Person ,
+
+            foaf:name "Ailianos Earinos" ,
+            bio:olb "An otherwise unknown surveyor involved in a boundary demarcation in the late 3rd century." .
+        
+    <http://paregorios.org/demarc/people/anicius-faustus-q> a foaf:Person ,
+
+            foaf:name "Anicius Faustus, Q." ,
+            bio:olb "Imperial legate in command of Legio III Augusta from at least AD 197 to AD 201" .
+        
+        
+    <http://paregorios.org/demarc/people/annius-maximus-q> a foaf:Person ,
+
+            foaf:name "Annius Maximus, Q." ,
+            bio:olb "Proconsul of Macedonia in AD 114." .
+        
+        
+    <http://paregorios.org/demarc/people/anternius-an-ninus> a foaf:Person ,
+
+            foaf:name "Anternius An[to]ninus (or Au[to]ninus)" ,
+            bio:olb "Tribunus cohors I Cilicum in Moseia Inferior between AD 176-179." .
+        
+        
+    <http://paregorios.org/demarc/people/antistius-rusticus-l> a foaf:Person ,
+
+            foaf:name "Antistius Rusticus, L." ,
+            bio:olb "Proconsul of Baetica in AD 84." .
+        
+        
+    <http://paregorios.org/demarc/people/antius-a-iulius-quadratus-c> a foaf:Person ,
+
+            foaf:name "Antius A. Iulius Quadratus, C." ,
+            bio:olb "Governor (imperial legate) of Syria in AD 102." .
+        
+        
+    <http://paregorios.org/demarc/people/antius-rufinus-m> a foaf:Person ,
+
+            foaf:name "Antius Rufinus, M(?)." ,
+            bio:olb "An otherwise unknown individual who placed boundaries between the Moesoi and Thrakoi on the authority of the emperor Hadrian. He was not acting as governor of the province, but was probably on a special mission for this purpose." .
+        
+        
+    <http://paregorios.org/demarc/people/antoninus-pius-emperor> a foaf:Person ,
+
+            foaf:name "Antoninus Pius (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Antoninus_Pius> .
+        
+    <http://paregorios.org/demarc/people/antonius-naso-l> a foaf:Person ,
+
+            foaf:name "Antonius Naso, L." ,
+            bio:olb "A centurion and favorite of Nero, who rose to the rank of tribunus praetorianorum under Galba, Naso is known to have served as procurator of Pontus et Bithynia during at least the year AD 78. Some scholars think that he was the L. Antonius who seems to have settled a boundary between Thasos and Philippi, probably under the Flavians, (but others suggest an alternative identification: L. Antonius Saturninus). The choice of Naso has led some to list him as the proconsul of Macedonia under Vespasian; however, Papazoglou argues strenuously that the Antonius who settled the dispute – whatever his identity – was was a special legate of Vespasian." .
+        
+        
+    <http://paregorios.org/demarc/people/antonius-saturninus-l> a foaf:Person ,
+
+            foaf:name "Antonius Saturninus, L." ,
+            bio:olb "Adlected to the senate by Vespasian, Saturninus was possibly propraetorian imperial legate of Iudaea between AD 78 and 81, then probably suffect consul in AD 82, and ultimately rebelled against Domitian in AD 89 as legate in Germania Superior. Some scholars identify him as the L. Antonius who seems to have settled a boundary between Thasos and Philippi, probably under the Flavians, but see also L. Antoninus Naso." .
+        
+        
+    <http://paregorios.org/demarc/people/appius-claudius-iulianus> a foaf:Person ,
+
+            foaf:name "Appius Claudius Iulianus" ,
+            bio:olb "Proconsul of Africa under Caracalla or Elagabalus." .
+        
+        
+    <http://paregorios.org/demarc/people/appuleius-sex> a foaf:Person ,
+
+            foaf:name "Appuleius, Sex." ,
+            bio:olb "Proconsul of Asia, ca. 23-21 BC." .
+        
+        
+    <http://paregorios.org/demarc/people/arinius-modestus-c> a foaf:Person ,
+
+            foaf:name "Arinius Modestus, C." ,
+            bio:olb "Proconsul of Creta et Cyrenae under Vespasian, possibly AD 73-75." .
+        
+        
+    <http://paregorios.org/demarc/people/aristoboulos> a foaf:Person ,
+
+            foaf:name "Aristoboulos" ,
+            bio:olb "Brother of M. Iulius Agrippa I." .
+        
+        
+    <http://paregorios.org/demarc/people/arruntius-aquila-m> a foaf:Person ,
+
+            foaf:name "Arruntius Aquila, M." ,
+            bio:olb "Suffect consul AD 77." .
+        
+        
+    <http://paregorios.org/demarc/people/arruntius-camillus-scribonianus-l> a foaf:Person ,
+
+            foaf:name "Arruntius Camillus Scribonianus, L." ,
+            bio:olb "Governor (imperial legate) of Dalmatia between AD 40 and 42." .
+        
+        
+    <http://paregorios.org/demarc/people/arruntius-flamma> a foaf:Person ,
+
+            foaf:name "Arruntius Flamma" ,
+            bio:olb "An otherwise unknown prefect (ἔπαρχος) cited in a letter of Flavius Sabinus to the city of Histria." .
+        
+    <http://paregorios.org/demarc/people/articuleius-paetus-q> a foaf:Person ,
+
+            foaf:name "Articuleius Paetus, Q." ,
+            bio:olb "Consul ordinarius together with the emperor Trajan in AD 101" .
+        
+        
+    <http://paregorios.org/demarc/people/articuleius-regulus-q> a foaf:Person ,
+
+            foaf:name "Articuleius Regulus, Q." ,
+            bio:olb "Praetorian legate of Augustus in Lusitania between 2 BC and AD 14" .
+        
+        
+    <http://paregorios.org/demarc/people/asiaticus> a foaf:Person ,
+
+            foaf:name "Asiaticus" ,
+            bio:olb "An otherwise unknown prefect (ἔπαρχος) cited in a letter of Flavius Sabinus to the city of Histria (Text 16.3)." .
+        
+    <http://paregorios.org/demarc/people/asinius-gallus-c> a foaf:Person ,
+
+            foaf:name "Asinius Gallus, C." ,
+            bio:olb "Proconsul of Asia in 6-5 BC." .
+        
+        
+    <http://paregorios.org/demarc/people/atidius-geminus> a foaf:Person ,
+
+            foaf:name "Atidius Geminus" ,
+            bio:olb "Governor of Achaia under Augustus or Tiberius, prior to AD 25. Attested only by our Text 10.1. He was probably a proconsul, and so served prior to AD 15 when the province was transferred from senatorial governance (Tacitus frequently uses the word praetor to mean proconsul, see Martin 1989, 139 sub ‘praetoris’)." .
+        
+        
+    <http://paregorios.org/demarc/people/atilius-sabinus-t> a foaf:Person ,
+
+            foaf:name "Atilius Sabinus, T." ,
+            bio:olb "Styled quaestor pro praetore, in AD 69 he served on the consilium of L. Helvius Agrippa. Otherwise unknown." .
+        
+        
+    <http://paregorios.org/demarc/people/atrius-clonius-q> a foaf:Person ,
+
+            foaf:name "Atrius Clonius, Q." ,
+            bio:olb "Governor (imperial legate) of Thracia, AD 211-217" .
+        
+        
+    <http://paregorios.org/demarc/people/auf-gallus> a foaf:Person ,
+
+            foaf:name "Auf[idius] Gallus" ,
+            bio:olb "Otherwise unknown governor (imperial legate) of Dalmatia in AD 179. His name may perhaps have been Aur[elius] Gallus." .
+        
+        
+    <http://paregorios.org/demarc/people/augustus-emperor> a foaf:Person ,
+
+            foaf:name "Augustus (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Augustus> .
+        
+    <http://paregorios.org/demarc/people/aurelius-fulvus-t> a foaf:Person ,
+
+            foaf:name "Aurelius Fulvus, T." ,
+            bio:olb "Governor (imperial legate) of Hispania Tarraconensis under Vespasian, possibly AD 75-78." .
+        
+        
+    <http://paregorios.org/demarc/people/aurelius-gallus> a foaf:Person ,
+
+            foaf:name "Aurelius Gallus" ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown. Thought to be an ancestor of later known Aurelii Galli (see PIR2 A1515-1517)." .
+        
+    <http://paregorios.org/demarc/people/avidius-nigrinus-c> a foaf:Person ,
+
+            foaf:name "Avidius Nigrinus, C." ,
+            bio:olb "Propraetorian imperial legate operating in Achaia, probably under Trajan." .
+        
+        
+    <http://paregorios.org/demarc/people/avidius-quietus-t> a foaf:Person ,
+
+            foaf:name "Avidius Quietus, T." ,
+            bio:olb "Proconsul of Asia AD 125-126." .
+        
+        
+    <http://paregorios.org/demarc/people/avilius-clemens-c> a foaf:Person ,
+
+            foaf:name "Avilius Clemens, C." ,
+            bio:olb "Otherwise unknown individual appointed as a iudex in a boundary dispute in Dalmatia by M. Pompeius Silvanus." .
+        
+    <http://paregorios.org/demarc/people/axius-aelianus-q> a foaf:Person ,
+
+            foaf:name "Axius Aelianus, Q." ,
+            bio:olb "vir egregius and imperial procurator of the ratio privata in the province of Mauretania Caesariensis under Severus Alexander." .
+        
+        
+    <http://paregorios.org/demarc/people/baebius-tullus-l> a foaf:Person ,
+
+            foaf:name "Baebius Tullus, L." ,
+            bio:olb "Proconsul of Asia in AD 110." .
+        
+        
+    <http://paregorios.org/demarc/people/blesius-taurinus> a foaf:Person ,
+
+            foaf:name "Blesius Taurinus" ,
+            bio:olb "A soldier (and surveyor) assigned to cohors VI of the praetorian guard on the testimony of an epigraphic text preserved only in the corpus agrimensorum. I have not been able to identify him otherwise." .
+        
+    <http://paregorios.org/demarc/people/blossius-nepos-m> a foaf:Person ,
+
+            foaf:name "Blossius Nepos, M." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/bruttius-praesens-c> a foaf:Person ,
+
+            foaf:name "Bruttius Praesens, C." ,
+            bio:olb "Consul AD 153." .
+        
+        
+    <http://paregorios.org/demarc/people/caecilius-metellus-creticus-silanus-q> a foaf:Person ,
+
+            foaf:name "Caecilius Metellus Creticus Silanus, Q." ,
+            bio:olb "Governor (imperial legate) of Syria, ca. AD 13-17." .
+        
+        
+    <http://paregorios.org/demarc/people/caecilius-simplex-cn> a foaf:Person ,
+
+            foaf:name "Caecilius Simplex, Cn." ,
+            bio:olb "Proconsul of Sardinia in AD 67/68; the first proconsul after Nero discontinued the use of procurators as governors and returned the province to the Senate." .
+        
+        
+    <http://paregorios.org/demarc/people/caelius-martialis> a foaf:Person ,
+
+            foaf:name "Caelius Martialis" ,
+            bio:olb "Otherwise unknown surveyor." .
+        
+    <http://paregorios.org/demarc/people/caelius-niger> a foaf:Person ,
+
+            foaf:name "Caelius Niger" ,
+            bio:olb "Otherwise unknown individual who provided access to official documents stemming from the resolution of a boundary dispute between Doliche and Elimeia in AD 101." .
+        
+    <http://paregorios.org/demarc/people/caligula-emperor> a foaf:Person ,
+
+            foaf:name "Caligula (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Caligula> .
+        
+    <http://paregorios.org/demarc/people/calpurnius-longus-m> a foaf:Person ,
+
+            foaf:name "Calpurnius Longus, M." ,
+            bio:olb "Proconsul of Achaia, possibly under Hadrian. He may be identifiable with L. Marcius Celer M. Calpurnius Longus (PIR2 M0221)." .
+        
+        
+    <http://paregorios.org/demarc/people/calpurnius-piso-l> a foaf:Person ,
+
+            foaf:name "Calpurnius Piso, L." ,
+            bio:olb "Governor (imperial legate) of Dalmatia during the early years of Claudius’ reign." .
+        
+        
+    <http://paregorios.org/demarc/people/caracalla-emperor> a foaf:Person ,
+
+            foaf:name "Caracalla (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Caracalla> .
+        
+    <http://paregorios.org/demarc/people/cassi-longinus> a foaf:Person ,
+
+            foaf:name "Cassi[us] Longinus" ,
+            bio:olb "Appears to have been governor (probably proconsul) of Achaia or a special legate of the emperor sometime prior to the activity of Avidius Nigrinus. He is not yet securely attested by other evidence. The Longinus mentioned in the Nigrinus dossier has sometimes been identified instead with the famous jurist (under Claudius and Nero), L. Cassius Longinus (PIR2 C501), although this opinion is not shared by all scholars." .
+        
+        
+    <http://paregorios.org/demarc/people/cassius-dio-l> a foaf:Person ,
+
+            foaf:name "Cassius Dio, (L.?)" ,
+            bio:olb "Consul II (ordinarius) in AD 229. The historian." .
+        
+        
+    <http://paregorios.org/demarc/people/cassius-maximus> a foaf:Person ,
+
+            foaf:name "Cassius Maximus" ,
+            bio:olb "Proconsul of Achaia, AD 116/117." .
+        
+        
+    <http://paregorios.org/demarc/people/cassius-secundus-p> a foaf:Person ,
+
+            foaf:name "Cassius Secundus, P." ,
+            bio:olb "Imperial legate in command of Legio III Augusta in AD 138" .
+        
+        
+    <http://paregorios.org/demarc/people/charagonius-philopalaestrus> a foaf:Person ,
+
+            foaf:name "Charagonius Philopalaestrus" ,
+            bio:olb "Otherwise unknown individual identified as the conductor publicus portori ripae Thraciae in a verdict delivered by M’ Laberius Maximus in a dispute between Philopalaestrus and the city of Histria." .
+        
+    <http://paregorios.org/demarc/people/claudianus-artemidorus> a foaf:Person ,
+
+            foaf:name "Claudianus Artemidorus" ,
+            bio:olb "Unidentifiable landowner in the area of Philippi during the reign of Trajan." .
+        
+    <http://paregorios.org/demarc/people/claudius-emperor> a foaf:Person ,
+
+            foaf:name "Claudius (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Claudius> .
+        
+    <http://paregorios.org/demarc/people/claudius-censorinus> a foaf:Person ,
+
+            foaf:name "Claudius Censorinus" ,
+            bio:olb "Imperial procurator in the province of Thracia in AD 184-185." .
+        
+        
+    <http://paregorios.org/demarc/people/claudius-clemens> a foaf:Person ,
+
+            foaf:name "Claudius Clemens" ,
+            bio:olb "Imperial procurator in Corsica under Vespasian, ca. AD 77." .
+        
+        
+    <http://paregorios.org/demarc/people/claudius-l-ti> a foaf:Person ,
+
+            foaf:name "Claudius L[---], Ti." ,
+            bio:olb "Otherwise unknown individual appointed as a iudex in a boundary dispute in Dalmatia by M. Pompeius Silvanus." .
+        
+    <http://paregorios.org/demarc/people/claudius-philippus-m> a foaf:Person ,
+
+            foaf:name "Claudius Philippus, M." ,
+            bio:olb "Otherwise unknown individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41)." .
+        
+    <http://paregorios.org/demarc/people/claudius-timocrates> a foaf:Person ,
+
+            foaf:name "Claudius Timocrates" ,
+            bio:olb "Otherwise unknown individual tasked by the emperor Hadrian to collect documents relevant to a dispute between the Delphians and the Thessalians about a harbor." .
+        
+    <http://paregorios.org/demarc/people/clodius-capito-aurelianus-p> a foaf:Person ,
+
+            foaf:name "Clodius Capito Aurelianus, P." ,
+            bio:olb "Proconsul of Macedonia at an uncertain date, possibly under Trajan or Hadrian." .
+        
+        
+    <http://paregorios.org/demarc/people/clodius-celsus> a foaf:Person ,
+
+            foaf:name "Clodius Celsus" ,
+            bio:olb "An otherwise unknown legate who assisted the proconsul of Asia in implementing a demarcation of the sacred lands of Artemis at Ephesus in accordance with an edict of the emperor Domitian sometime between AD 84 and 87." .
+        
+    <http://paregorios.org/demarc/people/clodius-granianus> a foaf:Person ,
+
+            foaf:name "Clodius Granianus" ,
+            bio:olb "Proconsul of Achaia, AD 118/119." .
+        
+        
+    <http://paregorios.org/demarc/people/cocceius-genialis-l> a foaf:Person ,
+
+            foaf:name "Cocceius Genialis, L." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/coelius-capella-l> a foaf:Person ,
+
+            foaf:name "Coelius Capella, L." ,
+            bio:olb "Otherwise unknown individual appointed as a iudex in a boundary dispute in Dalmatia by M. Pompeius Silvanus." .
+        
+    <http://paregorios.org/demarc/people/coelius-m> a foaf:Person ,
+
+            foaf:name "Coelius, M." ,
+            bio:olb "Otherwise unknown centurion(?) of Legio VII, appointed as a iudex in a boundary dispute in Dalmatia by L. Arruntius Camillus Scribonianus." .
+        
+    <http://paregorios.org/demarc/people/commodus-emperor> a foaf:Person ,
+
+            foaf:name "Commodus (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Commodus> .
+        
+    <http://paregorios.org/demarc/people/constantius-i-chlorus-emperor> a foaf:Person ,
+
+            foaf:name "Constantius I Chlorus (emperor)" ,
+            bio:olb "Reigned AD 293-306. Possibly praeses of Dalmatia at an uncertain date prior to AD 288 if the document included here is considered genuine." 
+            owl:sameAs <http://dbpedia.org/resource/Constantius_Chlorus> .
+        
+        
+    <http://paregorios.org/demarc/people/cordius-clemens-q> a foaf:Person ,
+
+            foaf:name "Cordius Clemens, Q." ,
+            bio:olb "Otherwise unknown individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41)." .
+        
+    <http://paregorios.org/demarc/people/cordus-felix-c> a foaf:Person ,
+
+            foaf:name "Cordus Felix, C." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/cornelius-balbus-l> a foaf:Person ,
+
+            foaf:name "Cornelius Balbus, L." ,
+            bio:olb "Proconsul of Africa, 21-20 BC." .
+        
+        
+    <http://paregorios.org/demarc/people/cornelius-dolabella-p> a foaf:Person ,
+
+            foaf:name "Cornelius Dolabella, P." ,
+            bio:olb "Governor (imperial legate) of Dalmatia sometime between AD 14 and 20." .
+        
+        
+    <http://paregorios.org/demarc/people/cuspius-fadus-c> a foaf:Person ,
+
+            foaf:name "Cuspius Fadus, C." ,
+            bio:olb "Procuratorial governor of Iudaea, AD 44-46" .
+        
+        
+    <http://paregorios.org/demarc/people/domitian-emperor> a foaf:Person ,
+
+            foaf:name "Domitian (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Domitian> .
+        
+    <http://paregorios.org/demarc/people/domitius-vitalis-m> a foaf:Person ,
+
+            foaf:name "Domitius Vitalis, M." ,
+            bio:olb "Served on the consilium of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/ducenius-geminus-aulus> a foaf:Person ,
+
+            foaf:name "Ducenius Geminus, Aulus" ,
+            bio:olb "Governor (imperial legate) of Dalmatia between AD 62 and 68." .
+        
+        
+    <http://paregorios.org/demarc/people/egnatius-fuscus-cn> a foaf:Person ,
+
+            foaf:name "Egnatius Fuscus, Cn." ,
+            bio:olb "Scriba quaestorius at an unknown date and location (after AD 69), attested only in 22.1" .
+        
+    <http://paregorios.org/demarc/people/elagabalus-emperor> a foaf:Person ,
+
+            foaf:name "Elagabalus (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Elagabalus> .
+        
+    <http://paregorios.org/demarc/people/eppius-q> a foaf:Person ,
+
+            foaf:name "Eppius, Q." ,
+            bio:olb "Otherwise unknown individual who served as a member of Nigrinus’ consilium. His full name may have been Q. Eppius Fl(avius) Arrianus." .
+        
+        
+    <http://paregorios.org/demarc/people/fabius-pompeianus> a foaf:Person ,
+
+            foaf:name "Fabius Pompeianus" ,
+            bio:olb "An individual who provided a copy of a verdict delivered by the governor of Moesia Inferior, M’. Laberius Maximus. Some scholars have sought to equate him (assuming a misspelling) with Q. Fabius Postumius (PIR2 F54 = Thomasson 1984 20:67), Maximus’ successor as governor (see PIR2 F52a). On the other hand, he may have been a scribe or similar functionary on Maximus’ staff or at an archive in Rome." .
+        
+    <http://paregorios.org/demarc/people/fabius-postuminus-q> a foaf:Person ,
+
+            foaf:name "Fabius Postuminus, Q." ,
+            bio:olb "Proconsul of Asia, AD 111/112." .
+        
+        
+    <http://paregorios.org/demarc/people/flavius-arrianus-l> a foaf:Person ,
+
+            foaf:name "Flavius Arrianus, L." ,
+            bio:olb "The famous historian and philosopher from Bithynia (c. AD 86-160). He may have served as a member of Nigrinus’ consilium." .
+        
+        
+    <http://paregorios.org/demarc/people/flavius-eubulus-t> a foaf:Person ,
+
+            foaf:name "Flavius Eubulus, T." ,
+            bio:olb "An otherwise unknown individual who delivered a verdict on a dispute between the city of Daulis and a private party." .
+        
+    <http://paregorios.org/demarc/people/flavius-monomitus-t> a foaf:Person ,
+
+            foaf:name "Flavius Monomitus, T." ,
+            bio:olb "Otherwise unknown imperial freedman and surveyor." .
+        
+    <http://paregorios.org/demarc/people/flavius-sabinus-t> a foaf:Person ,
+
+            foaf:name "Flavius Sabinus, (T.)" ,
+            bio:olb "Governor (imperial legate) of Moesia c. AD 53-60 (he served in this position for seven years, on the testimony of Tac. Hist 3.75)." .
+        
+        
+    <http://paregorios.org/demarc/people/flavius-skeles> a foaf:Person ,
+
+            foaf:name "Flavius Skeles" ,
+            bio:olb "Judge and boundary setter appointed by the governor of Thrace, C. Iulius Commodus, to emplace boundary markers. I cannot identify him elsewhere." .
+        
+    <http://paregorios.org/demarc/people/gargilius-goddeus> a foaf:Person ,
+
+            foaf:name "Gargilius Goddeus" ,
+            bio:olb "decurion" .
+        
+    <http://paregorios.org/demarc/people/gellius-sentius-augurinus-q> a foaf:Person ,
+
+            foaf:name "Gellius Sentius Augurinus, Q." ,
+            bio:olb "Proconsul of Achaia or Macedonia sometime under Hadrian." .
+        
+        
+    <http://paregorios.org/demarc/people/gennius-felix-m> a foaf:Person ,
+
+            foaf:name "Gennius Felix, M." ,
+            bio:olb "An evocatus (probably a surveyor) assigned to Legio III Augusta in the late first century. I have not be able to identify him elsewhere." .
+        
+    <http://paregorios.org/demarc/people/geta-emperor> a foaf:Person ,
+
+            foaf:name "Geta (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Publius_Septimius_Geta> .
+        
+    <http://paregorios.org/demarc/people/hadrian-emperor> a foaf:Person ,
+
+            foaf:name "Hadrian (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Hadrian> .
+        
+    <http://paregorios.org/demarc/people/helvidius-priscus-c> a foaf:Person ,
+
+            foaf:name "Helvidius Priscus, C." ,
+            bio:olb "Praetor AD 70, whose activities in Rome are well-documented by Tacitus. Probably the Helvidius serving as arbiter between Histonium and a private estate (although the arbiter may have been his son, PIR2 H60)." .
+        
+        
+    <http://paregorios.org/demarc/people/helvius-agrippa-l> a foaf:Person ,
+
+            foaf:name "Helvius Agrippa, L." ,
+            bio:olb "Proconsul of Sardinia in AD 68/69" .
+        
+        
+    <http://paregorios.org/demarc/people/iucundius-peregrinus> a foaf:Person ,
+
+            foaf:name "Iucund(i)us Peregrinus" ,
+            bio:olb "Governor (praeses) of Mauretania Sitifensis, probably between AD 340 and 350" .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-[plancius-varus]-cornutus-tertullus-c> a foaf:Person ,
+
+            foaf:name "Iulius [Plancius Varus?] Cornutus Tertullus, C." ,
+            bio:olb "Proconsul of Africa AD 116-117 or 117-118." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-agrippa-i-m> a foaf:Person ,
+
+            foaf:name "Iulius Agrippa I, M." ,
+            bio:olb "Future king of Iudaea." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-catullinus-l> a foaf:Person ,
+
+            foaf:name "Iulius Catullinus, L." ,
+            bio:olb "Otherwise unknown individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41)." .
+        
+    <http://paregorios.org/demarc/people/iulius-commodus-orfitianus-c> a foaf:Person ,
+
+            foaf:name "Iulius Commodus Orfitianus, C." ,
+            bio:olb "Governor (imperial legate) of Thracia in AD 155." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-cordinus-caius-rutilius-gallicus-q> a foaf:Person ,
+
+            foaf:name "Iulius Cordinus Caius Rutilius Gallicus, Q." ,
+            bio:olb "Special imperial legate in the province of Africa, AD 74. There is significant scholarly debate as to his role: a special mission (likely a census), or a provincial governorship in lieu of a proconsul in order to reorganize the province. See cited literature for details. The provincial fasti are far from complete: the nearest attested proconsuls served in the years AD 72-73 and AD 77-78." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-dionysius> a foaf:Person ,
+
+            foaf:name "Iulius Dionysius" ,
+        
+    <http://paregorios.org/demarc/people/iulius-erucius-clarus-vibianus-c> a foaf:Person ,
+
+            foaf:name "Iulius Erucius Clarus Vibianus, C." ,
+            bio:olb "Consul ordinarius AD 193." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-ferox-primus-pilus> a foaf:Person ,
+
+            foaf:name "Iulius Ferox (primus pilus)" ,
+            bio:olb "Otherwise unknown solider of Legio XI Claudia, who placed boundary markers on the order of the governor of Moesia Inferior between AD 161 and 164." .
+        
+    <http://paregorios.org/demarc/people/iulius-frontinus-sex> a foaf:Person ,
+
+            foaf:name "Iulius Frontinus, Sex." ,
+            bio:olb "Proconsul of Asia between AD 84 and 87." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-frugi-ti> a foaf:Person ,
+
+            foaf:name "Iulius Frugi, Ti." ,
+            bio:olb "Proconsul of the province of Lycia et Pamphylia between AD 161-166." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-iulianus> a foaf:Person ,
+
+            foaf:name "Iulius Iulianus" ,
+            bio:olb "Otherwise unknown procurator, serving as governor of the province of Phrygia et Caria, probably between AD 253-260 or AD 282 - 284." .
+        
+    <http://paregorios.org/demarc/people/iulius-planta> a foaf:Person ,
+
+            foaf:name "Iulius Planta" ,
+            bio:olb "An amicus of the emperor Claudius, sent to investigate a dispute, otherwise unknown." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-proculus-c> a foaf:Person ,
+
+            foaf:name "Iulius Proculus, C." ,
+            bio:olb "Suffect consul of AD 109, he delivered a verdict as iudex in a boundary dispute." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-regillus> a foaf:Person ,
+
+            foaf:name "Iulius Regillus" ,
+            bio:olb "Otherwise unattested individual involved in a land dispute with the city of Aunobari, sometime after AD 117." .
+        
+    <http://paregorios.org/demarc/people/iulius-romulus-m> a foaf:Person ,
+
+            foaf:name "Iulius Romulus, M." ,
+            bio:olb "Styled legatus pro praetore (provinciae Sardiniae?) in AD 69, he served in the consilium of the proconsul of Sardinia, L. Helvius Agrippa." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-severus-c> a foaf:Person ,
+
+            foaf:name "Iulius Severus, C." ,
+            bio:olb "See discussion at Instance 91." .
+        
+        
+    <http://paregorios.org/demarc/people/iulius-victor> a foaf:Person ,
+
+            foaf:name "Iulius Victor" ,
+            bio:olb "Otherwise unknown evocatus and surveyor." .
+        
+    <http://paregorios.org/demarc/people/iulius-vitalis> a foaf:Person ,
+
+            foaf:name "Iulius Vitalis" ,
+            bio:olb "Otherwise unknown centurion who placed boundary markers in Moesia Inferior in AD 229." .
+        
+    <http://paregorios.org/demarc/people/iunius-rufinus-a> a foaf:Person ,
+
+            foaf:name "Iunius Rufinus, A." ,
+            bio:olb "Consul AD 153" .
+        
+        
+    <http://paregorios.org/demarc/people/iunius-silanus-m> a foaf:Person ,
+
+            foaf:name "Iunius Silanus, M." ,
+            bio:olb "Consul ordinarius in AD 46 for the whole year." .
+        
+        
+    <http://paregorios.org/demarc/people/iuventius-rixa-m> a foaf:Person ,
+
+            foaf:name "Iuventius Rixa, M." ,
+            bio:olb "procurator (ducenarius) Augusti (provinciae Sardiniae) ca. AD 67. Probably the last procuratorial governor of Sardinia prior to Nero’s decision to turn the province back to the Senate and permit its governance by proconsuls." .
+        
+        
+    <http://paregorios.org/demarc/people/kallistratos-son-of-demetrios> a foaf:Person ,
+
+            foaf:name "Kallistratos son of Demetrios" ,
+            bio:olb "Otherwise unknown representative of the city of Histria cited in a letter of the governor T. Plautius Silvanus Aelianus (Text 16.5)." .
+        
+    <http://paregorios.org/demarc/people/laberius-maximus-manius> a foaf:Person ,
+
+            foaf:name "Laberius Maximus, Manius" ,
+            bio:olb "Governor (imperial legate) of Moesia Inferior in AD 100." .
+        
+        
+    <http://paregorios.org/demarc/people/lartidius-sex> a foaf:Person ,
+
+            foaf:name "Lartidius, Sex." ,
+            bio:olb "Known only from the bilingual inscriptions recording the erection of a wall for the temple of Diana and an Augusteum in Ephesus, he was a legate of C. Asinius Gallus in Asia in 6-5 BC." .
+        
+        
+    <http://paregorios.org/demarc/people/licinius-secundus-p> a foaf:Person ,
+
+            foaf:name "Licinius Secundus, P." ,
+            bio:olb "Otherwise unknown imperial procurator, active on the island of Crete during the reign of Nero." .
+        
+        
+    <http://paregorios.org/demarc/people/liv-t> a foaf:Person ,
+
+            foaf:name "Liv[ - - - ?], T." ,
+            bio:olb "Member of Nigrinus’ consilium. His name is variously restored as T. Liv[ius] or T. Liv[ienus], but he cannot be securely identified." .
+        
+        
+    <http://paregorios.org/demarc/people/lucretius-clemens-p> a foaf:Person ,
+
+            foaf:name "Lucretius Clemens, P." ,
+            bio:olb "Served on the consilium of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+        
+    <http://paregorios.org/demarc/people/lusius-fidus-m> a foaf:Person ,
+
+            foaf:name "Lusius Fidus, M." ,
+            bio:olb "Served on the consilium of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+        
+    <http://paregorios.org/demarc/people/lutatius-sabinus-m> a foaf:Person ,
+
+            foaf:name "Lutatius Sabinus, M." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/manilius-caecilianus> a foaf:Person ,
+
+            foaf:name "Manilius Caecilianus" ,
+            bio:olb "A cornicularius of an unknown prefect, active in Numidia in the late first century AD. I have not been able to identify him elsewhere." .
+        
+    <http://paregorios.org/demarc/people/mantennius-sabinus-l> a foaf:Person ,
+
+            foaf:name "Mantennius Sabinus, L." ,
+            bio:olb "Governor (imperial legate) of Moesia Inferior, AD 227-229." .
+        
+        
+    <http://paregorios.org/demarc/people/marcellus-proconsul> a foaf:Person ,
+
+            foaf:name "Marcellus (proconsul)" ,
+            bio:olb "Proconsul of Africa sometime after C. Iulius Cornutus Tertullus (after AD 117)." .
+        
+        
+    <http://paregorios.org/demarc/people/marcus-aurelius-emperor> a foaf:Person ,
+
+            foaf:name "Marcus Aurelius (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Marcus_Aurelius> .
+        
+    <http://paregorios.org/demarc/people/marius-maternus-c> a foaf:Person ,
+
+            foaf:name "Marius Maternus, C." ,
+            bio:olb "Otherwise unknown centurion of Legio VII Claudia Pia Fidelis who carried out a review and restoration of boundaries under L. Calpurnius Piso in Dalmatia." .
+        
+    <http://paregorios.org/demarc/people/marius-perpetuus-l> a foaf:Person ,
+
+            foaf:name "Marius Perpetuus, L." ,
+            bio:olb "An individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41). He is further described thereon as scriba quaestorius and, although he does not seem to have merited his own entry in PIR2, he is thought to have been the father of L. Marius Perpetuus, L. filius (PIR2 M313). The younger Perpetuus’ equestrian career under the emperor Marcus Aurelius is well-documented and included numerous procuratorial posts and a minor pontificate." .
+        
+    <http://paregorios.org/demarc/people/martialis-libertus-augusti> a foaf:Person ,
+
+            foaf:name "Martialis libertus Augusti" ,
+            bio:olb "Unidentifiable imperial freedman, possibly a surveyor." .
+        
+    <http://paregorios.org/demarc/people/martius-verus-p> a foaf:Person ,
+
+            foaf:name "Martius Verus, P." ,
+            bio:olb "Consul ordinarius (a second time) together with Commodus in AD 179." .
+        
+        
+    <http://paregorios.org/demarc/people/maturus-procurator-augusti> a foaf:Person ,
+
+            foaf:name "Maturus procurator Augusti" ,
+            bio:olb "An imperial procurator named in a Flavian-era curse tablet from Hispania Tarraconensis. He cannot be identified." .
+        
+        
+    <http://paregorios.org/demarc/people/maximius-attianus> a foaf:Person ,
+
+            foaf:name "Maximius Attianus" ,
+            bio:olb "A senator, known to have served as governor (imperial legate) of Germania Superior in AD229. Christol 1998 provisionally identifies him as a quaestor (Maxi[mius Atti]anus q(uaestor) pr(o) pr(aetore))in the province of Asia who was involved in an authoritative demarcation there." .
+        
+        
+    <http://paregorios.org/demarc/people/meidias-son-of-artemidoros> a foaf:Person ,
+
+            foaf:name "Meidias son of Artemidoros" ,
+            bio:olb "Otherwise unknown representative of the city of Histria cited in a letter of the governor T. Plautius Silvanus Aelianus (Text 16.5)." .
+        
+    <http://paregorios.org/demarc/people/memmios-son-of-antiochos> a foaf:Person ,
+
+            foaf:name "Memmios, son of Antiochos" ,
+            bio:olb "A private individual involved in a dispute with the city of Daulis during the reign of the emperor Hadrian." .
+        
+    <http://paregorios.org/demarc/people/messia-pudentilla> a foaf:Person ,
+
+            foaf:name "Messia Pudentilla" ,
+            bio:olb "Otherwise unknown landowner in Moesia Inferior in the late first century AD." .
+        
+    <http://paregorios.org/demarc/people/messius-campanus-p> a foaf:Person ,
+
+            foaf:name "Messius Campanus, P." ,
+            bio:olb "Otherwise unknown procurator of Domitian in Crete in AD 84." .
+        
+        
+    <http://paregorios.org/demarc/people/mestrios-aristonymos> a foaf:Person ,
+
+            foaf:name "Mestrios Aristonymos" ,
+            bio:olb "An individual who was evidently given to Thisbe and Coronea as a judge in a boundary dispute under the emperor Hadrian. Apparently otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/metellus-m> a foaf:Person ,
+
+            foaf:name "Metellus, M." ,
+            bio:olb "Possibly a mensor or Roman official who, prior to the legal battles chronicled in 22.1, prepared or authorized a bronze map depicting the boundaries of the territory of the Patulcenses in Sardinia. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/minicius-natalis-l> a foaf:Person ,
+
+            foaf:name "Minicius Natalis, L." ,
+            bio:olb "Legate in the province of Africa on the staff of his father (not later than AD 100); imperial legate in command of Legio III Augusta (AD 105); proconsul of Africa (AD 121)." .
+        
+        
+    <http://paregorios.org/demarc/people/mucius-publicus-verus-p> a foaf:Person ,
+
+            foaf:name "Mucius Publicus Verus, P." ,
+            bio:olb "Known otherwise as an equestrian in military service, Verus carried out a demarcation of the fields of the Bendiparoi somewhere near the border of Thracia and Moesia Inferior. His office is not indicated on the boundary markers, but an honorific inscription from Albingaunum (mod. Albegna in Italy) indicates that he served as censitor provinciae Thraciae at an uncertain date (Pflaum posited AD 212-217), and it is often argued that this boundary demarcation was carried out in that capacity." .
+        
+        
+    <http://paregorios.org/demarc/people/munatius-gallus-l> a foaf:Person ,
+
+            foaf:name "Munatius Gallus, L." ,
+            bio:olb "Imperial legate in command of Legio II Augusta (AD 100-102)." .
+        
+        
+    <http://paregorios.org/demarc/people/neratius-bassus-l> a foaf:Person ,
+
+            foaf:name "Neratius Bassus, L." ,
+            bio:olb "Otherwise unknown individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41)." .
+        
+    <http://paregorios.org/demarc/people/nero-emperor> a foaf:Person ,
+
+            foaf:name "Nero (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Nero> .
+        
+    <http://paregorios.org/demarc/people/nonius-asprenas-caesius-cassianus-p> a foaf:Person ,
+
+            foaf:name "Nonius Asprenas Caesius Cassianus, P." ,
+            bio:olb "Proconsul of Asia sometime during the reign of Domitian (not before AD 84)." .
+        
+        
+    <http://paregorios.org/demarc/people/novius-rufus-l> a foaf:Person ,
+
+            foaf:name "Novius Rufus, L." ,
+            bio:olb "Propraetorian imperial legate in Hispania Citerior under Commodus or Pertinax. He delivered a verdict in a dispute that may have involved boundaries. He has been suggested as the “Rufus legatus” named on a series of curse tablets from the area of Emporion, but this identification is debated." .
+        
+        
+    <http://paregorios.org/demarc/people/otacilius-sagitta> a foaf:Person ,
+
+            foaf:name "Otacilius Sagitta" ,
+            bio:olb "Imperial procurator on Corsica under Vespasian, AD 77" .
+        
+        
+    <http://paregorios.org/demarc/people/ovinius-tertullus-c> a foaf:Person ,
+
+            foaf:name "Ovinius Tertullus, C." ,
+            bio:olb "Governor (imperial legate) of Moesia Inferior under Severus and Caracalla, sometime between AD 98 and 102." .
+        
+        
+    <http://paregorios.org/demarc/people/p-helvius-pertinax> a foaf:Person ,
+
+            foaf:name "P. Helvius Pertinax" ,
+            bio:olb "Governor of Moesia Inferior (or perhaps both Moesiae in AD 176-179" .
+        
+        
+    <http://paregorios.org/demarc/people/paconius-agrippinus-q> a foaf:Person ,
+
+            foaf:name "Paconius Agrippinus, Q." ,
+        
+        
+        
+    <http://paregorios.org/demarc/people/papenius-salutaris-p> a foaf:Person ,
+
+            foaf:name "Papenius Salutaris, P." ,
+            bio:olb "Otherwise unknown individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41). The inscription further describes him as scriba librarius." .
+        
+    <http://paregorios.org/demarc/people/papius-habitus-c> a foaf:Person ,
+
+            foaf:name "Papius Habitus, C." ,
+            bio:olb "Otherwise unknown member of Nigrinus’ consilium." .
+        
+        
+    <http://paregorios.org/demarc/people/peregrinus-augusti-servus> a foaf:Person ,
+
+            foaf:name "Peregrinus, Augusti servus" ,
+            bio:olb "Imperial slave and surveyor under Hadrian, otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/petillius-firmus-c> a foaf:Person ,
+
+            foaf:name "Petillius Firmus, C." ,
+            bio:olb "Tribunus militium of Legio III Flavia Felix in Dalmatia under [L. Plo]tius Pegasus." .
+        
+        
+    <http://paregorios.org/demarc/people/petronius-celer-c> a foaf:Person ,
+
+            foaf:name "Petronius Celer, C." ,
+            bio:olb "Procuratorial governor of Mauretania Caesariensis in AD 137. Also seems to have acted in procuratorial capacity in Mauretania Sitifensis where he assigned boundaries to the Numidae, ex indulgentia imperatoris." .
+        
+        
+    <http://paregorios.org/demarc/people/petronius-umber-q> a foaf:Person ,
+
+            foaf:name "Petronius Umber, Q." ,
+            bio:olb "Governor (imperial legate) of Galatia or of Lycia et Pamphylia (ca. AD 54/55)." .
+        
+        
+    <http://paregorios.org/demarc/people/pinarius-apollinaris> a foaf:Person ,
+
+            foaf:name "Pinarius Apollinaris" ,
+            bio:olb "Otherwise unknown individual assigned by Tiberius to review dispute between Como and Bergalei. He was still alive under Gaius." .
+        
+        
+    <http://paregorios.org/demarc/people/pinarius-cornelius-clemens-cn> a foaf:Person ,
+
+            foaf:name "Pinarius Cornelius Clemens, Cn." ,
+            bio:olb "Imperial legate in command of the Roman army in Germani Superior in AD 74." .
+        
+        
+    <http://paregorios.org/demarc/people/plautius-silvanus-aelianus-t> a foaf:Person ,
+
+            foaf:name "Plautius Silvanus Aelianus, T." ,
+            bio:olb "Governor (imperial legate) of Moesia ca. AD 60-67." .
+        
+        
+    <http://paregorios.org/demarc/people/plotius-maximus-c> a foaf:Person ,
+
+            foaf:name "Plotius Maximus, C." ,
+            bio:olb "Otherwise unknown individual ordered to make a judgement (i.e., appointed as iudex) in a boundary dispute in Dalmatia by the governor [ --- ]s Bassus." .
+        
+    <http://paregorios.org/demarc/people/plotius-plebeius> a foaf:Person ,
+
+            foaf:name "Plotius Plebeius" ,
+            bio:olb "Otherwise unknown property owner in the vicitiny of Cnossus in the late first century AD. He was likely a member of a prominent family otherwise known to be citizens of the Roman colony at Cnossus." .
+        
+    <http://paregorios.org/demarc/people/plotius-verus-l> a foaf:Person ,
+
+            foaf:name "Plotius Verus, L." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/pompeius-ferox-cn> a foaf:Person ,
+
+            foaf:name "Pompeius Ferox, Cn." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/pompeius-longus-gallus-c> a foaf:Person ,
+
+            foaf:name "Pompeius Longus Gallus, C." ,
+            bio:olb "Consul ordinarius AD 49." .
+        
+        
+    <http://paregorios.org/demarc/people/pompeius-primus-q> a foaf:Person ,
+
+            foaf:name "Pompeius Primus, Q." ,
+            bio:olb "Otherwise unknown individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41)." .
+        
+    <http://paregorios.org/demarc/people/pompeius-silvanus-staberius-flavianus-m> a foaf:Person ,
+
+            foaf:name "Pompeius Silvanus Staberius Flavianus, M." ,
+            bio:olb "Governor (imperial legate) of Dalmatia in AD 69." .
+        
+        
+    <http://paregorios.org/demarc/people/pompeius-vopiscus-c-arruntius-catellius-celer-l> a foaf:Person ,
+
+            foaf:name "Pompeius Vopiscus C. Arruntius Catellius Celer, L." ,
+            bio:olb "Suffect consul AD 77." .
+        
+        
+    <http://paregorios.org/demarc/people/pomponius-bassus-t> a foaf:Person ,
+
+            foaf:name "Pomponius Bassus, T." ,
+            bio:olb "Probably propraetorian imperial legate on the staff of the proconsul of Asia in AD 79-80. See catalog entry for Instance 36." .
+        
+        
+    <http://paregorios.org/demarc/people/pomponius-carisianus-l> a foaf:Person ,
+
+            foaf:name "Pomponius Carisianus, L." ,
+            bio:olb "Otherwise unknown individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41). The inscription further describes him as scriba librarius." .
+        
+    <http://paregorios.org/demarc/people/pomponius-flaccus-l> a foaf:Person ,
+
+            foaf:name "Pomponius Flaccus, L." ,
+            bio:olb "Governor of Syria AD 32-33" .
+        
+        
+    <http://paregorios.org/demarc/people/pomponius-gallus-didius-rufus-c> a foaf:Person ,
+
+            foaf:name "Pomponius Gallus Didius Rufus, C." ,
+            bio:olb "Proconsul of Creta et Cyrene, AD 88-89." .
+        
+        
+    <http://paregorios.org/demarc/people/pomponius-pius-c> a foaf:Person ,
+
+            foaf:name "Pomponius Pius, C." ,
+            bio:olb "Governor (imperial legate) of Moesia under Nero, probably AD 67-68." .
+        
+        
+    <http://paregorios.org/demarc/people/pomponius-rufus-q> a foaf:Person ,
+
+            foaf:name "Pomponius Rufus, Q." ,
+            bio:olb "Propraetorian imperial legate in the province of Hispania Tarraconensis (most probably a legatus iuridicus), under Vespasian. He may be the Rufus named on curse tablets from the area of Emporion, but see L. Novius Rufus." .
+        
+        
+    <http://paregorios.org/demarc/people/pontius-laelianus-larcius-sabinus-m> a foaf:Person ,
+
+            foaf:name "Pontius Laelianus Larcius Sabinus, M." ,
+            bio:olb "Governor (imperial legate) of Syria probably AD 150-154." .
+        
+        
+    <http://paregorios.org/demarc/people/postumius-acilianus-p> a foaf:Person ,
+
+            foaf:name "Postumius Acilianus, P." ,
+            bio:olb "Imperial procurator (ducenarius) in Syria in AD 102." .
+        
+        
+    <http://paregorios.org/demarc/people/publilius-memorialis-l> a foaf:Person ,
+
+            foaf:name "Publilius Memorialis, (L.?)" ,
+            bio:olb "Imperial procurator in Corsica under Vespasian, ca. AD 74?" .
+        
+        
+    <http://paregorios.org/demarc/people/pupius-praesens-l> a foaf:Person ,
+
+            foaf:name "Pupius Praesens, L." ,
+            bio:olb "Procurator in the province of Galatia under Claudius and Nero (exact dates uncertain, but at least AD 54/55)" .
+        
+        
+    <http://paregorios.org/demarc/people/raecius-libo-p> a foaf:Person ,
+
+            foaf:name "Raecius Libo, P." ,
+            bio:olb "Otherwise unknown individual appointed as a iudex in a boundary dispute in Dalmatia by M. Pompeius Silvanus." .
+        
+    <http://paregorios.org/demarc/people/resius-maximus-aulus> a foaf:Person ,
+
+            foaf:name "Resius Maximus, Aulus" ,
+            bio:olb "Otherwise unknown centurion of Legio XI who carried out at least one boundary demarcation in Dalmatia. Note his colleague Q. Aebutius Liberalis." .
+        
+    <http://paregorios.org/demarc/people/rutilius-gallicus-c> a foaf:Person ,
+
+            foaf:name "Rutilius Gallicus, C." ,
+        
+    <http://paregorios.org/demarc/people/sa-l> a foaf:Person ,
+
+            foaf:name "Sa[lvius], L." ,
+            bio:olb "Otherwise unknown centurion(?) of Legio XI, appointed as a iudex in a boundary dispute in Dalmatia by L. Volusius Saturninus." .
+        
+    <http://paregorios.org/demarc/people/sabinius-barbarus-t> a foaf:Person ,
+
+            foaf:name "Sabinius Barbarus, T." ,
+            bio:olb "Legate in command of Legio III Augusta in AD 116-117." .
+        
+        
+    <http://paregorios.org/demarc/people/sempronius-campanus-fidentinus> a foaf:Person ,
+
+            foaf:name "Sempronius Campanus Fidentinus" ,
+            bio:olb "Unidentifiable individual mentioned in a group of Flavian-era curse tablets from Hispania Tarraconensis. His gentilicum and cognomen are not uncommon in the area of the find." .
+        
+        
+    <http://paregorios.org/demarc/people/sempronius-flaccus-l> a foaf:Person ,
+
+            foaf:name "Sempronius Flaccus, L." ,
+            bio:olb "Otherwise unknown individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41)." .
+        
+    <http://paregorios.org/demarc/people/sempronius-l> a foaf:Person ,
+
+            foaf:name "Sempronius, L." ,
+            bio:olb "Proconsul of Creta et Cyrenae in AD 191/192 or AD 192/193. He has been provisionally identified with a proconsul of Asia (ca. AD 209), whose name is partially preserved in a boundary-related inscription ([ --- Sem]pronio Senecione [proconsule ---])." .
+        
+        
+    <http://paregorios.org/demarc/people/sentius-caecilianus-sex> a foaf:Person ,
+
+            foaf:name "Sentius Caecilianus, Sex." ,
+            bio:olb "Imperial legate in command of Legio III Augusta (AD 73/74)." .
+        
+        
+    <http://paregorios.org/demarc/people/septimius-severus-emperor> a foaf:Person ,
+
+            foaf:name "Septimius Severus (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Septimius_Severus> .
+        
+    <http://paregorios.org/demarc/people/serius-verus-sex> a foaf:Person ,
+
+            foaf:name "Serius Verus, Sex." ,
+            bio:olb "Otherwise unknown individual whose name appears on a fragmentary inscription from Aunobari (Text 41.2) which may record the members of a governor’s consilium as part of a boundary dispute ruling (see Instance 41). The inscription further describes him as a haruspex." .
+        
+    <http://paregorios.org/demarc/people/servilius-fabianus-maximus-m> a foaf:Person ,
+
+            foaf:name "Servilius Fabianus Maximus, M." ,
+            bio:olb "Appears to have served as governor, back to back, of Moseia Inferior and Moesia Superior between AD 161 and 164, but the order in which he did so is a matter of scholarly debate." .
+        
+        
+    <http://paregorios.org/demarc/people/severus-alexander-emperor> a foaf:Person ,
+
+            foaf:name "Severus Alexander (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Alexander_Severus> .
+        
+    <http://paregorios.org/demarc/people/sosius-falco-q> a foaf:Person ,
+
+            foaf:name "Sosius Falco, Q." ,
+            bio:olb "consul ordinarius AD 193." .
+        
+        
+    <http://paregorios.org/demarc/people/stertinius-rufus-m> a foaf:Person ,
+
+            foaf:name "Stertinius Rufus, M." ,
+            bio:olb "Son of M. Stertinius Rufus. He served on the consilium of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/stertinius-rufus-m> a foaf:Person ,
+
+            foaf:name "Stertinius Rufus, M." ,
+            bio:olb "Father of M. Stertinius Rufus. He served on the consilium of L. Helvius Agrippa. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/suedius-clemens-t> a foaf:Person ,
+
+            foaf:name "Suedius Clemens, T." ,
+            bio:olb "Tribune of the praetorian guard who, on Vespasian’s authority, adjudicated disputes at Pompeii in the course of restoring public land that had been occupied by squatters." .
+        
+        
+    <http://paregorios.org/demarc/people/suellius-flaccus-cn> a foaf:Person ,
+
+            foaf:name "Suellius Flaccus, Cn." ,
+            bio:olb "Imperial legate in command of Legio III Augusta in AD 87." .
+        
+        
+    <http://paregorios.org/demarc/people/sueto-m> a foaf:Person ,
+
+            foaf:name "Sueto, M." ,
+            bio:olb "Otherwise unknown centurion(?) of Legio XI, appointed as a iudex in a boundary dispute in Dalmatia by L. Volusius Saturninus." .
+        
+    <http://paregorios.org/demarc/people/sulpicius-camerinus-pythicus-q> a foaf:Person ,
+
+            foaf:name "Sulpicius Camerinus Pythicus, Q." ,
+            bio:olb "Suffect consul in AD 46." .
+        
+        
+    <http://paregorios.org/demarc/people/terentius-gentianus-d> a foaf:Person ,
+
+            foaf:name "Terentius Gentianus, D." ,
+            bio:olb "Although there has been much debate on the part of modern scholars as to what sort of imperial legate he was when he carried out a boundary demarcation in Macedonia, it seems most likely that he was there directing a census during the reign of Hadrian (he is named cens(itor) prov(inciae) Mac(edoniae) in an honorific inscription: CIL 2.1463 = ILS 1046)." .
+        
+        
+    <http://paregorios.org/demarc/people/terentius-tullius-geminus-c> a foaf:Person ,
+
+            foaf:name "Terentius Tullius Geminus, C." ,
+            bio:olb "Governor (imperial legate) of Moesia between AD 47 and 53 (probably serving AD 50-53)" .
+        
+        
+    <http://paregorios.org/demarc/people/tiberius-emperor> a foaf:Person ,
+
+            foaf:name "Tiberius (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Tiberius> .
+        
+    <http://paregorios.org/demarc/people/tillius-sassius-q> a foaf:Person ,
+
+            foaf:name "Tillius Sassius, Q." ,
+            bio:olb "An arval brother by AD 63." .
+        
+        
+    <http://paregorios.org/demarc/people/titius-geminus-s> a foaf:Person ,
+
+            foaf:name "Titius Geminus, S." ,
+            bio:olb "Otherwise unknown princeps posterior of Legio VII, who placed boundaries in Dalmatia in accordance with an edict of P. Cornelius Dolabella." .
+        
+    <http://paregorios.org/demarc/people/titus-emperor> a foaf:Person ,
+
+            foaf:name "Titus (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Titus> .
+        
+    <http://paregorios.org/demarc/people/trajan-emperor> a foaf:Person ,
+
+            foaf:name "Trajan (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Trajan> .
+        
+    <http://paregorios.org/demarc/people/trebius-secundus-l> a foaf:Person ,
+
+            foaf:name "Trebius Secundus, L." ,
+            bio:olb "Otherwise unknown praefectus castrorum under L. Volusius Saturninus in Dalmatia." .
+        
+    <http://paregorios.org/demarc/people/trebonianus-gallus-emperor> a foaf:Person ,
+
+            foaf:name "Trebonianus Gallus (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Trebonianus_Gallus> .
+        
+    <http://paregorios.org/demarc/people/trebonius-proculus-mettius-modestus-c> a foaf:Person ,
+
+            foaf:name "Trebonius Proculus Mettius Modestus, C." ,
+            bio:olb "Proconsul of Asia, AD 119-120." .
+        
+        
+    <http://paregorios.org/demarc/people/tullius-capito-pomponianus-plotius-firmus-c> a foaf:Person ,
+
+            foaf:name "Tullius Capito Pomponianus Plotius Firmus, C." ,
+            bio:olb "Either a special legate of the emperor or legate in command of Legio III Augusta, probably before holding the suffect consulate in AD 84." .
+        
+        
+    <http://paregorios.org/demarc/people/turannius-priscus-c> a foaf:Person ,
+
+            foaf:name "Turannius Priscus, C." ,
+            bio:olb "Propraetorian legate who settled a boundary dispute in Macedonia as a iudex datus of the proconsul in AD 114. Otherwise unknown." .
+        
+        
+    <http://paregorios.org/demarc/people/turpilius-dexter-l> a foaf:Person ,
+
+            foaf:name "Turpilius Dexter, L." ,
+            bio:olb "Proconsul of Creta et Cyrenae in AD 64-65 or 65-66." .
+        
+        
+    <http://paregorios.org/demarc/people/tuscenius-felix> a foaf:Person ,
+
+            foaf:name "Tuscenius Felix" ,
+            bio:olb "A primus pilus iterum, attested only by a document preserved in the corpus agrimensorum. Dobson accepts him as genuine and assumes he was of Italic origin and was assigned to a unit in or near Rome." .
+        
+        
+    <http://paregorios.org/demarc/people/valeria-atticilla> a foaf:Person ,
+
+            foaf:name "Valeria Atticilla" ,
+            bio:olb "Otherwise unattested owner of an estate adjoining the territory of the Musulamii" .
+        
+    <http://paregorios.org/demarc/people/valeria-l-f-faventina> a foaf:Person ,
+
+            foaf:name "Valeria L. F. Faventina" ,
+            bio:olb "Attested in the vicinity of Barcelona and Tarraco in the late second century (Text 50.1 and CIL 2.4591)." .
+        
+        
+    <http://paregorios.org/demarc/people/valerius-faustus-c> a foaf:Person ,
+
+            foaf:name "Valerius Faustus, C." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/valerius-iustus> a foaf:Person ,
+
+            foaf:name "Valerius Iustus" ,
+            bio:olb "Otherwise unknown individual (probably a surveyor) who conducted a determinatio between the Delphoi and the Ambrossioi under the direction of C. Cassius Longinus (see Instance 39)." .
+        
+    <http://paregorios.org/demarc/people/valerius-peplus-l> a foaf:Person ,
+
+            foaf:name "Valerius Peplus, L." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/valerius-secundus-p> a foaf:Person ,
+
+            foaf:name "Valerius Secundus, P." ,
+            bio:olb "Otherwise unknown individual appointed as a iudex in a boundary dispute in Dalmatia by M. Pompeius Silvanus." .
+        
+    <http://paregorios.org/demarc/people/valerius-severus-c> a foaf:Person ,
+
+            foaf:name "Valerius Severus, C." ,
+            bio:olb "Proconsul of Achaia, AD 117/118." .
+        
+        
+    <http://paregorios.org/demarc/people/valerius-valens> a foaf:Person ,
+
+            foaf:name "Valerius Valens" ,
+            bio:olb "Otherwise unknown centurion and veteran who received a verdict regarding a blocked limes in Dalmatia from Auf[idius?] Gallus in AD 179." .
+        
+    <http://paregorios.org/demarc/people/valerius-victor-c> a foaf:Person ,
+
+            foaf:name "Valerius Victor, C." ,
+            bio:olb "Otherwise unknown praetorian legate (of the pronconsul of Asia) and “praetor designate” who implements a boundary demarcation between two villages." .
+        
+    <http://paregorios.org/demarc/people/venuleius-pataecius-l> a foaf:Person ,
+
+            foaf:name "Venuleius Pataecius, L." ,
+            bio:olb "Procuratorial governor of Thracia under Vespasian." .
+        
+        
+    <http://paregorios.org/demarc/people/veranius-q> a foaf:Person ,
+
+            foaf:name "Veranius, Q." ,
+            bio:olb "Consul ordinarius AD 49." .
+        
+        
+    <http://paregorios.org/demarc/people/verginius-anus> a foaf:Person ,
+
+            foaf:name "Verginius [P]ub[li]anus or [R]ub[ri]anus" ,
+            bio:olb "An otherwise unknown individual, appointed as a iudex by the emperor Trajan in a boundary dispute between Doliche and Elimeia in AD 101." .
+        
+    <http://paregorios.org/demarc/people/verus-l-emperor> a foaf:Person ,
+
+            foaf:name "Verus, L. (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Lucius_Verus> .
+        
+    <http://paregorios.org/demarc/people/vespasian-emperor> a foaf:Person ,
+
+            foaf:name "Vespasian (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Vespasian> .
+        
+    <http://paregorios.org/demarc/people/vetulenus-civica-cerialis-c> a foaf:Person ,
+
+            foaf:name "Vetulenus Civica Cerialis, C." ,
+            bio:olb "Proconsul of Asia during the middle years of Domitian’s reign, ca. AD 88." .
+        
+        
+    <http://paregorios.org/demarc/people/veturius-felix-d> a foaf:Person ,
+
+            foaf:name "Veturius Felix, D." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/vexarus-c> a foaf:Person ,
+
+            foaf:name "Vexarus, C." ,
+        
+    <http://paregorios.org/demarc/people/vibius-marsus-c> a foaf:Person ,
+
+            foaf:name "Vibius Marsus, C." ,
+            bio:olb "Proconsul of Africa AD 27-30 (or 26-29)." .
+        
+        
+    <http://paregorios.org/demarc/people/vigellius-crispinus-l> a foaf:Person ,
+
+            foaf:name "Vigellius Crispinus, L." ,
+            bio:olb "Witness (signator) to the decision of L. Helvius Agrippa in AD 69. Otherwise unknown." .
+        
+    <http://paregorios.org/demarc/people/vindius-verianus-m> a foaf:Person ,
+
+            foaf:name "Vindius Verianus, M." ,
+            bio:olb "Praefectus classis Flaviae Moesicae ca. AD 100" .
+        
+        
+    <http://paregorios.org/demarc/people/volusianus-emperor> a foaf:Person ,
+
+            foaf:name "Volusianus (emperor)" ,
+            owl:sameAs <http://dbpedia.org/resource/Volusianus> .
+        
+    <http://paregorios.org/demarc/people/volusius-saturninus-l> a foaf:Person ,
+
+            foaf:name "Volusius Saturninus, L." ,
+            bio:olb "Governor (imperial legate) of Dalmatia sometime between AD 23 and 37." .
+        
+        
+    <http://paregorios.org/demarc/people/volussius-crocus> a foaf:Person ,
+
+            foaf:name "Volussius Crocus" ,
+            bio:olb "An unidentifiable landowner somewhere in Latium who was involved in a land dispute with the city of Ostia at an indeterminate date." .
+        
+    
