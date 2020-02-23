@@ -33,9 +33,6 @@
         <xsl:variable name="inumber" select="$bkmkstart/@text:name"/>
         <xsl:result-document format="tei" href="../output/{lower-case($inumber)}.xml">
             <div type="instance" xml:id="{normalize-space(@text:name)}">
-                <idno type="original">
-                    <xsl:value-of select="$bkmkstart/@text:name"/>
-                </idno>
                 <xsl:variable name="ns1" select="$elestart/following-sibling::*"/>
                 <xsl:variable name="ns2" select="$eleend/preceding-sibling::*"/>
                 <xsl:apply-templates select="$elestart | $ns1[count(. | $ns2) = count($ns2)] | $eleend" mode="instance"/>
@@ -158,7 +155,7 @@
     </xsl:template>
     <xsl:template match="text:note-ref" mode="instance">
         <bibl>
-            <ptr ref="dbib:elliott-2004"/> 
+            <ptr target="dbib:elliott-2004"/> 
             <biblScope unit="note"><xsl:value-of select="."/></biblScope>
             <biblScope unit="ref-name"><xsl:value-of select="@text:ref-name"/></biblScope>
         </bibl>
