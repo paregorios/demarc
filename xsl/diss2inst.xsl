@@ -3,8 +3,9 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
     xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"
+    xmlns="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="xs xd text"
-    version="2.0">
+    version="3.0">
     <xd:doc scope="stylesheet">
         <xd:desc>
             <xd:p><xd:b>Created on:</xd:b> May 23, 2012</xd:p>
@@ -15,35 +16,31 @@
     </xd:doc>
     
     <xsl:output encoding="UTF-8" method="xml" indent="no"/>
-    
+    <xsl:output encoding="UTF-8" indent="true" method="xml" name="tei" /> 
     
     <xsl:template match="/">
-        <xsl:text>
-</xsl:text>
-        <div><xsl:text>
-</xsl:text>
             <xsl:apply-templates select="//text:bookmark-start[contains(@text:name, 'INST')]">
-            <xsl:sort select="substring-after(@text:name, 'INST')" data-type="number"/>
-        </xsl:apply-templates>
-        </div>    
+                <xsl:sort select="substring-after(@text:name, 'INST')" data-type="number"/>
+            </xsl:apply-templates>
     </xsl:template>
     
-    <xsl:template match="text:bookmark-start[contains(@text:name, 'INST') and not(contains(@text:name, '_'))]">
+    <xsl:template  match="text:bookmark-start[contains(@text:name, 'INST') and not(contains(@text:name, '_'))]">
         <xsl:variable name="bkmkstart" select="."/>
-        <xsl:variable name="bkmkend" select="following::text:bookmark-end[@text:name=$bkmkstart/@text:name]"/>
-        <xsl:variable name="nextbkmk" select="$bkmkend/following::text:bookmark-start[contains(@text:name, 'INST') and not(contains(@text:name, '_'))][1]"/>        
+        <xsl:variable name="bkmkend" select="following::text:bookmark-end[@text:name = $bkmkstart/@text:name]"/>
+        <xsl:variable name="nextbkmk" select="$bkmkend/following::text:bookmark-start[contains(@text:name, 'INST') and not(contains(@text:name, '_'))][1]"/>
         <xsl:variable name="elestart" select=".."/>
-        <xsl:variable name="eleend" select="$nextbkmk/../preceding-sibling::*[1]"/><xsl:text>
-</xsl:text>
-        <div type="instance" xml:id="{normalize-space(@text:name)}"><xsl:text>
-</xsl:text>
-        <idno type="original"><xsl:value-of select="$bkmkstart/@text:name"/></idno><xsl:text>
-</xsl:text>
-            <xsl:variable name="ns1" select="$elestart/following-sibling::*"/>
-            <xsl:variable name="ns2" select="$eleend/preceding-sibling::*"/>
-            <xsl:apply-templates select="$elestart | $ns1[count(. | $ns2)=count($ns2)] | $eleend" mode="instance"/>            
-        </div><xsl:text>
-</xsl:text>
+        <xsl:variable name="eleend" select="$nextbkmk/../preceding-sibling::*[1]"/>
+        <xsl:variable name="inumber" select="$bkmkstart/@text:name"/>
+        <xsl:result-document format="tei" href="../output/{lower-case($inumber)}.xml">
+            <div type="instance" xml:id="{normalize-space(@text:name)}">
+                <idno type="original">
+                    <xsl:value-of select="$bkmkstart/@text:name"/>
+                </idno>
+                <xsl:variable name="ns1" select="$elestart/following-sibling::*"/>
+                <xsl:variable name="ns2" select="$eleend/preceding-sibling::*"/>
+                <xsl:apply-templates select="$elestart | $ns1[count(. | $ns2) = count($ns2)] | $eleend" mode="instance"/>
+            </div>
+        </xsl:result-document>
     </xsl:template>
     
     <!-- text:h with style-name treInstance can become a plain head -->
@@ -62,14 +59,15 @@
     </xsl:template>
 
     <!-- capture Burton concordances -->
-    <xsl:template match="text:p[starts-with(., 'Burton 2000')]" mode="instance">
-        <p><bibl><ptr ref="dbib:burton-2000"/><xsl:text> </xsl:text><xsl:value-of select="normalize-space(substring-after(., 'Burton 2000, '))"/></bibl></p><xsl:text>
+    <xsl:template match="text:p[starts-with(normalize-space(.), 'Burton 2000')]" mode="instance">
+        <xsl:message>whoop</xsl:message>
+        <p><bibl><ptr ref="dbib:burton-2000"/><xsl:text> </xsl:text><xsl:value-of select="normalize-space(substring-after(normalize-space(.), 'Burton 2000,'))"/></bibl></p><xsl:text>
 </xsl:text>
     </xsl:template>
 
     <!-- capture dates -->
     <xsl:template match="text:p[starts-with(., 'Date(s):')]" mode="instance">
-        <p>Date(s): <date><xsl:value-of select="normalize-space(substring-after(., 'Date(s): '))"/></date></p><xsl:text>
+        <p>Date(s): <date><xsl:value-of select="normalize-space(substring-after(., 'Date(s):'))"/></date></p><xsl:text>
 </xsl:text>        
     </xsl:template>
     
