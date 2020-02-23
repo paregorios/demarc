@@ -60,7 +60,6 @@
 
     <!-- capture Burton concordances -->
     <xsl:template match="text:p[starts-with(normalize-space(.), 'Burton 2000')]" mode="instance">
-        <xsl:message>whoop</xsl:message>
         <p><bibl><ptr ref="dbib:burton-2000"/><xsl:text> </xsl:text><xsl:value-of select="normalize-space(substring-after(normalize-space(.), 'Burton 2000,'))"/></bibl></p><xsl:text>
 </xsl:text>
     </xsl:template>
@@ -238,7 +237,7 @@
     <xsl:template name="stdattr">
         <xsl:choose>
             <xsl:when test="@text:style-name='treParaIndent'">
-                <xsl:attribute name="rend">indent</xsl:attribute>
+                
             </xsl:when>
             <xsl:when test="@text:style-name">
                 <xsl:attribute name="type"><xsl:value-of select="normalize-space(@text:style-name)"/></xsl:attribute>
