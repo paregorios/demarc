@@ -204,9 +204,17 @@
     <xsl:template match="text:p" mode="instance">
         <xsl:element name="p">
             <xsl:call-template name="stdattr"/>
-            <xsl:apply-templates mode="instance"/>
-        </xsl:element><xsl:text>
-</xsl:text>        
+            <xsl:choose>
+                <xsl:when test="@text:style-name = 'treDisputeStatement'">
+                    <seg type="instance-description">
+                        <xsl:apply-templates mode="instance"/>
+                    </seg>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates mode="instance"/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:element>
     </xsl:template>
     
     
@@ -236,9 +244,8 @@
     </xsl:template>
     <xsl:template name="stdattr">
         <xsl:choose>
-            <xsl:when test="@text:style-name='treParaIndent'">
-                
-            </xsl:when>
+            <xsl:when test="@text:style-name='treParaIndent'"/>
+            <xsl:when test="@text:style-name='treDisputeStatement'"/>
             <xsl:when test="@text:style-name">
                 <xsl:attribute name="type"><xsl:value-of select="normalize-space(@text:style-name)"/></xsl:attribute>
             </xsl:when>        
