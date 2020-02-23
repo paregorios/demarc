@@ -60,7 +60,7 @@
 
     <!-- capture Burton concordances -->
     <xsl:template match="text:p[starts-with(normalize-space(.), 'Burton 2000')]" mode="instance">
-        <p><bibl><ptr ref="dbib:burton-2000"/><xsl:text> </xsl:text><xsl:value-of select="normalize-space(substring-after(normalize-space(.), 'Burton 2000,'))"/></bibl></p><xsl:text>
+        <p><bibl><ptr target="dbib:burton-2000"/><xsl:text> </xsl:text><xsl:value-of select="normalize-space(substring-after(normalize-space(.), 'Burton 2000,'))"/></bibl></p><xsl:text>
 </xsl:text>
     </xsl:template>
 
@@ -123,6 +123,9 @@
             <xsl:if test="text:note-citation">
                 <xsl:attribute name="n" select="normalize-space(text:note-citation)"/>
             </xsl:if>
+            <xsl:if test="@text:id">
+                <xsl:attribute name="xml:id" select="@text:id"/>
+            </xsl:if>
             <xsl:apply-templates select="text:note-body" mode="instance"/>
         </xsl:element>        
     </xsl:template>
@@ -154,7 +157,11 @@
         <ref type="trouble" target="{@text:ref-name}"><bibl><biblScope><xsl:value-of select="."/></biblScope> (<title type="short">Elliott 2004</title>)</bibl></ref>
     </xsl:template>
     <xsl:template match="text:note-ref" mode="instance">
-        <bibl><biblScope type="note"><xsl:value-of select="."/></biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+        <bibl>
+            <ptr ref="dbib:elliott-2004"/> 
+            <biblScope unit="note"><xsl:value-of select="."/></biblScope>
+            <biblScope unit="ref-name"><xsl:value-of select="@text:ref-name"/></biblScope>
+        </bibl>
     </xsl:template>
     
     <!-- lists -->
