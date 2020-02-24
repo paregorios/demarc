@@ -3,6 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
     xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"
+    xmlns:me="http://this.file.right.here"
     xmlns="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="xs xd text"
     version="3.0">
@@ -67,6 +68,7 @@
         <head><xsl:apply-templates mode="instance"/></head>
     </xsl:template>
     
+    <!-- text:h with style-name treDocument is a plain head but needs internal bibliography marked up -->
     <xsl:template match="text:h[@text:style-name='treDocument']" mode="documents">
         <xsl:variable name="refstring" select="normalize-space(string-join(./text()))"/>
         <xsl:comment><xsl:value-of select="$refstring"/></xsl:comment>        
@@ -278,6 +280,76 @@
         </xsl:element>
     </xsl:template>
     
+    <!-- paragraphs and spans related to the ancient documents -->
+    <xsl:template match="text:p[@text:style-name='treText']" mode="documents">
+        <xsl:variable name="mainLang">
+            <xsl:for-each select="text:span[1]">
+                <xsl:if test="@text:style-name">
+                    <xsl:value-of select="me:style2Lang(@text:style-name)"/>
+                </xsl:if>
+            </xsl:for-each>
+        </xsl:variable>
+        <div type="edition">
+            <xsl:if test="$mainLang != ''">
+                <xsl:attribute name="xml:lang" select="$mainLang"/>
+            </xsl:if>
+            <ab>
+                <xsl:text></xsl:text><lb n="1"/><xsl:text></xsl:text>
+                <xsl:for-each select="text:span">
+                    <xsl:variable name="thisLang" select="me:style2Lang(@text:style-name)"/>
+                    <xsl:choose>
+                        <xsl:when test="$thisLang != $mainLang">
+                            <seg xml:lang="{$thisLang}">
+                                <xsl:call-template name="parseLines">
+                                    <xsl:with-param name="remaining-spans" select="last() - position()"/>
+                                </xsl:call-template>
+                            </seg>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:call-template name="parseLines">
+                                <xsl:with-param name="remaining-spans" select="last() - position()"/>
+                            </xsl:call-template>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:for-each>
+            </ab>
+        </div>    
+    </xsl:template>
+    <xsl:function name="me:style2Lang">
+        <xsl:param name="style-name"/>
+        <xsl:choose>
+            <xsl:when test="$style-name='treLatin'">
+                <xsl:text>la</xsl:text>
+            </xsl:when>
+            <xsl:when test="$style-name='treGreek'">
+                <xsl:text>grc</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text></xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:function>
+    <xsl:template name="parseLines">
+        <xsl:param name="remaining-spans"/>
+        <xsl:variable name="lines-string" select="string-join(./text())"/>
+        <xsl:for-each select="tokenize($lines-string, '/')">
+            <xsl:variable name="clean-token" select="normalize-space(.)"/>
+            <xsl:value-of select="$clean-token"/>
+                <xsl:if test="position() != last() and not($remaining-spans = 0 and position() = last())">
+                    <xsl:text>
+            </xsl:text>
+                    <xsl:choose>
+                        <xsl:when test="$clean-token = '' and position() = last()"/>
+                        <xsl:when test="ends-with(., ' ')">
+                            <xsl:text></xsl:text><lb/><xsl:text></xsl:text>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:text></xsl:text><lb break="no"/><xsl:text></xsl:text>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </xsl:if>
+        </xsl:for-each>
+    </xsl:template>
     
     <!-- suppress everything related to document presentation for instance mode -->
     <xsl:template match="text:h[@text:style-name='treDocument']" mode="instance"/>
