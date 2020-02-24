@@ -36,16 +36,105 @@
                 <xsl:variable name="ns1" select="$elestart/following-sibling::*"/>
                 <xsl:variable name="ns2" select="$eleend/preceding-sibling::*"/>
                 <xsl:apply-templates select="$elestart | $ns1[count(. | $ns2) = count($ns2)] | $eleend" mode="instance"/>
+                <xsl:apply-templates select="following::text:bookmark-start[starts-with(@text:name, 'DOC')]" mode="documents">
+                    <xsl:with-param name="inumber" select="$inumber"/>
+                </xsl:apply-templates>
             </div>
         </xsl:result-document>
     </xsl:template>
     
-    <!-- text:h with style-name treInstance can become a plain head -->
-    <xsl:template match="text:h[@text:style-name='treInstance']" mode="instance">
-        <head><xsl:apply-templates mode="instance"/></head><xsl:text>
-</xsl:text>
+    <xsl:template match="text:bookmark-start[starts-with(@text:name, 'DOC')]" mode="documents">
+        <xsl:param name="inumber"/>
+        <xsl:variable name="fudge" select="preceding::text:bookmark-start[contains(@text:name, 'INST')]"/>
+        <xsl:if test="contains(preceding::text:bookmark-start[contains(@text:name, 'INST')][1]/@text:name, $inumber)">
+            <!-- we are still inside the range for the current instance -->
+            <xsl:variable name="bkmkstart" select="."/>
+            <xsl:variable name="bkmkend" select="following::text:bookmark-end[@text:name = $bkmkstart/@text:name]"/>
+            <xsl:variable name="nextbkmk" select="$bkmkend/following::text:bookmark-start[contains(@text:name, 'DOC')][1]"/>
+            <xsl:variable name="elestart" select=".."/>
+            <xsl:variable name="eleend" select="$nextbkmk/../preceding-sibling::*[1]"/>
+            <xsl:variable name="dnumber" select="$bkmkstart/@text:name"/>
+            <div type="document" xml:id="{normalize-space($dnumber)}">
+                <xsl:variable name="ns1" select="$elestart/following-sibling::*"/>
+                <xsl:variable name="ns2" select="$eleend/preceding-sibling::*"/>
+                <xsl:apply-templates select="$elestart | $ns1[count(. | $ns2) = count($ns2)] | $eleend" mode="documents"/>                
+            </div>            
+        </xsl:if>
     </xsl:template>
     
+    <!-- text:h with style-name treInstance can become a plain head -->
+    <xsl:template match="text:h[@text:style-name='treInstance']" mode="instance">
+        <head><xsl:apply-templates mode="instance"/></head>
+    </xsl:template>
+    
+    <xsl:template match="text:h[@text:style-name='treDocument']" mode="documents">
+        <xsl:variable name="refstring" select="normalize-space(string-join(./text()))"/>
+        <xsl:comment><xsl:value-of select="$refstring"/></xsl:comment>        
+        <head>
+            <xsl:value-of select="normalize-space(text:span[@text:style-name='T40'])"/>
+            <xsl:text> </xsl:text>
+            <xsl:for-each select="$refstring">
+                <xsl:call-template name="refstringcleaner"/>
+            </xsl:for-each>
+            <xsl:text>.</xsl:text>
+        </head>
+    </xsl:template>
+    <xsl:template name="refstringcleaner">
+        <xsl:param name="preferred">no</xsl:param>
+        <xsl:variable name="refstring" select="normalize-space(.)"/>
+        <xsl:if test="$refstring != ''">
+            <xsl:choose>
+                <xsl:when test="contains($refstring, 'See also')">
+                    <xsl:variable name="parts" select="tokenize($refstring, 'See also')"/>
+                    <xsl:for-each select="$parts[1]">
+                        <xsl:call-template name="refstringcleaner"/>
+                    </xsl:for-each>
+                    <xsl:text>. See also: </xsl:text>
+                    <xsl:for-each select="$parts[2]">
+                        <xsl:call-template name="refstringcleaner"/>
+                    </xsl:for-each>
+                </xsl:when>
+                <xsl:when test="contains($refstring, ';')">
+                    <xsl:for-each select="tokenize($refstring, ';')">
+                        <xsl:call-template name="refstringcleaner"/>
+                        <xsl:if test="position() != last()">
+                            <xsl:text>; </xsl:text>
+                        </xsl:if>
+                    </xsl:for-each>
+                </xsl:when>
+                <xsl:when test="starts-with($refstring, ':')">
+                    <xsl:variable name="cleaned" select="replace($refstring, ':', '')"/>
+                    <xsl:for-each select="$cleaned">
+                        <xsl:call-template name="refstringcleaner"/>
+                    </xsl:for-each>
+                </xsl:when>
+                <xsl:when test="ends-with($refstring, '.')">
+                    <xsl:variable name="cleaned" select="substring($refstring, 1, string-length($refstring)-1)"/>
+                    <xsl:for-each select="$cleaned">
+                        <xsl:call-template name="refstringcleaner"/>
+                    </xsl:for-each>
+                </xsl:when>
+                <xsl:when test="starts-with($refstring, '*')">
+                    <xsl:variable name="cleaned" select="replace($refstring, '\*', '')"/>
+                    <xsl:for-each select="$cleaned">
+                        <xsl:call-template name="refstringcleaner">
+                            <xsl:with-param name="preferred">yes</xsl:with-param>
+                        </xsl:call-template>
+                    </xsl:for-each>
+                </xsl:when>
+                <xsl:otherwise>
+                    <bibl>
+                        <xsl:if test="$preferred='yes'">
+                            <xsl:attribute name="type">preferred</xsl:attribute>
+                        </xsl:if>
+                        <xsl:value-of select="$refstring"/>
+                    </bibl>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:if>
+    </xsl:template>
+    
+
     <!-- other headings preserve their style -->
     <xsl:template match="text:h" mode="instance">
         <xsl:element name="head">
@@ -190,7 +279,7 @@
     </xsl:template>
     
     
-    <!-- suppress everything related to document presentation -->
+    <!-- suppress everything related to document presentation for instance mode -->
     <xsl:template match="text:h[@text:style-name='treDocument']" mode="instance"/>
     <xsl:template match="text:p[@text:style-name='treText']" mode="instance"/>
     <xsl:template match="text:p[@text:style-name='treBlock']" mode="instance"/>
@@ -229,6 +318,8 @@
         <ele><xsl:value-of select="name()"/></ele>
     </xsl:template>
     
+    <xsl:template match="*" mode="documents"/>
+    
     <xsl:template match="*"/>
     
     <xsl:template match="text()" mode="instance">
@@ -247,6 +338,7 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
+    
     <xsl:template name="stdattr">
         <xsl:choose>
             <xsl:when test="@text:style-name='treParaIndent'"/>
