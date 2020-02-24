@@ -5,6 +5,7 @@
     xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"
     xmlns:me="http://this.file.right.here"
     xmlns="http://www.tei-c.org/ns/1.0"
+    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="xs xd text"
     version="3.0">
     <xd:doc scope="stylesheet">
@@ -17,7 +18,7 @@
     </xd:doc>
     
     <xsl:output encoding="UTF-8" method="xml" indent="no"/>
-    <xsl:output encoding="UTF-8" indent="true" method="xml" name="tei" /> 
+    <xsl:output encoding="UTF-8" indent="true" method="xml" name="tei"/> 
     
     <xsl:template match="/">
             <xsl:apply-templates select="//text:bookmark-start[contains(@text:name, 'INST')]">
@@ -33,7 +34,7 @@
         <xsl:variable name="eleend" select="$nextbkmk/../preceding-sibling::*[1]"/>
         <xsl:variable name="inumber" select="$bkmkstart/@text:name"/>
         <xsl:result-document format="tei" href="../output/{lower-case($inumber)}.xml">
-            <div type="instance" xml:id="{normalize-space(@text:name)}">
+            <div type="instance" xml:id="{normalize-space(@text:name)}" xmlns="">
                 <xsl:variable name="ns1" select="$elestart/following-sibling::*"/>
                 <xsl:variable name="ns2" select="$eleend/preceding-sibling::*"/>
                 <xsl:apply-templates select="$elestart | $ns1[count(. | $ns2) = count($ns2)] | $eleend" mode="instance"/>
@@ -159,54 +160,54 @@
     </xsl:template>
     
     <!-- bold -->
-    <xsl:template match="text:span[@text:style-name='treBold']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='treBold']" mode="#all">
         <hi rend="bold"><xsl:apply-templates mode="instance"/></hi>
     </xsl:template>
     
     <!-- foreign -->
-    <xsl:template match="text:span[@text:style-name='T36']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='T36']" mode="#all">
         <foreign rend="italic"><xsl:apply-templates mode="instance"/></foreign>
     </xsl:template>
-    <xsl:template match="text:span[@text:style-name='treLatin']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='treLatin']" mode="#all">
         <foreign xml:lang="la"><xsl:apply-templates mode="instance"/></foreign>
     </xsl:template>
-    <xsl:template match="text:span[@text:style-name='treGreek']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='treGreek']" mode="#all">
         <foreign xml:lang="grc"><xsl:apply-templates mode="instance"/></foreign>
     </xsl:template>
     
     <!-- terms -->
-    <xsl:template match="text:span[@text:style-name='treTerm']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='treTerm']" mode="#all">
         <seg type="term"><xsl:apply-templates mode="instance"/></seg>
     </xsl:template>
     
     <!-- personal names -->
-    <xsl:template match="text:span[@text:style-name='trePerson']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='trePerson']" mode="#all">
         <persName><xsl:apply-templates mode="instance"/></persName>
     </xsl:template>
     
     <!-- emperor's names -->
-    <xsl:template match="text:span[@text:style-name='treEmperor']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='treEmperor']" mode="#all">
         <persName type="emperor"><xsl:apply-templates mode="instance"/></persName>
     </xsl:template>
-    <xsl:template match="text:span[@text:style-name='treEmperorStealth']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='treEmperorStealth']" mode="#all">
         <persName type="emperor" rend="normal"><xsl:apply-templates mode="instance"/></persName>
     </xsl:template>
     
     
     
     <!-- placenames -->
-    <xsl:template match="text:span[@text:style-name='trePlaceAncient']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='trePlaceAncient']" mode="#all">
         <placeName type="ancient"><xsl:apply-templates mode="instance"/></placeName>
     </xsl:template>
-    <xsl:template match="text:span[@text:style-name='trePlaceModern']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='trePlaceModern']" mode="#all">
         <placeName type="modern"><xsl:apply-templates mode="instance"/></placeName>
     </xsl:template>
     
     <!-- footnotes -->
-    <xsl:template match="text:span[@text:style-name='Footnote_20_Symbol']" mode="instance">
+    <xsl:template match="text:span[@text:style-name='Footnote_20_Symbol']" mode="#all">
         <xsl:apply-templates mode="instance"/>
     </xsl:template>
-    <xsl:template match="text:note" mode="instance">
+    <xsl:template match="text:note" mode="#all">
         <xsl:element name="note">
             <xsl:if test="text:note-citation">
                 <xsl:attribute name="n" select="normalize-space(text:note-citation)"/>
@@ -214,13 +215,13 @@
             <xsl:if test="@text:id">
                 <xsl:attribute name="xml:id" select="@text:id"/>
             </xsl:if>
-            <xsl:apply-templates select="text:note-body" mode="instance"/>
+            <xsl:apply-templates select="text:note-body"/>
         </xsl:element>        
     </xsl:template>
-    <xsl:template match="text:note-body" mode="instance">
+    <xsl:template match="text:note-body" mode="#all">
         <xsl:apply-templates mode="instance"/>
     </xsl:template>
-    <xsl:template match="text:p[@text:style-name='Footnote' ]" mode="instance">
+    <xsl:template match="text:p[@text:style-name='Footnote' ]" mode="#all">
         <xsl:choose>
             <xsl:when test="count(../text:p) &gt; 1">
                 <xsl:message>damn</xsl:message>
@@ -281,6 +282,18 @@
     </xsl:template>
     
     <!-- paragraphs and spans related to the ancient documents -->
+    <xsl:template match="text:p[@text:style-name='treBlock' or @text:style-name='treTranslation']" mode="documents">
+        <xsl:if test="preceding-sibling::text:p[1]/@text:style-name != 'treBlock' and preceding-sibling::text:p[1]/@text:style-name != 'treTranslation'">
+            <xsl:variable name="doc" select="preceding::text:bookmark-start[1]/@text:name"/>
+            <div type="translation">
+                <xsl:apply-templates select="self::text:p" mode="translation"/>
+                <xsl:apply-templates select="./following::text:p[preceding::text:bookmark-start[1]/@text:name = $doc and (@text:style-name = 'treBlock' or @text:style-name = 'treTranslation')]" mode="translation"/>
+            </div>
+        </xsl:if>
+    </xsl:template>
+    <xsl:template match="text:p[@text:style-name='treBlock' or @text:style-name='treTranslation']" mode="translation">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
     <xsl:template match="text:p[@text:style-name='treText']" mode="documents">
         <xsl:variable name="mainLang">
             <xsl:for-each select="text:span[1]">
