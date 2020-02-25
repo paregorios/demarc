@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST21">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Horothesia of <placeName type="ancient">Histria</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 21</bibl>
+   </p>
+   <p>Date(s): <date>c. AD 47-102</date>
+   </p>
+   <p>
+      <seg type="instance-description">A dispute between the city of <placeName type="ancient">Histria</placeName> and the contractor who had purchased the <foreign xml:lang="la">portorium ripae Thraciae</foreign> over the rights to tax revenues required an <hi rend="bold">authoritative demarcation</hi> by the governor of <placeName type="ancient">Moesia Inferior</placeName> as part of his verdict in the case.</seg>
+   </p>
+   <p>This important dossier widens our understanding of boundary disputes in several ways. It demonstrates that boundary disputes could arise in the context of larger disagreements over resource exploitation, taxation and traditional civic rights. It also reveals a proactive pattern of behavior on the part of a provincial city whereby each successive Roman governor was petitioned to confirm in writing the city’s claim to extract resources from a particular area. The success of this strategy – proved by the city’s victory in a later dispute that also resulted in the definitive demarcation of the area in question – may indicate that the careful maintenance of documentation for rights and associated boundaries was not an uncommon civic preoccupation.</p>
+   <p>These documents attest to the long-running concern of the city of <placeName type="ancient">Histria</placeName> (mod. <placeName type="modern">Istria</placeName> in <placeName type="modern">Romania</placeName>) for its ancestral rights to tax the revenue from fishing and other activities at one mouth of the <placeName type="modern">Danube</placeName> delta, called <placeName type="ancient">Peuke</placeName>.  Our evidence for <placeName type="ancient">Histria’s</placeName> interaction with the governors of the province of <placeName type="ancient">Moesia Inferior </placeName>on this subject was inscribed in the early years of the second century. It consists of two blocks, each over a meter and a half tall, and each bearing an inscribed copy of a dossier of letters and verdicts from successive Roman governors, spanning the period from c. AD 47 to AD 102. Both blocks, found separately in different parts of the delta, have suffered significant damage. It is therefore ncessary for scholars to cross-supplement their texts one from the other in order to arrive at what is clearly an identical source text for each. In the presentation that follows, I have provided for each letter the most complete text. References to the alternate copy are also included.</p>
+   <p>Like the documents on the ‘archive wall’ from <placeName type="ancient">Coronea</placeName>,<note n="255" xml:id="ftn255"> 
+         <seg type="T18">Instance </seg>
+         <seg type="T18">
+            <ref target="#INST66">
+               <bibl>
+                  <biblScope>43</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>
+         </seg>
+         <seg type="T18">.</seg> 
+      </note> these texts were inscribed not in chronological order, but according to another scheme. The dossier opens with one of the two latest documents: a Latin <foreign xml:lang="la">determinatio </foreign>(entitled<foreign xml:lang="la">  </foreign>
+      <foreign xml:lang="grc">ὁροθεσία</foreign>
+      <foreign xml:lang="la">
+         <seg type="T6">  </seg>
+      </foreign>in the inscribed Greek heading) <seg type="T6">ordered</seg> by the governor <persName>M’. Laberius Maximus </persName>(c. AD 100, Text <ref target="ddoc:314">
+         <bibl>
+            <biblScope>16.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). The dossier closes with the text of <persName>Maximus’ </persName>verdict (Text <ref target="ddoc:320">
+         <bibl>
+            <biblScope>16.7</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) in a lawsuit brought against against the <placeName type="modern">Histrians</placeName> by the contractor who had purchased the <foreign xml:lang="la">portorium ripae Thraciae </foreign>for the taxes (<foreign xml:lang="la">portorium</foreign>) from <placeName type="ancient">Halmyris </placeName>and <placeName type="ancient">Peucus</placeName> ( = <placeName type="ancient">Peuke</placeName>). On the model of the <persName>Nigrinus</persName> dossier from <placeName type="ancient">Delphi</placeName>,<note n="256" xml:id="ftn256"> Instance <ref target="#INST116">
+            <bibl>
+               <biblScope>61</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> we should probably view the <foreign xml:lang="grc">ὁροθεσία</foreign> as the conclusion (or an annex) to <persName>Maximus’</persName> verdict. The two were split – and the <foreign xml:lang="grc">ὁροθεσία</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>placed first – for rhetorical purposes when inscribed by the <placeName type="modern">Histrians</placeName>. Between these two bookends, we are given the series of letters from previous governors that must have formed part of the evidentiary dossier presented by the <placeName type="modern">Histrian</placeName> advocates as they argued their case before <persName>Maximus</persName>. The logic guiding the order in which these documents are presented is obscure. Read chronologically, however, they reveal that each successive governor was called upon to confirm <placeName type="ancient">Histria’s </placeName>ancestral rights (originally confirmed by ‘the emperor,’ who is not named). The governors’ letters of confirmation are clearly responses to petitions presented by <placeName type="modern">Histrian</placeName>delegations that met each governor upon his arrival in the province. It is also clear from at least one letter of the governor <persName>(T.) Flavius Sabinus </persName>(c. AD 53-60) that some kind of dispute about the rights in question had arisen prior to <persName>Maximus’ </persName>decision and had required enforcement by a Roman prefect (Text <ref target="ddoc:315">
+         <bibl>
+            <biblScope>16.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). The exact nature of this earlier dispute is unclear.</p>
+   <p>The earliest letter (Text <ref target="ddoc:319">
+         <bibl>
+            <biblScope>16.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) in the <placeName type="ancient">Histria</placeName> dossier was addressed to the <placeName type="modern">Histrians</placeName>by <persName type="emperor" rend="normal">Claudius’</persName> legate <persName>C. Terentius Tullius Geminus</persName>, who probably served a three-year term in the province from AD 50-53. It responds to concerns expressed by an eleven-man delegation that met <persName>Geminus</persName> in <placeName type="ancient">Tomis</placeName> (mod. <placeName type="modern">Constanţa</placeName>, <placeName type="modern">Romania</placeName>) on his arrival in the province. He confirms their view that <placeName type="ancient">Histria’s</placeName> ancestral boundaries (<foreign xml:lang="grc">
+         <seg type="T2">[ ... </seg>
+      </foreign>
+      <foreign xml:lang="grc">τὰ</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">τῶν</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">προ</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">]</seg>
+      </foreign>
+      <foreign xml:lang="grc">γόνων</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">ὑμῶν</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">ὅρια</foreign>) at <placeName type="ancient">Peuke</placeName> should be preserved.</p>
+   <p>The dossier also contains two letters of <persName>(T.) Flavius Sabinus</persName> (Texts <ref target="ddoc:316">
+         <bibl>
+            <biblScope>16.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> and <ref target="ddoc:315">
+         <bibl>
+            <biblScope>16.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), who next governed the province of <placeName type="ancient">Moesia</placeName> for a term of seven years (ca. AD 53-60). These two letters are probably inscribed in reverse chronological order; they appear third and second, respectively. The letter inscribed first relates to enforcement of an earlier verdict (clearly that delivered in the other letter), and in it <persName>Sabinus</persName> promises to inform his successor about the matter. Although the earlier letter (Text <ref target="ddoc:315">
+         <bibl>
+            <biblScope>16.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) carries the heading “another letter of <persName>Sabinus</persName>,” these headings were obviously added at the time of inscription (or presentation as evidence) and so reflect that order.</p>
+   <p>It is possible that Text <ref target="ddoc:316">
+         <bibl>
+            <biblScope>16.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>coincides with <persName>Sabinus’</persName> arrival in the province, having been met by a delegation similar to that which met <persName>Geminus</persName>. The letter could equally have been composed later, and absent any formula of date, we cannot know for certain. It is unclear exactly what problems continued later in <persName>Sabinus’ </persName>tenure, but it is clear that there were problems, for he wrote back to <placeName type="ancient">Histria </placeName>concerning the delegation of enforcement responsibilities to another prefect. This letter comes later than the other, for <persName>Sabinus </persName>is anticipating his departure from the province and promising to inform his successor of the situation.</p>
+   <p>The fourth interaction (chronologically) between <placeName type="ancient">Histria </placeName>and a Roman governor is found in a letter of <persName>Plautius Aelianus</persName> (Text <ref target="ddoc:318">
+         <bibl>
+            <biblScope>16.5</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), <persName>Sabinus’ </persName>immediate successor, whose tenure in <placeName type="ancient">Moesia </placeName>probably lasted from AD 60 to 67. It would appear that this letter also was prompted by the appearance of a <placeName type="modern">Histrian</placeName>delegation upon the governor’s arrival in the province. He presumably knew to expect them, given <persName>Sabinus’ </persName>prior promise to inform him of the matter. This is the only letter of <persName>Aelianus </persName>in the dossier, so the implication of the heading (“another letter of <persName>Aelianus</persName>”) appears to have been a mistake by the compiler of the dossier or by the lapicide.</p>
+   <p>The <placeName type="modern">Histrians</placeName> continued their practice of securing each new governor’s observance of their ancestral rights. <persName>C. Pomponius Pius</persName>, <persName>Aelianus’</persName> immediate successor as governor of <placeName type="ancient">Moesia Inferior </placeName>(ca. AD 67-68) acknowledged those rights as well, having seen the relevant correspondence of the two previous governors (Text <ref target="ddoc:317">
+         <bibl>
+            <biblScope>16.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>).</p>
+   <p>The <placeName type="modern">Histrians’</placeName> assiduous practice of extracting such letters from each governor paid off some 30 years later when <persName>Charagonius Philopalaestrus</persName> brought his lawsuit. Although most of the detailed portion of <persName>Maximus’</persName>verdict (Text <ref target="ddoc:320">
+         <bibl>
+            <biblScope>16.7</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) is lost, it seems clear from the overall character of the dossier, and the manner of its inscription, that the <placeName type="modern">Histrians</placeName> felt they had won the case and had secured from <persName>Maximus</persName> and his predecessors essential documentation (not least a surveyed boundary description) and vindication of a venerable and important source of revenue.</p>
+   <p>A separate fragmentary inscription, with lettering very similar to the two boundary stelae, preserves a small part of what may be another governor’s letter (in Latin and Greek copies). It mentions a <seg type="treGreekTransliterated">boule </seg>and <seg type="treGreekTransliterated">demos</seg>, <placeName type="ancient">Histria</placeName>, and Aruntius Flamma, the prefect mentioned in Text <ref target="ddoc:315">
+         <bibl>
+            <biblScope>16.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>. If editiorial supplements are correct, it also mentions Pontius Laelianus, an imperial legate of ca. AD 170.</p>
+   <p type="P40">
+      <foreign xml:lang="la">Determinatio </foreign>(<seg type="treGreekTransliterated">Horothesia</seg>) of <persName>Laberius Maximus</persName>, consular.</p>
+   <p type="P40">Letter of <persName>Sabinus</persName>:</p>
+   <p type="P40">Another Letter of the Same <persName>Sabinus</persName>:</p>
+   <p type="P40">Letter of <persName>Pomponius Pius</persName>:</p>
+   <p type="P40">Another (sic) letter of <persName>Plautius Aelianus</persName>:</p>
+   <p type="P40">Letter of <persName>Tullius Geminus</persName>:</p>
+   <div type="document" xml:id="DOC314"><!--*ISCM 1 68 ll. 1-8; EDH HD026625  (init., Latin only); ISCM 1 67 ll. 1-4; Oliver 1965, 154 s.v. “Decision of the Consular Laberius Maximus”; AE 1919.10.-->
+      <head>DOC314: <bibl type="preferred">ISCM 1 68 ll. 1-8</bibl>; <bibl>EDH HD026625  (init., Latin only)</bibl>; <bibl>ISCM 1 67 ll. 1-4</bibl>; <bibl>Oliver 1965, 154 s.v. “Decision of the Consular Laberius Maximus”</bibl>; <bibl>AE 1919.10</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ὁροθεσία Λαβερίου Μαξίμου ὑ[πατικοῦ]
+            <lb/>fines Histrianorum hos esse con[stitui - - - - - - Pe]
+            <lb break="no"/>ucem laccum Halmyridem a do[minio - - - - - - - - - - - ]
+            <lb/>Argamensium, inde iugo summo [ - - - - - - - - - - ad c]
+            <lb break="no"/>[o]nfluentes rivorum Picusculi et Ga[brani, inde ab im]
+            <lb break="no"/>[o] Gabrano ad capud eiusdem, inde [ - - - - iuxta rivum]
+            <lb/>[S]anpaeum, inde ad rivum Turgicu[lum - - - - - - - - - ]
+            <lb/>a rivo Calabaeo, milia passum circi[ter D?XVI]</ab>
+      </div>
+      <div type="translation">
+         <p>I have established these ... (as) the
+                boundaries of the <placeName type="ancient">Histriani </placeName>... <placeName type="ancient">Peuce </placeName>...
+                    <placeName type="ancient">Halmyris </placeName>lagoon from
+                ... of the <placeName type="ancient">Argamensies</placeName>,
+                thence along the top of the ridge ... to the confluence of the <placeName type="ancient">Picusculus </placeName>and <placeName type="ancient">Gabranus </placeName>streams, thence from the
+                lower <placeName type="ancient">Gabranus </placeName>to its
+                headwaters, thence ... <placeName type="ancient">Sanpaeus</placeName>, thence to the stream <placeName type="ancient">Turgiculus </placeName>... from the stream
+                    <placeName type="ancient">Calabaeus</placeName>, 516(?) miles
+                around the perimeter.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC315"><!--*ISCM 1 68 ll. 9-14; ISCM 1 67 ll. 5-10; Oliver 1965, 155 s.v. “Epistle of Sabinus”.-->
+      <head>DOC315: <bibl type="preferred">ISCM 1 68 ll. 9-14</bibl>; <bibl>ISCM 1 67 ll. 5-10</bibl>; <bibl>Oliver 1965, 155 s.v. “Epistle of Sabinus”</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἐπιστολὴ Σαβείνου
+            <lb/>Φλάβιος Σαβεῖνος Ἰστριανῶν ἄρχους[ιν βουλῇ δήμῳ]
+            <lb/>χαίρειν. τὸ περὶ Πεύκην ὑμεῖν δίκαιο[ν ὅπως ἀκέραιον δι]
+            <lb break="no"/>ατηρηθῇ, ἔσται ἐπιμελὲς Ἀρουντίῳ Φλάμ[μᾳ τῷ ἐπάρχῳ· οὕ]
+            <lb break="no"/>τως γὰρ αὐτῷ ἐπέστε[ι]λα· λαλήσω δὲ καὶ Αἰ{μι}λι[ανῷ διαδόχῳ]
+            <lb/>μου καὶ εἰς τὸ παντελὲς συνστήσω ὑμᾶς.</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Flavius Sabinus </persName>to the magistrates, council and people of the <placeName type="ancient">Istrianoi</placeName>, greetings. Your right
+                concerning <placeName type="ancient">Peuke </placeName>must be
+                found to be unharmed; this will be the prefect <persName>Aruntius Flamma’s </persName>concern, for so I have
+                written to him. I shall also speak to <persName>Aelianus </persName>my successor and I shall recommend you
+                thoroughly.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC316"><!--*ISCM 1 68 ll. 15-27; ISCM 1 67.10-23; Oliver 1965, 155 s.v. “Another Epistle of the same Sabinus”.-->
+      <head>DOC316: <bibl type="preferred">ISCM 1 68 ll. 15-27</bibl>; <bibl>ISCM 1 67.10-23</bibl>; <bibl>Oliver 1965, 155 s.v. “Another Epistle of the same Sabinus”</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἄ[λλη ἐπιστολὴ]
+            <lb/>τοῦ αὐτοῦ Σαβείνου. Φλά(βιος) Σαβεῖνος π[ρεσβευτὴς Ἰστρι]
+            <lb break="no"/>ανῶν ἄρχουσιν βουλῇ δήμῳ χαίρειν· εἰ κα[ὶ τὸ τῆς κατὰ τὸν]
+            <lb/>Ἴστρον ὄχθης τέλος μέχρις θαλάσσης δ[ιήκει καὶ ἐκ το]
+            <lb break="no"/>σούτου διαστήματος ἀφέστηκεν ἡ πό[λις ἀπὸ τῶν τοῦ]
+            <lb/>ποταμοῦ στομάτων ὅμως ἐπεὶ καὶ οἱ [πρέσβεις ὑμῶν]
+            <lb/>διεβεβαιοῦντο καὶ Ἀσιατικὸς ὁ ἔπαρχος [ἔλεγε σχεδὸν]
+            <lb/>ἐκείνην μόνην εἶναι τῆς πόλεως πρόσο[δον τὴν ἐκ τοῦ]
+            <lb/>ταρειχευομένου ἰχθύος, ἔδοξα δεῖν [ὑμεῖν κατὰ τὴν ὑμετέ]
+            <lb break="no"/>ραν συνήθιαν μένειν τὴν αὐτὴν ἄδει[αν τοῦ τε ἁλιεύειν]
+            <lb/>ἐν τῷ Πεύκης στόματι καὶ τοῦ παραφ[έρειν τὴν δᾷδα]
+            <lb/>εἰς τὴν ἑνὸς ἑκάστου χρείαν δίχα τέ[λους· περὶ]
+            <lb/>γὰρ τῶν τῆς ὕλης χρείων ἀν{γ}αμφισβήτη[τα ἔχετε ὅρια]
+            <lb/>καὶ τὴν ἐξ ἐκείνων χρῆσιν πᾶσαν τῷ τέλε[ι ἀνυπεύθυνον].</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Flavius Sabinus</persName>, legate, to the magistrates, council and people of the
+                    <placeName type="ancient">Istrianoi</placeName>, greetings.
+                Even though the tax district () of the shore along the <placeName type="ancient">Istros</placeName> extends as far as the
+                ocean, and the city stands so great a distance from the mouths of the river,
+                nevertheless since your representatives insisted – and <persName>Asiatikos</persName> the prefect agreed – that this
+                alone is the city’s sole income, namely that derived from preserved fish, I thought
+                it necessary that the same freedom remain for you, according to your custom, both to
+                fish at the <placeName type="ancient">Peuke</placeName> mouth and
+                to transport pine wood for the use of each individual independent of the tax
+                district ().
+                For, concerning the exploitation of the woodland you have undisputed boundaries and
+                the full use from them free of accounting to the tax district ().</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC317"><!--*ISCM 1 68 ll. 28-38; ISCM 1 67 ll. 24-35; Oliver 1965, 155 s.v. “Epistle of Pomponius Pius”.-->
+      <head>DOC317: <bibl type="preferred">ISCM 1 68 ll. 28-38</bibl>; <bibl>ISCM 1 67 ll. 24-35</bibl>; <bibl>Oliver 1965, 155 s.v. “Epistle of Pomponius Pius”</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἐπιστολὴ Πομπωνίου Πείου
+            <lb/>Πομπώνιος Πεῖος Ἰστριανῶν ἄρχουσιν [βουλῇ δήμῳ χαίρειν].
+            <lb/>καὶ ἐκ τῶν γεγραμμένων ὑμεῖν ὑπὸ Φλ(αβίου) [Σαβείνου καὶ Αἰλι]
+            <lb break="no"/>ανοῦ, ἀνδρῶν ἐπισημοτάτων καὶ ἐμο[ὶ τειμιοτάτων, ἦν ἀντι]
+            <lb break="no"/>λαβέσθαι ὅτι ἡ ἀσθένια τῆς πόλεως ὑμῶ[ν προνοίας τυγχάνει πρὸ οὖν]
+            <lb/>πάντων φροντίζοντος τοῦ θειοτάτου [Καίσαρος καὶ ὡς ἀληθῶς σωτή]
+            <lb break="no"/>ρος ἡμῶν ἵνα μὴ μόνον διαφυλαχθῇ ἀλ[λὰ καὶ αὐξηθῇ]
+            <lb/>τὰ τῶν πόλεων δίκαια ἐπέκρεινα τὴν τ[ῶν κατὰ στόμα Πεύκης ἁλι]
+            <lb break="no"/>ευομένων ἰχθύων πρόσοδον ὑμετέραν εἶ[ναι, ᾧ δικαίῳ ταῦ]
+            <lb break="no"/>τα τὰ τέλη οἱ πρόγονοι ὑμῶν καὶ πατέρε[ς] τ[ῇ χάριτι τῶν Σεβαστῶν]
+            <lb/>ἀδιαλείπτως ἔσχον.</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Pomponius Pius </persName>to the magistrates, council and people of the
+                    <placeName type="ancient">Istrianoi</placeName>, greetings.
+                From what was written to you by <persName>Flavius Sabinus</persName> and <persName>Aelianus</persName>, men most exemplary and valuable to me, it was possible to
+                perceive that the (inherent) weakness of your city finds itself in the providential
+                care of the most divine Caesar – truly our savior – who does indeed look out for
+                everyone. In order that the rights of the cities (sic) should be not only be
+                protected but also increased, I have decreed that the proceeds from fish caught at
+                the <placeName type="ancient">Peuke </placeName>mouth be yours
+                according to the right by which your ancestors and fathers obtained these taxes,
+                without interruption, by the grace of the emperors.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC318"><!--*ISCM 1 67 ll 35-48; ISCM 1 68 ll. 38-48; Oliver 1965, 155-156 s.v. “Epistle of Plautius Aelianus”.-->
+      <head>DOC318: <bibl type="preferred">ISCM 1 67 ll 35-48</bibl>; <bibl>ISCM 1 68 ll. 38-48</bibl>; <bibl>Oliver 1965, 155-156 s.v. “Epistle of Plautius Aelianus”</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἄλλη ἐπιστολὴ Πλαυτίου
+            <lb/>[Αἰλ]ιανοῦ Πλαύτ[ιος Αἰ]λιανὸς Ἰστριανῶν ἄρχουσιν
+            <lb/>[χ]αίρειν. τὸ ψήφισμα ὑμῶν ἀπέδοσάν μοι οἱ πρέσβεις
+            <lb/>[Κ]αλλίστρατος Δημητρίου καὶ Μειδίας Ἀρτεμιδώρου·
+            <lb/>[ἠ]ξιοῦτε δὲ διὰ τοῦ ψηφίσματος παραπεμφθῆναι
+            <lb/>τὴν εὐχαριστοῦσαν τῷ τειμιοτάτῳ ἡμῶν Σαβείνῳ
+            <lb/>πρεσβείαν, ὃ καὶ δι’ αὐτὸν μόνον τὸν Σαβεῖνον [ἀ]
+            <lb break="no"/>[σ]μένως ἂν ἐποίησα· ἠξιοῦτε δὲ καὶ τὰ τῆς Πεύκης ὑμε[ῖν]
+            <lb/>ἄθραυστα τηρεῖν δίκαια· ἐγὼ δὲ τοσοῦτον ἀπέχω
+            <lb/>τοῦ θραῦσαί τι τῶν ἐκ χρόνου φυλασσομένων ὑμε[ῖν]
+            <lb/>δικαίων, ὡς καὶ παρευρεῖν ἂν ἡδέως δι’ ὧν ἐνέσται [[κ[ο]]]
+            <lb/>κοσμεῖν ἀρχαίαν πόλιν καὶ Ἑλληνίδα καὶ εἰς τὸν Σ[ε]
+            <lb break="no"/>βαστὸν εὐσεβῆ καὶ πρὸς ἡμᾶς αὐτοὺς οὖσαν εὐσε
+            <lb break="no"/>βῆ.</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Plautius Aelianus </persName>to the magistrates of the <placeName type="ancient">Istrianoi</placeName>, greetings. The
+                representatives <persName>Kallistratos son of Demetrios </persName>and <persName>Meidias son of Artemidoros </persName>delivered your resolution to me. You requested through your resolution
+                that the embassy of thanksgiving for our most esteemed <persName>Sabinus </persName>be conveyed onward, which I did
+                gladly for <persName>Sabinus’ </persName>sake alone.
+                You also asked that I preserve undiminished your rights at <placeName type="ancient">Peuke</placeName>. I am so far removed from
+                breaking down any of your long-protected rights that, in days to come, I will gladly
+                devise ways to honor an ancient Hellenic city that is pious toward the emperor and
+                pious toward us ourselves.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC319"><!--*ISCM 1 68 ll. 49-61; ISCM 1 67 ll. 48-62; Oliver 1965, 156 s.v. “Epistle of Tullius Geminus”.-->
+      <head>DOC319: <bibl type="preferred">ISCM 1 68 ll. 49-61</bibl>; <bibl>ISCM 1 67 ll. 48-62</bibl>; <bibl>Oliver 1965, 156 s.v. “Epistle of Tullius Geminus”</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἐπιστολὴ Τουλλίου Γεμίνου
+            <lb/>[Τούλ]λιος Γέμινος πρεσβευτὴς καὶ ἀντιστρά&lt;τη&gt;γος [Τιβ(ερίου) Κλαυδί]
+            <lb break="no"/>[ου] Καίσαρος Σεβ(αστοῦ) Γερμανικοῦ Ἰστριανῶν ἄρχους[ιν βουλῇ δήμῳ]
+            <lb/>χαίρειν. οἱ πρέσβεις ὑμῶν Δημήτριος, Ἐσχρίων, Ωτα.3, [Μειδίας]
+            <lb/>Διονυσόδωρος, Ἡγησαγόρας, Ἀρισταγόρας, [Μητρόδωρος ἐν]
+            <lb break="no"/>τυχόντες μοι ἐν Τόμει τὸ ψήφισμα ὑμῶν ἐπέδοσαν κα[ὶ τὴν εἰς τὸν Σεβασ]
+            <lb break="no"/>τὸν ἡμῶν ἐπιδειξάμενοι εὔνοιαν συνήσθησαν ἐ[πὶ τῇ ἡμετέρᾳ ὑγεί]
+            <lb break="no"/>ᾳ καὶ παρουσίᾳ σπουδεοτάτην &lt;π&gt;οιησάμενοι τ[ὴν περὶ ὧν ἐνετείλας]
+            <lb break="no"/>θε αὐτοῖς ὁμειλίαν· ἐπιγνοὺς οὖν ἣν καὶ πρὸς [ἡμᾶς ἐνεφάνισαν τῆς]
+            <lb/>πόλεως ὑμῶν διάθεσιν πειράσομαι ἀεί τινος ὑ[μεῖν ἀγαθοῦ]
+            <lb/>γενέσθαι παραίτιος. περὶ δὲ Πεύκης καὶ τῶν στομ[άτων διδαχθε]
+            <lb break="no"/>ὶς ὑπὸ τῶν πρέσβεων ὑμῶν ἐδικαίωσα τηρῖσθαι ὑμ[εῖν τὰ τῶν προ]
+            <lb break="no"/>γόνων ὑμῶν ὅρια</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Tullius Geminus</persName>, propraetorian imperial legate of Tiberius <persName type="emperor">Claudius</persName> Caesar Augustus Germanicus, to
+                the magistrates, council and people of the <placeName type="ancient">Istrianoi</placeName>, greetings. Your
+                representatives <persName>Demetrios</persName>,
+                    <persName>Eschrios</persName>, <persName>Ota[...]</persName>, <persName>Meidias</persName>, <persName>Dionysodoros</persName>, <persName>Hegesagoras</persName>, <persName>Aristagoras </persName>and <persName>Metrodoros</persName>, having met me in <placeName type="ancient">Tomis</placeName>, delivered your decree and,
+                having demonstrated their goodwill toward the emperor, rejoiced together for our
+                health and arrival, holding the most serious possible conversation concerning those
+                things which you directed them to discuss. Recognizing therefore the demonstrated
+                attitude of your city toward us, I shall always try to become the creator of
+                something beneficial to you. Having been informed by your representatives concerning
+                    <placeName type="ancient">Peuke </placeName>and the river
+                mouths, I have judged that the boundaries of your ancestors should be preserved for
+                you.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC320"><!--*ISCM 1 68 ll. 61-70; EDH HD026625 (at end); ISCM 1 67 ll. 63-84; Oliver 1965, 156 s.v. “From Journal of Laberius Maximus”.-->
+      <head>DOC320: <bibl type="preferred">ISCM 1 68 ll. 61-70</bibl>; <bibl>EDH HD026625 (at end)</bibl>; <bibl>ISCM 1 67 ll. 63-84</bibl>; <bibl>Oliver 1965, 156 s.v. “From Journal of Laberius Maximus”</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>exemplum [decreti]
+            <lb/>Ma&lt;n&gt;i Laberi Maximi leg(ati) Aug(usti) pr(o) pr(aetore)
+            <lb/>[I]mp(eratore) Caesar&lt;e&gt; Traiano Aug(usto) German[ico III Iulio Fron]
+            <lb break="no"/>tino III co(n)s(ulibus) VIII ka(lendas) Novembres [descriptum]
+            <lb/>et recognitum factum ex comm(entariis) M[ani Laberi]
+            <lb/>Maximi leg(ati) Aug(usti) pr(o) pr(aetore) permitte[nte ... ]
+            <lb/>Fabio Pompeiano. quae iam era&lt;nt&gt; scri[pta]
+            <lb/>Charagonio Phi&lt;l&gt;o&lt;p&gt;alaestro con[ductori publici por]
+            <lb break="no"/>tori ripae Thraciae, postulant&lt;i&gt; ut [portorium sibi Hal]
+            <lb break="no"/>myridis et Peuci daretur. secund[um formam quam accepit]
+            <lb/>[habe]bit ius exigendi porto[ri a finibus ca]
+            <lb break="no"/>[nab]arum Dimensium usque [ad mare - - - - - ]</ab>
+      </div>
+      <div type="translation">
+         <p>Copy of (the verdict) of <persName>Manius Laberius Maximus</persName>, propraetorian
+                legate of the emperor Caesar <persName type="emperor">Trajan </persName>Augustus Germanicus, (dated) when the emperor was consul for the
+                    3 time and <persName>Iulius Frontinus </persName>was consul for the
+                    3 time, 8 days before the Kalends
+                of November, copied and checked from the notes of <persName>Manius Laberius Maximus</persName>, propraetorian
+                imperial legate, (brought out by? with the authorization of?) <persName>Fabius Pompeianus</persName>, which (verdict) was
+                written to <persName>Charagonius Philopalaestrus</persName>, contrator of the <foreign xml:lang="la">portorium </foreign>of the Thracian shore who asked
+                that the <foreign xml:lang="la">portorium </foreign>of <placeName type="ancient">Halmyris </placeName>and <placeName type="ancient">Peucus </placeName>be given to him: according
+                to the (map?, list?) that he received, he shall have the right to the <foreign xml:lang="la">portorium </foreign>due from the boundaries of the
+                    <placeName type="ancient">Canabae Dimensium </placeName>all
+                the way (to the sea?) ...</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC321"><!--ISCM 1 69; Oliver 1965, 151 n. 5.-->
+      <head>DOC321: <bibl>ISCM 1 69</bibl>; <bibl>Oliver 1965, 151 n. 5</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>---------------------------- ------] Ḥis[tr----- -- Pontiu]s Laeli[anus --- - ̓Αρουν]τίῳ Φλάμ[μᾳ --- -----] β̣ουλη δημ[----- ------ σπ]ο̣υδὴν[ ------ ----------------------------</ab>
+      </div>
+   </div>
+</div>

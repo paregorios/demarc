@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST66">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Disputes Attested on an ‘Archive Wall’ from <placeName type="ancient">Coronea</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 71</bibl>
+   </p>
+   <p>Date(s): <date>c. AD 125 - 161</date>
+   </p>
+   <p>
+      <seg type="instance-description">This dossier provides evidence for, among other matters, a very complex and long-running <hi rend="bold">boundary dispute</hi> between <placeName type="ancient">Coroneia</placeName> and <placeName type="ancient">Thisbe</placeName>, as well as two other disputes involving <placeName type="ancient">Coronea</placeName>that may have touched on boundaries too.</seg>
+   </p>
+   <p>Sometime after AD 161 a significant collection of imperial letters addressing civic affairs of <placeName type="ancient">Coronea</placeName> was inscribed on a wall whose original context and function are now lost to us. Subsequently, this ‘archive wall’ was disassembled, and the blocks reused in the construction of churches and other structures in the area of ancient <placeName type="ancient">Coronea</placeName>. A number of the surviving elements of the wall have slowly been published over the course of the 20th century, so that we now have substantial portions of at least ten letters from three emperors (<persName type="emperor" rend="normal">Hadrian</persName>: five, <persName type="emperor" rend="normal">Antoninus Pius</persName>: four, and <persName type="emperor" rend="normal">Marcus Aurelius</persName>together with <persName type="emperor" rend="normal">Lucius Verus</persName>: one), as well as four smaller fragments of other documents. The latest letter, that of <persName type="emperor" rend="normal">Marcus Aurelius</persName> and <persName type="emperor" rend="normal">Verus (Text </persName>
+      <persName type="emperor" rend="normal">
+         <ref target="ddoc:452">
+            <bibl>
+               <biblScope>43.10</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>
+      </persName>
+      <persName type="emperor" rend="normal">, AD 161)</persName>, provides a <seg type="term">terminus post quem</seg> for the inscription of the wall and, as Fossey has pointed out, a possible explanation for the selection and inscription of the other letters.<note n="325" xml:id="ftn325"> This letter is of a standard type, confirming <placeName type="ancient">Coronea’s </placeName>rights of freedom and autonomy (<foreign xml:lang="grc">ὅσα</foreign>
+         <foreign xml:lang="grc">
+            <seg type="T2">  </seg>
+         </foreign>
+         <foreign xml:lang="grc">τῆς</foreign>
+         <foreign xml:lang="grc">
+            <seg type="T2">  </seg>
+         </foreign>
+         <foreign xml:lang="grc">ἐλευθερίας</foreign>
+         <foreign xml:lang="grc">
+            <seg type="T2">  </seg>
+         </foreign>
+         <foreign xml:lang="grc">καὶ</foreign>
+         <foreign xml:lang="grc">
+            <seg type="T2">  </seg>
+         </foreign>
+         <foreign xml:lang="grc">αὐτονομίας</foreign>
+         <foreign xml:lang="grc">
+            <seg type="T2">  </seg>
+         </foreign>
+         <foreign xml:lang="grc">δίκαια</foreign>) as they had been granted by prior emperors and confirmed by <persName type="emperor" rend="normal">Antoninus Pius</persName>. All commentators agree, on the basis of letter forms and layout, that the documents were inscribed together at the same time. Fossey’s opinion on this matter led him to place the latest document first in his presentation; it does begin one of the surviving blocks, none of which were found <seg type="term">in situ</seg>. If he is correct, the archive may have served to document and advertise various instances of imperial favor, granted over the years and confirmed once again for a new reign. In this regard, the dossier would bear some resemblance to the twin stelae from the territory of <placeName type="ancient">Histria</placeName>(Instance <ref target="#INST21">
+            <bibl>
+               <biblScope>16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). If Oliver and Roesch are right, however, in independently placing that block last in the sequence, then it may be more difficult to argue that this letter governs the whole collection, for another letter of <persName type="emperor" rend="normal">Antoninus</persName>—too fragmentary to reveal its subject—follows this one. We would have expected a thematically diagnostic letter to come either first or last in such a dossier. </note> 
+   </p>
+   <p type="P22">The better-preserved portions of the archive can be divided into three topical groups:<note n="326" xml:id="ftn326"> Fossey and Oliver see these three subject groupings as complementary but distinct, whereas Boatwright takes the entire collection as arising from a common origin. Specifically, she argues that all the disputes attested in the dossier arose over newly useful land reclaimed from the lake’s margins through <persName type="emperor" rend="normal">Hadrian</persName>’s engineering works, with the result that “the imperial project seems to have incited smoldering local rivalries, inadvertently causing greater outside interference in the region rather than a more stable autonomy” (Boatwright 2000, 87 and 115-116). Fossey too acknowledges a probable link between the Hadrianic project documented in Text <ref target="ddoc:444">
+            <bibl>
+               <biblScope>43.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, which involved the construction of “levees for the <placeName type="ancient">Kepheisos</placeName>, <placeName type="ancient">Herkynna</placeName> and the other rivers,” and the mysterious dispute at the <placeName type="ancient">Phalaros</placeName>, delegated to <persName>Aemilius Iuncus</persName> in Text <ref target="ddoc:448">
+            <bibl>
+               <biblScope>43.5</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. On the other hand, Fossey sees no connection between the <placeName type="ancient">Thisbe</placeName>-<placeName type="ancient">Coronea</placeName> dispute and <persName type="emperor" rend="normal">Hadrian</persName>’s drainage projects. He argues that the territory in dispute was “in the small plain of the upland village of <placeName type="modern">Koúkoura </placeName>where the territories of <placeName type="ancient">Koroneia</placeName> and <placeName type="ancient">Thisbe</placeName> meet high on <placeName type="modern">Mt. Helikon</placeName>.” It is indeed hard to believe that <placeName type="ancient">Thisbe</placeName>, lying as it did on relatively flat land at the southern foot of <placeName type="modern">Mt. Helikon</placeName>, should have been contending with <placeName type="ancient">Coronea</placeName>, its counterpart to the north of the mountain range, for pasture rights to land on the littoral of the <placeName type="ancient">Copais Lacus</placeName>, probably lying further to the north and west of <placeName type="ancient">Coronea</placeName>. Burton 2000, 211 no. 71 has hopelessly confused this dossier, citing only a portion of it and describing it incorrectly as “a dispute between <placeName type="ancient">Orchomenos</placeName> and <placeName type="ancient">Thisbe</placeName> over territory and rights of pasturage ...” In point of fact, <placeName type="ancient">Orchomenos</placeName> and <placeName type="ancient">Thisbe</placeName>were clearly embroiled in separate disputes, each against <placeName type="ancient">Coronea</placeName>, and are never represented in the dossier as having been in conflict with each other. </note>
+   </p>
+   <ul>
+      <li>A Hadrianic flood control project is discussed in at least three letters to <placeName type="ancient">Coronea</placeName> (Texts <ref target="ddoc:444">
+            <bibl>
+               <biblScope>43.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> - <ref target="ddoc:446">
+            <bibl>
+               <biblScope>43.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>), two of which are securely attributable to <persName type="emperor" rend="normal">Hadrian</persName>.<note n="327" xml:id="ftn327"> Based on the first letter’s date of AD 125, it seems likely that the project had its genesis during <persName type="emperor" rend="normal">Hadrian</persName>’s trip through <placeName type="ancient">Boeotia </placeName>(Birley 1997, 186). The second letter provides additional support for this view. Though fragmentary, it also cites <persName type="emperor" rend="normal">Hadrian</persName>’s ninth year of tribunician power and includes some discussion of “wine for soldiers traveling with [him]” (<foreign xml:lang="grc">οἶνον</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">τοῖς</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">στρατιώταις</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">τοῖς</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">σὺν</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">ἐμο</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T11">ὶ</seg>
+            </foreign>). </note> The work involved the construction of levees for several of the rivers feeding the <placeName type="ancient">Copais Lacus</placeName>, and of an aqueduct, all at the emperor’s expense.<note n="328" xml:id="ftn328"> The rivers <placeName type="ancient">Kepheisos</placeName>, <placeName type="ancient">Herkynna</placeName>and <placeName type="ancient">Phalaros</placeName> are mentioned explicitly, and “the other rivers where, flowing together, they empty into the Copaic Lake” (Text <ref target="ddoc:444">
+               <bibl>
+                  <biblScope>43.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref> = <foreign xml:lang="grc">καὶ</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">τοίς</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">ἂλλοις</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">ποταμοῖς</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">καθὸ</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">ἢδη</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">μετ᾿</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">ἀλλήλων</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">ῥέοντες</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">εἰς</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">τὴν</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">Κωπαΐδα</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">λίμην</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">ἐμβάλλουσι</foreign>). </note> The ostensible goal was to eliminate flooding of agricultural land along the south and western shores of the lake. Instructions for the maintenance and protection of the works, and the levying of fines on anyone inflicting damage on them, were dictated in the final letter of the group.<note n="329" xml:id="ftn329"> Oliver 1989, 266 read and supplemented <seg type="T7">[ --- </seg>
+            <seg type="T8">οἱ</seg>
+            <seg type="T7">  </seg>
+            <seg type="T8">δὲ</seg>
+            <seg type="T7">  </seg>
+            <foreign xml:lang="grc">
+               <seg type="T2">] </seg>
+            </foreign>
+            <foreign xml:lang="grc">ἐνκεκτημένοι</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">δικαιοί</foreign>
+            <foreign xml:lang="grc">
+               <seg type="T2">  </seg>
+            </foreign>
+            <foreign xml:lang="grc">εἰσιν</foreign> bordering a break in the text of Text <ref target="ddoc:446">
+               <bibl>
+                  <biblScope>43.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref> (line 7), leading him to argue that the emperor was providing for the punishment of transgressors from “a privileged group whom the free city might have found difficult to punish or coerce ... foreign landholders, at least some of them with Roman citizenship and influence.” Jones 1992, 146 disagrees with this position, in part because neither Roesch nor Fossey reads the initial epsilon reported by Oliver. Jones thinks <persName type="emperor" rend="normal">Hadrian</persName> is simply exercising the patron’s prerogative, giving instructions for the protection of a work completed through imperial largesse; therefore he would supplement the lacuna<seg type="T7">  </seg>
+            <seg type="T6">with something like</seg>:<seg type="T7"> [ --- </seg>
+            <seg type="T8">οἱ</seg>
+            <seg type="T7">  </seg>
+            <seg type="T8">δὲ</seg>
+            <seg type="T7">  </seg>
+            <seg type="T8">τὴν</seg>
+            <seg type="T7">  </seg>
+            <seg type="T8">πλησίον</seg>
+            <seg type="T7">  </seg>
+            <seg type="T8">γῆ</seg>
+            <seg type="T7">]</seg>
+            <seg type="T8">ν</seg>
+            <seg type="T7">  </seg>
+            <seg type="T8">κεκτημένοι</seg>. </note>
+      </li>
+      <li>Three probable disputes with neighboring cities are addressed in six other documents (Texts <ref target="ddoc:447">
+            <bibl>
+               <biblScope>43.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> - <ref target="ddoc:451">
+            <bibl>
+               <biblScope>43.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>)</li>
+   </ul>
+   <ul>
+      <li>Text <ref target="ddoc:447">
+            <bibl>
+               <biblScope>43.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>: A single, fragmentary response to a petition (presumably of <placeName type="ancient">Coronea</placeName>), issued by an unknown emperor (presumably <persName type="emperor" rend="normal">Hadrian</persName>), that mentions construction, taxes and <placeName type="ancient">Orchomenos</placeName>. The emperor delegates resolution of any future complaints to the proconsul <persName>Calpurnius Longus.</persName> 
+      </li>
+      <li>Text <ref target="ddoc:448">
+            <bibl>
+               <biblScope>43.5</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>: A single response to a petition of <placeName type="ancient">Coronea</placeName>, issued by the emperor <persName type="emperor" rend="normal">Hadrian</persName>, delegating on-site resolution of some kind of dispute or problem (not specified) at the river <placeName type="ancient">Phalaros</placeName> to the emperor’s friend, <persName>Aemilius Iuncus,</persName> 
+         <seg type="T31">who was to go there in person. This dispute probably arose from the extensive hydraulic works initiated by </seg>
+         <persName type="emperor" rend="normal">
+            <seg type="T31">Hadrian</seg>
+         </persName>
+         <seg type="T31"> ten years earlier, attested in Texts </seg>
+         <seg type="T31">
+            <ref target="ddoc:444">
+               <bibl>
+                  <biblScope>43.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>
+         </seg>
+         <seg type="T31"> - </seg>
+         <seg type="T31">
+            <ref target="ddoc:446">
+               <bibl>
+                  <biblScope>43.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>
+         </seg>
+         <seg type="T31">. It may well have involved boundaries of the land thus reclaimed or maintenance of the levees, hence the need for personal intervention on-site.</seg>
+      </li>
+      <li>Texts <ref target="ddoc:449">
+            <bibl>
+               <biblScope>43.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> - <ref target="ddoc:451">
+            <bibl>
+               <biblScope>43.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>: Four letters (one of <persName type="emperor" rend="normal">Hadrian</persName> and three of <persName type="emperor" rend="normal">Antoninus</persName>) relating to a protracted dispute between <placeName type="ancient">Thisbe</placeName> and <placeName type="ancient">Coronea</placeName> concerning grazing rights, seized ‘security,’ disrupted boundary measurements, and disputed fees. This is the most complex component of the archive, and represents one of the most administratively convoluted boundary disputes in all the extant evidence. Repeatedly delegated by both emperors to the otherwise unknown <persName>Mestrios Aristonymos</persName>, the situation nonetheless proved intractable until at least AD 154/5, when <persName type="emperor" rend="normal">Antoninus</persName>charged the proconsul (unnamed) to “determine which are the parties disobeying the [prior] rulings ... and to ensure the quickest possible implementation of <persName>Aristonymos</persName>’ (decision)”<note n="330" xml:id="ftn330"> Text <ref target="ddoc:449">
+               <bibl>
+                  <biblScope>43.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref> = <foreign xml:lang="grc">μαθεῖν</foreign> 
+            <foreign xml:lang="grc">πότεροι</foreign> 
+            <foreign xml:lang="grc">εἰσιν</foreign> 
+            <foreign xml:lang="grc">οἱ</foreign> 
+            <foreign xml:lang="grc">ἀπειθοῦντες</foreign> 
+            <foreign xml:lang="grc">τοῖς</foreign> 
+            <foreign xml:lang="grc">ἐγνω</foreign>[<foreign xml:lang="grc">σμένοις</foreign> 
+            <foreign xml:lang="grc">καὶ</foreign>] <foreign xml:lang="grc">προνοήσει</foreign> 
+            <foreign xml:lang="grc">τὴν</foreign> 
+            <foreign xml:lang="grc">ταχίσταν</foreign> 
+            <foreign xml:lang="grc">ὑπὸ</foreign> 
+            <foreign xml:lang="grc">τοῦ</foreign> 
+            <foreign xml:lang="grc">Ἀριστωνύμου</foreign> 
+            <foreign xml:lang="grc">τεθῆναι</foreign> [ —- ]. </note>).</li>
+   </ul>
+   <ul>
+      <li>Confirmation of civic rights of <placeName type="ancient">Coronea</placeName> by <persName type="emperor" rend="normal">Marcus Aurelius</persName> and <persName type="emperor" rend="normal">Lucius Verus</persName>, and (possibly) by <persName type="emperor" rend="normal">Antoninus Pius</persName> (Text <ref target="ddoc:452">
+            <bibl>
+               <biblScope>43.10</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>-<ref target="ddoc:453">
+            <bibl>
+               <biblScope>43.11</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>).</li>
+      <li>The other three fragments are too small to permit any detailed analysis (Text <ref target="ddoc:455">
+            <bibl>
+               <biblScope>43.12</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>-<ref target="ddoc:457">
+            <bibl>
+               <biblScope>43.14</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>).</li>
+   </ul>
+   <p>The first two disputes (Texts <ref target="ddoc:447">
+         <bibl>
+            <biblScope>43.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>and <ref target="ddoc:448">
+         <bibl>
+            <biblScope>43.5</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) were probably boundary disputes, but because of their language or incomplete condition, this must remain only a provisional assessment.</p>
+   <p>The sequence of four letters from <persName type="emperor" rend="normal">Hadrian</persName> and <persName type="emperor" rend="normal">Antoninus Pius</persName> regarding a protracted dispute between <placeName type="ancient">Coronea</placeName> and <placeName type="ancient">Thisbe</placeName> (Texts <ref target="ddoc:449">
+         <bibl>
+            <biblScope>43.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> - <ref target="ddoc:451">
+         <bibl>
+            <biblScope>43.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) is particularly interesting to us here. This dispute was probably centered on summer pasture areas and the boundaries between them in a high plain of <placeName type="modern">Mt. Helikon</placeName> surrounding the modern village of <placeName type="modern">Koukoura</placeName>.<note n="331" xml:id="ftn331"> See note <bibl>
+            <ptr target="dbib:elliott-2004"/>
+            <biblScope unit="note">326</biblScope>
+            <biblScope unit="ref-name">ftn326</biblScope>
+         </bibl> for further discussion. </note>
+   </p>
+   <p>The first letter of the group in inscribed sequence (<ref target="ddoc:449">
+         <bibl>
+            <biblScope>43.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) seems to have been <persName type="emperor" rend="normal">Pius</persName>’ last letter on the matter. It is marked ‘L’ in Figure 2, which presents the documentation for this dispute in chronological order, rather than in the order the documents were inscribed. This letter dates to the 18<seg type="T19">th</seg> year of his tribunician power (AD 154/5), and was provoked by an embassy from <placeName type="ancient">Coronea</placeName> which brought to him a civic decree (<foreign xml:lang="grc">
+         <seg type="T31">ψήφισμα</seg>
+      </foreign>
+      <seg type="T31">), no longer extant (‘K’). This decree evidently contained charges that the </seg>
+      <placeName type="modern">
+         <seg type="T31">Thisbeans</seg>
+      </placeName>
+      <seg type="T31"> had interfered with land measurement required by an earlier verdict of </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Hadrian (‘A’)</seg>
+      </persName>
+      <seg type="T31">. It also emerges from </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Pius</seg>
+      </persName>
+      <seg type="T31">’s letter</seg> that he had retained <persName type="emperor" rend="normal">Hadrian</persName>’s verdict as valid in a subsequent decision of his own (‘G’ and ‘H’). <persName type="emperor" rend="normal">Antoninus</persName> delegated enforcement of these prior verdicts, which had something to do with someone named <persName>Aristonymos</persName>,<note n="332" xml:id="ftn332"> This individual, who seems to have played such a pivotal—if ineffective—role in this dispute for over 20 years, seems to be otherwise completely unknown to us. </note> to the proconsul, who is not named (‘M’).</p>
+   <p type="P20">
+      <ele>draw:frame</ele>
+   </p>
+   <p>We would expect to see next in the archive the text of whatever had been attached to <persName type="emperor" rend="normal">Antoninus</persName>’ letter, including the “copies of what [he] had dispatched to the <placeName type="ancient">Thisbeis</placeName>.” There are two letters inscribed as if attachments to the original letter: a letter of <persName type="emperor" rend="normal">Hadrian</persName> to <placeName type="ancient">Thisbe</placeName> (under a heading styling him ‘god’ and lacking his full introduction and imperial titulature, Text <ref target="ddoc:450">
+         <bibl>
+            <biblScope>43.7</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>= ‘C’), and a seemingly unrelated letter of <persName type="emperor" rend="normal">Antoninus</persName>, dating to AD 140 (Text <ref target="ddoc:454">
+         <bibl>
+            <biblScope>43.8</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>).<note n="333" xml:id="ftn333"> In this letter <persName type="emperor" rend="normal">Antoninus</persName>acknowledges a <placeName type="modern">Coronean</placeName> embassy that had come to congratulate him on his accession and adoption of the future emperor <persName type="emperor" rend="normal">Marcus Aurelius</persName>. This letter would appear to have been substituted for the copy of <persName type="emperor" rend="normal">Antoninus</persName>’ response to <placeName type="ancient">Thisbe</placeName> (‘H’), promised in his final letter to <placeName type="ancient">Thisbe</placeName>.  </note> These are followed by another letter of <persName type="emperor" rend="normal">Antoninus</persName> to <placeName type="ancient">Coronea</placeName>, also written in the 18<seg type="T19">th</seg> year of his tribunician power, in which the emperor announces his “verdict in the dispute between you and the <placeName type="ancient">Thisbeis</placeName>” (Text <ref target="ddoc:451">
+         <bibl>
+            <biblScope>43.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> = ‘G’).</p>
+   <p>
+      <persName type="emperor" rend="normal">Hadrian</persName>’s letter (‘C’) is short and to the point, chastising the <placeName type="ancient">Thisbeis</placeName> for failing to obey his verdict and invading the territory of the <placeName type="ancient">Koroneioi</placeName>. It is clearly not the original decision (‘A’) mentioned by <persName type="emperor" rend="normal">Antoninus</persName> in the initial letter of the dossier (‘L’). Rather, <persName type="emperor" rend="normal">Hadrian</persName> is addressing complaints from the <placeName type="modern">Coroneans</placeName> (‘B’) that the <placeName type="modern">Thisbeans</placeName> had violated the terms of that decision. In other words, Hadrian’s original decision, delegating the resolution of the case, is now lost to us, but it is clear from the surviving texts that that decision was not properly implemented or observed, and so the matter was brought to his attention again. Both the original judgment, and now the assessment of penalties for its abrogation, were delegated to the same man mentioned in <persName type="emperor" rend="normal">Antoninus</persName>’ later letter: <persName>Mestrios Aristonymos</persName> (‘A’ and ‘D’).</p>
+   <p>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Antoninus</seg>
+      </persName>
+      <seg type="T12">’ earliest relevant letter (inscribed fourth = ‘G’) makes it clear that the dispute continued more than 18 years after </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Hadrian</seg>
+      </persName>
+      <seg type="T12">’s death. Either </seg>
+      <persName>
+         <seg type="T31">Aristonymos</seg>
+      </persName>
+      <seg type="T12"> had been unable to completely resolve the matter, despite the second commission from </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Hadrian</seg>
+      </persName>
+      <seg type="T12">, and it had taken almost two decades for the parties to bring the matter before </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Antoninus</seg>
+      </persName>
+      <seg type="T12">, or fresh trouble related to the old dispute had broken out. The latter seems more likely, since once again </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Antoninus</seg>
+      </persName>
+      <seg type="T12"> refers the dispute to </seg>
+      <persName>
+         <seg type="T31">Aristonymos</seg>
+      </persName>
+      <seg type="T12"> for resolution, in this case an as-yet incomplete field survey stemming from </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Hadrian</seg>
+      </persName>
+      <seg type="T12">’s original verdict (</seg>
+      <foreign xml:lang="grc">
+         <seg type="T31">ἀπόφασις</seg>
+      </foreign>
+      <seg type="T30">=</seg>
+      <seg type="T31">  </seg>
+      <seg type="T12">‘J’). </seg>
+   </p>
+   <p>
+      <seg type="T31">This long-running affair demonstrates a seemingly habitual application of the petition-response-delegation procedure at the highest levels to a boundary dispute, with little regard for its effectiveness. There is no evidence that a provincial governor was involved in the case at any stage except the very last, when </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Antoninus</seg>
+      </persName>
+      <seg type="T31"> seems to be trying to avert further fruitless correspondence by delegating resolution of the matter (and punishment of the obstinate) once and for all to the proconsul. This absence of the governor as intermediary and as primary judiciary authority in the case must surely be a consequence of </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Hadrian</seg>
+      </persName>
+      <seg type="T31">’s original visit to the area. His presence must have attracted to him a number of disputes and petitions that, in the normal course of events, would have gone to the proconsul, had there not been an emperor in the province. The choice of </seg>
+      <persName>
+         <seg type="T31">Mestrios Aristonymos </seg>
+      </persName>
+      <seg type="T31">as the emperor’s representative in the matter must also be viewed in hindsight as ineffective. Whatever his standing and personal authority, he appears to have been incapable of bringing about a lasting settlement.</seg>
+      <seg type="T31">
+         <note n="334" xml:id="ftn334"> It is particularly frustrating that we do not find a title for <persName>Aristonymos</persName> in these documents. </note>
+      </seg>
+      <seg type="T31"> Once the emperor had engaged with the concerns of the communities in this particular matter, it seems to have been very difficult for a lesser man to bring about a resolution. All told, we have evidence that this affair made its way to the emperor and back again four times over a span of at least 20 years. It was only under </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Antoninus</seg>
+      </persName>
+      <seg type="T31">, when the dispute was revived and then proved intractable in the course of a single year that a more aggressive and sensible approach was taken. It is a further pity that we do not have any evidence with which to measure the governor’s effectiveness in this matter.</seg>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">•••• νῦν ἐπέστειλ[α - - - -</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">••Ν γενέσθι καὶ ταῦ[τα - - -</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">καὶ τῇ Κορωνέων ΕΔΗ[ - - - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">••ΕΘΕΙ ταῦτα πενπο[μεν - - -</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">••• φανερὰ καὶ ΣΑΦ[ - - - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">••••Σ τεθῆναι Ι[ - - - - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">••••• τῷ ψ[ηφίματι? - - -</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">----- ]Α πόλει [ ---</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">----- ]Ν δὲ οὐ ΚΕ[ ---</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">----- ]Σ οὕτως ΕΣ[ ---</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">-- ἀνα]θῆναι καὶ τοῦ [ ---</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">----- ]Η εἰσίῃ τὼν ὑπο [ ---</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">--------]ΥΒΟΥ καὶ φιλῷ [ --</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[ ----------------------- ]ΧΕΣΣΘΑ[Ι] ΙΣΩ[ ----------------------------- ]</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[ ----------------------- ] δοκιμάζων[ται ----------------------------- ]</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[ ----------------------- ] ἐπρέσβευον [ --- οἷς τὸ ἐφόδιον δοθήτω ]</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[εἰ μὴ προῖκα ὑπέσχη]νται. Εὐτυχε[ίτε. --------------------------- ]</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">--------------------------------------------------------------------------</foreign>
+   </p>
+   <div type="document" xml:id="DOC444"><!--*Oliver 1989 no. 108; EB 1.7; Roesch 1985 E.85.02; SEG 32.460; Fossey 1981/82 no. 7.-->
+      <head>DOC444: <bibl type="preferred">Oliver 1989 no. 108</bibl>; <bibl>EB 1.7</bibl>; <bibl>Roesch 1985 E.85.02</bibl>; <bibl>SEG 32.460</bibl>; <bibl>Fossey 1981/82 no. 7</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Ἀγαθὴ τύχη.
+            <lb/>Αὐτοκράτωρ Καῖσαρ, θεοῦ Τραιανοῦ Παρθικοῦ υἱός, θεοῦ Νέρουα υἱωνός,
+            <lb/>Τραιανὸς Ἁδριανὸς Σεβαστός, ἀρχιερεὺς μέγιστος, δημαρχικῆς ἐξου
+            <lb break="no"/>σίας τὸ θ, ὕπατος τὸ γ. Κορωνέων τοῖς ἄρχουσι καὶ τῇ βουλῇ καὶ τῶι
+            <lb/>δήμωι χαίρειν.
+            <lb/>Ἐκέλευσα γενέσθαι χώματα τῷ Κηφεισῷ καὶ τῇ Ἑρκύννῃ καὶ τοῖς ἄλ
+            <lb break="no"/>λοις ποταμοῖς καθὸ ἤδη μετ’ ἀλλήλων ῥέοντες εἰς τὴν Κωπαΐδα
+            <lb/>λίμην ἐμβάλλουσι, καὶ γενήσεται τὴν ταχίστην ὡς κατὰ τὰς
+            <lb/>ὄχθας ῥέοντες μὴ ἐκτρέποιντο τοῦ πόρου μήδε ὥσπερ νῦν
+            <lb/>ἐπικλύζοιεν τὴν πολλὴν τῆς χώρας τῆς ἐργασίμου· κατάξω
+            <lb/>δὲ ὑμεῖν καὶ ὕδωρ· καὶ τὸ μὲν ἀργύριον δοθήσεται παρ’ ἐμοῦ,
+            <lb/>ἓξ καὶ ἥμισυ μυριάδες, ὅσου δεήσειν ἔφασκον οἱ τῶν τοιού
+            <lb break="no"/>των ἐπιστήμονες· ὑμεῖς δὲ ἕλεσθε τοὺς ἐπιμελησομέ
+            <lb break="no"/>νους.</ab>
+      </div>
+      <div type="translation">
+         <p>Good fortune.</p>
+         <p>The emperor Caesar, son of the god Trajan
+                Parthicus, grandson of the god Nerva, Trajan <persName type="emperor">Hadrian</persName> Augustus, pontifex maximus, holding the tribunician power
+                (for the) 9th (time), consul 3 (times), to the magistrates, council and people of
+                the <placeName type="ancient">Koroneoi</placeName>, greetings. I
+                ordered dikes to be built for the <placeName type="ancient">Kepheisos</placeName> and the <placeName type="ancient">Herkynna</placeName> and the other rivers where, flowing together, they empty
+                into <placeName type="modern">Lake Kopais</placeName>.
+                And this will come about </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC445"><!--*Oliver 1989 no. 109; EB 1.8 (Oliver block I, ll. 15-19) + 1.3 (Oliver block II, ll. 1-4); Roesch 1985 E.85.03 + E.85.04; SEG 32.461 and 470; Fossey 1981/82 no. 8 + 3.-->
+      <head>DOC445: <bibl type="preferred">Oliver 1989 no. 109</bibl>; <bibl>EB 1.8 (Oliver block I, ll. 15-19) + 1.3 (Oliver block II, ll. 1-4)</bibl>; <bibl>Roesch 1985 E.85.03 + E.85.04</bibl>; <bibl>SEG 32.461 and 470</bibl>; <bibl>Fossey 1981/82 no. 8 + 3</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκράτωρ Καῖσαρ, θεοῦ Τραινοῦ Παρθικοῦ υἱός, θεοῦ Νέρουα υἱω
+            <lb break="no"/>νός, Τραιανὸς Ἁδριανὸς Σεβαστός, ἀρχιερεὺς μέγιστος, δημαρχι
+            <lb break="no"/>κῆς ἐξουσίας τὸ θ, ὕπατος τὸ γ, πατὴρ πατρίδος, Κορωνέων
+            <lb/>τοῖς ἄρχουσι καὶ τῇ βουλῇ καὶ τῷ δήμῳ, χαίρειν. Αὐτὸς ἐγὼ συμπράττων ταῖς πόλεσιν πρὸς εὐπορίαν χρημά
+            <lb/>
+            <lb break="no"/>[ ---------------- ]ΜΙ τὰς αὐτῶν ἐκείνων ἀφορμὰς ἱκανὸν
+            <lb/>[ --------------- ]ΟΝ οἴνον τοῖς στρατιώταις τοῖς σὺν ἐμοὶ
+            <lb/>[ --------------- ]Ν Ἐπρέσβευεν Ἁγησίας Ἀθηνοδώρου ΑΓΑ
+            <lb break="no"/>[ --------------- ] Εὐτυχεῖτε.</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of the god Trajan
+                Parthicus, grandson of Nerva, Trajan <persName type="emperor">Hadrian</persName> Augustus, pontifex maximus, holding the tribunician power
+                (for the) 9th (time), consul 3 (times), father of the country, to the magistrates,
+                council and people of the <placeName type="ancient">Koroneoi</placeName>, greetings. I myself, joining with the cities toward a
+                good supply of funds ... the resources for those very purposes, enough ... wine for
+                the soldiers with me ... as representative <persName>Hagesias, son of Athenodoros</persName> ... Farewell.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC446"><!--*Oliver 1989 no. 110; EB 1.4; Roesch 1985 E.85.05; SEG 32.463 and 1706; Fossey 1981/82 no. 4. See also: Jones 1992, 146.-->
+      <head>DOC446: <bibl type="preferred">Oliver 1989 no. 110</bibl>; <bibl>EB 1.4</bibl>; <bibl>Roesch 1985 E.85.05</bibl>; <bibl>SEG 32.463 and 1706</bibl>; <bibl>Fossey 1981/82 no. 4</bibl>. See also: <bibl>Jones 1992, 146</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[Αὐτοκράτωρ Καῖσαρ, θε]οῦ Τ[ραι]ανοῦ Παρθικοῦ υἱός, θεοῦ Νέρουα υἱωνός. Τραι
+            <lb break="no"/>[ανὸς Ἁδριανὸς Σεβαστ]ός, ἀρχ[ι]ερεὺς μέγιστος, δημαρχικῆς ἐξουσίας τὸ
+            <lb/>[ -, ὕπατος τὸ γ, πατὴ]ρ πατ[ρ]ίδος, Κορωνέων τοῖς ἄρχουσι καὶ τῇ βουλῇ καὶ
+            <lb/>[τῶι δήμωι χαίρε]ν. Γέγονεν ὑμεῖν τοῦ Φαλαροῦ τὸ ἔργον
+            <lb/>[ἄξιον τῆς ἡμετέρας σ]πουδῆς οὐ τῇ χρείᾳ μόνον ἀλλὰ καὶ τῇ ὄψει· ὡς δὲ
+            <lb/>[πρὸς τὸν λοιπὸν χρόνον] μὴ λάθη ποτὲ διαφθαρέν, ὑμέτερον ἤδη ἐστὶν
+            <lb/>[ ------------ ]Ν κεκτημένοι δικαιοί εἰσιν, ἐπειδὴ καὶ χρῶν
+            <lb break="no"/>[ται --------- τ]ῷ ὕδατι, ἐπιμελεῖσθαι τῶν χωμάτων καὶ
+            <lb/>[ ---------- μ]ηδὲ παραπήσσειν· τὰ φράγματα καὶ ὀχήματα
+            <lb/>[ τοὺς παρὰ ταῖς ὅχθαις χρ]ὴ εἰσβιβάζειν εἰς τὸν ποταμὸν ἀλλὰ μηδὲ Α
+            <lb break="no"/>[ ------ μηδὲ ἐν αὐ]τῷ διάφραγμα ποιουμένους· ὁ δὲ λημφθεὶς
+            <lb/>[ -----------]Ω̣[•••]Τ̣Ω τὴν Βλαβὴν τοῦ ἔργου αὐτὸς ἐπανορ
+            <lb break="no"/>[θώσει καὶ πρόστιμον χίλι]α πεντακόσια δηνάρια εἰσοίσει τῇ πόλει
+            <lb/>[ ----------------------? ] Εὐτυχεῖτε.</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of the god Trajan
+                Parthicus, grandson of the god Nerva, Trajan <persName type="emperor">Hadrian</persName> Augustus, pontifex maximus, holding the tribunician power
+                (for the) ?th (time), consul 3? (times), father of the country, to the magistrates,
+                council and people of the <placeName type="ancient">Koroneoi</placeName>, greeting. The work at the <placeName type="ancient">Phalaros</placeName> has turned out (to be
+                worth your) effort, not only for utility, but also for appearance. In order that (in
+                the future?) at some time its disrepair should not be forgotten, it is your
+                (responsibility to see to? ...) the owners are justified, since they also use ...
+                the water, to have the care of the dikes and ... not to drive stakes into (them?).
+                It is necessary (for the owners along the dikes?) to install fishing weirs(?) and
+                pilings(?) on the river but not ... making a barrier. The one caught ... himself
+                will restore the damage to the work and will contribute to the city (a fine of one
+                thousand?) five hundred denarii. ... Farewell.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC447"><!--*Oliver 1989 no. 111; EB 1.5; Roesch 1985 E.85.06; SEG 32.466; Fossey 1981/82 no. 5.-->
+      <head>DOC447: <bibl type="preferred">Oliver 1989 no. 111</bibl>; <bibl>EB 1.5</bibl>; <bibl>Roesch 1985 E.85.06</bibl>; <bibl>SEG 32.466</bibl>; <bibl>Fossey 1981/82 no. 5</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>-------------------------
+            <lb break="no"/>ΞΑ αὐτὸν διδάσκετε καὶ περὶ τῶν πρὸς Ὀρχομενίους· οὐ γὰρ κατάρ
+            <lb break="no"/>ξεται τοῦ ἐκείνων ἔργου πρότερον πρὶν ἐξετάσαι μή τι ἐ
+            <lb break="no"/>πιβλαβὲς ὑμεῖν γενήσεσθαι μέλλει. τὰ ἐπὶ τοῖς τέλεσιν
+            <lb/>γνωσθέντα μοι, ἐὰν μὴ φυλάττωσιν Ὀρχομένιοι, ἐντύχετε
+            <lb/>τῶι κρατίστῳ ἀνθυπάτωι Καλπουρνίῳ Λόνγῳ κἀκεῖνος ἐπαναγκά
+            <lb break="no"/>σει αὐτοὺς μηδὲν παρεγλέγειν τέλος παρὰ τὰ ἐμοὶ δόξαντα πέ
+            <lb break="no"/>πομφα δὲ αὐτῷ καὶ τοῦ ψηφίσματος ὑμῶν ἀντίγραφον. Ἐπρέσ
+            <lb break="no"/>βευεν Ζωίλος Διωνύμου, ᾧ τὸ ἐφόδιον δοθήτω εἰ μὴ προῖκα
+            <lb/>ὑπέσχηται. Εὐτυχεῖτε.</ab>
+      </div>
+      <div type="translation">
+         <p>... (you all) inform him also concerning the
+                (lands? areas?)<note n="336" xml:id="ftn336"> Compare the construction here (<foreign xml:lang="grc">περὶ τῶν πρὸς Ὀρχομενίους</foreign>) with that found in line 12 of Text <ref target="ddoc:305">
+                  <bibl>
+                     <biblScope>39.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+               </ref> (<foreign xml:lang="grc">τ[ὸ] πρὸς [Δε]λφοὺς μέ[ρ]ος</foreign>). Additional comparanda, demonstrating the omission of the noun, may be found in the Neronian boundary inscriptions from the area of <placeName type="ancient">Sagalassos</placeName>(Instance <ref target="#INST24">
+                  <bibl>
+                     <biblScope>79</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+               </ref>), where we find the following phrase used:<seg type="T6">  </seg>
+               <foreign xml:lang="grc">τὰ</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">  </seg>
+               </foreign>
+               <foreign xml:lang="grc">μὲν</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">  </seg>
+               </foreign>
+               <foreign xml:lang="grc">δεξιᾷ</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">  </seg>
+               </foreign>
+               <foreign xml:lang="grc">εἶναι</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">  </seg>
+               </foreign>
+               <foreign xml:lang="grc">Σαγαλασσέων</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">, </seg>
+               </foreign>
+               <foreign xml:lang="grc">τὰ</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">  </seg>
+               </foreign>
+               <foreign xml:lang="grc">δὲ</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">  </seg>
+               </foreign>
+               <foreign xml:lang="grc">ἐν</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">  </seg>
+               </foreign>
+               <foreign xml:lang="grc">ἀριστερᾷ</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">  </seg>
+               </foreign>
+               <foreign xml:lang="grc">κώμης</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">  </seg>
+               </foreign>
+               <foreign xml:lang="grc">Τυμβριανασσέων</foreign>
+               <foreign xml:lang="grc">
+                  <seg type="T2">. </seg>
+               </foreign>Oliver translates: “... inform him also concerning those to the Orchomenians.” Fossey: “... let him know of the matter concerning the Orchomenians.” </note> in the direction of the <placeName type="ancient">Orchomenioi</placeName>, for he will not begin
+                this work before investigating lest <placeName type="ancient">Orchomenioi</placeName>
+            <persName>Kalpournios Longos</persName>
+            <persName>Zoilos, son of Dionymos</persName>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC448"><!--*Oliver 1989 no. 112; EB 1.6; Roesch 1985 E.85.07; SEG 32.462; Fossey 1981/82 no. 6.-->
+      <head>DOC448: <bibl type="preferred">Oliver 1989 no. 112</bibl>; <bibl>EB 1.6</bibl>; <bibl>Roesch 1985 E.85.07</bibl>; <bibl>SEG 32.462</bibl>; <bibl>Fossey 1981/82 no. 6</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκράτωρ Καῖσαρ θεοῦ Τραιανοῦ Παρθικοῦ υἱος θεοῦ Νέρουα υἱωνός
+            <lb/>Τραιανὸς Ἁδριανὸς Σεβαστός ἀρχιερεὺς μέγιστος δημαρχικῆς ἐξ
+            <lb/>ουσίας τὸ ιθ ὕπατος τὸ γ πατὴρ πατρίδος Κορωνέων τοῖς ἄρ
+            <lb break="no"/>χουσι καὶ τῇ βουλῇ καὶ τῶι δήμωι χαίρειν.
+            <lb/>[Ἐπ]έστειλα Αἰμιλίωι Ἰούγκῳ τῶι κρατίστωι φίλῳ μου ἐλθεῖν ἐ
+            <lb break="no"/>[πὶ] τὸν Φάλαρον ποταμὸν καὶ ὅ τι ἂν ἡγῆται προσήκειν ποιῆσαι
+            <lb/>[καὶ] διδάξατε αὐτὸν ἃ ἐπ’ ἐμοῦ εἴπατε. Ἐπρέσβευον Αἴλιος Διώ
+            <lb break="no"/>[νυ]μος, Δάμων Προστατήρου, Αὐτόβουλος Εὐφροσύνου, Ἑρμαῖος Θέωνος.</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of the god Trajan
+                Parthicus, grandson of the god Nerva, Trajan <persName type="emperor">Hadrian</persName> Augustus, pontifex maximus, holding the tribunician power
+                for the 19th (time), consul 3 times, father of the country, to the magistrates,
+                council and people of the <placeName type="ancient">Koroneoi</placeName>, greetings. I wrote to <persName>Aimilios Iounkos</persName>, my most excellent
+                friend, to go to the river <placeName type="ancient">Phalaros</placeName> and to do whatever he thinks is proper. Demonstrate to him
+                the things which you said to me. The ambassadors were <persName>Ailios, son of Dionymos</persName>, <persName>Damon, son of Prostateros</persName>, <persName>Autoboulos, son of Euphrosynos</persName>,
+                    <persName>Hermaios, son of Theon</persName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC449"><!--SEG 42.411; *Oliver 1989 no. 113.-->
+      <head>DOC449: <bibl>SEG 42.411</bibl>; <bibl type="preferred">Oliver 1989 no. 113</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[Ἀυτοκράτωρ Καῖσαρ θεού ] Ἁδρ[ια]νοῦ υἱος θεοῦ Τραιανοῦ Παρθικοῦ υἱωνός θεοῦ Νέρου
+            <lb break="no"/>[α ἔκγον]ος Τίτος Αἴλιος Ἁδριανὸς ¨Αντωνεῖνος Σεβαστός ἀρχιερεὺς μέγιστος δημαρ
+            <lb break="no"/>[χικῆς ἐ]ξουσίας τὸ ΙΗ αὐτοκράτωρ τὸ Β ὕπατος τὸ Δ πατὴρ πατρίδος Κορωνέων τοῖ[ς]
+            <lb/>[ἄρ]χουσι καὶ τῇ βουλῇ καὶ τῷ δήμω χαίρειν.
+            <lb/>Ὧν ἐπέστειλα Θισβεῦσι ἐντυ[χ]ὼν τῷ ψηφίσματι ὑμῶν ἀντίγραφα πεμφθῆν[αι]
+            <lb/>ὑμεῖν ἐκέλευσα ὡς εἰδείητε ὅτι ἄξιον ἐπιστροφῆς τὸ πρᾶγμα ἡγησάμην [ἐ]
+            <lb break="no"/>πεὶ δὲ ὑμεῖς μὲν ἐκείνους ἐκεῖνοι δὲ ὑμᾶς αἰτιῶνται ὡς οὑκ ἐῶντας τὴν [μέ]
+            <lb break="no"/>τρησιν τῶν πλέθρων γενέσθαι κατὰ τὴν ἀπόφασιν ἣν ὁ θεὸς πατήρ μου [ἀπεφή]
+            <lb break="no"/>νατο μετὰ ταῦτα δὲ ἐγὼ δικάσας κυρίαν ἐτήρησα ἐπιμελὲς ἔσται τὸ [λοιπὸν]
+            <lb/>τῷ ἀνθυπάτῳ μαθεῖν πότεροί εἰσιν οἱ ἀπειθοῦντες τοῖς ἐγνω[σμένοις καὶ]
+            <lb/>προνοήσει τὴν ταχίστην ὑπὸ τοῦ Ἀριστωνύμου τεθῆναι τ[ - - - - - - - - ]
+            <lb/>τὰ κριθέντα ὅπως ἤδη ποτὲ πέρας γένοιτο πράγματος ο[ - - - - - - - - - ]
+            <lb break="no"/>ου καὶ παρέχοντος ἀφορμὴν καὶ πρόφασιν ταῖς πόλεσι[ν συνεχοῦς ἔριδος καὶ ]
+            <lb/>φιλονεικίας. Ἐπρέσβευον Αἴλιος Γλύκων, Αἴλιος Αλο[ - - - - - - ]
+            <lb break="no"/>λαρου προῖκα ὡς διὰ τοῦ ψηφίσματος ἐδηλοῦτε. Εὐ[τυχεῖτε].</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of the god Hadrian,
+                grandson of the god Trajan Parthicus, great-grandson of the god Nerva, Titus Aelius
+                Hadrianus <persName type="emperor">Antoninus </persName>Augustus,
+                pontifex maximus, holding the tribunician power for the 18th (time), (saluted as)
+                imperator 2 (times), consul 4 (times), father of the country, to the magistrates,
+                council and people of the <placeName type="ancient">Koroneoi</placeName>, greetings. Upon hearing your decree, I ordered a copy of
+                those things which I sent to the <placeName type="ancient">Thisbeis </placeName>to be sent to you so that you might know that I considered
+                the matter worthy of attention. Since you accuse them and they accuse you of not
+                permitting the measuring of the (i.e., the survey) to occur according to the verdict that
+                the god my father (i.e., <persName type="emperor" rend="normal">Hadrian</persName>) rendered concerning these things and that I, judging it to
+                be valid, retained, in future it will be the responsibility of the proconsul to
+                discover which of the two parties are the ones refusing to comply with prior
+                judgements, and he will provide for the quickest possible way to establish the
+                findings of the verdicts ... by <persName>Aristonymos</persName> so that a quick conclusion might be made of an affair
+                ... providing a starting-point and an excuse to the cities for strife and rivalry.
+                The ambassadors were <persName>Ailios Glykon</persName>, <persName>Alo</persName>...
+                gift, as you made clear through your decree. Farewell.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC450"><!--*Oliver 1989 no. 114; EB 1.9 (Oliver block V, ll. 1-4); Roesch 1985 E.85.10.I; SEG 32.467; Fossey 1981/82 no. 9; IG 7.2870.I. See also: Jones 1992, 146.-->
+      <head>DOC450: <bibl type="preferred">Oliver 1989 no. 114</bibl>; <bibl>EB 1.9 (Oliver block V, ll. 1-4)</bibl>; <bibl>Roesch 1985 E.85.10.I</bibl>; <bibl>SEG 32.467</bibl>; <bibl>Fossey 1981/82 no. 9</bibl>; <bibl>IG 7.2870.I</bibl>. See also: <bibl>Jones 1992, 146</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Θεοῦ Ἁδριανοῦ γραφεῖσα Θισβεῦσιν
+            <lb/>ἐπέστειλάν μοι Κορωνεῖς αἰτιώμενοι ὑμᾶς ὡς τοὐ[ναντίον ποιοῦντας ὧν]
+            <lb/>ὑμεῖν καὶ ἐκείνοις Μέστριος Ἀριστώνυμος ὑπ᾿ ἐμοῦ κελε[υθεὶς ἔκρινε ἧνδὲ δί]
+            <lb break="no"/>καιον ὁπότε ὑμεῖς οὐκ [ἐ]πείθεσθε τοῖς κριθεῖσιν ἀλλὰ εἰσῄειτε ἰς τὴν ἐκείνων χώραν
+            <lb/>κἀκείνους ἰς τὸ μὴ περ[ι]ορᾶν ὑμᾶς νέμοντας τρέπεσθαι πόσον δέ ἐστιν τὸ ὀφειλόμε
+            <lb break="no"/>νον τέλος ἢ τίνα εἰσὶν ἃ κατεσχήκασιν ὑμῶν Κορωνεῖς ἐνέχυρα Ἀριστώνυμος
+            <lb/>ὁ αὐτός κρινεῖ. Εὐτυχεῖτε.</ab>
+      </div>
+      <div type="translation">
+         <p>Of the god <persName type="emperor">Hadrian</persName>, written to the <placeName type="ancient">Thisbeis</placeName>. The <placeName type="ancient">Koroneioi</placeName> wrote to me, accusing
+                you of doing the opposite of what <persName>Mestrios Aristonymos</persName> decided on my order, but it was right—when you did not
+                obey the decisions but began invading their territory—that they should resort to
+                preventing you from grazing. How much the tax due to them is, or what security of
+                yours the <placeName type="ancient">Koroneioi</placeName> have
+                kept, <persName>Aristonymos</persName> himself will
+                judge. Farewell.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC454"><!--*Oliver 1989 no. 115; EB 1.10; Roesch 1985 E.85.10.II; SEG 32.464; Fossey 1981/82 no. 10; IG 7.2870.II.-->
+      <head>DOC454: <bibl type="preferred">Oliver 1989 no. 115</bibl>; <bibl>EB 1.10</bibl>; <bibl>Roesch 1985 E.85.10.II</bibl>; <bibl>SEG 32.464</bibl>; <bibl>Fossey 1981/82 no. 10</bibl>; <bibl>IG 7.2870.II</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκράτωρ Καῖσαρ, θεοῦ Ἁδριανοῦ υἱός, θεοῦ Τραϊανοῦ Παρθι
+            <lb break="no"/>κοῦ υἱωνός, θεοῦ Νέρουα ἔκγονος, Τίτος Αἴλιος Ἁδριανὸς Ἀντωνεῖνος Σεβαστός, ἀρχιερεὺς μέγιστος,
+            <lb/>δημαρχικῆς ἐξουσίας τὸ γ’, ὕπατος γ’, πατὴρ πατρίδος, Κορωνέων τοῖς ἄρχουσι καὶ τῇ βουλῇ καὶ τῷ δή
+            <lb break="no"/>μῳ χαίρειν· καὶ τοῦ θεοῦ πατρός μου δικαίως μεμνημένοι καὶ τῆς ἐμῆς ἀρχῆς κατὰ τὸ προσῆκον
+            <lb/>ἐπῃσθημένοι καὶ ὑπὲρ τοῦ υἱοῦ μου προθύμως συνηδόμενοι πρέποντα Ἕλλησιν ἀνθρώποις ποιεῖ
+            <lb break="no"/>τε. ἐπρέσβευεν Δημήτριος Διονυσίου, ᾧ τὸ ἐφόδιον δοθήτω, εἰ μὴ προῖκα ὑπέσχετο· εὐτυχεῖτε.</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of the god Hadrian,
+                grandson of the god Trajan Parthicus, great-grandson of the god Nerva, Titus Aelius
+                Hadrianus <persName type="emperor">Antoninus </persName>Augustus,
+                pontifex maximus, holding the tribunician power (for the) 3rd (time), consul 3
+                (times), father of the country, to the magistrates, council and people of the
+                    <placeName type="ancient">Koroneoi</placeName>, greetings. In
+                justly memorializing the god my father, in acknowledging – as is proper – my
+                accession, and in rejoicing eagerly for my son, you behave appropriately for Greek
+                men. The ambassador was <persName>Demetrios, son of Dionysios</persName>, to whom may the travel allowance be given, unless he
+                promised it as a gift. Farewell.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC451"><!--*Oliver 1989 no. 116; EB 1.11; Roesch 1985 E.85.10.III; SEG 32.468; Fossey 1981/82 no. 11; IG 7.2870.III.-->
+      <head>DOC451: <bibl type="preferred">Oliver 1989 no. 116</bibl>; <bibl>EB 1.11</bibl>; <bibl>Roesch 1985 E.85.10.III</bibl>; <bibl>SEG 32.468</bibl>; <bibl>Fossey 1981/82 no. 11</bibl>; <bibl>IG 7.2870.III</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκράτωρ Καῖσαρ θεοῦ Ἁδ[ρι]ανοῦ υἱός θεοῦ Τραιανοῦ Παρθικοῦ υἱωνός θεοῦ Νέρουα ἔκγονος Τί
+            <lb break="no"/>τος Αἴλιος Ἁδριανὸς Ἀντωνε[ῖ]νος Σεβαστός ἀρχιερεὺς μέγιστος δημαρχικῆς ἐξουσίας τὸ ΙΗ’ αὐτο
+            <lb break="no"/>κράτωρ τὸ Β’ ὕπατος τὸ Δ’ πατὴρ πατρίδος Κορωνέων τοῖς ἄρχουσι καὶ τῇ βουλῇ καὶ τῷ δήμῳ χαί
+            <lb break="no"/>ρειν. Τῆς ἀποφάσεως ἧν ἐ[π]οιησάμην μεταξὺ ὑμῶν καὶ Θισβέων ἀντίγραφον ὑμεῖν ἔπεμψα ἐ
+            <lb break="no"/>πέστειλα δὲ καὶ Μεστρίῳ Ἀρισ[τ]ωνύμῳ ἀπομετρῆσαι τὰ πλέθρα Θισβεῦσιν ἇ προσέταξεν αὐτοῖς ὁ
+            <lb/>θεὸς πατήρ μου παραδοθῆ[ναι] τῆς δὲ ἔξωθεν χῶρας εἴ τινα Θισβεῖς ἐπινέμοιεν πείθοντες ὑμᾶς
+            <lb/>δώσουσιν ἐννόμιον τέλο[ς ὃτα]ν δὲ καὶ ἀποδῶσιν ὃσον ἄν ὑπὲρ τοῦ χρόνου τοῦ παρελθόντος ὀφ[εί]
+            <lb break="no"/>λειν αὐτούς κριθῇ δῆλον ὅτ[ι καὶ ὑ]μεῖς τὰ ἐνέχυρα αὐτοῖς ἀποδώσετε. Ἐπρέσβευον Αἴλιος Γλύκ[ων]
+            <lb/>καὶ Διονύσιος Διονυσοδώρου ο[ἷς τὸ] ἐφόδιον δοθήτω εἰ μὴ προῖκα ὑπέσχηνται. Εὐτυχεῖτε.</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of the god Hadrian,
+                grandson of the god Trajan Parthicus, great-grandson of the god Nerva, Titus Aelius
+                Hadrianus <persName type="emperor">Antoninus</persName> Augustus,
+                pontifex maximus, holding the tribunician power for the 18th time, (hailed as)
+                imperator 2 times, consul 4 times, father of the country, to the magistrates,
+                council and people of the <placeName type="ancient">Koroneioi</placeName>, greetings. I have sent you a copy of the verdict which I
+                made between you and the Thisbeis, and I wrote also to <persName>Mestrios Aristonymos</persName> to measure out the
+                    <foreign xml:lang="la">plethra</foreign> to the <placeName type="ancient">Thisbeis</placeName> which the god my father
+                ordered to be given to them. And if the <placeName type="ancient">Thisbeis</placeName>, persuading you, should pasture (their livestock) on some
+                of the land outside (the measured area?), they will give a pasturage tax. If ever
+                they should also restore as much as they are judged to owe for the time that is
+                past, it is clear that you also will restore to them the collateral. <persName>Ailios Glykon</persName> and <persName>Dionysios son of Dionysodoros </persName>were the
+                ambassors, to whom the travel allowance should be given unless they promised it as a
+                gift. Farewell.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC452"><!--*Oliver 1989 no. 117; EB 1.1; Roesch 1985 E.85.08; SEG 32.469; Fossey 1981/82 no. 1.-->
+      <head>DOC452: <bibl type="preferred">Oliver 1989 no. 117</bibl>; <bibl>EB 1.1</bibl>; <bibl>Roesch 1985 E.85.08</bibl>; <bibl>SEG 32.469</bibl>; <bibl>Fossey 1981/82 no. 1</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Ἀγαθὴ τύχη. Αὐτοκράτωρ Καῖσαρ [Μᾶρ]κος Αὐρήλιος Ἀντων[ῖνοω] Σεβ[α]σ[τ]ός, ἀρχιερεὺς
+            <lb/>μέγιστος, δημαρχικῆς ἐξουσίας τὸ ιε ὕπα[τ]ος τὸ γ κα[ὶ] Αὐτοκράτωρ Καῖσαρ Λούκιος Αὐρήλιος Οὐῆρος Σεβαστός, δη[μαρ]χικῆς ἐξουσίας [τὸ β], ὕπα
+            <lb break="no"/>τος τὸ β, θεοῦ Ἀντωνίνου υἱοί, θεοῦ Ἁδριανοῦ [υἱ]ωνοί, θεοῦ Τραϊανοῦ
+            <lb/>Παρθικοῦ ἔκγονοι, θεοῦ Νέρουα ἀπόγονοι Κο[ρ]ωνέων τοῖς ἄρχουσι
+            <lb/>καὶ τῇ βουλῇ· καὶ τῶι δήμωι, [χ]αίρειν.
+            <lb/>Ὅσα τῆς ἐλευθερίας καὶ αὐτονομίας δίκαια ἐδόθη πρότερον ὑμεῖν
+            <lb/>ὑπὸ τῶν ἡμετέρων προγόνων ἐτήρησέν [τε ὁ] θεὸς πατὴρ ἡ[μ]ῶν
+            <lb/>ταῦτα καὶ ἡμεῖς βεβαιοῦμεν. Ἐπρέσβευον [••••]Σ Ἀλεξανγρο[• ·] Ἀ
+            <lb break="no"/>γαθοκλῆς Λεοντᾶ· Αἴλιος Διώνυμος· Ἀντω[ν••••••] ΔΙΔ[••••] οἷς
+            <lb/>τὸ ἐφόδιον δοθήτω εἰ μὴ προῖκα ὑπέσχηνται. [ Εὐτυχεῖτε. ]</ab>
+      </div>
+      <div type="translation">
+         <p>Good fortune. The emperor Caesar <persName type="emperor">Marcus Aurelius </persName>Antoninus Augustus,
+                pontifex maximus, holding the tribunician power for the 15th time, consul 3 times,
+                and the emperor Caesar Lucius Aurelius <persName type="emperor">Verus</persName> Augustus, holding the tribunician power for the second time,
+                consul twice, sons of the god Antoninus, grandsons of the god Hadrian,
+                great-grandsons of the god Trajan, great-great grandsons of the god Nerva, to the
+                magistrates, council and people of the <placeName type="ancient">Koroneoi</placeName>, greetings. As many rights of freedoms and autonomy as
+                were given to you before by our ancestors which the god our father preserved, these
+                things we also confirm. The ambassadors were ... <persName>Alexander</persName> .. <persName>Agathokles, son of Leontas</persName>, <persName>Ailios Dionymos</persName>, <persName>Anton</persName>... to whom the travel allowance
+                should be paid unless they promised it as a gift. Farewell.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC453"><!--*Oliver 1989 no. 118; EB 1.2; Roesch 1985 E.85.09; SEG 32.465; Fossey 1981/82 no. 2.-->
+      <head>DOC453: <bibl type="preferred">Oliver 1989 no. 118</bibl>; <bibl>EB 1.2</bibl>; <bibl>Roesch 1985 E.85.09</bibl>; <bibl>SEG 32.465</bibl>; <bibl>Fossey 1981/82 no. 2</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκράτωρ Καῖσαρ, θεοῦ Ἁδριανοῦ υἱός, θεοῦ Τραϊανο[ῦ Παρθικοῦ υἱωνός, ]
+            <lb/>θεοῦ Νέρουα ἔκγονος. Τίτος Αἴλιος Ἁδριανὸς Ἀ[ντωνεῖνος Σεβαστός, ]
+            <lb/>ἀρχιερεὺς μέγιστος· δημαρχικῆς ἐξουσίας τὸ ια, [αὐτοκράτωρ τὸ β, ]
+            <lb/>ὕπατος τὸ δ, πατὴρ πατρίδος, Κορωνέων το[ῖς ἄρχουσι καὶ τῇ βουλῇ ]
+            <lb/>καὶ τῶι δήμωι, χαίρειν.
+            <lb/>Ἃς δοκεῖτε μοι καὶ τὸ ἐξ ἀρχῆς ἀνατεθεικ[ -------------- ]</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of the god Hadrian,
+                grandson of the god Trajan Parthicus, great-grandson of the god Nerva, Titus Aelius
+                Hadrian <persName type="emperor">Antoninus </persName>Augustus,
+                pontifex maximus, holding the tribunician power for the 11th time, (hailed as)
+                imperator twice, consul 4 times, father of the country, to the magistrates, council
+                and people of the <placeName type="ancient">Koroneoi</placeName>,
+                greetings. The things which you seem to me to have established(?) from the beginning
+                ...</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC455"><!--EB 1.12 and addenda, p. 22.; *Roesch 1985 E.85.11; Oliver 1989, 268 (no number); SEG 35.405B; Fossey 1981/82 no. 12; IG 7.2882.-->
+      <head>DOC455: <bibl>EB 1.12 and addenda, p. 22</bibl>; <bibl type="preferred">Roesch 1985 E.85.11</bibl>; <bibl>Oliver 1989, 268 (no number)</bibl>; <bibl>SEG 35.405B</bibl>; <bibl>Fossey 1981/82 no. 12</bibl>; <bibl>IG 7.2882</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC456"><!--*EB 1.13; Roesch 1985 E.85.12; SEG 32.471; Fossey 1981/82 no. 13.-->
+      <head>DOC456: <bibl type="preferred">EB 1.13</bibl>; <bibl>Roesch 1985 E.85.12</bibl>; <bibl>SEG 32.471</bibl>; <bibl>Fossey 1981/82 no. 13</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC457"><!--SEG 35.405C; EB 1.14; *Roesch 1985 E.85.13.-->
+      <head>DOC457: <bibl>SEG 35.405C</bibl>; <bibl>EB 1.14</bibl>; <bibl type="preferred">Roesch 1985 E.85.13</bibl>.</head>
+   </div>
+</div>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST182">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of Land to Cretan Sanctuary of Aesculapius</head>
+   <p>Date(s): <date>AD 54-68</date>
+   </p>
+   <p>
+      <seg type="instance-description">Two boundary markers from Crete, dating to the reign of Nero, record the restoration to the Roman colony at <placeName type="ancient">Cnossus</placeName> of five <foreign xml:lang="la">iugera</foreign> of land said to have been “given to Aesculapius by Augustus.” It is not clear why the land needed to be restored, nor what the role of the procurator was (adjudicative or administrative?). This restoration (and the original grant) are frequently connected to the dispute between a citizen of <placeName type="ancient">Cnossus</placeName> and the Roman colony of <placeName type="ancient">Capua</placeName>in Italy, which controlled an extensive territory in Crete, given it by Augustus.<note n="385" xml:id="ftn385"> Instance <ref target="#INST57">
+               <bibl>
+                  <biblScope>27</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. </note> Although there may have been some relationship, the details cannot be recovered. Neither the personnel involved, nor the dates of the affairs, coincide. Augustus’ grant to a civic temple is not unique. Compare, for example, his extensive involvement in the affairs of Artemis at <placeName type="ancient">Ephesus</placeName>. The restoration of such sacred lands involved more than one subsequent emperor.</seg>
+   </p>
+   <div type="document" xml:id="DOC292"><!--Smallwood 1967 385; ILS 8091; ICret 1.8.49; CIL 3.14377.-->
+      <head>DOC292: <bibl>Smallwood 1967 385</bibl>; <bibl>ILS 8091</bibl>; <bibl>ICret 1.8.49</bibl>; <bibl>CIL 3.14377</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Nero Claudiu[s]
+            <lb/>Caesar Aug(ustus)
+            <lb/>Germanicus
+            <lb/>Aesculapio iu
+            <lb break="no"/>gera quinque
+            <lb/>data a divo Aug(usto)
+            <lb/>confirmata
+            <lb/>a divo Clau[dio]
+            <lb/>restituit
+            <lb/>C(oloniae) I(uliae) N(obili) Cnos(so) per
+            <lb/>P(ublium) Licinium Secu
+            <lb break="no"/>ndum proc(uratorem)</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName type="emperor">Nero</persName> Claudius Caesar Augustus Germanicus restored the five
+                    <foreign xml:lang="la">iugera</foreign>, given to Aesculapius
+                by the god <persName type="emperor">Augustus</persName> and
+                confirmed by the god <persName type="emperor">Claudius</persName>,
+                to the <placeName type="ancient">Colonia Iulia Nobilis Cnossus</placeName> through Publius Licinius Secundus, procurator.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC483"><!--*EDH HD032952; AE 1901.240.-->
+      <head>DOC483: <bibl type="preferred">EDH HD032952</bibl>; <bibl>AE 1901.240</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[[[Nero]]] Cl[a]udiu[s]
+            <lb/>Caesar Aug(ustus)
+            <lb/>Germanicus
+            <lb/>Aesculapio iu
+            <lb break="no"/>gera quinque
+            <lb/>data a divo Au[g(usto)]
+            <lb/>confirmata
+            <lb/>a divo Cl[aud]i[o]
+            <lb/>restituit [---]
+            <lb/>c(oloniae) I(uliae) n(obili) Cnos[o per]
+            <lb/>P(ublium) Licinium [Secu]
+            <lb break="no"/>n[du]m proc(uratorem)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

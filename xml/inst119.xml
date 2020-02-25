@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST119">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Possible Boundary Dispute between <persName>Valeria Faventina</persName> and the <placeName type="ancient">Compagani rivi Larensis</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 83</bibl>
+   </p>
+   <p>Date(s): <date>AD 193</date>
+   </p>
+   <p>
+      <seg type="instance-description">This fragmentary verdict (<foreign xml:lang="la">decretum ex tilia recitavit</foreign>) is known to scholars only through a 16th-century copy. It attests to a <hi rend="bold">possible boundary dispute</hi> between a private individual and a group of villagers (<foreign xml:lang="la">compagani</foreign>).</seg>
+   </p>
+   <p>This verdict can be dated on the basis of the governor’s career to the late second century. The location of the village in question and the stream named to identify it remain unknown to us. The woman against whom the villagers’ dispute was conducted – or another member of her family – is known from other epigraphic evidence found in the area of <placeName type="modern">Tarragona </placeName>and <placeName type="modern">Barcelona</placeName>.<note n="347" xml:id="ftn347"> See RIT, 78 for details. </note> Although the transmitted portion of the text does not explicitly identify the case as a boundary dispute, its similarity to the evidence for a nearly contemporaenous dispute between <persName>Messia Pudentilla </persName>and the inhabitants of the <placeName type="ancient">Vicus Buteridavensis </placeName>in <placeName type="ancient">Moesia</placeName> has led most modern commentators to assume that this Spanish case too was a boundary dispute.<note n="348" xml:id="ftn348"> Instance <ref target="#INST22">
+            <bibl>
+               <biblScope>51</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <div type="document" xml:id="DOC233"><!--*RIT 143; Ors 1953, 361-365 no. 15; CIL 2.4125.-->
+      <head>DOC233: <bibl type="preferred">RIT 143</bibl>; <bibl>Ors 1953, 361-365 no. 15</bibl>; <bibl>CIL 2.4125</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(eratore) Caes(are) P(ublio) Helvio
+            <lb/>Pertinace princip(e)
+            <lb/>senatus patre patriae
+            <lb/>Q(uinto) Sosio Falcone C(aio) Iulio Eruci
+            <lb break="no"/>o Claro co(n)s(ulibus) III Idus Febr(uarias)
+            <lb/>sententiam quam tulit
+            <lb/>L(ucius) Novius Rufus
+            <lb/>leg(atus) Aug(usti) pr(o)
+            <lb/>pr(aetore) v(ir) c(larissimus) inter compaganos ri
+            <lb break="no"/>vi Larensis et Val(eriam) Faventinam
+            <lb/>descriptam et propositam pr(idie) Non(as)
+            <lb/>Novembr(es) in v(erba) i(nfra) s(cripta) Rufus leg(atus) c(um) c(onsilio) c(ollocutus)
+            <lb/>decretum ex tilia recitavit
+            <lb/>congruens est intentio mea qua
+            <lb/>[3]tus proximae argumentis
+            <lb/>[3] parte prolatis rei
+            <lb/>[3] aput me actu[m] est d
+            <lb break="no"/>[3 i]nspectio itaq[ue]
+            <lb/>[3 q]ui in priva[3]
+            <lb/>[3]a mox [3]
+            <lb/>[ ---</ab>
+      </div>
+      <div type="translation">
+         <p>When Caesar Publius Helvius <persName type="emperor">Pertinax </persName>(was) emperor, <foreign xml:lang="la">princeps senatus</foreign> and father of the
+                country, and when <persName>Quintus Sosius Falco </persName>and <persName>Iulius Erucius Clarus </persName>were consuls, 3 days after the Ides of February, <persName>Lucius Novius Rufus</persName>, propraetorian
+                imperial legate and <foreign xml:lang="la">vir clarissimus</foreign>, delivered the verdict (in the case) between the
+                villagers at the <placeName type="ancient">rivus Larensis </placeName>and <persName>Valeria Faventina </persName>which was copied and posted on the day before the Nones of November in
+                the words written below:</p>
+         <p>Rufus the legate, when he had called together
+                his <foreign xml:lang="la">consilium</foreign>, read out the decree
+                from the tablet (<foreign xml:lang="la">tilia</foreign>):
+                It is appropriate that ...</p>
+      </div>
+   </div>
+</div>

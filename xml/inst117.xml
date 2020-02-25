@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST117">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Assignment of Fields, Pastures and Springs in North Africa</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 58</bibl>
+   </p>
+   <p>Date(s): <date>AD 197-201</date>
+   </p>
+   <p>
+      <seg type="instance-description">A single boundary marker from modern <placeName type="modern">Bled Goursi el-Tahtani </placeName>in <placeName type="modern">Algeria</placeName>attests to the assignment of “fields, pastures and springs” to a party or parties whose name is lost. This <hi rend="bold">authoritative demarcation</hi> was carried out by two individuals, one whose title (if any) is lost, the other a <foreign xml:lang="la">cornicularius</foreign> of an unnamed prefect (unless the preceding individual was the prefect himself). They acted on the order of the commander of <placeName type="ancient">Legio III Augusta</placeName>. The legionary legate was, in turn, acting in accordance with the authority of the three <foreign xml:lang="la">Augusti</foreign>, Septimius Severus, Caracalla and Geta. The actual demarcation was effected by an <foreign xml:lang="la">evocatus</foreign> of the legion, presumably a surveyor.</seg>
+   </p>
+   <p>The spatial context of this inscription, combined with the character of the items assigned, evokes the importance of resources for the maintenance of livestock in marginal areas of Roman North Africa. Although the content of the inscription cannot prove that the demarcation was carried out in response to a dispute, it is entirely reasonable to assume that the agenda may have been to manage relations between nomadic herdsmen and more sedentary agriculturalists in this area.<note n="429" xml:id="ftn429"> Whittaker 1978, 351. </note> On those grounds, it should be compared to three other instances of boundary assignment in North Africa, as well as a prohibition against use of a <foreign xml:lang="la">castellum </foreign>on the part of an indigenous group who probably practiced transhumance.<note n="430" xml:id="ftn430"> Instances <ref target="#INST40">
+            <bibl>
+               <biblScope>71</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, <ref target="#INST78">
+            <bibl>
+               <biblScope>73</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, <ref target="#INST77">
+            <bibl>
+               <biblScope>76</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST36">
+            <bibl>
+               <biblScope>94</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <div type="document" xml:id="DOC223"><!--*EDH HD022309; AE 1946.38; Leschi 1957a.-->
+      <head>DOC223: <bibl type="preferred">EDH HD022309</bibl>; <bibl>AE 1946.38</bibl>; <bibl>Leschi 1957a</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctoritate Imppp(eratorum)
+            <lb/>Caes(arum) L(uci) Septimi Severi et
+            <lb/>M(arci) Aurelii Antonini et P(ubli) Sep
+            <lb break="no"/>timi Getae Auggg(ustorum) agri et
+            <lb/>pascua et fontes adsi
+            <lb break="no"/>gnata [[---MA]]
+            <lb break="no"/>[[--- curantibus]] Epag
+            <lb break="no"/>atho et Manilio Caeci
+            <lb break="no"/>liano corniculario
+            <lb/>praef(ecti) iussu Anici Fa
+            <lb break="no"/>usti leg(ati) co(n)s(ularis) per M(arcum) Gennium
+            <lb/>Felicem evocatum
+            <lb/>leg(ionis) III Aug(ustae)</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperors Caesar Lucius
+                    <persName type="emperor">Septimius Severus</persName> and Marcus
+                Aurelius Antoninus (<persName type="emperor">Caracalla</persName>)
+                and Publius Septimius <persName type="emperor">Geta</persName>, the
+                (three) Augusti, fields and pastures and springs assigned ... with Epagathus and
+                Manilius Caecilianus, <foreign xml:lang="la">praefectus cornicularius</foreign> taking care of the matter, by order of Anicius
+                Faustus, legate and <foreign xml:lang="la">consularis</foreign>,
+                through Marcus Gennius Felix, <foreign xml:lang="la">evocatus</foreign> of <foreign xml:lang="la">Legio IIII Augusta</foreign>.</p>
+      </div>
+   </div>
+</div>

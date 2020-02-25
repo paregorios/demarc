@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST160">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute Involving Two Villages of <placeName type="ancient">Heraclea</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 38</bibl>
+   </p>
+   <p>Date(s): <date>AD 110-111</date>
+   </p>
+   <p>
+      <seg type="instance-description">A recently published epigraphic text, probably from the area of <placeName type="ancient">Apollonia Salbakes</placeName> (mod. <placeName type="modern">Medet</placeName> in <placeName type="modern">Turkey</placeName>) attests to a dispute between <placeName type="ancient">Herakleia Salbakes</placeName> (mod. <placeName type="modern">Vakıf</placeName>) and another city (probably <placeName type="ancient">Apollonia</placeName>) that centered on the territorial rights to, and the boundaries of, two otherwise unknown villages, <placeName type="ancient">Kosa</placeName> and <placeName type="ancient">Antikosa</placeName>. The inscription dates to ca. AD 110-111 and records the demarcation of the two villages by the previously unknown <persName>C. Valerius Victor</persName>, serving as <foreign xml:lang="la">legatus pro praetore</foreign> to the proconsul of <placeName type="ancient">Asia</placeName>, <persName>L. Baebius </persName>
+         <persName>
+            <seg type="T6">Τ</seg>
+         </persName>
+         <persName>ullus</persName>.</seg>
+   </p>
+   <p>The initial Roman administrative engagement with the affair was conducted some thirty years earlier by <persName>T. Pomponius Bassus</persName>. His office is not made explicit in our text, but it seems most likely that he judged the case in AD 79 or 80 while serving as legate to the proconsul of the province of <placeName type="ancient">Asia</placeName>, <persName>M. Ulpius Traianus</persName>.<note n="306" xml:id="ftn306"> Haensch 1999, 126-128 considers three other possibilities for <persName>Bassus</persName> beyond that of legate to the proconsul: a special mission from the emperor for the resolution of boundary disputes (Haensch advances no argument or evidence for this possibility), an otherwise unattested proconsulate of <placeName type="ancient">Asia</placeName>(unlikely given a relatively full slate of known consuls and proconsuls in the correct years for <persName>Bassus’</persName> 
+         <foreign xml:lang="la">cursus</foreign>), and an appointment by the emperor to serve as <foreign xml:lang="la">iudex</foreign> in Rome(!?) in a legal case between <placeName type="ancient">Herakleia</placeName> and (presumably) <placeName type="ancient">Apollonia</placeName>. This latter suggestion should be rejected, though Haensch considers it the most likely of the three possibilities. There is no evident reason why a dispute between <placeName type="ancient">Herakleia</placeName> and <placeName type="ancient">Apollonia </placeName>should have come to the emperor’s attention. Both cities were situated within the province of <placeName type="ancient">Asia </placeName>and should therefore have come under the jurisdiction of the proconsul. The proconsul might have consulted the emperor on questionable aspects of the case or one of the parties might have brought a petition directly to the emperor, but in none of our examples do we find the emperor taking such a case away from the governor and giving it to a legate. It is only in those cases where a land dispute spans a provincial boundary or involves cities or landholding entities with special status (compare <placeName type="ancient">Delphi</placeName>) that the emperor employs a special legate or <foreign xml:lang="la">iudex</foreign>. Furthermore, in all the documented cases of boundary adjudication by <foreign xml:lang="la">iudices dati ab imperatore</foreign>, the <foreign xml:lang="la">iudex </foreign>conducts his investigation of the case and delivers his verdict on site, not in <placeName type="modern">Rome</placeName>. In the absence of further direct evidence, the simplest solution here is clearly the best: we can independently place <persName>Bassus </persName>in <placeName type="ancient">Asia </placeName>as a propraetorian legate of the proconsul in AD 79-80. In that capacity, he probably assisted the proconsul by adjudicating this dispute. </note> The question seems to have been one of control over the two villages (with, we may suppose, consequences for taxation and other matters). The findspot of the inscription, according to Haensch’s correspondent, was approximately two kilometers from <placeName type="ancient">Apollonia</placeName>. <persName>Bassus’s</persName> verdict evidently identified the villages as within the <foreign xml:lang="la">ius territorii</foreign> of <placeName type="ancient">Herakleia</placeName>, which was located over 10 km to the north of <placeName type="ancient">Apollonia</placeName> on the opposite side of the high plain that lies between the <placeName type="ancient">Kadmos Mons</placeName> (the mod. <placeName type="modern">Babadağ</placeName>) to the north, the <placeName type="ancient">Salbake Mons </placeName>(the mod. <placeName type="modern">Bozdağ</placeName>) to the east, and other high ground on the south and west. On what grounds <persName>Bassus</persName> made his decision, we are not informed. The proximity of the villages to <placeName type="ancient">Apollonia</placeName> may provide the general background, with the case being brought because of encroachment by <placeName type="ancient">Apollonia</placeName> or the resurrection of long-dormant claims to control by one or the other party. The case may also have involved a sanctuary, since the ‘dedication’ of both villages to the goddess Artemis Sbryallis (an otherwise unattested epithet) is made explicit alongside mention of <persName>Bassus’</persName> verdict, but the details are obscure. We may hypothesize that income from these villages (they must then have had associated agricultural property) had been set aside for the maintenance of Artemis’ sanctuary, which must therefore have been located at or near Herakleia.<note n="307" xml:id="ftn307"> Compare other examples of disputes and demarcations involving temple lands evidently used for such purposes: Instances <ref target="#INST16">
+            <bibl>
+               <biblScope>39</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, <ref target="#INST116">
+            <bibl>
+               <biblScope>61</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, <ref target="#INST103">
+            <bibl>
+               <biblScope>67</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST69">
+            <bibl>
+               <biblScope>68</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> 
+   </p>
+   <p>The inscription is similarly terse when it comes to the reasons for the later demarcation. This demarcation was carried out by the proconsul L. Baebius Tullus in AD 110 and carried out on the ground by a legate on Tullus’ staff, C. Valerius Victor. This project (and possibly Bassus’ earlier decision as well) was conducted in accordance with <seg type="T8">the order</seg> (edict?) of Trajan (<foreign xml:lang="grc">ἐξ ἐπιταγῆς Αὐτοκράτορος</foreign>
+      <seg type="T8">)</seg>. On the face of it, neither governor would have needed <seg type="T8">the</seg> emperor’s involvement in a dispute that fell within the scope of his own provincial jurisdiction. We do have evidence, however, of disputes that went to the emperor packaged together with other requests, such as those involving the confirmation of <foreign xml:lang="la">beneficia</foreign>. Governors also clearly consulted the emperor on difficult questions of law or procedure in the context of boundary disputes, and had the benefit of advice from surveyors assigned by him. It may have been that one of the parties appealed the earlier decision to the emperor, or complained that the territory in question was being encroached upon by the other party, necessitating a survey and demarcation. If we are correct in our hypothesis that the revenue from <placeName type="ancient">Cosa</placeName>and <placeName type="ancient">Anticosa</placeName> was intended for the maintenance of Artemis’ sanctuary at <placeName type="ancient">Herakleia</placeName>, then Trajan’s edict may be analogous to those issued by Domitian and Trajan regarding the sacred land of Artemis at <placeName type="ancient">Ephesus</placeName>.<note n="308" xml:id="ftn308"> Texts <ref target="ddoc:200">
+            <bibl>
+               <biblScope>61.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> - <ref target="ddoc:502">
+            <bibl>
+               <biblScope>61.16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <div type="document" xml:id="DOC203"><!--SEG 49.1427; AE 1999.1592; *Haensch 1999.-->
+      <head>DOC203: <bibl>SEG 49.1427</bibl>; <bibl>AE 1999.1592</bibl>; <bibl type="preferred">Haensch 1999</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[? iussu Imper(atoris) Ca]esaris Nerva[e Traiani
+            <lb/>Aug(usti) Germ(anici) Dac]ici vici Cosa et Anticosa
+            <lb/>[dedicati(?) Di]anae Sbruallidi et(?) ad[iu
+            <lb break="no"/>dic]ati Heracl[eo]tis a [P]omponio [B]a[sso
+            <lb/>(?)te]rm[i]nati s[u]nt a B[aebi]o Tullo proco(n)s(ule)
+            <lb/>[A]siae per C(aium) Valerium Victorem
+            <lb/>[p]raetorem designatum legatum
+            <lb/>[pr]o pr(aetore) (?)</ab>
+      </div>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἐξ ἐπιταγῆς Αὐτο
+            <lb break="no"/>κράτορος Νέρβα Τρα
+            <lb break="no"/>ιανοῦ[ο]ς Σε[β]
+            <lb break="no"/>αστοῦ Γερμανικο[ῦ]
+            <lb/>Δακικοῦ κωμῶν Κο
+            <lb break="no"/>σων καὶ Ἀντικοσω[ν]
+            <lb/>καθιερωμένων Ἀρ
+            <lb break="no"/>τέμιδι Σβρυαλλιδι
+            <lb/>προσκριθεισῶν Ἡρα
+            <lb break="no"/>κλεώταις ὑπὸ Πομπω
+            <lb break="no"/>νίου Βάσσου ὅροι ἐτέ
+            <lb break="no"/>θησαν ὑπὸ Βαιβίου Τούλ
+            <lb break="no"/>λου ἀνθυπάτου Ἀσίας
+            <lb/>διὰ Γαίου Βαλερίου Βίκτ
+            <lb break="no"/>ρο[ς στ]ρατηγοῦ ἀποδε
+            <lb break="no"/>δε[ι]γμένου πρεσβευτοῦ καὶ ἀντισ[τ]ρα[τ]ήγου</ab>
+      </div>
+      <div type="translation">
+         <p>According to the command of the emperor Nerva
+                    <persName type="emperor">Trajan</persName> Caesar Augustus
+                Germanicus Dacicus, the <foreign xml:lang="la">vici</foreign> of
+                    <placeName type="ancient">Cosa</placeName> and <placeName type="ancient">Anticosa</placeName>, having been dedicated to
+                Diana Sbrudallis and adjudicated to the Hercleans by <persName>Pomponius Bassus</persName> were demarcated by
+                    <persName>Baebius Tullius</persName>, proconsul of
+                    <placeName type="ancient">Asia</placeName> through <persName>C. Valerius Victor</persName>, praetor designate
+                and propraetorian legate.</p>
+      </div>
+   </div>
+</div>

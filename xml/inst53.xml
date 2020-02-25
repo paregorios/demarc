@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST53">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute between the <placeName type="ancient">Falerienses</placeName> and the <placeName type="ancient">Firmani</placeName> concerning <foreign xml:lang="la">subseciva</foreign>
+   </head>
+   <p>Date(s): <date>AD 81</date>
+   </p>
+   <p>
+      <seg type="instance-description">An inscription on bronze records a land dispute in the area of <placeName type="ancient">Falerio</placeName> (mod. Falerone in Italy). It can be dated to the reign of Domitian by imperial titulature and a consular date formula. The text preserves an imperial rescript to the <placeName type="ancient">Falerienses</placeName>, communicating Domitian’s verdict (<foreign xml:lang="la">cognita causa pronuntiavi quod suscriptum est</foreign>) concerning their dispute about subseciva with the people of nearby <placeName type="ancient">Firmum Picenum</placeName> (mod. Fermo).</seg>
+   </p>
+   <p>This document reveals an important difference in the emperor’s handling of boundary disputes as compared with other types of land disputes. It is particularly instructive to compare this rescript with the Vespasianic rescript issued to the Corsican <placeName type="ancient">Vanacini</placeName> in their boundary dispute with the Roman colony of <placeName type="ancient">Mariana</placeName> (mod. La Canonica).<note n="416" xml:id="ftn416"> Instance <ref target="#INST52">
+            <bibl>
+               <biblScope>25</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> In Domitian’s case, the dispute involved not the location of borders, but the rights to <foreign xml:lang="la">subseciva</foreign>, portions of land that had not been distributed individually to colonists during the centuriation and land distribution associated with the foundation of the colony. The <placeName type="ancient">Firmani </placeName>challenged the right of citizens of <placeName type="ancient">Falerio</placeName> to occupy and farm these <foreign xml:lang="la">subseciva</foreign>, a right the <placeName type="ancient">Falerienses </placeName>felt they maintained by virtue of a grant from their colony’s founder, the emperor Augustus. Lands that had been distributed to individual colonists during the colonial foundation would have been transferred by formal title, and so were susceptible to documentary proof. The assignment of these plots would have been recorded on the bronze <foreign xml:lang="la">forma </foreign>prepared by the surveyors. If subsequently transferred to another owner, there should have been written documentation of that transfer. But under Roman law, ownership of land could be procured without title by occupying land not susceptible to title for a period of time (<foreign xml:lang="la">possessio </foreign>by <foreign xml:lang="la">usucapio</foreign>). No formal documentation would be available in such circumstances.  <note n="417" xml:id="ftn417"> 
+         <foreign xml:lang="la">Subseciva</foreign>, colonial foundation and associated records: Moatti 1993, 35-36, 54-55, 119-122 and 135, Campbell 1996, 86-98. </note>
+   </p>
+   <p>Domitian was not impressed with the argument of the <placeName type="ancient">Firmani</placeName>. He gives two reasons for ruling in favor of the Falerienses as <foreign xml:lang="la">possessores</foreign>. The first reason arises from the law of <foreign xml:lang="la">possessio </foreign>itself. Domitian ruled that the <foreign xml:lang="la">possessores</foreign> had been occupying and using the land far longer than the minimum time necessary to obtain ownership rights according to the law. His verdict expresses irritation that the <placeName type="ancient">Firmani</placeName> even tried to raise the issue, given the provisions of the law and the amount of time the <placeName type="ancient">Falerieneses</placeName> had been on the land.</p>
+   <p>Domitian’s expressed irritation aside, it is not entirely surprising that a community might, at this period, seize upon the question of <foreign xml:lang="la">subseciva </foreign>as an opportunity to forward a rivalry or gain an advantage over a neighboring community. There is ample documentation for a project of Vespasian that was intended to increase imperial revenue by reasserting the long-neglected rights of the Roman people to perpetual ownership of <foreign xml:lang="la">subseciva</foreign> that had not been granted to colonists or to the pre-colonial communities from whom the land had been confiscated originally.<note n="418" xml:id="ftn418"> Campbell 2000, 39.21, 41.35-42, 89.46-91, 99.26-27, and 131.20-21. I am grateful to M. Johnson for the collation of these citations from the <foreign xml:lang="la">corpus agrimensorum</foreign>. It would be a mistake to connect this project with contemporaneous epigraphic sources addressed inthis dissertation, including: the restoration of sacred land to the temple of Diana Tifatina in <placeName type="ancient">Campania</placeName> (Instance <ref target="#INST103">
+            <bibl>
+               <biblScope>67</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>), the restoration of public lands to <placeName type="ancient">Pompeii</placeName>(Instance <ref target="#INST23">
+            <bibl>
+               <biblScope>65</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>), the restoration of Roman public lands in <placeName type="ancient">Cyrenaica</placeName>(Instance <ref target="#INST183">
+            <bibl>
+               <biblScope>62</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>), and the restoration of the public lands of <placeName type="ancient">Canusium</placeName>(Instance <ref target="#INST59">
+            <bibl>
+               <biblScope>66</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). In none of these cases is <foreign xml:lang="la">subseciva</foreign>mentioned, and in only one case (<placeName type="ancient">Cyrenaica</placeName>) are the lands in question attributed to the <foreign xml:lang="la">populus Romanus</foreign>. The other cases involved land that either belonged traditionally to the communities in question (a Roman confirmation thereof assumed), or that had been granted by the Romans to those communities already. In these situations, the emperor was assisting the communities in regaining for themselves their own public lands and the revenue associated with them. </note> This arrangement would have required the current occupiers of the land to vacate it, or purchase for its continued use a perpetual lease from the state. Domitian – confronted by widespread opposition – is said to have ultimately dropped the project and granted the land in question to its occupiers.</p>
+   <p>Domitian’s second reason was based on interpretation of a document, presumably presented by the <foreign xml:lang="la">possessores</foreign>. It was a letter of Augustus to the veterans of the fourth legion (<foreign xml:lang="la">Quartani</foreign>),<note n="419" xml:id="ftn419"> Both the OLD and Lewis and Short recognize this usage. Tac. Hist. 4.37 provides a fine example of the usage: <foreign xml:lang="la">Dein mutati in paenitentiam primani quartanique et duoetvicensimani Voculam sequuntur ...</foreign> (Then, repenting their action, the men of the First, Fourth and Twenty-second legions followed Vocula). </note> in which he admonished them to gather up and sell the <foreign xml:lang="la">subseciva</foreign>. Domitian does not need this piece of evidence in order to rule in favor of the Falerienses; the argument from the law is sufficient. But he brings it in anyway, in part to underline his displeasure with the <placeName type="ancient">Firmani</placeName>, observing that he had no doubt that the veterans observed so salutary an admonition.</p>
+   <p>Why does Domitian feel comfortable making this ruling himself, when Vespasian had delegated final authority to the provincial governor in the case of the Corsican dispute? Though he lacks a governor to depend on for cases in Italy, he could easily have followed Claudius’ example and assigned an <foreign xml:lang="la">amicus </foreign>to handle the case. Apart from considerations of each emperor’s individual style, the two cases revolve around different legal issues. In the case of the <placeName type="ancient">Firmani</placeName> and <placeName type="ancient">Falerienses</placeName>, the location and delineation of the <foreign xml:lang="la">subseciva</foreign> do not appear to have been in dispute. Everyone involved presumably knew and accepted the boundaries that defined the <foreign xml:lang="la">subseciva</foreign>. The use of the term implies a centuriated area, which ought to have been well-marked and documented. The dispute was over who had the right of ownership and use. The Corsican dispute, on the other hand, involved the actual or purported location of borders themselves. Resolution of the dispute would have involved confirming that boundary markers dividing the two cities’ territories were in the correct place, and restoring them if they were not. On Corsica, the governor, aided by the surveyor Vespasian had sent, would have had to identify and validate relevant documentation (maps, <foreign xml:lang="la">determinationes</foreign>, extant boundary markers) in order to properly redemarcate the boundaries. Boundary disputes required extensive intervention on site. Other types of land disputes did not.<note n="420" xml:id="ftn420"> See further discussion at Instance <ref target="#INST99">
+            <bibl>
+               <biblScope>24</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <div type="document" xml:id="DOC102"><!--*CIL 9.5420.-->
+      <head>DOC102: <bibl type="preferred">CIL 9.5420</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar divi Vespasiani f(ilius)
+            <lb/>[[Domitianus]] Augustus
+            <lb/>pontifex max(imus) trib(unicia) potest(ate) imp(erator) II
+            <lb/>co(n)s(ul) VIII desig(natus) VIIII
+            <lb/>p(ater) p(atriae) salutem dicit
+            <lb/>IIIIviris et decurionibus Faleriensium ex Piceno
+            <lb/>quid constituerim de subsicivis cognita causa
+            <lb/>inter vos et Firmanos ut notum haberetis
+            <lb/>huic epistulae subici iussi
+            <lb/>P(ublio) Valerio Patruino [[3]] co(n)s(ulibus)
+            <lb/>XIIII K(alendas) Augustas
+            <lb/>Imp(erator) Caesar divi Vespasiani f(ilius) [[Domitianus]]
+            <lb/>Aug(ustus) adhibitis utriusque ordinis splen
+            <lb break="no"/>didis viris cognita causa inter Fale
+            <lb break="no"/>rienses et Firmanos pronuntiavi quod
+            <lb/>su(b)scriptum est
+            <lb/>et vetustas litis quae post tot annos
+            <lb/>retractatur a Firmanis adversus
+            <lb/>Falerienses vehementer me movet
+            <lb/>cum possessorum securitati vel mi
+            <lb break="no"/>nus multi anni sufficere possint
+            <lb/>et divi Augusti diligentissimi et in
+            <lb break="no"/>dulgentissimi erga quartanos suos
+            <lb/>principis epistula qua admonuit
+            <lb/>eos ut omnia sub{p}siciva sua collige
+            <lb break="no"/>rent et venderent quos tam salubri
+            <lb/>admonitioni paruisse non dubito
+            <lb/>propter quae possessorum ius confirmo
+            <lb/>valete d(iem) XI K(alendas) Aug(ustas) in Albano
+            <lb/>agente curam T(ito) Bovio Vero
+            <lb/>legatis
+            <lb/>P(ublio) Bovio Sabino
+            <lb/>P(ublio) Petronio Achille d(ecreto) d(ecurionum) p(ublice)</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of the divine
+                Vespasian, <persName type="emperor">Domitian</persName> Augustus,
+                pontifex maximus, (holding the) tribunician power, (saluted as) imperator 2 times,
+                consul 8 times, consul-designate for the 9th time, father of the country, sends
+                greetings to the quattuorviri and decurions of the <placeName type="ancient">Falerienses </placeName>from <placeName type="ancient">Picenum</placeName>. I have attached to this
+                letter what I have ruled concerning the <foreign xml:lang="la">subseciva</foreign>, now that the case between you and the <placeName type="ancient">Firmani</placeName> has been investigated, in
+                order that you may have knowledge (of it).</p>
+         <p>(Dated:) when <persName>Publius Valerius Patruvinus </persName>and [[
+                ------------ ]] were consuls, fourteen days before the kalends of August. I, the
+                Emperor Caesar, son of the divine Vespasian, <persName type="emperor">Domitian</persName> Augustus, now that both splendid orders of men have been
+                consulted and the case between the <placeName type="ancient">Falerienses</placeName> and the <placeName type="ancient">Firmani</placeName> has been investigated, I have proclaimed that which is
+                written below:</p>
+         <p>First, the age of the quarrel, which after so
+                many years has been brought back by the <placeName type="ancient">Firmani </placeName>against the <placeName type="ancient">Falerienses</placeName>, moved me greatly since far fewer years would have been
+                sufficient for the security of the occupants. Second, (I was moved greatly by) the
+                letter of the divine and most indulgent princeps <persName type="emperor">Augustus </persName>to his own <foreign xml:lang="la">Quartani</foreign> in which he admonished them that
+                they should collect and sell all their own <foreign xml:lang="la">subseciva</foreign>, (which <foreign xml:lang="la">Quartani</foreign>), I do not doubt, obeyed so beneficial an admonition. On
+                account of these factors, I confirm the rights of the possessors.</p>
+         <p>Farewell. (Dated:) 11 days before the Kalends
+                of August. At the Alban (villa).</p>
+         <p>
+            <persName>Titus Bovius Verus </persName>had the charge of it. <persName>Publius Bovius Sabinus </persName>and <persName>Publius Petronius Achilles </persName>were the
+                envoys. Placed by decree of the decurions.</p>
+      </div>
+   </div>
+</div>

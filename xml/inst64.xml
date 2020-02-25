@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST64">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary markers of the fields of the <placeName type="ancient">Bendiparoi</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 28</bibl>
+   </p>
+   <p>Date(s): <date>AD 211-212</date>
+   </p>
+   <p>
+      <seg type="instance-description">Three Greek markers found near <placeName type="ancient">Philippopolis</placeName> (mod. <placeName type="modern">Plovdiv</placeName> in <placeName type="modern">Bulgaria</placeName>) attest to a single <hi rend="bold">boundary dispute</hi> involving the agricultural land (<foreign xml:lang="grc">ἀγροί</foreign>) of an otherwise unattested people or group called the <placeName type="ancient">Bendiparoi</placeName>. The boundary markers were placed by the provincial governor through the agency of another individual “in accordance with the divine verdict” (<foreign xml:lang="grc">κατὰ θείαν ἀπόφασιν</foreign>, i.e., a decision of an emperor).</seg>
+   </p>
+   <div type="document" xml:id="DOC191"><!--*SEG 29.681; AE 1979.552.-->
+      <head>DOC191: <bibl type="preferred">SEG 29.681</bibl>; <bibl>AE 1979.552</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>κατὰ
+            <lb/>θείαν
+            <lb/>ἀπόφα
+            <lb break="no"/>σιν τε
+            <lb break="no"/>θέντες
+            <lb/>ὑπὸ Κ(οΐντου) Ἀ
+            <lb break="no"/>τρίου Κλο
+            <lb break="no"/>νίου πρε
+            <lb break="no"/>σβ(ευτοῦ) Σεββ(αστῶν)
+            <lb/>ἀντιστρ(ατήγου)
+            <lb/>διὰ Μουκί
+            <lb break="no"/>ου Οὐήρου
+            <lb/>ὅροι
+            <lb/>ἀγροῦ Βεν
+            <lb break="no"/>διπαρων</ab>
+      </div>
+      <div type="translation">
+         <p>According to the divine verdict, boundary
+                markers of the fields of the <placeName type="ancient">Bendiparoi </placeName>placed by <persName>Kointos Atrios Clonios</persName>, propraetorian legate of the two emperors, through
+                    <persName>Moukios Oueros</persName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC193"><!--IGBulg 3.1472. See also: IGBulg 3 Addenda no. 1900.-->
+      <head>DOC193: <bibl>IGBulg 3.1472</bibl>. See also: <bibl>IGBulg 3 Addenda no. 1900</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[κατὰ θεῖαν ἀπόφα]
+            <lb break="no"/>σιν τεθέν[τες ὑπὸ Κ(οΐντου) Ἀτρί]
+            <lb break="no"/>ου Κλονίου [πρεσβ(ευτοῦ) Σεβ(αστῶν)]
+            <lb/>ἀντιστρ(ατήγσυ) διὰ Μ[ουκίου]
+            <lb/>Οὐήρου ὅροι
+            <lb/>ἀγροῦ Βενδιπαρω[ν].</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC192"><!--IGBulg 3.1455. See also: IGBulg 3 Addenda no. 1900.-->
+      <head>DOC192: <bibl>IGBulg 3.1455</bibl>. See also: <bibl>IGBulg 3 Addenda no. 1900</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>κατὰ θεῖαν
+            <lb/>ἀπόφασιν τε
+            <lb break="no"/>θέντες ὑπὸ Κ(οΐντου)
+            <lb/>Ἀτρίου Κλονί
+            <lb break="no"/>ου πρεσβ(ευτοῦ) Σεββ(αστῶν) Σεβαστῶν
+            <lb/>ἀντιστρ(ατήγου) διὰ
+            <lb/>Μουκίου Οὐή
+            <lb break="no"/>ρου ὅροι ἀγροῦ Βενδι
+            <lb break="no"/>παρων.</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

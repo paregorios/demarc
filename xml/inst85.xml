@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST85">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary markers of the territory of the <placeName type="ancient">Ausdecenses</placeName> placed against the <placeName type="ancient">Dacians</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 23</bibl>
+   </p>
+   <p>Date(s): <date>AD 176-179</date>
+   </p>
+   <p>
+      <seg type="instance-description">A single boundary marker found in the vicinity of <placeName type="ancient">Tropaeum Traiani</placeName> (mod. Adamclisi in Romania) attests to an <hi rend="bold">authoritative demarcation</hi> involving the territory of the <foreign xml:lang="la">civitas</foreign> of the <placeName type="ancient">Ausdecenses</placeName>. Conducted on the order of the provincial governor and future ill-fated emperor Helvius Pertinax (<foreign xml:lang="la">iussu co(n)s(ularis) n(ostri)</foreign>), the demarcation was made explicitly to demonstrate to the <placeName type="ancient">Daci</placeName> that they were to stay out of the territory of the <placeName type="ancient">Ausdecenses</placeName>. The demarcation was effected by an individual whose name is partly damaged (and therefore is unidentifiable), through an otherwise unknown tribune of a cohort.</seg>
+   </p>
+   <p>The inscription dates to AD 176-179, based on Pertinax’s tenure as governor.<note n="501" xml:id="ftn501"> There is debate as to whether he was serving as governor of <placeName type="ancient">Moesia Inferior</placeName>, or of both provinces simultaneously. See the relevant entry in the Prosopographical Index for literature. </note> The context, of course, is the height of the Marcommanic wars, in which Pertinax featured so centrally.<note n="502" xml:id="ftn502"> In general, see Birley 2000, chpt. 8 and apdx. 3. </note> It is sometimes assumed that this demarcation relates in some way to the migrations and fighting of the period, but there is no proof of this. The <placeName type="ancient">Ausdecenses </placeName>are thought to have been an indigenous Balkan people, incorporated as a <foreign xml:lang="la">civitas </foreign>at some time under the empire and probably inhabiting this area for a time prior to the events recorded here, although this is the only epigraphic proof of their presence.<note n="503" xml:id="ftn503"> Vulpe 1968, 164-165. </note> This demarcation may have arisen from encroachment or outright invasion on the part of people from <placeName type="ancient">Dacia </placeName>(perhaps displaced by fighting there), but we cannot be certain.</p>
+   <p>The civic decrees (<foreign xml:lang="la">secun(dum) c(ivitatis) act(a)</foreign>) mentioned here may have been similar to one enacted by the assembly of the <placeName type="ancient">Battynaioi</placeName> (at mod. Kranochori in Greece) and preserved in an inscription.<note n="504" xml:id="ftn504"> Rizakis 1985 185 = Woodward 1913, 337-346.17, cf. Buraselis 1993. </note> The decree concerns the occupation of the community’s public lands by “provincials” (i.e., non-citizens of the community). The community enacts several regulations of its own (including fines for its own magistrates who fail to prevent such circumstances) and forwards the decree to the provincial governor for endorsement. Boundary markers related to a dispute between a citizen of the Roman colony at <placeName type="ancient">Cnossus </placeName>and the colony of <placeName type="ancient">Capua </placeName>regarding a common border on Crete also make reference to civic decrees.<note n="505" xml:id="ftn505"> Instance <ref target="#INST57">
+            <bibl>
+               <biblScope>27</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <div type="document" xml:id="DOC126"><!--*EDH HD017654; Vulpe 1968, 164; Fitz 1966, 41-42.14; AE 1957.333; CIL 3.14437/2.-->
+      <head>DOC126: <bibl type="preferred">EDH HD017654</bibl>; <bibl>Vulpe 1968, 164</bibl>; <bibl>Fitz 1966, 41-42.14</bibl>; <bibl>AE 1957.333</bibl>; <bibl>CIL 3.14437/2</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>termin(i) pos(iti)
+            <lb/>t(erritorii) c(ivitatis) Ausdec(ensium) adve
+            <lb break="no"/>r(sus) Dac(os) secun(dum) c(ivitatis)
+            <lb/>act(a) C(aius) Vexarus t(erminavit?)
+            <lb/>opus h(inc) excessent
+            <lb/>Dac(i) term(ini) t(erritorii) c(ivitatis) obli
+            <lb break="no"/>[g(ati)] sint M[es]sal(la) F[e]
+            <lb break="no"/>rox(?) term(inos) [p]os(uit) t(erritorii)
+            <lb/>iussu Helvi Per
+            <lb break="no"/>tinacis co(n)s(ularis) n(ostri) per
+            <lb/>Anternium An
+            <lb break="no"/>[to]ninum trib[unum]
+            <lb/>coh(ortis) I Cilic(um)</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary markers of the territory of the
+                    <foreign xml:lang="la">civitas</foreign> of the <placeName type="ancient">Ausdecenses</placeName>, where it meets that
+                of the <placeName type="ancient">Daci</placeName>, in accordance
+                with decrees of the <foreign xml:lang="la">civitas</foreign>. Caius
+                Vexarus completed(?) the work. Let the <placeName type="ancient">Daci</placeName> go out of here. The boundary markers of the territory of the
+                    <foreign xml:lang="la">civitas</foreign> have been surveyed.
+                Messala Ferox(?) placed the boundary markers of the territory by order of Helvius
+                Pertinax, our <foreign xml:lang="la">consularis</foreign>, through
+                Anternius Antoninus, tribune of <placeName type="ancient">Cohors I Cilicum</placeName>.</p>
+      </div>
+   </div>
+</div>

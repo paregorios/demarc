@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST183">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of Roman Public Lands in Cyrenaica</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 73 and 74</bibl>
+   </p>
+   <p>Date(s): <date>beginning AD 53</date>
+   </p>
+   <p>
+      <seg type="instance-description">What follows here can only be a provisional account of Roman administrative measures relating to the restoration of public land in <placeName type="ancient">Cyrenaica</placeName>. These matters are informed by literary references, and by a substantial number of inscribed boundary markers dating to the reigns of Claudius, Nero and Vespasian. I cannot provide a complete list, nor can I provide any useful topographic or temporal overview, for the majority of these inscriptions (despite their discovery over thirty years ago) remain unpublished.<note n="378" xml:id="ftn378"> J. Reynolds could speak of 28 of them in 1971, when only seven of them had appeared (Reynolds 1971, 47). The complete publication promised then has yet to appear, although J. Reynolds remains actively engaged in its preparation (pers. comm.). Previously unknown markers are still being found, e.g., Texts 1.8 and 1.12. </note>
+      </seg>
+   </p>
+   <p>At the end of his narrative of the year AD 59, Tacitus reports on unspecified accusations brought before the Senate against L. Acilius Strabo (Text <ref target="ddoc:471">
+         <bibl>
+            <biblScope>62.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). Strabo had earned the enmity of the Cyrenaicans through a task he had been given in their province by the emperor Claudius: the adjudication of Roman public lands that had been occupied by squatters. The land in question, according to Tacitus, had been bequeathed to the Roman people by Ptolemy Apion, king of <placeName type="ancient">Cyrene </placeName>(reigned ca. 105-101 – 96 BC). Not being party to the details of Strabo’s mission, the Senate had to refer the matter to Nero. Nero exonerated Strabo and confirmed his verdicts, but then granted the land to the provincials as a <foreign xml:lang="la">beneficium</foreign>.</p>
+   <p>Strabo’s tenure in <placeName type="ancient">Cyrenaica</placeName> is attested epigraphically by eight published inscriptions (Texts <ref target="ddoc:476">
+         <bibl>
+            <biblScope>62.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>to <ref target="ddoc:514">
+         <bibl>
+            <biblScope>62.8</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). Those that can be dated (Texts <ref target="ddoc:476">
+         <bibl>
+            <biblScope>62.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>to <ref target="ddoc:298">
+         <bibl>
+            <biblScope>62.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) indicate a span of at least AD 53 (under Claudius) to AD 54/55 (under Nero).</p>
+   <p>Either Nero’s grant did not include all Roman public land in <placeName type="ancient">Cyrenaica</placeName>, or his grant was subsequently rescinded, for we have evidence of an operation similar to Strabo’s under the emperor Vespasian. Hyginus I, writing about types of land in the provinces, mentions inscribed boundary markers recording a Vespasianic restitution to the Roman people of land occupied by squatters (Text <ref target="ddoc:520">
+         <bibl>
+            <biblScope>62.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). He indicates that these were lands that had been given to the Roman people by “king Ptolemy.” This operation is confirmed by four published boundary markers dating to all years in the span AD 71-74. These inscriptions indicate the work of the imperial legate Q. Paconius Agrippinus,  <note n="379" xml:id="ftn379"> During the reign of Claudius, Agrippinus<seg type="T8">(</seg>as “quaestor and boundary-setter” = <foreign xml:lang="grc">τάμιας καὶ ὁροθέτης</foreign>) had been involved in the restoration of roads and pathways on Crete: <seg type="T8">τὰς ὁδοὺς καὶ ἀνδροβάμονας ἀποκατέστησεν</seg> (five markers are known: ICret 3.3.25-29 and AE 1999.1442). This incident should probably be added to our catalog, but I have not had the opportunity to review the texts and analysis in order to categorize the incident properly. </note> who restored a garden, a field, and a <foreign xml:lang="la">Ptolemaeum</foreign> to the Roman people (Texts <ref target="ddoc:513">
+         <bibl>
+            <biblScope>62.10</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> - <ref target="ddoc:300">
+         <bibl>
+            <biblScope>62.14</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>).</p>
+   <p>Another marker dating to sometime in the period AD 73-75 records a lease of land, in perpetuity, to one Apollonius, son of Paraebata (Text <ref target="ddoc:401">
+         <bibl>
+            <biblScope>62.15</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). Agrippinus is nowhere in evidence. The active Roman official in this matter was the proconsul, C. Arinius Modestus, who was serving an extended second term in the province. The marker invokes Vespasian’s authority, but makes no mention of restitution, or of Ptolemy Apion. Instead, the property in question is described as “the territory of the <placeName type="ancient">Apolloniatae</placeName> which the <foreign xml:lang="la">res publica</foreign> with its allies bought.” The full implications of this designation remain obscure to me, but it would seem to mark this land as separate from the Ptolemaic properties that exercised Strabo and Agrippinus. The words <foreign xml:lang="la">divisa</foreign> and <foreign xml:lang="la">locavit</foreign> are technical terms, frequently employed in the <foreign xml:lang="la">agrimensores</foreign>, that would seem to indicate a new survey and partition of the land in question.</p>
+   <p>An apparently unrelated inscription dating to the eighth year of Domitian’s tribunician power (AD 88/89) records the restoration of land occupied by squatters to the <foreign xml:lang="la">civitas</foreign> of the <placeName type="ancient">Ptolemaenses</placeName> (Text <ref target="ddoc:518">
+         <bibl>
+            <biblScope>62.16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). This inscription derives from the area of <placeName type="ancient">Ptolemais </placeName>(mod. Tolmeta in Libya), and should not be confused with the other inscriptions, which were found closer to <placeName type="ancient">Apollonia</placeName> (mod. Marsa Susa) and <placeName type="ancient">Cyrene </placeName>(mod. Ain Shahat), and in more rural areas inland from there.</p>
+   <div type="document" xml:id="DOC471"><!--*Tac. Ann. 14.18.-->
+      <head>DOC471: <bibl type="preferred">Tac. Ann. 14.18</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>idem Cyrenenses reum agebant Acilium Strabonem, praetoria potestate usum et missum disceptatorem a Claudio agrorum, quos regis Apionis quondam avitos et populo Romano cum regno relictos proximus quisque possessor invaserant, diutinaque licentia et iniuria quasi iure et aequo nitebantur. igitur abiudicatis agris orta adversus iudicem invidia; et senatus ignota sibi esse mandata Claudii et consulendum principem respondit. Nero probata Strabonis sententia se nihilo minus subvenire sociis et usurpata concedere scripsit.</ab>
+      </div>
+      <div type="translation">
+         <p>Then the <placeName type="ancient">Cyrenenses</placeName> brought a lawsuit
+                against Acilius Strabo, who had been given praetorian power and sent by Claudius as
+                a judge of the fields which at one time had been the patrimony of king Apion and
+                later left, with his kingdom, to the Roman people. These fields had been invaded by
+                squatters, and they relied upon their long-standing lawlessness and crime as if
+                these were legality and fairness. Therefore, when the fields had been adjudicated,
+                their hatred turned against the judge, but the Senate responded that the <foreign xml:lang="la">mandata </foreign>of Claudius were unknown to it
+                and the <foreign xml:lang="la">princeps</foreign> would have to be
+                consulted. Nero, having confirmed Strabo’s verdict, wrote that he nonetheless
+                (wished) to assist the allies (i.e., provincials), and he conceded the properties
+                that had been usurped.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC476"><!--EDH HD011697 (Latin); SEG 26.1819; AE 1974.682; *Reynolds 1971, 47-49.1.-->
+      <head>DOC476: <bibl>EDH HD011697 (Latin)</bibl>; <bibl>SEG 26.1819</bibl>; <bibl>AE 1974.682</bibl>; <bibl type="preferred">Reynolds 1971, 47-49.1</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>(front:) [Τι(βέριος)] Κλαύδιος
+            <lb/>[K]αῖσαρ Σεβαστὸς
+            <lb/>Γερμαν[ι]κὸς
+            <lb/>[ἀρχ]ιερεὺς μέγιστος
+            <lb/>δημαρ[χικῆ]ς ἐξου
+            <lb break="no"/>σ[ία]ς τὸ ιγʹ αὐτοκρά
+            <lb break="no"/>τ[ω]ρ τὸ κζʹ πατ[ὴρ]
+            <lb/>πατρίδος τιμητὴς
+            <lb/>[ὕπα]τος [τὸ εʹ]
+            <lb/>διὰ Λ(ευκίου) Ἀκ[ιλίο]υ
+            <lb/>Στραβ
+            <lb break="no"/>ωνος τοῦ
+            <lb/>ἰδίου πρεσβευτοῦ
+            <lb/>Χωρία ὑπὸ ἰδιώτων
+            <lb/>κατεχόμενα δήμῳ
+            <lb/>Ῥωμαίων ἀπο
+            <lb break="no"/>κατέστησε</ab>
+      </div>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(back:) [Ti(berius) Claudius]
+            <lb/>Caesa[r Augustus]
+            <lb/>Ger[manicus]
+            <lb/>[ --- 5 lines --- ]
+            <lb/>per L(ucium) Ac[ili]um Str[a]
+            <lb break="no"/>bonem l[e]gatum suum
+            <lb/>praedia [a] privatis
+            <lb/>posses[sa p(opulo) R(omano)] resti
+            <lb break="no"/>tuit</ab>
+      </div>
+      <div type="translation">
+         <p>Tiberius <persName type="emperor">Claudius</persName> Caesar Augustus Germanicus,
+                pontifex maximus, holding the tribunician power 13 (times), (saluted as) imperator
+                27 (times), father of the country, censor, consul 5 (times), through Lucius Acilius
+                Strabo his legate, restored to the Roman people the lands that had been occupied by
+                private persons.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC299"><!--*EDH HD027199 (Latin); Smallwood 1967 386; *SEG 9.352; AE 1934.260 (Latin).-->
+      <head>DOC299: <bibl type="preferred">EDH HD027199 (Latin)</bibl>; <bibl>Smallwood 1967 386</bibl>; <bibl type="preferred">SEG 9.352</bibl>; <bibl>AE 1934.260 (Latin)</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Nero] Claudius divi
+            <lb/>[Clau]di f(ilius) Ger(manici) Caesaris
+            <lb/>[n(epos)] Ti(beri) Caesaris Aug[u]st[i]
+            <lb/>[pr(onepos) div]i Aug(usti) abn(epos) Caesar Aug(ustus)
+            <lb/>[G]ermanicos(!) pontif(ex)
+            <lb/>max(imus) trib(unicia) pot(estate) imp(erator) {o}c(on)s(ul)
+            <lb/>per L(ucium) Acilium Strabonem
+            <lb/>leg(atum) suum fines occu
+            <lb break="no"/>[p]atos a privatis p(opulo) R(omano) res
+            <lb break="no"/>[ti]tuit.<seg xml:lang="grc">Νέρων Κλαύ
+            <lb break="no"/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">διος θεοῦ Κλαυδίου υ[ἱό]ς
+            <lb/>Γερμανικοῦ Καίσαρος
+            <lb/>υἱωνός Τι(βερίου) Καίσαρος
+            <lb/>[Σεβαστ]οῦ [ἀπέγγο]
+            <lb break="no"/>
+               <lb break="no"/>[νο]ς θεοῦ Σε
+            <lb break="no"/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">[βα]στοῦ ἔγγο
+            <lb break="no"/>νος Καῖσαρ Σε
+            <lb break="no"/>[βα]στὸς Γερμα
+            <lb break="no"/>[νι]κός ἀρχιερεὺς
+            <lb/>μέγιστος δημαρ
+            <lb break="no"/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">χικῆς ἐξουσίας
+            <lb/>αὐτοκράρωρ
+            <lb/>ὕπατος
+            <lb/>[διὰ Λ(ουκίου) Ἀκει]λίο[υ]
+            <lb/>[Στράβ]ωνος ἰδ[ί]
+            <lb break="no"/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">ου πρεσβευτο[ῦ]
+            <lb/>[ὅρ]ου[ς] διακατεχο
+            <lb break="no"/>μένους ὑπὸ ἰδιω
+            <lb break="no"/>τῶν δῆμῳ Ῥω
+            <lb break="no"/>[μ]αί[ω]ν ἀποκατέσ
+            <lb break="no"/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">τησεν.</seg>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName type="emperor">Nero</persName> Claudius, son of the god Claudius, grandson of Germanicus
+                Caesar, great-grandson of Tiberius Caesar Augustus, great-great grandson of the god
+                Augustus, Caesar Augustus Germanicus, pontifex maximus, (holding the) tribunician
+                power, (saluted as) imperator, consul, through Lucius Acilius Strabo his legate,
+                restored to the Roman people the boundaries that had been occupied by private
+                persons.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC298"><!--*AE 1974.677; Pugliese Carratelli 1961, 323.190.-->
+      <head>DOC298: <bibl type="preferred">AE 1974.677</bibl>; <bibl>Pugliese Carratelli 1961, 323.190</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[Νέρω]ν Κλαύδιος [θε]οῦ
+            <lb/>[Κ]λαυδίου ὑὸς Γερμαν[ι]
+            <lb break="no"/>κοῦ Καίσαρος ὑωνὸς
+            <lb/>Τι(βερίου) Καίσαρος Σεβαστ[ου]
+            <lb/>[κ]αὶ θεοῦ Σεβαστοῦ
+            <lb/>ἔκγονος Καῖσαρ Σεβαστὸς Γερμαν[ι]\κὸς ἀρχι[ερε]ὺς μέ
+            <lb break="no"/>γιστ[ος δημαρχ]ικῆ[ς]
+            <lb/>ἐξου[σί]α[ς αὐτο]κρ[ά]
+            <lb break="no"/>τωρ ὕπα[τος]
+            <lb/>διὰ Λ(ουκίου) Ἀκιλί[ου]
+            <lb/>Στράβωνος τοῦ ἰδίο[υ]
+            <lb/>πρεσβευτοῦ ὅρου[ς] κατεχομένους ὑπὸ
+            <lb/>ἰ[δ]ιωτῶν δήμῳ Ῥωμαί
+            <lb break="no"/>ων [ἀπ]οκατέστησεν</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC361"><!--SEG 46.2189; *AE 1995.1633; Alí 1996.-->
+      <head>DOC361: <bibl>SEG 46.2189</bibl>; <bibl type="preferred">AE 1995.1633</bibl>; <bibl>Alí 1996</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Nero Claudius]
+            <lb/>[divi Claudi f(ilius)] Germanici Cae
+            <lb break="no"/>saris nep(os) [Ti(beri) Caes(aris)]
+            <lb/>Aug(usti) pron(epos) div[i] Aug(usti) abn(epos) Caes[ar]
+            <lb/>Aug(ustus) Germani[cus]
+            <lb/>Imp(erator) per L(ucium) Acil[ium]
+            <lb/>Strabonem l[egatum]
+            <lb/>suum fines [oc]
+            <lb break="no"/>cupatos a priv[atis]
+            <lb/>p(opulo) R(omano) restituit{t}</ab>
+      </div>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Νέρων [Κ]λαύδιος
+            <lb/>[θεοῦ Κλ]αυδίου Καί
+            <lb break="no"/>σαρος Σεβαστοῦ
+            <lb/>Γερμανικοῦ ὁὸ[ς]
+            <lb/>Γερμανικοῦ [Καί]
+            <lb break="no"/>σαρος ὑωνὸς Τι(βεριους)
+            <lb/>Καίσαρος Σεβα
+            <lb break="no"/>στοῦ [και ] θεοῦ
+            <lb/>Σεβαστοῦ [ἔγ
+            <lb break="no"/>γ]ονος α[ὐτοκράτωρ διὰ
+            <lb/>Λ. Ἀκιλίου Στράβ
+            <lb break="no"/>ωνος τοῦ ἰδίου πρεσ
+            <lb break="no"/>βευτοῦ ὅρους ὑπὸ
+            <lb/>ἰδιωτῶν κατεχομ
+            <lb break="no"/>ένους δ(ήμῳ) Ῥ(ωμαίων)
+            <lb/>ἀποκατέστησεν].</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName type="emperor">Nero</persName> Claudius, son of the god Claudius, grandson of Germanicus
+                Caesar, great-grandson of Tiberius Caesar Augustus, great-great grandson of the god
+                Augustus, Caesar Augustus Germanicus, (saluted as) imperator, through Lucius Acilius
+                Strabo, his legate, restored to the Roman people the boundaries that had been
+                occupied by private persons.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC301"><!--*EDH HD011700; IApollonia 59; AE 1974.684; Reynolds 1971, 50-51.3.-->
+      <head>DOC301: <bibl type="preferred">EDH HD011700</bibl>; <bibl>IApollonia 59</bibl>; <bibl>AE 1974.684</bibl>; <bibl>Reynolds 1971, 50-51.3</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>(face a:) [ --- ]
+            <lb/>Τιβερίου [Καί]
+            <lb break="no"/>σαρος Σε[βα]
+            <lb break="no"/>στοῦ κα[ὶ]
+            <lb/>θεοῦ Σε[βα]
+            <lb break="no"/>στοῦ ἔ[κγο]νος
+            <lb/>Σεβασ[τὸς]
+            <lb/>Γερμα[ν(ικὸς)]
+            <lb/>αὐτοκ[ρά]
+            <lb break="no"/>τωρ [διὰ]
+            <lb/>Λουκ[ίου]
+            <lb/>Ἀκιλί[ου Στρά]
+            <lb break="no"/>βων[ος --- ]
+            <lb/>-----</ab>
+      </div>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(face b:) --- ] locavit
+            <lb/>[---] Apollonio
+            <lb/>[--- qu]adringenis
+            <lb/>[---]s et
+            <lb/>[---] ob un
+            <lb break="no"/>[---] medi
+            <lb break="no"/>[ ---</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC511"><!--AE 1977.845; *SEG 27.113. See also: BE 1979.657.-->
+      <head>DOC511: <bibl>AE 1977.845</bibl>; <bibl type="preferred">SEG 27.113</bibl>. See also: <bibl>BE 1979.657</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>-----
+            <lb/>
+            <seg xml:lang="la">[r]estituit</seg>(vacat) [δι]ὰ Λο[υκίου]
+            <lb/>Ἀκιλίο[υ] Στρά[βωνος]
+            <lb/>τοῦ ἰδίου πρ[εσβ]
+            <lb break="no"/>[ε]υτοῦ [ὅ]ρο[υς διὰ]
+            <lb break="no"/>κατεχομ[ένους]
+            <lb/>[ὑ]πὸ ἰδιωτῶ[ν]
+            <lb/>[δήμῳ Ῥ]ωμαί[ων ἀπο]
+            <lb break="no"/>[κα]τέ[στησεν]</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC514"><!--See: SEG 46.2193; Ali Mohamed 1994, 1326-1327.4.-->
+      <head>DOC514: <bibl>See: SEG 46.2193</bibl>; <bibl>Ali Mohamed 1994, 1326-1327.4</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC520"><!--*Campbell 2000, 88.33-90.1.-->
+      <head>DOC520: <bibl type="preferred">Campbell 2000, 88.33-90.1</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Neque hoc praetermittam, quod in prouincia[m] Cyrenensium conperi. in qua agri sunt regii, id est illi quos Ptolomeus rex populo Romano reliquit; sunt plinthides, &lt;id est&gt; laterculi quadrati uti centuriae, per sena milia pedum limitibus inclusi, habentes singuli laterculi iugera numeroCCL; lapides uero inscripti nomine diui Vespasiani sub clausula tali, OCCVPATI A PRIVATIS FINES: P. R. {P}RESTITVIT.</ab>
+      </div>
+      <div type="translation">
+         <p>Moreover, I shall not omit to mention something
+                I discovered in the province of <placeName type="ancient">Cyrene</placeName>. Here there are royal lands, that is, lands that King
+                Ptolemy bequeathed to the Roman people. They are <foreign xml:lang="la">plinthides</foreign>, (that is), square
+                    block of land like <foreign xml:lang="la">centuriae</foreign>, enclosed by <foreign xml:lang="la">limites</foreign> of 6,000 feet; each block of land
+                has 1,250 <foreign xml:lang="la">iugera</foreign>. There are stones
+                inscribed with the name of the divine <persName type="emperor">Vespasian</persName> with the following clause, ‘land occupied by private
+                individuals: he restored it to the Roman people.’<note n="381" xml:id="ftn381"> Translation is Campbell’s. </note>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC513"><!--EDH HD026844 (Latin); *SEG 9.165; AE 1919.91 (Latin); AE 1919.92 (Greek).-->
+      <head>DOC513: <bibl>EDH HD026844 (Latin)</bibl>; <bibl type="preferred">SEG 9.165</bibl>; <bibl>AE 1919.91 (Latin)</bibl>; <bibl>AE 1919.92 (Greek)</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[I]mp(erator) Caesar
+            <lb/>Vespasianus
+            <lb/>Aug(ustus) pont(ifex) max(imus)
+            <lb/>tribunic(ia) pot(estate) III
+            <lb/>[i]m(perator) VIII p(ater) p(atriae) co(n)s(ul)
+            <lb/>[I]II desig(natus) IIII per Q(uintum)
+            <lb/>[P]aconium Agrip
+            <lb break="no"/>[pe]inum legatum
+            <lb/>su[um] populo R(omano)
+            <lb/>[Ptolema]eu[m]
+            <lb/>res
+            <lb break="no"/>[titui]t.
+            <lb/>
+            <seg xml:lang="grc">[Αὐ]τοκράτω[ρ]
+            <lb/>[Κα]ῖσαρ Οὐεσ
+            <lb break="no"/>[π]ασιανός
+            <lb/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">ἀρχιερεὺς μέ
+            <lb break="no"/>[γισ]τος δημαρχ[ι]
+            <lb break="no"/>[κῆς] ἐξουσίας τ[ὸ]
+            <lb/>[γʹ αὐ]τοκράτορ (sic)
+            <lb/>[τὸ] ηʹ πατὴρ πα[τ]
+            <lb break="no"/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">ρίδος ὕπατος
+            <lb/>[τὸ] γʹ δεδειγ[μέ]
+            <lb break="no"/>νος τὸ δʹ διὰ Κ(οίντου)
+            <lb/>[Π]ακωνίου Ἀγρι[π]
+            <lb break="no"/>[π]είνου ἰδίου [π]
+            <lb break="no"/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">[ρ]εσβευτοῦ δ(ήμῳ) Ῥ(ωμαίων)
+            <lb/>[τὸ] Π[το]λυμαῖο[ν]
+            <lb/>[ἀπ]εκατέστησεν.</seg>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar <persName type="emperor">Vespasian</persName> Augustus, pontifex maximus,
+                (holding the) tribunician power 3 (times), (saluted as) imperator 8 (times), father
+                of the country, consul 3 (times), consul-designate 4 (times), through Quintus
+                Paconius Agrippeinus, his legate, restored the Ptolemaeum to the Roman
+                people.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC232"><!--EDH HD026847 (Latin); McCrum-Woodhead 435; *SEG 9.166; AE 1919.93.-->
+      <head>DOC232: <bibl>EDH HD026847 (Latin)</bibl>; <bibl>McCrum-Woodhead 435</bibl>; <bibl type="preferred">SEG 9.166</bibl>; <bibl>AE 1919.93</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[imp(erator) Caesar]
+            <lb/>[Vespasianus Au]g(ustus) pont(ifex) max(imus)
+            <lb/>tribunic(ia) pot(estate) III
+            <lb/>imp(erator) VIII p(ater) p(atriae) co(n)s(ul)
+            <lb/>III desig(natus) IV per
+            <lb/>Q(uintum) Paconium A
+            <lb break="no"/>grippeinum le
+            <lb break="no"/>gatum suum
+            <lb/>populo R(omano)
+            <lb/>Ptol(e)maeum
+            <lb/>restituit.</ab>
+      </div>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[αὐτοκράτωρ]
+            <lb/>[Καῖσαρ] Οὐε[σπα]
+            <lb break="no"/>σιανὸς ἀρχιε[ρεὺς]
+            <lb/>μέγιστος δημ[αρ]
+            <lb break="no"/>χικῆς ἐξουσίας
+            <lb/>τὸ γ’ αὐτοκράτωρ
+            <lb/>τὸ η’ πατὴρ πα
+            <lb break="no"/>τρίδος ὕπατος τὸ γ’
+            <lb/>ἀποδεδειγμένος
+            <lb/>τὸ δ’ διὰ Κ(οίντου) Πακωνί
+            <lb break="no"/>ου Ἀγριππείνου ἰ
+            <lb break="no"/>δίου πρεσβευτοῦ
+            <lb/>δ(ήμῳ) Ῥ(ωμαίων) τὸ Πτυλυμαῖ
+            <lb break="no"/>ον ἀποκατέστη
+            <lb break="no"/>σεν.</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar <persName type="emperor">Vespasian</persName> Augustus, pontifex maximus,
+                (holding the) tribunician power 3 (times), (saluted as) imperator 8 (times), father
+                of the country, consul 3 (times), consul-designate 4 (times), through Quintus
+                Paconius Agrippeinus, his legate, restored the Ptolemaeum to the Roman
+                people.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC515"><!--*AE 2000.1590.-->
+      <head>DOC515: <bibl type="preferred">AE 2000.1590</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>-----
+            <lb/>[ --- ] δ[η]μ[αρχι]κῆς ἐξ[ουσί]
+            <lb break="no"/>[ας] τὸ γʹ αὐτοκράτωρ τὸ ηʹ
+            <lb/>πατὴρ πατρίδος ὕπατ[ος]
+            <lb/>[τὸ γʹ] ἀποδεδε[ιγ]μέν[ος τ]ὸ [δʹ]
+            <lb/>[δι]ὰ Κ(οίντου) Πακωνίου
+            <lb/>[Ἀ]γριππίνου ἰδίο[υ πρ]εσ[βευ]
+            <lb break="no"/>[τ]οῦ δ(ήμῳ) Ῥ(ωμαίων) ἀγρὸν Δ[-]ΟΝ[ --- ]
+            <lb/>[ἀ]ποκατέστησ[εν]</ab>
+      </div>
+      <div type="translation">
+         <p>... (holding the) tribunician power 3 (times),
+                (saluted as) imperator 8 (times), father of the country, consul (3 times),
+                consul-designate (4 times), through Quintus Paconius Agrippeinus, his legate,
+                restored the field D(-)ON(---) to the Roman people.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC512"><!--*EDH HD027202 (Latin); *SEG 9.360; AE 1934.261 (Latin).-->
+      <head>DOC512: <bibl type="preferred">EDH HD027202 (Latin)</bibl>; <bibl type="preferred">SEG 9.360</bibl>; <bibl>AE 1934.261 (Latin)</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[I]mp(erator) Caesar Vespa
+            <lb break="no"/>sianus Aug(ustus) pont(ifex) m(aximus)
+            <lb/>tr(ibunicia) pot(estate) IIII imp(erator) VIII p(ater) p(atriae)
+            <lb/>co(n)s(ul) IIII desig(natus) V per
+            <lb/>Q(uintum) Paconium leg(atum)
+            <lb/>suum hortum
+            <lb/>p(opulo) R(omano) rest(ituit).
+            <lb/>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar <persName type="emperor">Vespasian</persName> Augustus, pontifex maximus,
+                (holding the) tribunician power 4 (times), (saluted as) imperator 8 (times), father
+                of the country, consul 4 (times), consul-designate 5 (times), through Quintus
+                Paconius (Agrippeinos)<note n="384" xml:id="ftn384"> The Latin text omits the cognomen. </note> his legate, restored the garden to the Roman
+                people.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC300"><!--AE 1974.683; *Reynolds 1971, 49-50.2.-->
+      <head>DOC300: <bibl>AE 1974.683</bibl>; <bibl type="preferred">Reynolds 1971, 49-50.2</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(central face: content lost)</ab>
+      </div>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(left face:) [ --- αὐ]
+            <lb break="no"/>[τ]οκ[ρ]άτωρ [ - ]
+            <lb break="no"/>[πατ]ὴρ πατρί
+            <lb break="no"/>[δο]ς ὕπατος εʹ
+            <lb/>[δ]ιὰ Κ(ουίντου) Πακωνί
+            <lb break="no"/>[ου] Ἀγριππείνου
+            <lb/>-----</ab>
+      </div>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(right face:) [το]ῦ ἰδίου πρ[εσ]βευτοῦ ἀ[γ]
+            <lb break="no"/>[ρ]ῶν βασιλ[ί]
+            <lb break="no"/>κῶν δ(ήμῳ) Ῥ(ωμαίων)
+            <lb/>ἀποκατέσ
+            <lb break="no"/>τησεν
+            <lb/>-----
+            <lb/>
+            <lb break="no"/>-----
+            <lb/>ἰδίωτ[ῶ]ν
+            <lb/>δήμῳ Ῥω
+            <lb break="no"/>μαίων ἀπο
+            <lb break="no"/>κατέστησ[εν].</ab>
+      </div>
+      <div type="translation">
+         <p>... (saluted as?) imperator (? times?), father
+                of the country, consul 5 (times), through Kouintos Pakonios Agrippeinos, his legate,
+                restored (the borders of?) the royal fields to the Roman people ... (he?) restored ?
+                (occupied by) private persons to the Roman people.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC401"><!--*EDH HD015145; IApollonia 76; AE 1967.531; Reynolds 1965.-->
+      <head>DOC401: <bibl type="preferred">EDH HD015145</bibl>; <bibl>IApollonia 76</bibl>; <bibl>AE 1967.531</bibl>; <bibl>Reynolds 1965</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctoritate
+            <lb/>Imp(eratoris) Caesaris Vespasi
+            <lb break="no"/>ani Aug(usti) G(aius) Arinius Modes
+            <lb break="no"/>tus proco(n)s(ul) II choria(!) Apol
+            <lb break="no"/>loniatarum quae res pu
+            <lb break="no"/>blica cum soci(i)s emerat
+            <lb/>divisa locavit
+            <lb/>in perpetuum Apol
+            <lb break="no"/>lonio Paraebatae f(ilio)
+            <lb/>annuis denari(i)s
+            <lb/>CCCCVIII fide Theo
+            <lb break="no"/>dori Theodori f(ilii) et
+            <lb/>Antoni Bathylli in
+            <lb/>quibus sunt medimnia(!)
+            <lb/>XXIII hemi(su)(!) I</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar
+                    <persName type="emperor">Vespasian</persName> Augustus, Gaius
+                Arinius Modestus, proconsul for the second time, having divided the territory of the
+                Apolloniatae which the <foreign xml:lang="la">res publica </foreign>with its allies had bought, rented (these fields) in perpetuity to
+                Apollonius son of Paraebata for the annual sum of 408 <foreign xml:lang="la">denarii</foreign>, with Theodorus son of Theodorus
+                and Antonius Bathyllus as guarantors, in which (fields) there are 23 1/2 <foreign xml:lang="la">medimnae</foreign>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC518"><!--*EDH HD018137; AE 1954.188.-->
+      <head>DOC518: <bibl type="preferred">EDH HD018137</bibl>; <bibl>AE 1954.188</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Iussu Imp(eratoris) Domitiani Cae
+            <lb break="no"/>saris Aug(usti) Germ(anici) pont(ificis) ma
+            <lb break="no"/>ximi trib(unicia) pot(estate) VIII p(atris) p(atriae) co(n)s(ulis) [XII]II
+            <lb/>cens(oris) perpetui C(aius) Pomponi
+            <lb break="no"/>us Gallus Didius Rufus
+            <lb/>proco(n)s(ul) locum posses
+            <lb break="no"/>sum a privatis civitati
+            <lb/>Ptolemaensium res
+            <lb break="no"/>tituit.</ab>
+      </div>
+      <div type="translation">
+         <p>By order of the emperor <persName type="emperor">Domitian</persName> Caesar Augustus Germanicus,
+                pontifex maximus, (holding the) tribunician power 8 (times), father of the country,
+                consul (14 times), censor in perpetuity, Gaius Pomponius Gallus Didius Rufus,
+                proconsul, restored the site that had been occupied by private individuals to the
+                    <foreign xml:lang="la">civitas</foreign> of the <placeName type="ancient">Ptolemaenses</placeName>.</p>
+      </div>
+   </div>
+</div>

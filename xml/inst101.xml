@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST101">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute over Site, Ownership and Boundaries between <placeName type="ancient">Ostia</placeName>and <persName>Volussius Crocus</persName>
+   </head>
+   <p>Date(s): <date>uncertain date</date>
+   </p>
+   <p>
+      <seg type="instance-description">This poorly preserved text appears to record a verdict (<foreign xml:lang="la">sententia</foreign>) and <foreign xml:lang="la">determinatio</foreign> issued by a <foreign xml:lang="la">iudex</foreign> (whose name has not survived) in a complicated <hi rend="bold">dispute about site</hi> (<foreign xml:lang="la">loco q(uo) d(e) a(gitur)</foreign>). This dispute evidently arose from a voided inheritance and also incorporated disagreements about boundaries and about ownership.<note n="360" xml:id="ftn360"> My presentation and discussion of this document rely heavily on the edition and analysis of Jacques 1987. </note>
+      </seg>
+   </p>
+   <p>This inscription – badly damaged and first published only in the 1980s –almost certainly originated somewhere in <placeName type="ancient">Latium</placeName>, but its exact provenance is unknown. The block was found in a courtyard of a modern house in <placeName type="ancient">Nettuno</placeName> and is thought to have been brought there by an unknown, modern collector from the area of <placeName type="ancient">Ostia</placeName> or <placeName type="ancient">Antium</placeName>. Text covered parts of at least three sides of the block, but the third side is so badly damaged as to be of no interpretative consequence.</p>
+   <p>The surviving portion of the first side’s text picks up <seg type="term">in medias res</seg> with a <foreign xml:lang="la">determinatio</foreign> prefaced by references to a will (<foreign xml:lang="la">ex testa[men]to</foreign>) and to the verdict of the judge (<foreign xml:lang="la">[ex? sente]ntia iudicis</foreign>). The <foreign xml:lang="la">determinatio</foreign> appears to have continued onto the second side, where it was followed, after a lacuna, by a narrative statement that includes a verb in the first person. In this portion of the text, the positions of both parties to the dispute are described. This would seem to indicate that this section constitutes a portion of the judge’s verdict. It emerges that the dispute concerned a piece of property that had been left in a will to an otherwise unknown individual named <persName>Livius Primus</persName>.<note n="361" xml:id="ftn361"> There seem to have been multiple heirs: <foreign xml:lang="la">in bonis caduci[s par]/tis Livi Primi., </foreign>i.e. he was <foreign xml:lang="la">heres ex parte.</foreign> 
+      </note> This property was claimed both by the city of <placeName type="ancient">Ostia</placeName> and by an otherwise unknown individual named <persName>Volussius Crocus</persName>. <placeName type="ancient">Ostia</placeName> seems to have argued that <persName>Primus’</persName> portion of the inheritance had been declared <foreign xml:lang="la">bona caduca</foreign>, i.e., an invalid inheritance and therefore the property ought to fall to the city.<note n="362" xml:id="ftn362"> Why the inheritance was invalid in this case is not indicated, although we may assume that <persName>Primus</persName> lacked the requisite number of children <seg type="term">vel sim</seg>. As Jacques points out in his edition and commentary, it is also surprising that a city should be able to claim <foreign xml:lang="la">bona caduca</foreign>. These are generally thought to have fallen to the <foreign xml:lang="la">aerarium</foreign>(if in Italy) or the <foreign xml:lang="la">fiscus</foreign> (if in the provinces). This situation would seem to indicate that <placeName type="ancient">Ostia</placeName> had acquired a right to retain such wealth when the case involved Ostian citizens, a right previously known only to have belonged to <placeName type="ancient">Nicea</placeName> (Plin. Ep. 10.84). We must therefore assume that <persName>Primus</persName> at least was a citizen of <placeName type="ancient">Ostia</placeName>. Jacques also notes that this is first occurrence of the phrase <foreign xml:lang="la">bona caduca </foreign>in an epigraphic document. </note> Crocus claimed to have received the right to the property from the <placeName type="ancient">res publica</placeName> (of <placeName type="ancient">Ostia</placeName>) six and a half years before, and to have occupied it ever since.</p>
+   <p>The <foreign xml:lang="la">determinatio </foreign>that precedes the extant portion of the verdict makes it clear that the case also involved disagreements over the boundaries of the property in question, and that <persName>Crocus</persName> owned property adjoining the disputed <foreign xml:lang="la">locus</foreign>. In this regard the case is broadly similar to a dispute between the city of <placeName type="ancient">Daulis</placeName> and a private individual.<note n="363" xml:id="ftn363"> Instance <ref target="#INST138">
+            <bibl>
+               <biblScope>42</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> In that case, the problematic property had been purchased from some heirs and was located adjacent to properties owned by the city. It is not clear whether said civic land had been acquired through a similar process of voided inheritance or by some other means. In both cases, it would appear that the wills and purchase agreements contained insufficient information to define the boundaries precisely. This vagueness was presumably echoed by conditions on the ground, a state of affairs that must have contributed significantly to each dispute. In the Italian case, the judge seems to have been able to establish the boundary on the basis of some kind of evidence. Not enough of the text survives for us to be certain about the evidence employed, but it would appear that the property had been delimited in some way previously that was at least partially recoverable. In the Greek case, the judge’s verdict mandated a subsequent survey of the regions in question and an allocation of the requisite area beginning from a point of the winner’s choosing, a clear indication that the property in question had never been properly surveyed and delimited, or that too little evidence of such survived to be of any legal utility.</p>
+   <p type="P31">(Side a:)</p>
+   <p type="P15">The Restoration of Property</p>
+   <div type="document" xml:id="DOC165"><!--*EDH HD008964; AE 1987.391; Jacques 1987.-->
+      <head>DOC165: <bibl type="preferred">EDH HD008964</bibl>; <bibl>AE 1987.391</bibl>; <bibl>Jacques 1987</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>$]D[---]
+            <lb/>[---] ex testa[men]
+            <lb break="no"/>[to ---] Malei[ani?]
+            <lb/>[ut caduca v]ind[i]cata
+            <lb/>[ex? sente]ntia iudicis
+            <lb/>[limes? au]tem(?) (a) lapide ca
+            <lb break="no"/>[eso a vi]a deflecsat(!) in
+            <lb/>[parte]m dex[t]er[i]orem
+            <lb/>[ad lac]um(?) quem Voli[s]
+            <lb break="no"/>[si (Croci) la]cum(?) videre es(t)
+            <lb/>[dei]n [r]ecto rigore
+            <lb/>[der]ig[a]t at arundi
+            <lb break="no"/>[ne]ti an[gu]lum qu[i]
+            <lb/>[si]ne consrovirsi
+            <lb break="no"/>a(!) ad poss(ess)ionem Vo
+            <lb break="no"/>[lu]ssi Croci pertinet
+            <lb/>dein ab illo angu
+            <lb break="no"/>lo derig[at] ad lapi
+            <lb break="no"/>dem alium vete
+            <lb break="no"/>rem que&lt;m=N&gt; termi
+            <lb break="no"/>
+            <lb break="no"/>[nus? ---]
+            <lb/>[------]
+            <lb/>[------]
+            <lb/>[------?]
+            <lb/>[--- ut eius m]od[i?]
+            <lb/>[vi]am Croc[i] rigo[r]
+            <lb/>interrumpat n[ul]lis intus lapidi[b]u[s]
+            <lb/>au&lt;t=S&gt; terminis defi
+            <lb break="no"/>nitus qua mita(!) e
+            <lb/>possessionem(!) e
+            <lb break="no"/>grediatur pr[a]e
+            <lb break="no"/>ter limitum aute(m)
+            <lb/>au&lt;c=O&gt;toritatem a
+            <lb break="no"/>liquamdiu de [p]os
+            <lb break="no"/>sessionis iur[e qu]
+            <lb break="no"/>aesir[a]m et e [Vo]
+            <lb break="no"/>lussi quidem [Cro]
+            <lb break="no"/>ci parte allega[batu]
+            <lb break="no"/>r eum a re public[a con]
+            <lb break="no"/>se[c]tum ante an[nos]
+            <lb/>fere sex semisse e[sse?]
+            <lb/>[e]o de loco q(uo) d(e) a(gitur) s[ine]
+            <lb/>intermissione c[on]
+            <lb break="no"/>tendisse rem pub[lica]
+            <lb break="no"/>m autem Ostiensi[um ut]
+            <lb/>in bonis caduci[s par]
+            <lb break="no"/>tis Livi Primi
+            <lb/>
+            <lb break="no"/>[------]
+            <lb/>[------]
+            <lb/>[------]
+            <lb/>[------]
+            <lb/>[------]
+            <lb/>[------]
+            <lb/>[------?]
+            <lb/>
+            <lb break="no"/>A[---]
+            <lb/>ET[---]
+            <lb/>DI[---]
+            <lb/>MO[---]</ab>
+      </div>
+      <div type="translation">
+         <p>(an unknown number of lines have been lost) </p>
+         <p>... according to the will ... (that the
+                    <foreign xml:lang="la">caduca</foreign>?) claimed (according
+                to?) the verdict of the judge (the boundary ... ?) at the broken stone bends
+                rightward toward the lake which appears (to belong to?) <persName>Volussius Crocus</persName>, thence in a straight
+                line it runs to the marshy hollow(?) which without dispute belongs to the ownership
+                    (<foreign xml:lang="la">possessio</foreign>) of <persName>Volussius Crocus</persName>, thence from that
+                hollow(?) it runs to another old stone which ... </p>
+         <p>(Side b:)</p>
+         <p>(three or more lines are missing)</p>
+         <p>(so that?) ... the <foreign xml:lang="la">rigor</foreign> should interrupt <persName>Crocus’</persName> road between none of the stones
+                or markers, (the <foreign xml:lang="la">rigor</foreign>) having
+                been defined by which it departs from the property. On the one hand, I investigated
+                for some time the authority for the right of ownership and it was alleged by
+                    <persName>Volussius Crocus</persName> himself that
+                it had been acquired from the <foreign xml:lang="la">res publica</foreign> six and a half years before. On the other hand, concerning
+                the <foreign xml:lang="la">locus</foreign> at issue in this case,
+                the <foreign xml:lang="la">res publica </foreign>of the <placeName type="ancient">Ostienses</placeName> has contended without
+                intermission that in the <foreign xml:lang="la">bona caduca</foreign> share of <persName>Livius Primus</persName> ...</p>
+         <p>(The text of Side c is wholly
+                unrecoverable).</p>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST57">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Capua</placeName> and <persName>Plotius Plebeius</persName> on <placeName type="modern">Crete</placeName>
+   </head>
+   <p>Date(s): <date>AD 84</date>
+   </p>
+   <p>
+      <seg type="instance-description">A single boundary marker, found at <placeName type="modern">Acharnes</placeName> in <placeName type="modern">Crete,</placeName> attests to a dispute about land ownership between a citizen of the Roman colony of <placeName type="ancient">Capua</placeName> in <placeName type="modern">Italy</placeName>, which controlled land in central <placeName type="modern">Crete,</placeName> and a citizen of the Roman colony at <placeName type="ancient">Cnossus</placeName>.</seg>
+   </p>
+   <p>In a seminal 1976 article, K. Rigsby reconstructed the outlines of civic territories in central <placeName type="modern">Crete</placeName> and the changes produced by Roman engagement with the island.<note n="281" xml:id="ftn281"> Rigsby 1976. </note> His argument hinges on this inscription when taken together with several others.<note n="282" xml:id="ftn282"> Rigsby 1976, <seg type="term">passim</seg>. Relevant inscriptions of the Roman era include our Instance <ref target="#INST103">
+            <bibl>
+               <biblScope>67</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> Both colonies were separate Roman foundations, <placeName type="ancient">Cnossus</placeName> by <persName>Caesar</persName> and <placeName type="ancient">Capua</placeName> by <persName type="emperor" rend="normal">Augustus</persName>. During this same period, <placeName type="ancient">Capua</placeName> was granted significant territory in <placeName type="modern">Crete</placeName> in compensation for Campanian land redistributed to <persName type="emperor" rend="normal">Augustus’</persName> veterans, although this land on Crete was probably not occupied to any great degree by Capuans themselves. The Capuan <foreign xml:lang="la">praefectura</foreign>on <placeName type="modern">Crete</placeName> reportedly generated an annual income of 1,200,000 sesterces, probably derived from rents paid by the indigenous population from whom the land had been taken.<note n="283" xml:id="ftn283"> The relevant ancient sources are Appian, BCiv. 4.3, Cass. Dio 49.14.5, Strabo 10.478 and Vell. Pat. 2.81.1-2. The discussion at Rigsby 1976, 322-324 and 327-329 is essential. More recently, Baldwin Bowsky 1987 has speculated that the Capuan grant in <placeName type="modern">Crete</placeName> was part of a sweeping Augustan reorganization of landholding in the area, overseen by the proconsul <persName>M. Nonius Balbus</persName> in ca. 36-27 BC. </note> By the end of <persName type="emperor" rend="normal">Augustus’</persName> reign, the central valley of <placeName type="modern">Crete</placeName> from north to south was wholly controlled by Roman citizen communities (<placeName type="ancient">Colonia Cnossus</placeName>, <placeName type="ancient">Colonia Capua </placeName>and <placeName type="ancient">Gortyn</placeName>).</p>
+   <p>The present inscription reveals an otherwise unknown individual of the late first century AD, <persName>Plotius Plebeius</persName>, engaged in a dispute with the <placeName type="ancient">Colonia Capua </placeName>that ultimately resulted in the placement of boundary markers. Members of <persName>Plebeius’</persName> family are known to have been prominent citizens of the Roman colony at <placeName type="ancient">Cnossus</placeName>, so the land in question must either have been in Cnossan territory abutting the Capuan <foreign xml:lang="la">praefectura</foreign>, or was even surrounded by Capuan holdings but – <persName>Plebeius</persName>would have argued – exempted by the original Augustan apportionment.</p>
+   <p>The validity of the boundary markers is explicitly reinforced by three factors: a verdict (<foreign xml:lang="la">sententia</foreign>) of the recently deceased emperor <persName type="emperor" rend="normal">Titus</persName>, a civic decree (<foreign xml:lang="la">decretum</foreign>) of <placeName type="ancient">Colonia Capua</placeName>, and the agreement of both parties (<foreign xml:lang="la">[ex c]onventione u[tri]usq(ue) [parti]s</foreign>). A. Aichinger has convincingly demonstrated why such a case would have involved the emperor personally: the two parties fell under separate jurisdictions (<persName>Plebeius</persName>, via <placeName type="ancient">Cnossus</placeName>, under the proconsul of <placeName type="modern">Crete</placeName>, <placeName type="ancient">Capua</placeName> in <placeName type="modern">Italy</placeName> directly under the emperor).<note n="284" xml:id="ftn284"> Aichinger 1982 passim, especially p. 195. Compare Instances <ref target="#INST109">
+            <bibl>
+               <biblScope>84</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, <ref target="#INST118">
+            <bibl>
+               <biblScope>34</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, <ref target="#INST168">
+            <bibl>
+               <biblScope>91</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, <ref target="#INST89">
+            <bibl>
+               <biblScope>95</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST56">
+            <bibl>
+               <biblScope>40</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. <seg type="term">Pace</seg> Rigsby 1976, 329 who unaccountably asserts that “the tasks of keeping order [in the <foreign xml:lang="la">praefectura</foreign>], collecting the rent, and crediting it to <placeName type="ancient">Capua</placeName> were part of the office of the provincial governor in <placeName type="ancient">Gortyn</placeName>.” The maintenance of order, an eminently practical concern, would surely engage the proconsul and his staff, but the management of revenue not destined for the <foreign xml:lang="la">fiscus</foreign>, derived from lands belonging to any city (inside the province or out), seems a most unlikely task for a Roman governor. Baldwin Bowsky 1987, 220 credulously repeats this misconception. </note> What is surprising, on the model of our other evidence, is the way in which Titus’ involvement is characterized as a verdict (i.e., a judicial decision), with the corresponding diminution of his delegate’s role to that of a mere implementer. Given the requirement in boundary disputes for the final verdict to be rendered on site in the presence of the opposing parties, we would have to conclude either that <persName type="emperor" rend="normal">Titus</persName> judged the case in person on <placeName type="modern">Crete</placeName> (inconceivable not least given the posthumous date of the inscription), or that this was not in the main a boundary dispute.</p>
+   <p>We would have expected the emperor to appoint a <foreign xml:lang="la">iudex</foreign> to decide such a case. If, however, the dispute was primarily one about ownership of a contested site, the question before <persName type="emperor" rend="normal">Titus</persName>would have been the relative validity of the rival claims to ownership. Such a decision could easily have taken place wherever the emperor was, provided that convincing documentation and arguments could be brought before him, and the parties could agree on the location and extent of the property in question. The Capuan decree and the parties’ agreement may reflect such a state of affairs, or they may be indicative of subsequent arrangements related to implementation of the emperor’s verdict. If indeed the location and extent of the property in question had been agreed by the parties, then the emperor’s procurator need not have been granted judiciary authority, so long as all parties could have confidence that he would see to an accurate demarcation.<note n="285" xml:id="ftn285"> We do not know the precise regular duties of this particular procurator, who is otherwise unattested. PIR<seg type="T19">2</seg> M516 and Aichinger 1982, 195. </note> The primary purpose of the termination, then, was to memorialize the emperor’s decision, indicating a boundary that marked a transition in ownership.</p>
+   <div type="document" xml:id="DOC109"><!--*EDH HD012421; Aichinger 1982, 195.2; AE 1969/70.635; Ducrey 1969, 846-852 no. 3. See also: Rigsby 1976.-->
+      <head>DOC109: <bibl type="preferred">EDH HD012421</bibl>; <bibl>Aichinger 1982, 195.2</bibl>; <bibl>AE 1969/70.635</bibl>; <bibl>Ducrey 1969, 846-852 no. 3</bibl>. See also: <bibl>Rigsby 1976</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[I]mp(eratore) Domitiano
+            <lb/>Caesar(e) Aug(usto) Germ(anico) X co(n)s(ule)
+            <lb/>[i]nter col(oniam) Flav(iam) Aug(ustam) felic(em)
+            <lb/>Cap(uam) et Plotium Plebeium
+            <lb/>[ex] senten(tia) Titi Imp(eratoris) Aug(usti) item
+            <lb/>[sec]undum decretum col(oniae) Cap(uae)
+            <lb/>[ex c]onventione u[tri]usq(ue)
+            <lb/>[parti]s [t]ermini positi sun[t]
+            <lb/>agente P(ublio) Mess[i]o Campano
+            <lb/>proc(uratore) [C]a[es]aris</ab>
+      </div>
+      <div type="translation">
+         <p>When the emperor <persName type="emperor">Domitian</persName> Caesar Augustus Germanicus was
+                consul for the 10th time. Between <placeName type="ancient">Colonia Flavia Augusta Felix Capua</placeName> and <persName>Plotius Plebeius</persName>, according to the
+                decision of the emperor <placeName type="ancient">Titus</placeName> Augustus and also following the decree of <placeName type="ancient">Colonia Capua,</placeName> according to the
+                agreement of both parties, boundary markers were placed, with <persName>Publius Messius Campanus</persName>, imperial
+                procurator, doing it.</p>
+      </div>
+   </div>
+</div>

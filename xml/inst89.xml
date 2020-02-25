@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST89">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Demarcation Between the <placeName type="ancient">Moesi</placeName> and <placeName type="ancient">Thraces</placeName>
+   </head>
+   <p>Date(s): <date>AD 135</date>
+   </p>
+   <p>
+      <seg type="instance-description">Six boundary markers from various sites in Bulgaria attest to a demarcation between the provinces of <placeName type="ancient">Thracia</placeName> and <placeName type="ancient">Moesia Inferior</placeName>. These are the only markers in the published epigraphic record that explicitly marked a provincial boundary without making reference to any of the cities or communities in either province. The word provincia is not used. The ethnics corresponding to the provincial names are: <placeName type="ancient">Moesi</placeName>and <placeName type="ancient">Thraces</placeName>. The markers were placed, on Hadrian’s authority, by an otherwise unknown individual named Antius Rufus, who is thought to have been acting as a special legate of the emperor. It is most unlikely that he was a governor of either of the provinces in question, since neither governor can have possessed a sufficient span of jurisdiction to affect both provinces. The context and motivation for this demarcation are completely obscure.</seg>
+   </p>
+   <div type="document" xml:id="DOC385"><!--*IGLNovae 73; ILBulg 357; CIL 3.749.-->
+      <head>DOC385: <bibl type="preferred">IGLNovae 73</bibl>; <bibl>ILBulg 357</bibl>; <bibl>CIL 3.749</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctori
+            <lb break="no"/>tate Imp(eratoris) Caesaris
+            <lb/>divi Traiani Parthi
+            <lb break="no"/>ci filio(!) divi Nervae
+            <lb/>nepotis Traiani Ha
+            <lb break="no"/>driani Aug(usti) p(atris) p(atriae) pon
+            <lb break="no"/>tifici(s) maximo(!) trib(uniciae)
+            <lb/>potestatis XX co(n)s(ulis) II[I]
+            <lb/>Antius Rufinus in
+            <lb break="no"/>ter Moesos et Thra
+            <lb break="no"/>ces fines posuit</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar, son of
+                the god Trajan Parthicus, grandson of the god Nerva, Trajan <persName type="emperor">Hadrian </persName>Augustus, father of the
+                country, pontifex maximus, (holding the) tribunician power 20 (times), consul 3
+                (times), Antius Rufinus placed boundaries between the <placeName type="ancient">Moesi</placeName> and the <placeName type="ancient">Thraces</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC384"><!--*ILBulg 429; CIL 3.12407.-->
+      <head>DOC384: <bibl type="preferred">ILBulg 429</bibl>; <bibl>CIL 3.12407</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ex auctori]
+            <lb break="no"/>[tate Imp(eratoris) Caesaris
+            <lb/>divi Traiani Parthi
+            <lb break="no"/>ci fili(i) divi Nervae
+            <lb/>nepotis Traiani Hadria]
+            <lb break="no"/>ni Aug(usti) p(atris) p(atriae) Pontifici(s) ma
+            <lb break="no"/>ximo(!) tribuniciae
+            <lb/>potestatis XX co(n)s(ulis) III
+            <lb/>Antius Rufinus [i]
+            <lb break="no"/>nter Moesos et [Thr]
+            <lb break="no"/>aces fines posui[t]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC360"><!--*EDH HD006328; ILBulg 390; AE 1985.729; Banev 1981, no. 1.-->
+      <head>DOC360: <bibl type="preferred">EDH HD006328</bibl>; <bibl>ILBulg 390</bibl>; <bibl>AE 1985.729</bibl>; <bibl>Banev 1981, no. 1</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctori
+            <lb break="no"/>tate Imp(eratoris) Caesa
+            <lb break="no"/>ris divi Traiani
+            <lb/>Parthici fili di
+            <lb break="no"/>vi Nervae nepo
+            <lb break="no"/>tis Traiani Ha
+            <lb break="no"/>driani Aug(usti) p(atris) p(atriae)
+            <lb/>pont(ificis) maximi
+            <lb/>trib(uniciae) potes(tatis) XX
+            <lb/>co(n)s(ulis) III Antius
+            <lb/>Rufinus inter
+            <lb/>Moesos et Th
+            <lb break="no"/>races fines
+            <lb/>posuit</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC359"><!--*EDH HD006340; ILBulg 386; AE 1985.730; Banev 1981; CIL 3 p. 992 n. 749.-->
+      <head>DOC359: <bibl type="preferred">EDH HD006340</bibl>; <bibl>ILBulg 386</bibl>; <bibl>AE 1985.730</bibl>; <bibl>Banev 1981</bibl>; <bibl>CIL 3 p. 992 n. 749</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctori
+            <lb break="no"/>tate Imp(eratoris) Caesa
+            <lb break="no"/>ris divi Traiani(i)
+            <lb/>Parthici fili di
+            <lb break="no"/>vi Nervae nepo(tis)
+            <lb/>Traiani Hadria
+            <lb break="no"/>ni Aug(usti) p(atris) p(atriae) ponti
+            <lb break="no"/>ficis maximi tri
+            <lb break="no"/>buniciae potes(tatis)
+            <lb/>XX co(n)s(ulis) III Antiu(s)
+            <lb/>Rufinus inter
+            <lb/>Moesos et Thra
+            <lb break="no"/>ces fines po
+            <lb break="no"/>suit.</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC358"><!--*EDH HD006322; AE 1985.733; Božilova 1985.-->
+      <head>DOC358: <bibl type="preferred">EDH HD006322</bibl>; <bibl>AE 1985.733</bibl>; <bibl>Božilova 1985</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Ex auctorita]
+            <lb break="no"/>[te Imp(eratoris) Caesa]
+            <lb break="no"/>[ris divi Tra]
+            <lb break="no"/>[iani Parthi]
+            <lb break="no"/>[ci fili divi]
+            <lb/>[Nervae nepo]
+            <lb break="no"/>[tis Traiani]
+            <lb/>[Hadriani Aug(usti)]
+            <lb/>[p(atris) p(atriae) pontifi]
+            <lb break="no"/>[cis maximi]
+            <lb/>[tribuniciae]
+            <lb/>[potestatis]
+            <lb/>[XX co(n)]s(ulis) [I]II M(arcus)
+            <lb/>[A]ntius Rufi
+            <lb break="no"/>nus inter M
+            <lb break="no"/>[oesos] et Thr
+            <lb break="no"/>[aces fines]
+            <lb/>[posuit]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC271"><!--*EDH HD031971; ILBulg 358; CIL 3.14422/1; AE 1902.106.-->
+      <head>DOC271: <bibl type="preferred">EDH HD031971</bibl>; <bibl>ILBulg 358</bibl>; <bibl>CIL 3.14422/1</bibl>; <bibl>AE 1902.106</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctori
+            <lb break="no"/>tate Imp(eratoris) Caesaris
+            <lb/>divi Traiani Parthi
+            <lb break="no"/>ci filio(!) divi Nervae
+            <lb/>nepotis Traiani Ha
+            <lb break="no"/>driani Aug(usti) p(atris) p(atriae) pon[t]
+            <lb break="no"/>ifici(s) maximo(!) tr[i]
+            <lb break="no"/>buniciae potesta[tis]
+            <lb/>XX co(n)s(ulis) III M(arcus) An[tius]
+            <lb/>Rufinus inte[r Moe]
+            <lb break="no"/>sos et Thraces [fi]
+            <lb break="no"/>nes posuit</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

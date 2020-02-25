@@ -4,9 +4,10 @@
     xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
     xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0"
     xmlns:me="http://this.file.right.here"
+    xmlns:t="http://www.tei-c.org/ns/1.0"
     xmlns="http://www.tei-c.org/ns/1.0"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
-    exclude-result-prefixes="xs xd text"
+    exclude-result-prefixes="xs xd text me t"
     version="3.0">
     <xd:doc scope="stylesheet">
         <xd:desc>
@@ -18,7 +19,7 @@
     </xd:doc>
     
     <xsl:output encoding="UTF-8" method="xml" indent="no"/>
-    <xsl:output encoding="UTF-8" indent="true" method="xml" name="tei"/> 
+    <xsl:output encoding="UTF-8" indent="true" method="xml" name="tei" /> 
     
     <xsl:template match="/">
             <xsl:apply-templates select="//text:bookmark-start[contains(@text:name, 'INST')]">
@@ -33,8 +34,17 @@
         <xsl:variable name="elestart" select=".."/>
         <xsl:variable name="eleend" select="$nextbkmk/../preceding-sibling::*[1]"/>
         <xsl:variable name="inumber" select="$bkmkstart/@text:name"/>
-        <xsl:result-document format="tei" href="../output/{lower-case($inumber)}.xml">
-            <div type="instance" xml:id="{normalize-space(@text:name)}" xmlns="">
+        <xsl:result-document format="tei" href="../xml/{lower-case($inumber)}.xml">
+            <div type="instance" xml:id="{normalize-space(@text:name)}">
+                <xsl:text>
+    </xsl:text><xsl:comment><xsl:text>                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    </xsl:text></xsl:comment><xsl:text>
+</xsl:text>
                 <xsl:variable name="ns1" select="$elestart/following-sibling::*"/>
                 <xsl:variable name="ns2" select="$eleend/preceding-sibling::*"/>
                 <xsl:apply-templates select="$elestart | $ns1[count(. | $ns2) = count($ns2)] | $eleend" mode="instance"/>

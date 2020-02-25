@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST114">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of Boundary Established by King Philip between the <placeName type="ancient">Bragylai</placeName>, <placeName type="ancient">Tiberioi</placeName> and <placeName type="ancient">Kissynioi</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 31</bibl>
+   </p>
+   <p>Date(s): <date>AD 98-138</date>
+   </p>
+   <p>
+      <seg type="instance-description">A probable <hi rend="bold">boundary dispute</hi>, on the grounds that Roman authorities would have little reason to restore boundaries unless a problem had arisen.<note n="289" xml:id="ftn289"> 
+            <seg type="term">pace</seg> Doukellis 1995, 224-225. </note>
+      </seg>
+   </p>
+   <p>Two inscribed boundary markers found in the area of <placeName type="ancient">Bragylai</placeName> (mod. <placeName type="modern">Metallikon</placeName> in <placeName type="modern">Greece</placeName>) attest to the restoration of boundaries by a proconsul of <placeName type="ancient">Macedonia</placeName>, one <persName>P. Clodius Capito Aurelianus</persName>.<note n="290" xml:id="ftn290"> One text was first published in the 1970’s (Text <ref target="ddoc:195">
+            <bibl>
+               <biblScope>29.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). The other is unpublished (see Hatzopoulos 1989, 58 n. 1). </note> The boundaries, between <placeName type="ancient">Bragylai</placeName> and two other communities whose locations are unknown to us (<placeName type="ancient">Tiberioi</placeName> and <placeName type="ancient">Kissynioi</placeName>), were restored on the basis of a boundary demarcation (otherwise unknown and not extant) of a “King Philip,” who is not more explicitly identified. If the guess that <persName>Aurelianus</persName> was serving under <persName type="emperor" rend="normal">Trajan</persName> or <persName type="emperor" rend="normal">Hadrian</persName> is correct, this would mean he consulted and followed evidence that could have been over 400 years old.</p>
+   <div type="document" xml:id="DOC195"><!--AE 1992.1521; SEG 39.577; *Hatzopoulos 1989, 58 n. 1; SEG 30.573 (defective text after Papazoglou); Papazoglou 1979, 241 n. 59 sub 9 (defective text after Sarikakes); Sarikakes 1971, 96 (defective text). See also: Pikoulas 1999, 899.13-14.-->
+      <head>DOC195: <bibl>AE 1992.1521</bibl>; <bibl>SEG 39.577</bibl>; <bibl type="preferred">Hatzopoulos 1989, 58 n. 1</bibl>; <bibl>SEG 30.573 (defective text after Papazoglou)</bibl>; <bibl>Papazoglou 1979, 241 n. 59 sub 9 (defective text after Sarikakes)</bibl>; <bibl>Sarikakes 1971, 96 (defective text)</bibl>. See also: <bibl>Pikoulas 1999, 899.13-14</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Ὅρους ἀπο
+            <lb break="no"/>κατέστηκε κα
+            <lb break="no"/>τὰ τὴν γεγενημέ
+            <lb break="no"/>νην {ΜΕΝΗΝ} ὑπο Φι
+            <lb break="no"/>λίππου τοῦ Βα
+            <lb break="no"/>σιλέως ὁροθεσί
+            <lb break="no"/>αν Π(όπλιος) Κλώδιος Κα
+            <lb break="no"/>πίτων Αὐρηλια
+            <lb break="no"/>νὸς ἀνθύπατος
+            <lb/>Βραγυλίοις,
+            <lb/>Τιβηρίοις, Κισσυνί
+            <lb break="no"/>οις. Ὅρος [θεμέ]
+            <lb break="no"/>λιος ἡρῷον.</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>P(oublios) Klodios Kapiton Aurelianos</persName>, (pro)consul, restored the
+                boundary markers according to the boundary demarcation made under <persName>King Philip </persName>(between the)
+                    <placeName type="ancient">Bragylioi</placeName>, <placeName type="ancient">Tiberioi</placeName> and <placeName type="ancient">Kissynioi</placeName>. Initial marker is the
+                heroon.</p>
+      </div>
+   </div>
+</div>

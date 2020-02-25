@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST165">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Peraia</placeName> and <placeName type="ancient">Philadelphia</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 47</bibl>
+   </p>
+   <p>Date(s): <date>AD 44</date>
+   </p>
+   <p>
+      <seg type="instance-description">Clearly a <hi rend="bold">boundary dispute</hi> (<foreign xml:lang="grc">στασιάσαντας ... περὶ ὅρων κώμης</foreign>).</seg>
+   </p>
+   <p>
+      <persName>Josephus</persName> relates an incident in which one party to an inter-civic boundary dispute attacked another with arms. The procuratorial governor, upon his arrival in the province, took punitive action in the case. The anecdote is particularly remarkable for the manner in which <persName>Josephus</persName> emphasizes the governor’s irritation that the parties had not waited for him to adjudicate. Clearly <persName>Josephus</persName> felt such adjudication was primarily the responsibility of the provincial governor.</p>
+   <p type="P29">When <persName>Fadus </persName>came to <placeName type="ancient">Iudaia</placeName>as procurator, he discovered that the <placeName type="ancient">Ioudaioi</placeName> inhabiting <placeName type="ancient">Peraia</placeName> were quarrelling with <placeName type="ancient">Philadelphenoi</placeName> concerning the borders of a village called (Zias?),<note n="254" xml:id="ftn254"> The name of the village in question appears to have dropped out of the manuscript tradition, having been substituted in all surviving copies with the word <foreign xml:lang="grc">μιᾶς</foreign>. </note> which was full of violent men. Indeed, the people of <placeName type="ancient">Peraia</placeName>, taking up arms without the knowledge of their leaders, killed many of the <placeName type="ancient">Philadelphenoi</placeName>. These things greatly enraged <persName>Fadus</persName> when he found out about them, because they did not leave the verdict to him – even though they thought they had been wronged by the <placeName type="ancient">Philadelphenoi</placeName> – but instead resorted to arms. Then, seizing three of their leaders, who were also guilty of the uprising, he ordered them bound. Next, he executed one of them, <persName>Annibas</persName> was his name, and he imposed exile on <persName>Amaramos</persName> and <persName>Eleazar</persName>, the other two.</p>
+   <div type="document" xml:id="DOC211"><!--*Josephus A.J. 20.2-4.-->
+      <head>DOC211: <bibl type="preferred">Josephus A.J. 20.2-4</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Φᾶδος δὲ ὡς εἰς τὴν Ἰουδαίαν ἐπίτροπος ἀφίκετο, καταλαμβάνει στασιάσαντας τοὺς τὴν Περαίαν κατοικοῦντας Ἰουδαίους πρὸς Φιλαδελφηνοὺς περὶ ὅρων κώμης μιᾶς λεγομένης πολεμίων ἀνδρῶν ἀνάπλεω· καὶ δὴ οἱ τῆς Περαίας χωρὶς γνώμης τῆς τῶν πρώτων παρ’ αὐτοῖς ἀναλαβόντες τὰ ὅπλα πολλοὺς τῶν Φιλαδελφηνῶν διαφθείρουσιν. ταῦτα πυθόμενον τὸν Φᾶδον σφόδρα παρώξυνεν, ὅτι μὴ τὴν κρίσιν αὐτῷ παραλίποιεν, εἴπερ ὑπὸ τῶν Φιλαδελφηνῶν ἐνόμιζον ἀδικεῖσθαι, ἀλλ’ ἐφ’ ὅπλα χωρήσειαν. λαβὼν οὖν τρεῖς τοὺς πρώτους αὐτῶν τοὺς καὶ τῆς στάσεως αἰτίους δῆσαι προσέταξεν, εἶτα τὸν μὲν αὐτῶν ἀνεῖλεν, Ἀννίβας δ’ ἦν ὄνομα τούτῳ, Ἀμαράμῳ δὲ καὶ Ἐλεαζάρῳ τοῖς δυσὶ φυγὴν ἐπέβαλεν</ab>
+      </div>
+   </div>
+</div>

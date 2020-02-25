@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST118">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Doliche</placeName> and <placeName type="ancient">Elimeia</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 64</bibl>
+   </p>
+   <p>Date(s): <date>AD 101</date>
+   </p>
+   <p>
+      <seg type="instance-description">In the year that <persName type="emperor" rend="normal">Trajan</persName> was consul for the fourth time (AD 101), an otherwise unknown <persName>[Ve]rg[i]n[us] [P]ub[lianus] or [R]ub[rianus]</persName> made a ruling as <foreign xml:lang="la">iudex datus ab imperatore</foreign> in a <hi rend="bold">boundary dispute</hi> between the communities of <placeName type="ancient">Doliche</placeName> and <placeName type="ancient">Elimeia</placeName> (<placeName type="ancient">Elimiotis</placeName>). The ruling, copied from an archival version of his <foreign xml:lang="la">commentarium</foreign> at an unknown location, survives on a fragmentary stele discovered in 1911. The stone, evidently moved from its original location, was found in the “ruined church of the Holy Trinity on the right bank of the <placeName type="modern">Srantaporos</placeName> … on the high road some three hours to the north of <placeName type="modern">Elassona</placeName>”<note n="301" xml:id="ftn301"> Wace 1911, 193 </note>.</seg>
+   </p>
+   <p>
+      <placeName type="ancient">Doliche</placeName> was a municipality of the <placeName type="modern">Perraibian</placeName> metropolis and therefore one of the nominally free cities of <placeName type="modern">Thessaly</placeName> (most likely attached administratively at this period to the province of <placeName type="ancient">Achaia</placeName>). <placeName type="ancient">Elimeia</placeName>, on the other hand, was located in the province of <placeName type="ancient">Macedonia</placeName>. The coincidence of these civic borders with a provincial boundary may explain <persName type="emperor" rend="normal">Trajan’s</persName> personal involvement in the case and his decision to appoint a special judge to hear it, rather than simply referring it back to a governor, as <persName type="emperor" rend="normal">Hadrian</persName> was to do in a dispute between <placeName type="ancient">Lamia</placeName> and <placeName type="ancient">Hypata</placeName> (Instance <ref target="#INST55">
+         <bibl>
+            <biblScope>38</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>).<note n="302" xml:id="ftn302"> Aichinger 1982, 195-196 no. 3. See Instance <ref target="#INST98">
+            <bibl>
+               <biblScope>33</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> for another dispute between two cities whose common border may have been coincident with the border between the provinces of <placeName type="ancient">Macedonia</placeName> and <placeName type="ancient">Achaia</placeName>. </note>
+   </p>
+   <p>Verginus’ verdict reiterated (and clarified?) an earlier (approximately 475 years earlier) boundary description that had been promulgated by king <persName>Amyntas III </persName>of <placeName type="ancient">Macedon</placeName>(<persName>Philip II’s </persName>father; ruled c. 393-370 BC). It is not clear whether – as in the case of <persName>C. Avidius Nigrinus’ </persName>rulings in favor of the Delphians<note n="303" xml:id="ftn303"> Instance <ref target="#INST16">
+            <bibl>
+               <biblScope>39</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> – <persName type="emperor" rend="normal">Trajan</persName> had instructed <persName>Verginus</persName> to favor the earlier description, or whether this was a decision that the legate reached on his own. <persName>Amyntas’ </persName>ruling is otherwise unattested.<note n="304" xml:id="ftn304"> Piccirilli 1973 no. 40. </note>
+   </p>
+   <div type="document" xml:id="DOC226"><!--AE 1997.1345; Lucas 1997, 101-108 no. 48; ILGR 173; *EDH HD026859; Aichinger 1982, 195-197.3; AE 1913.2; Wace 1911, 193-204. See also: Pikoulas 1999, 897.6.-->
+      <head>DOC226: <bibl>AE 1997.1345</bibl>; <bibl>Lucas 1997, 101-108 no. 48</bibl>; <bibl>ILGR 173</bibl>; <bibl type="preferred">EDH HD026859</bibl>; <bibl>Aichinger 1982, 195-197.3</bibl>; <bibl>AE 1913.2</bibl>; <bibl>Wace 1911, 193-204</bibl>. See also: <bibl>Pikoulas 1999, 897.6</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(eratore) Caesare Ne(rva)
+            <lb/>[Tra]e(iano)(!) Au(gusto) Ger(manico) IIII
+            <lb/>[et Q(uinto)] Articuleio
+            <lb/>[co(n)s(ulibus) a(nte) d(iem)] VI K(alendas) Apriles
+            <lb/>[d]escriptum et re
+            <lb break="no"/>[cognitum] ex conmentario(!)
+            <lb/>[- V]e[r]ginii [P]ub[li]ani iudicis
+            <lb/>dati [ab imp]er[at]ore
+            <lb/>Traeiano(!) quod protu[li]t
+            <lb/>Caelius Niger in quo sc
+            <lb break="no"/>riptum erat id q(uod) i(nfra) s(criptum) f(uit) cum
+            <lb/>[p]robatum sit mihi in stela lap
+            <lb break="no"/>idea quae posita est in for
+            <lb break="no"/>o Dolichanorum inscriptos
+            <lb/>esse fenes(!) conveniente
+            <lb break="no"/>s defini&lt;t=I&gt;ioni regiae factae
+            <lb/>ab Amynta Philippi patrae(!) in
+            <lb break="no"/>ter Dolichanos et Elemi
+            <lb break="no"/>otas p&lt;l=I&gt;acet finem esse a ter
+            <lb break="no"/>mino qui est in via supra
+            <lb/>Geranas inter Azzoris e[t]
+            <lb/>Onoareas et Petraeas [in]
+            <lb/>Dolichis per summa iug[a]
+            <lb/>[a]t(!) canpum(!) qui Pronom[ae]
+            <lb/>[v]ocatur ita ut canpus(!) in [pa]
+            <lb break="no"/>rte sit Elemiotarum e[t per]
+            <lb/>summa iuga at[ ----</ab>
+      </div>
+      <div type="translation">
+         <p>When the emperor Caesar Nerva <persName type="emperor">Trajan</persName> Augustus Germanicus, for the 4th
+                time, and <persName>Quintus Articuleius </persName>were consuls, 6 days before the kalends of April. Described and copied
+                from the journal of <persName>Verginius Publianus</persName>, judge given by the emperor <persName type="emperor" rend="normal">Trajan</persName>, which (journal)
+                    <persName>Caelius Niger </persName>brought out and
+                in which was written that which is written below. Since it has been proved to me
+                that the boundaries between the <placeName type="ancient">Dolichani </placeName>and the <placeName type="ancient">Elemiotae</placeName>, agreed in the royal boundary description (<foreign xml:lang="la">definitio</foreign>) made by <persName>Amyntas</persName>, father of <persName>Philip</persName>, are inscribed on a stone stele
+                which is located in the forum of the <placeName type="ancient">Dolichani</placeName>, let the boundary be (a line which runs) from that
+                boundary marker which is on the road above <placeName type="ancient">Geranae </placeName>between <placeName type="ancient">Azzoris</placeName> and <placeName type="ancient">Onoareae</placeName> and <placeName type="ancient">Petraeae </placeName>in Dolichis, along the
+                top of ridge to the plain(?) which is called <placeName type="ancient">Pronomae</placeName>, thence, so that the
+                plain(?) is in the territory of the <placeName type="ancient">Elemiotari </placeName>and along the top of the ridge to ---</p>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST166">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Damascus</placeName> and <placeName type="ancient">Sidon</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 49</bibl>
+   </p>
+   <p>Date(s): <date>AD 32-33</date>
+   </p>
+   <p>
+      <seg type="instance-description">The historian Josephus records a <hi rend="bold">boundary dispute</hi> (<foreign xml:lang="grc">περὶ ὅρων διάφοροι καθεστῶτες</foreign>) between the cities of <placeName type="ancient">Damascus</placeName> (in mod. <placeName type="modern">Syria</placeName>) and <placeName type="ancient">Sidon</placeName> (in mod. <placeName type="modern">Lebanon</placeName>).</seg>
+   </p>
+   <p>This boundary dispute, one of two recounted by the historian <persName>Josephus</persName>,<note n="251" xml:id="ftn251"> See also Instance <ref target="#INST165">
+            <bibl>
+               <biblScope>14</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> is particularly valuable for the insight it provides into the expectations and manipulations practiced by parties to such disputes, as well as the role and corruptibility of members of the governor’s <foreign xml:lang="la">consilium</foreign>. In <persName>Josephus’</persName> narrative, the fact of the boundary dispute is incidental. His focus is on the travels and affairs of the future client king of <placeName type="ancient">Iudaea</placeName>, <persName>M. Iulius Agrippa I</persName>, the ‘<persName>Herod</persName>’ of the Acts of the Apostles. In AD 32-33, <persName>Agrippa</persName> had made his way to the province of <placeName type="ancient">Syria</placeName> where Josephus tells us he was invited to take up residence in the house of the proconsul L. Pomponius Flaccus whose friendship he had cultivated during his years in <placeName type="modern">Rome</placeName>. It would seem that <persName>Agrippa</persName> found himself thus serving as a member of the governor’s <foreign xml:lang="la">consilium</foreign>(or at least as a private confidant). This role made him the willing object of a bribery attempt by the city of <placeName type="ancient">Damascus</placeName>, which was embroiled in a boundary dispute with <placeName type="ancient">Sidon</placeName>. The proconsul was alerted to <persName>Agrippa’s</persName> arrangements and so evicted him from the ranks of his <foreign xml:lang="la">amici</foreign>, and presumably from his house as well, for <persName>Josephus</persName> then takes the future king off to <placeName type="ancient">Ptolemais</placeName> in search of means to pay his debts. Here we are clearly in the domain of the formal processes of <foreign xml:lang="la">amicitia </foreign>practiced by the Roman elite. Agrippa suffers the public severing of his relationship with a patron (<foreign xml:lang="la">renuntiatio amicitiae</foreign>) by virtue of his betrayal of trust.<note n="252" xml:id="ftn252"> In general, see: Kierdorf 1987 passim, esp. pp. 230-231. </note>
+   </p>
+   <p>The outcome of the boundary dispute, and <persName>Flaccus’</persName> handling of it, are left to our imagination. But where this text lacks some of the details we might expect from an epigraphic record, it provides a truly rare glimpse behind the scenes of Roman governance. This proconsul at least seems to have expected his <foreign xml:lang="la">amici</foreign> to serve as impartial advisors, and he was prepared to take necessary steps to root out corruption in their ranks. That he was willing to entertain accusations of corruption from one member of his <foreign xml:lang="la">consilium</foreign> against another is a testament to his vigilance, and a demonstration of the scope for both personal rivalry and surreptitious self-enrichment inherent in the Roman style of provincial jurisdiction.</p>
+   <div type="document" xml:id="DOC213"><!--Josephus A.J. 18.150-154.-->
+      <head>DOC213: <bibl>Josephus A.J. 18.150-154</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ὡς Φλάκκον τὸν ὑπατικὸν εἴσεισιν φίλον ἐπὶ Ῥώμης τὰ μάλιστα αὐτῷ γεγονότα πρότερον· Συρίαν δὲ ἐν τῷ τότε διεῖπεν. Καὶ δεξαμένου Φλάκκου παρὰ τούτῳ διῆγεν παρακατεσχηκότος αὐτὸν ἐκεῖ Ἀριστοβούλου, ὃς ἀδελφὸς ὢν Ἀγρίππου διάφορός τ’ ἦν. οὐ μὴν ἐβλάπτοντο ἔχθρᾳ τῇ ἀλλήλων, ὥστε μὴ φιλίᾳ τοῦ ὑπατικοῦ τὰ εἰκότα τιμὴν φέρεσθαι. οὐ μὴν ὅ γε Ἀριστόβουλος ἀνίει τι τοῦ πρὸς τὸν Ἀγρίππαν δυσμενοῦς μέχρι καὶ εἰς ἔχθραν αὐτὸν Φλάκκῳ καθίστησιν, αἰτίαν τοιαύτην ἐπὶ τῇ δυσμενείᾳ παραλαβών.</ab>
+      </div>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Δαμασκηνοὶ Σιδωνίοις περὶ ὅρων διάφοροι καθεστῶτες, μέλλοντος Φλάκκου περὶ τούτων ἀκροᾶσθαι μαθόντες τὸν Ἀγρίππαν ὡς παρ’ αὐτῷ μέγα δύναιτ’ ἂν ἠξίουν μερίδος τῆς αὐτῶν γενέσθαι, ἀργύριόν τε πλεῖστον ὡμολογεῖτο αὐτῷ. καὶ ὁ μὲν πάντα ἐπὶ τῇ βοηθείᾳ τῶν Δαμασκηνῶν ὥρμητο πράσσειν. Ἀριστόβουλος δέ, οὐ γὰρ ἐλάνθανεν αὐτὸν ἡ ὁμολογία τῶν χρημάτων, καταγορεύει πρὸς τὸν Φλάκκον. καὶ βασανιζομένου τοῦ πράγματος ἐπεὶ φανερὰ ἦν, ἐξωθεῖ τὸν Ἀγρίππαν φιλίας τῆς πρὸς αὐτόν.</ab>
+      </div>
+      <div type="translation">
+         <p>So he (<persName>Agrippa</persName>) sought out <persName>Flaccus</persName> the proconsul, who had become the best of friends to him
+                earlier in <placeName type="modern">Rome</placeName>, but at this
+                time he was in command of <placeName type="ancient">Syria</placeName>. And <persName>Flaccus</persName> welcomed <persName>Agrippa</persName> to live in his home, but <persName>Aristoboulos</persName>, who (being Agrippa’s
+                brother) was at odds with him, thwarted him there. They were not hindered by their
+                hatred for one another, with the result that, in the friendship of the proconsul,
+                honor was borne equally by both. But <persName>Aristoboulos</persName> did not let go of his animosity toward <persName>Agrippa</persName> until he had brought his brother
+                into the enmity of <persName>Flaccus</persName>,
+                seizing upon the following method to provoke his displeasure.</p>
+         <p>The <placeName type="ancient">Damaskenoi</placeName> had come into conflict
+                with the <placeName type="ancient">Sidonioi</placeName>
+                concerning boundaries. When <persName>Flaccus</persName> was preparing to hold a hearing about them, the <placeName type="ancient">Damaskenoi</placeName> learned that <persName>Agrippa</persName> would have great influence with
+                    <persName>Flaccus</persName> and so they decided
+                to win him over to their side, promising him a very large sum of money. And he
+                pledged to do everything he could to assist the <placeName type="ancient">Damaskenoi</placeName>, but <persName>Aristoboulos</persName> – for the agreement about
+                the money had not escaped his attention – denounced <persName>Agrippa</persName> to <persName>Flaccus</persName>. When the matter had been
+                investigated and shown to be true, he ejected <persName>Agrippa</persName> from his circle of friends.</p>
+      </div>
+   </div>
+</div>

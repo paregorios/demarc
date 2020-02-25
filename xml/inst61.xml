@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST61">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>
+      <foreign xml:lang="la">Iudices dati</foreign> in <placeName type="ancient">Dalmatia</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 13</bibl>
+   </p>
+   <p>Date(s): <date>AD 23-37</date>
+   </p>
+   <p>
+      <seg type="instance-description">This fragmentary inscription found at <placeName type="modern">Razvadje</placeName> in <placeName type="modern">Croatia</placeName> attests to a <hi rend="bold">boundary dispute</hi> between two parties whose names are lost. The dispute was settled by a board of at least three centurions drawn from two separate legions who had been appointed as <foreign xml:lang="la">iudices</foreign> by the provincial governor. The placement of the phrase <foreign xml:lang="la">ex [c]omventione</foreign> would seem to indicate that the parties to the dispute had agreed upon the appointment of the <foreign xml:lang="la">iudices</foreign>.<note n="239" xml:id="ftn239"> Compare to Instance <ref target="#INST151">
+               <bibl>
+                  <biblScope>8</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. </note>
+      </seg>
+   </p>
+   <div type="document" xml:id="DOC116"><!--*Wilkes 1974, 263 no. 12; ILS 5949; CIL 3.9832.-->
+      <head>DOC116: <bibl type="preferred">Wilkes 1974, 263 no. 12</bibl>; <bibl>ILS 5949</bibl>; <bibl>CIL 3.9832</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ --- Vib]ullius T[..]
+            <lb/>[.. le]g(ionis) VII et L. Sa[l]
+            <lb break="no"/>[vius], M. Sueto ce[nt]uriones leg(ionis) X[I]
+            <lb/>[iu]dices dati ex
+            <lb/>[c]omventione (sic) a
+            <lb/>[L. V]olusio Satur
+            <lb break="no"/>[n]ino leg(ato) pro pr(aetore)
+            <lb/>[C(ai)] Caesaris Aug(usti)
+            <lb/>[Ger]manici inter
+            <lb/>...</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>... Vibullius </persName>... of <placeName type="ancient">Legio VII </placeName>and <persName>Lucius Salvius </persName>and <persName>Marcus Sueto</persName>,
+                centurions of <placeName type="ancient">Legio XI</placeName>,
+                judges appointed according to the agreement by <persName>Lucius Volusius Saturninus</persName>,
+                propraetorian legate of Gaius Caesar Augustus Germanicus (<persName type="emperor">Caligula</persName>) between ...</p>
+      </div>
+   </div>
+</div>

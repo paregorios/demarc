@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST141">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Negotiated Settlement between <placeName type="ancient">Corinium</placeName> and <placeName type="ancient">Ansium</placeName>(?)</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 17</bibl>
+   </p>
+   <p>Date(s): <date>AD 62-68</date>
+   </p>
+   <p>
+      <seg type="instance-description">A fragmentary boundary marker recovered from the area of <placeName type="ancient">Corinium</placeName>(mod. <placeName type="modern">Karin</placeName> in <placeName type="modern">Croatia</placeName>) attests to the negotiated settlement of a <hi rend="bold">boundary dispute</hi>between <placeName type="ancient">Carinium</placeName> and another community, possibly <placeName type="ancient">Ansium</placeName> (mod. <placeName type="modern">Cvijina gradina</placeName>)</seg>
+   </p>
+   <p>Although the short text provides very little detail, it would seem that the <placeName type="ancient">Corinienses</placeName> and the <placeName type="ancient">Ansienses</placeName> had been able to work out their boundary differences, but wanted the assistance of a surveyor to accurately establish and mark the boundaries. The governor’s role seems to have been limited to providing the surveyor and giving legal sanction to the establishment of the boundary. His order to this effect provided an authoritative endorsement of the validity of the boundary, and this is probably the reason it is cited in the inscribed text. To what degree the Roman administration may have been involved in the negotiation, or whether the terms under which it was reached were somehow dictated through judicial or other administrative means, we cannot know.</p>
+   <div type="document" xml:id="DOC183"><!--*EDH HD029688; ILJug 3.2865; Wilkes 1974, 262 no. 9; ILS 9378; Betz 1938, 33-34 no. 9; AE 1910.79.-->
+      <head>DOC183: <bibl type="preferred">EDH HD029688</bibl>; <bibl>ILJug 3.2865</bibl>; <bibl>Wilkes 1974, 262 no. 9</bibl>; <bibl>ILS 9378</bibl>; <bibl>Betz 1938, 33-34 no. 9</bibl>; <bibl>AE 1910.79</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>- - - - - ?
+            <lb/>[finis] inter An[sienses? et]
+            <lb/>[Co]riniens(es) secundum
+            <lb/>[c]onventionem utrius
+            <lb break="no"/>que partis derectus mensu
+            <lb break="no"/>[ris] actis iussu A(uli) Duceni
+            <lb/>[Gem]ini leg(ati) Aug(usti) pro pr(aetore)</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary drawn between the <placeName type="ancient">An[sienses?]</placeName> and the <placeName type="ancient">Corinienses</placeName>, according to the
+                agreement of both parties, measurements having been made, by order of <persName>Aulus Ducenius Geminus</persName>, propraetorian
+                imperial legate.</p>
+      </div>
+   </div>
+</div>

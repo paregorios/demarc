@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST98">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Negotiated Settlement of a Boundary Dispute between <placeName type="ancient">Olooson</placeName> and <placeName type="ancient">Dion</placeName>
+   </head>
+   <p>Date(s): <date>c. AD 101</date>
+   </p>
+   <p>
+      <seg type="instance-description">A single boundary marker recovered from an alpine meadow on the slopes of <placeName type="modern">Mount Olympus</placeName> in <placeName type="modern">Greece</placeName> provides testimony for a <hi rend="bold">boundary dispute</hi> between the cities of <placeName type="ancient">Olooson</placeName> (mod. <placeName type="modern">Elassona</placeName>) and <placeName type="ancient">Dion</placeName> (mod. <placeName type="modern">Malathria</placeName>).</seg>
+   </p>
+   <p>The only indication that we are dealing with a dispute is provided by the acknowledgement of a negotiated agreement between the two parties (<foreign xml:lang="la">[ ... ex c]onvention[e] ipsorum</foreign>). The emperor’s authority is invoked (<foreign xml:lang="la">ex auctoritate imperatoris</foreign>), but unusually his full titulature is not provided. This appears at the end of the text in what appears to be a separate dating clause in the ablative. It is <persName type="emperor" rend="normal">Trajan’s</persName> fourth consulate that provides the date for this inscription. No mention is made in this text of the governor, <foreign xml:lang="la">iudex</foreign> or other official who may have been involved in the negotiations or authorization of the demarcation.</p>
+   <p>Some commentators have observed that this boundary may have been coincident with the provincial boundary between <placeName type="ancient">Achaia</placeName> and <placeName type="ancient">Macedonia</placeName>. Without further information on the personnel involved in the demarcation, this hypothesis does not much help advance our understanding of the administrative context of boundary disputes.<note n="299" xml:id="ftn299"> Doukellis 1995, 225. Compare Instance <ref target="#INST118">
+            <bibl>
+               <biblScope>34</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, a case involving two other civic boundaries that were probably coincident with the provincial boundary between <placeName type="ancient">Macedonia</placeName> and <placeName type="ancient">Achaia</placeName>. </note>
+   </p>
+   <div type="document" xml:id="DOC141"><!--ILS 5954; *CIL 3.591. See also: Pikoulas 1999, 897.5; CIL 3, 989.-->
+      <head>DOC141: <bibl>ILS 5954</bibl>; <bibl type="preferred">CIL 3.591</bibl>. See also: <bibl>Pikoulas 1999, 897.5</bibl>; <bibl>CIL 3, 989</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ex auctoritate]
+            <lb/>[i]mp(eratoris) Aug(usti)
+            <lb/>[fi]nes dere[cti
+            <lb/>int]er Dien[ses
+            <lb/>et Olo]ssoni[os
+            <lb/>ex c]onvention[e]
+            <lb/>ipsorum
+            <lb/>[im]p(eratore) Nerva [T]ra[ia
+            <lb break="no"/>n]o Ca[es]ar[e]
+            <lb/>Aug(usto) German[ico]
+            <lb/>IIII co(n)s(ule).</ab>
+      </div>
+      <div type="translation">
+         <p>[By the authority] of the emperor
+                    Augustus,<note n="300" xml:id="ftn300"> Presumably, we are to understand Trajan. </note> boundaries drawn between the <placeName type="ancient">Dienses</placeName> and <placeName type="ancient">Olossonioi</placeName>, according to the
+                agreement of both of them, when the emperor Nerva <persName type="emperor">Trajan</persName> Caesar Augustus Germanicus was
+                consul for the 4th time.</p>
+      </div>
+   </div>
+</div>

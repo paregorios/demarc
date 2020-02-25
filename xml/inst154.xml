@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST154">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of Boundaries between <placeName type="ancient">Nerate</placeName> and <placeName type="ancient">Pituntium</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 15</bibl>
+   </p>
+   <p>Date(s): <date>early 40’s AD</date>
+   </p>
+   <p>
+      <seg type="instance-description">This fragmentary document records the review and restoration of boundary markers (<foreign xml:lang="la">termini r[eco]gniti et restitu[ti]</foreign>) between <placeName type="ancient">Nerate</placeName> (an unlocated site probably near <placeName type="ancient">Salona</placeName> in modern <placeName type="modern">Croatia</placeName>) and <placeName type="ancient">Pituntium</placeName> (mod. <placeName type="modern">Podstrana</placeName> in <placeName type="modern">Croatia</placeName>).</seg>
+   </p>
+   <p>The review and restoration of boundary markers would seem to imply a survey operation aimed at locating markers from an earlier demarcation and, where they were no longer extant, replacing them on the basis of any other available information. Most details concerning the earlier demarcation are lost, as the text breaks off incomplete, but it would appear that it had been made during the service of <persName>L. Volusius Saturninus </persName>as governor of <placeName type="ancient">Dalmatia</placeName> (sometime between AD 23 and 37). That earlier instance can only be classified an authoritative demarcation, since what is left of this text does not provide us with sufficient information to determine whether he rendered a verdict in a dispute, or in some other way imposed boundaries on the parties.</p>
+   <p>It seems likely that the survey and restoration effort originated in a dispute between the parties, and so we should see the role of the governor (<persName>L. Calpurnius Piso</persName>) as judicial. It is possible on the other hand that a restoration might have been an administrative procedure, reversing an earlier arrangement made by Roman (or pre-Roman officials), thereby reconstituting the boundaries in accordance with an even earlier demarcation, perhaps as a <foreign xml:lang="la">beneficium</foreign> of the emperor.<note n="253" xml:id="ftn253"> Compare Instance <ref target="#INST51">
+            <bibl>
+               <biblScope>75</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> Given the short amount of time that seems to have passed between the inititial demarcation under <persName>Saturninus</persName> and the later restoration, the latter possibility seems rather unlikely.</p>
+   <div type="document" xml:id="DOC119"><!--*Wilkes 1974, 266 no. 19; ILS 5952; AE 1891.17; CIL 3.12794.-->
+      <head>DOC119: <bibl type="preferred">Wilkes 1974, 266 no. 19</bibl>; <bibl>ILS 5952</bibl>; <bibl>AE 1891.17</bibl>; <bibl>CIL 3.12794</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[··· i]nter Ner[a]
+            <lb break="no"/>[sti]nos et Pitunti
+            <lb break="no"/>nos termini r[ec]
+            <lb break="no"/>[o]gniti et restitu[ti] a
+            <lb/>[P]isone leg(ato) pro pr(a)etore
+            <lb/>[Ti(beri)] Claudi Caesaris [Aug(usti)]
+            <lb/>Germanici per C(aium) Ma[r]
+            <lb break="no"/>ium Maternum (centurionem) leg(ionis)
+            <lb/>VII C(laudiae) p(iae) f(idelis) quos L(ucius) Volus
+            <lb break="no"/>[ius Saturninus ...</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary markers between the <placeName type="ancient">Nerastini</placeName> and <placeName type="ancient">Pituntini</placeName>, which <persName>Lucius Volus(ius Saturninus</persName>
+                established?) ... reviewed and restored by <persName>Piso</persName>, propraetorian imperial legate of Tiberius <persName type="emperor">Claudius</persName> Caesar Augustus Germanicus
+                through <persName>Gaius Marius Maternus</persName>,
+                centurion of <placeName type="ancient">Legio VII Claudia Pia Fidelis</placeName>.</p>
+      </div>
+   </div>
+</div>

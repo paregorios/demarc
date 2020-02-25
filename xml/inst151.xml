@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST151">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Nedinum</placeName> and an Unknown Party</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 11</bibl>
+   </p>
+   <p>Date(s): <date>23-37 AD</date>
+   </p>
+   <p>
+      <seg type="instance-description">This fragmentary inscription attests to a <hi rend="bold">boundary dispute</hi> between <placeName type="ancient">Nedinum</placeName> (mod. <placeName type="modern">Nedim</placeName> in <placeName type="modern">Croatia</placeName>) and another community whose name is lost. The dispute was settled by a centurion who had been appointed as <foreign xml:lang="la">iudex</foreign> by the provincial governor. The placement of the phrase <foreign xml:lang="la">ex convent/[ione eo]r(um)</foreign> would seem to indicate that the <placeName type="ancient">Neditae</placeName> and their opponents had agreed upon the appointment of the <foreign xml:lang="la">iudex</foreign>.<note n="237" xml:id="ftn237"> Compare Instance <ref target="#INST61">
+               <bibl>
+                  <biblScope>9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. </note>
+      </seg>
+   </p>
+   <p>This marker was discovered, not <seg type="term">in situ</seg>, in the modern community of <placeName type="modern">Karin</placeName> (ancient <placeName type="ancient">Corinium</placeName>) and so may constitute another chapter in the repeated boundary difficulties between these two communities that are attested by the epigraphy.<note n="238" xml:id="ftn238"> Instance <ref target="#INST17">
+            <bibl>
+               <biblScope>3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <div type="document" xml:id="DOC180"><!--*Wilkes 1974, 259-260 no. 4; *CIL 3.2882.-->
+      <head>DOC180: <bibl type="preferred">Wilkes 1974, 259-260 no. 4</bibl>; <bibl type="preferred">CIL 3.2882</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>L[....]
+            <lb/>[...]nus Laco
+            <lb/>[cent(urio)? l]eg(ionis) VII iudex
+            <lb/>[... datu]s ex convent
+            <lb break="no"/>[ione eo]r(um) ab L Volus[io]
+            <lb/>Saturnino, le[g(ato)]
+            <lb/>[p]ro pr(aetore) C(ai) Caesari[s]
+            <lb/>[A]ugusti Germ[a]
+            <lb break="no"/>[ni]ci inter Ned[i
+            <lb break="no"/>tas et -----]</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>... Laco,</persName> centurion(?) of <placeName type="ancient">Legio VII</placeName>, <foreign xml:lang="la">iudex</foreign> appointed, according to the
+                agreement of both parties, by <persName>Lucius Volusius Saturninus</persName>, propraetorian imperial legate of Caius Caesar Augustus
+                Germanicus (<persName type="emperor">Caligula</persName>), between
+                the <placeName type="ancient">Neditae</placeName> and
+                ...</p>
+      </div>
+   </div>
+</div>

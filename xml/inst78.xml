@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST78">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundaries Assigned to the <placeName type="ancient">gens Numidarum</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 60</bibl>
+   </p>
+   <p>Date(s): <date>ca. AD 137</date>
+   </p>
+   <p>
+      <seg type="instance-description">Two boundary inscriptions from the area of el-Guerria in Tunisia attest to the <hi rend="bold">authoritative demarcation</hi> of boundaries that had been assigned to a <placeName type="ancient">gens Numidarum</placeName>.</seg>
+   </p>
+   <p>These boundary markers are unique in attributing a boundary demarcation to the <foreign xml:lang="la">indulgentia </foreign>of an emperor, in this case Hadrian. We would normally expect the phrase <foreign xml:lang="la">ex auctoritate imperatoris</foreign>. The area where the markers were placed may have been part of an imperial estate, and the demarcation has been interpreted as an effort by imperial authorities to regulate the timing and paths of seasonal transhumant migrations.<note n="427" xml:id="ftn427"> Whittaker 1978, 353. </note> On these grounds, the area demarcated may have constituted seasonal pasture, or even a staging area for such migrations. Attributing the arrangement to the emperor’s indulgence represents it as a <foreign xml:lang="la">beneficium</foreign>, perhaps granting access to resources that might otherwise be inaccessible.<note n="428" xml:id="ftn428"> Note the demarcation intended to communicate explicit prohibition against use of a <foreign xml:lang="la">castellum</foreign>, also probably involving a transhumant or semi-nomadic people: Instance <ref target="#INST36">
+            <bibl>
+               <biblScope>94</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> Whether members of the <foreign xml:lang="la">gens Numidarum</foreign> will have seen the matter in this way (or even have been able to read the text on the markers), we cannot know.</p>
+   <div type="document" xml:id="DOC95"><!--*EDH HD021755; ILS 5960; CIL 8.8814.-->
+      <head>DOC95: <bibl type="preferred">EDH HD021755</bibl>; <bibl>ILS 5960</bibl>; <bibl>CIL 8.8814</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex indulgen
+            <lb break="no"/>tia Imp(eratoris) Caes(aris) Had
+            <lb break="no"/>riani Aug(usti) fines
+            <lb/>adsignati gen{n}ti Numidarum
+            <lb/>per C(aium) Petroni
+            <lb break="no"/>um Celerem
+            <lb/>proc(uratorem) Aug(usti) pro(vinciae)
+            <lb/>[M(auretaniae) C]aes[ariens(is)]</ab>
+      </div>
+      <div type="translation">
+         <p>By the indulgence of the emperor Caesar
+                    <persName type="emperor">Hadrian</persName> Augustus: boundaries
+                were assigned to the <placeName type="ancient">gens Numidarum</placeName> through Caius Petronius Celer, imperial procurator of the
+                province of <placeName type="ancient">Mauretania Caesariensis</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC94"><!--*CIL 8.8813.-->
+      <head>DOC94: <bibl type="preferred">CIL 8.8813</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[e]x indulgenti[a]
+            <lb/>[i]mp(eratoris) Caes(aris) Traia[ni]
+            <lb/>Hadriani Au[g(usti)]
+            <lb/>fines adsigna
+            <lb break="no"/>ti genti Numida
+            <lb break="no"/>rum
+            <lb/>per C(aius) Pet[ro]
+            <lb break="no"/>nium Celerem
+            <lb/>proc(uratorem) Aug(usti) prov[inc(iae)]
+            <lb/>Mauritaniae Cae[sa]
+            <lb break="no"/>riensis</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST50">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>inter Regienses et saltum Cu[---]</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 88</bibl>
+   </p>
+   <p>Date(s): <date>AD 136/7</date>
+   </p>
+   <p>
+      <seg type="instance-description">An <hi rend="bold">authoritative demarcation</hi> by an imperial procurator.</seg>
+   </p>
+   <p>A single boundary marker from <placeName type="ancient">Mauretania Sitifensis</placeName> records a demarcation, under <persName type="emperor" rend="normal">Hadrian’s</persName> authority and “under the auspices”<note n="500" xml:id="ftn500"> A unique formulation. </note> of <persName>L. Aelius Caesar</persName>, by the imperial procurator <persName>C. Petronius Celer</persName> between <placeName type="ancient">Regiae</placeName> and an unidentified estate (the <placeName type="ancient">Saltus Cu[ --- ]</placeName>). <persName>Celer’s</persName> capacity in this matter (whether provincial governor or financial procurator) is unclear; the next year he was serving as the provincial procurator in <placeName type="ancient">Mauretania Caesariensis</placeName>, where he assigned boundaries to the <placeName type="ancient">Numidae</placeName> “<foreign xml:lang="la">ex indulgentia</foreign>” of the emperor <persName type="emperor" rend="normal">Hadrian</persName>(Instance <ref target="#INST78">
+         <bibl>
+            <biblScope>73</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>).</p>
+   <div type="document" xml:id="DOC97"><!--*EDH HD023038; ILS 5963; CIL 8.21663; AE 1895.68.-->
+      <head>DOC97: <bibl type="preferred">EDH HD023038</bibl>; <bibl>ILS 5963</bibl>; <bibl>CIL 8.21663</bibl>; <bibl>AE 1895.68</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex au[ctor]itate
+            <lb/>Imp(eratoris) Caes(aris) divi Traiani Parthici [f(ilii)]
+            <lb/>divi Nervae nepotis Traian[i]
+            <lb/>Hadriani Aug(usti) p(atris) p(atriae) p(ontificis) m(aximi) tr(ibunicia) p(otestate) XX[I]
+            <lb/>co(n)s(ulis) III proco(n)s(ulis) auspiciis L(uci) Aeli C[a]
+            <lb break="no"/>[es(aris)] Imp(eratoris) {IMP} fil(ii) co(n)s(ulis) termini pos(iti) i[n]
+            <lb break="no"/>ter Regienses et saltum Cu[---]
+            <lb/>per C(aium) Petronium Celerem proc(uratorem) Au[g(usti)]
+            <lb/>an(no) provin(ciae) LXXXXVIII.</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar, son of
+                the divine Trajan Parthicus, grandson of the devine Nerva, Trajan <persName type="emperor">Hadrian</persName> Augustus, father of the
+                country, pontifex maximus, (holding the) tribunician power for the 21st time, consul
+                3 times, proconsul. Under the auspices of <persName>Lucius Aelius Caesar</persName>, son of the emperor, consul. Boundary markers
+                placed between the <placeName type="ancient">Regienses</placeName> and the <placeName type="ancient">Saltus Cu[---]</placeName> through <persName>Gaius Petronius Celer</persName>, imperial procurator. In the year of the province:
+                98.</p>
+      </div>
+   </div>
+</div>

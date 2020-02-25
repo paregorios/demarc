@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST25">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Redemarcation of the <placeName type="ancient">Fossa Regia</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 76</bibl>
+   </p>
+   <p>Date(s): <date>AD 74</date>
+   </p>
+   <p>
+      <seg type="instance-description">The motivation and administrative context for the authoritative redemarcation of a small portion of the boundary between the “old” and “new” provinces of <placeName type="ancient">Africa</placeName> during Vespasian’s reign are obscure.</seg>
+   </p>
+   <p>All nine surviving markers come from a relatively well-circumscribed geographic area, and one where no physical trace of the ditch itself survives.<note n="457" xml:id="ftn457"> For a balanced review and thoughtful discussion, see: EncBerb s.v. “Fossa Regia” by N. Ferchiou, pp. 2900-2910. </note> There is no evidence to indicate that the work was prompted by a boundary dispute. The formula employed in the text (<foreign xml:lang="la">ex auctoritate imperatoris</foreign>) is indistinguishable from that employed on markers erected as the result of verdicts issued in such disputes, as well as boundaries assigned extra-judicially. In this instance, the work was carried out on the authority of the emperor by two imperial legates, <persName>Sex. Sentius Caecilianus </persName>and <persName>C. Rutilius Gallicus</persName>. <persName>Caecilianus </persName>was the imperial legate in command of <placeName type="ancient">Legio III Augusta</placeName>. <persName>Gallicus</persName> was either acting as imperial legate in lieu of the proconsul or was on a special mission for the emperor, such as the conduct of a provincial census.<note n="458" xml:id="ftn458"> See relevant entry in the Prosopographical Index. </note> At this time, <persName>Gallicus</persName> also set territorial boundaries between the <placeName type="modern">Tripolitanian</placeName> cities of <placeName type="ancient">Lepcis</placeName> and <placeName type="ancient">Oea</placeName>, apparently the concluding act in a violent dispute between the two cities that had flared up in AD 69/70.<note n="459" xml:id="ftn459"> Instance <ref target="#INST6">
+            <bibl>
+               <biblScope>21</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> Given this temporal and political context (the proconsul had been murdered by the legionary legate in build-up to the war), we may tentatively hypothesize that this action was an effort to more clearly define the geographic spheres of authority of the legionary legate and the proconsul in order to head off future trouble. That the <foreign xml:lang="la">fossa</foreign> might have divided the jurisdiction of these two officials would help to explain the need for both of them to collaborate in its demarcation.</p>
+   <div type="document" xml:id="DOC19"><!--*EDH HD031815; CIL 8.25967; ILS 5955; AE 1902.44; BCTH 1901, 413.-->
+      <head>DOC19: <bibl type="preferred">EDH HD031815</bibl>; <bibl>CIL 8.25967</bibl>; <bibl>ILS 5955</bibl>; <bibl>AE 1902.44</bibl>; <bibl>BCTH 1901, 413</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Ex au]ct(oritate) Imp(eratoris) Vespa
+            <lb break="no"/>siani Cae(saris) Aug(usti) p(atris) p(atriae) fi
+            <lb break="no"/>nes provinciae no
+            <lb break="no"/>vae et veter(is) de
+            <lb break="no"/>recti qua Fossa
+            <lb/>Regia fuit per Ru
+            <lb break="no"/>tilium Gallicum
+            <lb/>co(n)s(ulem) pont(ificem) et Sen
+            <lb break="no"/>tium Caecilia
+            <lb break="no"/>num praeto
+            <lb break="no"/>rem legatos
+            <lb/>Aug(usti) pro pr(aetore)</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor <persName type="emperor">Vespasian </persName>Caesar Augustus, father of
+                the country, the boundary between the old and new provinces, where the <placeName type="ancient">Fossa Regia</placeName> was, was set by
+                    <persName>Rutilius Gallicus</persName>, consul and
+                pontifex, and by <persName>Sentius Caecilianus</persName>, praetor, (both) propraetorian imperial
+                legates.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC14"><!--*ILT 1293; CIL 8.25860; CIL 8.14882.-->
+      <head>DOC14: <bibl type="preferred">ILT 1293</bibl>; <bibl>CIL 8.25860</bibl>; <bibl>CIL 8.14882</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[E]x auc[toritate]
+            <lb/>[imp(eratoris)] Vespasian[i]
+            <lb/>[Cae(saris)] Aug(usti) p(atris) p(atriae) f[i]nes pro
+            <lb break="no"/>vinciae novae [et]
+            <lb/>[ve]ter(is) derec[ti]
+            <lb/>[q]ua foss[a re]
+            <lb break="no"/>gia fuit per [Ru
+            <lb break="no"/>ti]lium [Galli
+            <lb break="no"/>c]um co(n)s(ulem) [pont(ificem) et . . .]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC15"><!--*EDH HD028212; AE 1912.148; Patchère 1911 no. 36.-->
+      <head>DOC15: <bibl type="preferred">EDH HD028212</bibl>; <bibl>AE 1912.148</bibl>; <bibl>Patchère 1911 no. 36</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auct(oritate) Imp(eratoris) Ve
+            <lb break="no"/>spasiani Cae(saris)
+            <lb/>Aug(usti) p(atris) p(atriae) fines
+            <lb/>provinciae
+            <lb/>novae et vet(eris)
+            <lb/>derecti [qua]
+            <lb/>fossa re[gia fu]
+            <lb break="no"/>it per (R)utiliu(m) Cal
+            <lb break="no"/>licu(m)(!) co(n)s(ulem) pont(ificem)
+            <lb/>et Sentiu(m) Caecil
+            <lb break="no"/>ianu(m) pra(etorem) et leg(atos)
+            <lb/>Aug(usti) p(ro) p(raetore)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC16"><!--*EDH HD028215; AE 1912.149; Patchère 1911 no. 37.-->
+      <head>DOC16: <bibl type="preferred">EDH HD028215</bibl>; <bibl>AE 1912.149</bibl>; <bibl>Patchère 1911 no. 37</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Ex auct(oritate) Imp(eratoris) Vespa]
+            <lb break="no"/>[siani Cae(saris) Aug(usti) p(atris) p(atriae)]
+            <lb/>[fines provinci]
+            <lb break="no"/>[ae novae et ve]
+            <lb break="no"/>[t]er(is) derect[i]
+            <lb/>[qua] fossa reg[ia]
+            <lb/>fuit per Rut[i]
+            <lb break="no"/>[l]ium Gallicu(m) c[o(n)s(ulem)]
+            <lb/>[p]ont(ificem) et Sentium
+            <lb/>Caecilianum
+            <lb/>praet(orem) leg(atos) Au
+            <lb break="no"/>[g(usti) pro] pr(aetore)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC17"><!--*EDH HD028218; ILAfr 496; AE 1912.150; Patchère 1911 no. 38.-->
+      <head>DOC17: <bibl type="preferred">EDH HD028218</bibl>; <bibl>ILAfr 496</bibl>; <bibl>AE 1912.150</bibl>; <bibl>Patchère 1911 no. 38</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auct(oritate) Imp(eratoris) Vespa
+            <lb break="no"/>siani Cae(saris) Aug(usti) p(atris) p(atriae)
+            <lb/>fines provinc[i]
+            <lb break="no"/>ae novae et veter(is)
+            <lb/>derecti qua fos
+            <lb break="no"/>sa regia fuit per
+            <lb/>Rutil(i)um Galli
+            <lb break="no"/>cum co(n)s(ulem) pont(ificem) et
+            <lb/>Sentium Caecil[i]
+            <lb break="no"/>anum praeto
+            <lb break="no"/>rem legatos
+            <lb/>Aug(usti) pro pr(aetore)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC18"><!--*EDH HD028221; AE 1912.151; Patchère 1911 no. 39.-->
+      <head>DOC18: <bibl type="preferred">EDH HD028221</bibl>; <bibl>AE 1912.151</bibl>; <bibl>Patchère 1911 no. 39</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auct(oritate) Imp(eratoris)
+            <lb/>Vespasiani Cae(saris)
+            <lb/>Aug(usti) p(atris) p(atriae) fines pro
+            <lb break="no"/>vinciae novae
+            <lb/>et veter(is) derecti
+            <lb/>qua fossa re
+            <lb break="no"/>gia fuit per
+            <lb/>Rutil(i)um Gal
+            <lb break="no"/>licum co(n)s(ulem) po
+            <lb break="no"/>nt(ificem) et Senti
+            <lb break="no"/>um Caecilia
+            <lb break="no"/>num praeto
+            <lb break="no"/>rem legatos
+            <lb/>Aug(usti) pro pr(aetore)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC20"><!--*EDH HD024240; ILT 624; AE 1936.28; Contencin 1934.-->
+      <head>DOC20: <bibl type="preferred">EDH HD024240</bibl>; <bibl>ILT 624</bibl>; <bibl>AE 1936.28</bibl>; <bibl>Contencin 1934</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auct(oritate) Imp(eratoris)
+            <lb/>Vespasiani
+            <lb/>Cae(saris) Aug(usti) p(atris) p(atriae)
+            <lb/>fines provin
+            <lb break="no"/>ciae novae et
+            <lb/>veter(is) derec
+            <lb break="no"/>ti(!) qua fossa
+            <lb/>regia fuit
+            <lb/>per Rutilium
+            <lb/>Gallicum co(n)s(ulem)
+            <lb/>pont(ificem) et Senti
+            <lb break="no"/>um Caecilia
+            <lb break="no"/>num praeto
+            <lb break="no"/>rem legatos
+            <lb/>Aug(usti) pro pr(aetore)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC21"><!--*EDH HD010742; ILT 623; Poinssot 1938.-->
+      <head>DOC21: <bibl type="preferred">EDH HD010742</bibl>; <bibl>ILT 623</bibl>; <bibl>Poinssot 1938</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auct(oritate) Imp(eratoris) Vespasiani
+            <lb/>Cae(saris) Aug(usti) p(atris) p(atriae) fines provin
+            <lb break="no"/>ciae novae et veter(is)
+            <lb/>derecti qua
+            <lb/>Fossa regia fuit
+            <lb/>per [R]utilium Gal
+            <lb break="no"/>licu[m c]o(n)s(ulem) pont(ificem) et
+            <lb/>Sentiu[m] Caecilianum
+            <lb/>praetorem legatos
+            <lb/>Aug(usti) pro pr(aetore)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC22"><!--*EDH HD028735; CIL 8.23084; AE 1894.65; Cagnat 1894.-->
+      <head>DOC22: <bibl type="preferred">EDH HD028735</bibl>; <bibl>CIL 8.23084</bibl>; <bibl>AE 1894.65</bibl>; <bibl>Cagnat 1894</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auct(oritate) Imp(eratoris)
+            <lb/>Vespasiani
+            <lb/>Au[g(usti) p(atris)] p(atriae) fines
+            <lb/>[provinci]ae no
+            <lb break="no"/>[v]ae et veter(is) de
+            <lb break="no"/>[re]cti qua fossa [re]
+            <lb break="no"/>[gi]a fuit per Rutiliu[m]
+            <lb/>[G]allicum co(n)s(ulem) pon[t(ificem)]
+            <lb/>[et] Sentiu[m] Caecil[i]
+            <lb break="no"/>[a]nu[m] pr[a]etore[m]
+            <lb/>[l]egatos Aug(usti)
+            <lb/>[---]FD</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

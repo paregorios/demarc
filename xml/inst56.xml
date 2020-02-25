@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST56">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute between the <placeName type="ancient">Sacilienses</placeName>, <placeName type="ancient">Eporenses</placeName> and <placeName type="ancient">Solienses</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 61</bibl>
+   </p>
+   <p>Date(s): <date>first century, prior to AD 138</date>
+   </p>
+   <p>
+      <seg type="instance-description">This three-party marker, found near mod. <placeName type="modern">Villanueva de Córdoba</placeName> in <placeName type="modern">Spain</placeName> attests to a <hi rend="bold">boundary dispute</hi> that occurred before or during the reign of <persName type="emperor" rend="normal">Hadrian</persName>. The dispute was adjudicated by one <persName>Iulius Proculus</persName>, styled <foreign xml:lang="la">iudex</foreign> in the inscription. The boundary resulting from his verdict (<foreign xml:lang="la">sententia</foreign>) was later “confirmed” by <persName type="emperor" rend="normal">Hadrian</persName> (<foreign xml:lang="la">confirmatu(m) ab</foreign>), possibly while the emperor was visiting the Iberian peninsula during the period AD 122-123. The usage is unparalleled on other extant boundary texts.</seg>
+   </p>
+   <p>The identity of <persName>Iulius Proculus </persName>is problematic and has been much debated. Most recently, Von Stylow has argued cogently that he was <persName>C. Iulius Proculus</persName>, the consul of AD 109 whose extensive <seg type="term">cursus</seg> is well documented.<note n="315" xml:id="ftn315"> CIL 2<seg type="T19">2</seg>.7.776. </note> The context of his judiciary role in this case is quite beyond recovery. We do not know who (a provincial governor?) assigned the case to him, what role he was serving in <placeName type="ancient">Baetica</placeName> at the time, or when the episode occurred. The laconic nature of the inscription similarly denies us the details of <persName type="emperor" rend="normal">Hadrian’s</persName> confirmation of the boundaries resulting from <persName>Proculus’</persName> verdict. Presumably, one or more of the parties reopened the case in some way, and the affair was brought to the emperor’s attention. Or, it may have been the case that one of the parties wanted the status quo confirmed, perhaps because Proculus had ruled during an earlier emperor’s reign.<note n="316" xml:id="ftn316"> Compare <placeName type="ancient">Histria’s </placeName>practice of petitioning each governor in succession for confirmation of their ancestral rights (Instance <ref target="#INST21">
+            <bibl>
+               <biblScope>16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. Compare also the concern of the <placeName type="ancient">Vanacini</placeName> on Corsica to obtain Vespasian’s confirmation of an unspecified Augustan-era <foreign xml:lang="la">beneficium</foreign> (retained through the reign of Galba), which they coupled with a request concerning a boundary dispute (Instance <ref target="#INST52">
+            <bibl>
+               <biblScope>25</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). </note> 
+      <persName>Proculus’</persName> verdict need not have been commissioned by an emperor for the subsequent review to reach <persName type="emperor" rend="normal">Hadrian’s</persName> level. We have seen other evidence of disputes that, in the regular order of things, would have been resolved by the provincial governor, but reached <persName type="emperor" rend="normal">Hadrian</persName> because he was present in the provinces.<note n="317" xml:id="ftn317"> Instance <ref target="#INST66">
+            <bibl>
+               <biblScope>43</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <div type="document" xml:id="DOC105"><!--*EDH HD007515; CIL 2.7.776; AE 1986.363; ILS 5973 + p. CLXXXVI (corrigendum); AE 1913.3; CIL 2, 705; CIL 2.2349.-->
+      <head>DOC105: <bibl type="preferred">EDH HD007515</bibl>; <bibl>CIL 2.7.776</bibl>; <bibl>AE 1986.363</bibl>; <bibl>ILS 5973 + p. CLXXXVI (corrigendum)</bibl>; <bibl>AE 1913.3</bibl>; <bibl>CIL 2, 705</bibl>; <bibl>CIL 2.2349</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Trifinium
+            <lb/>in[t]er Sacilienses Eporenses
+            <lb/>Solienses ex sententia
+            <lb/>Iuli Proculi iudic(is)
+            <lb/>confirmatu(m) ab
+            <lb/>Imp(eratore) Caesare
+            <lb/>Hadriano
+            <lb/>Aug(usto)</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <foreign xml:lang="la">Trifinium </foreign>between the <placeName type="ancient">Sacilienses</placeName>, <placeName type="ancient">Eporenses</placeName> and <placeName type="ancient">Solienses</placeName> according to the verdict of <persName>Iulius Proculus</persName>, <foreign xml:lang="la">iudex</foreign>. (The <foreign xml:lang="la">trifinium </foreign>was) confirmed by the emperor
+                Caesar <persName type="emperor">Hadrian</persName>
+                Augustus.</p>
+      </div>
+   </div>
+</div>

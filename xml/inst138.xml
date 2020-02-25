@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST138">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute about Site between <placeName type="ancient">Daulis</placeName> and <persName>Memmios, son of Antiochos</persName>
+   </head>
+   <p>Date(s): <date>AD 118</date>
+   </p>
+   <p>
+      <seg type="instance-description">If classified according to Frontinus’ taxonomy of land disputes preserved in the <foreign xml:lang="la">corpus agrimensorum,</foreign>
+         <note n="318" xml:id="ftn318"> Campbell 2000, 4-9. </note> this dispute would strictly be termed a “<hi rend="bold">dispute about site</hi>” (<foreign xml:lang="la">controversia de loco</foreign>), a quasi-legal classification that the judge in this case signals when he says he was “appointed ... concerning the disputed sites” (<foreign xml:lang="grc">δοθεὶς ... περὶ χώρας ἀμφισβητο&lt;υμένης ... &gt;</foreign>). Roman surveyors (and presumably the landowners and officials they advised) understood that a given legal category of case could involve elements of other types of cases or, as evidence came to light, could require reformulation of the case itself.<note n="319" xml:id="ftn319"> Campbell 2000, 23-27. </note> This incident demonstrates all of these characteristics.</seg>
+   </p>
+   <p>In November AD 118, an otherwise unknown individual named <persName>T. Phlaouios Euboulos </persName>delivered a verdict on a dispute between the city of <placeName type="ancient">Daulis</placeName> (represented by two named individuals) and a private party, one <persName>Memmios, son of Antiochos </persName>(also called <persName>Antiochos</persName>). <persName>Euboulos’</persName> verdict, together with a subsequent, undated decree of the city of <placeName type="ancient">Daulis</placeName> designed to clarify certain aspects of implementation and documentation,<note n="320" xml:id="ftn320"> The decree also introduces the names of other individuals who are not mentioned in <persName>Euboulos’</persName> verdict. It seems likely that they represent new owners of at least some of the property in question, having purchased it from <persName>Antiochos</persName>. </note> were inscribed on two adjoining sides of a large stele. This inscription was discovered in the area of <placeName type="ancient">Daulis</placeName> in the late 19th century, and is nearly complete.</p>
+   <p>
+      <persName>Euboulos</persName> was clearly acting, in Roman terms, as a <foreign xml:lang="la">iudex datus</foreign>. He styles himself “appointed judge and boundary-setter” (<foreign xml:lang="grc">ὁ</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">δοθεὶς</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">κριτὴς</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">καὶ</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">
+         <seg type="T11">ὁριστής</seg>
+      </foreign>). He records his appointment by one proconsul, service under a second, and delivery of the verdict on the orders of a third. No explanation is given for the length of his judicial tenure, although it is clear from other examples that resolution of such cases could be protracted, and it may be that some <foreign xml:lang="la">iudices</foreign> lacked sufficient power or will to complete their assignments<seg type="T7">  </seg>effectively.<note n="321" xml:id="ftn321"> Compare the even more protracted tenure of a judge appointed by the emperor <persName type="emperor" rend="normal">Hadrian</persName> in the long-running dispute between <placeName type="ancient">Coronea </placeName>and <placeName type="ancient">Thisbe</placeName>over their adjoining territorial boundaries in an alpine pasturage on <placeName type="modern">Mt. Helikon</placeName> (Instance <ref target="#INST66">
+            <bibl>
+               <biblScope>43</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). Various legal maneuvers, combined with passive resistance by at least one of the parties, perpetuated a boundary dispute on <placeName type="ancient">Sardinia </placeName>that, by AD 69, had repeatedly required the attention of three governors in succession (Instance <ref target="#INST62">
+            <bibl>
+               <biblScope>22</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). <persName type="emperor" rend="normal">Claudius’</persName> famous edict issued at <placeName type="ancient">Baiae</placeName> addresses a complicated legal fracas in northern <placeName type="modern">Italy</placeName> that may have involved boundary disputes. It had been under investigation by Roman authorities since the time of <persName type="emperor" rend="normal">Tiberius</persName>, delayed in the resolution – as <persName type="emperor" rend="normal">Claudius</persName> himself says – by the obstinate withdrawal of <persName type="emperor" rend="normal">Tiberius</persName> to <placeName type="modern">Capri</placeName>and, subsequently, fear of <persName type="emperor" rend="normal">Gaius</persName> on the part of the individual assigned to investigate (Instance <ref target="#INST54">
+            <bibl>
+               <biblScope>15</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). The eruption of a war arising from a boundary dispute between <placeName type="ancient">Lepcis Magna </placeName>and <placeName type="ancient">Oea</placeName> can similarly be laid at the feet of an imperial administrative apparatus distracted from the business of effective governance by turmoil at the highest levels (Instance <ref target="#INST6">
+            <bibl>
+               <biblScope>21</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). </note> It may be that some degree of embarrassment for the delay, or self-justification to the locals for proceeding with a verdict that some may have viewed as premature, is reflected in the explicit citation of the third proconsul’s order to produce a verdict.<note n="322" xml:id="ftn322"> Whatever caused this case to span the tenures of three proconsuls, the analytic overview provided by Doukellis 1995, 222 must be rejected in its entirety (“<seg type="treForeign">
+            <seg type="T35">La prise de contrôle des terres publiques relevant de la cité de Daulide par un certain Memmius Antiochus a dû créer un grand embarras au proconsul Cassius Maximus, qui communique les résultats de l’arbitrage à l’Empereur Hadrien.</seg>
+         </seg>”). This overview is riddled with blatant errors of fact in every particular. First, it is in no way clear from the surviving documents that <persName>Antiochos </persName>had seized public lands of <placeName type="ancient">Daulis</placeName>. Rather, he purchased land from an estate, and there was a dispute over the exact location of these properties. It may be that <placeName type="ancient">Daulis</placeName> had purchased (or been given) the rest, or had claimed a right to them in consequence of some legal difficulty with the inheritance (compare Instance <ref target="#INST101">
+            <bibl>
+               <biblScope>60</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). Second, there is no indication in the documents that <persName>Maximos</persName>, the proconsul who initially delegated the case to <persName>Mummios</persName>, expressed or felt any embarrassment or difficulty over the case. Third, no one is represented as communicating any aspect of the case to the emperor <persName type="emperor" rend="normal">Hadrian</persName>. <persName type="emperor" rend="normal">Hadrian’s</persName> only appearance in the documents is as an element in the dating formula. </note> 
+   </p>
+   <p>It seems that <persName>Antiochos</persName> had purchased land in four different locales (two of them adjoining) from the heirs of a single estate. In these locales, it would appear that the rest of the land was owned by the city of <placeName type="ancient">Daulis</placeName> itself, or that <placeName type="ancient">Daulis </placeName>had a claim of some kind against the estate in question. A dispute arose between the new owner and the city because the description of the purchased property evidently contained only the names of the locales and the area measurements of the property purchased in each. <persName>Euboulos </persName>verified <persName>Antiochos’</persName> claim on the basis of documentary evidence and then established a procedure for a survey in each locale to establish the boundaries and extent of <persName>Antiochos’ </persName>property, ensuring the inclusion of the requisite land area in each.</p>
+   <p>Like the dispute between the city of <placeName type="ancient">Histria</placeName> and a tax contractor,<note n="323" xml:id="ftn323"> 
+         <seg type="T18">Instance </seg>
+         <seg type="T18">
+            <ref target="#INST21">
+               <bibl>
+                  <biblScope>16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>
+         </seg>
+         <seg type="T18">.</seg> 
+      </note> as well as the fragmentary dispute between <placeName type="ancient">Ostia</placeName> and various private parties,<note n="324" xml:id="ftn324"> 
+         <seg type="T18">Instance </seg>
+         <seg type="T18">
+            <ref target="#INST101">
+               <bibl>
+                  <biblScope>60</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>
+         </seg>
+         <seg type="T18">. </seg>See the relevant catalog entry for more discussion on the similarities and differences between these two cases. </note> these documents demonstrate the way in which standard descriptions of property in unsurveyed land could fuel disputes that required the intervention of Roman jurisdiction and, ultimately, a formal survey to secure a settlement. Another notable feature of these arrangements is the explicit grant of authority to <persName>Antiochos</persName> to pick the origin point for the survey in each locale. </p>
+   <div type="document" xml:id="DOC279"><!--IG 9.1.61.-->
+      <head>DOC279: <bibl>IG 9.1.61</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἀγαθῇ τύχῃ.
+            <lb/>Αὐτοκράτορι Τραϊανῷ Ἁδριανῷ Καί
+            <lb break="no"/>σαρι Σεβαστῷ τὸ [β]ʹ, Γναίῳ Πεδανίῳ Φού
+            <lb break="no"/>σκῳ Σαλεινάτορι ὑπάτοις, πρὸ θʹ
+            <lb/>κ(αλανδῶν) Νουεμβρίων ἐκ Χαιρωνείας·
+            <lb/>Ζώπυρο]ς Ἀρι[στί]ω[νος κα]ὶ Παρμένων
+            <lb/>Ζωπύ[ρου οἱ ἔγδικοι τῆς] Δαυλιέων πό
+            <lb break="no"/>λεως ἐ[μα]ρτυ[ροποιήσαντ]ο ἀπόφασιν
+            <lb/>ἀντιγε[γράφ]θαι [τὴν δοθεῖσ]αν ὑπὸ Τ(ίτου) Φλαου
+            <lb break="no"/>ίου Εὐβούλου [τὴν ὑπο]γεγραμμένην.
+            <lb/>Τ(ίτος) Φλάουιος Ε[ὔβουλος], ὁ δοθεὶς κριτὴς καὶ ὁρι
+            <lb break="no"/>στὴς ὑπὸ Κα[σί]ο[υ Μαξίμου ἀ]νθυπάτου καὶ τηρη
+            <lb break="no"/>[θ]εὶς ὑπὸ Οὐ[αλερίου Σεουή]ρου ἀνθυπάτου μετα
+            <lb break="no"/>[ξὺ] Ζωπύρου [τοῦ Ἀριστίωνος κα]ὶ Παρμένωνος
+            <lb/>τοῦ Ζωπ[ύρου καὶ Μεμμίου] Ἀντιόχου περὶ χώρας
+            <lb/>ἀμφισβητο[υμένης, ἀκού]σ[ας] ἑκατέρου μέρους
+            <lb/>ἐφ’ ὅσον ἐβού[λοντο καὶ ἐπὶ] τὴν αὐτοψίαν ἐλθών,
+            <lb/>κελεύσαντός [με ἀποφήνα]σθαι Κλωδίου Γρα
+            <lb break="no"/>νιανοῦ τοῦ [κρατίστου ἀνθυ]πάτου, κρείνω καθὼ[ς]
+            <lb/>ὑπογέγραπτα[ι· ἀγροῦ δρ]υππίου, ὃν ἠγόρας[ε]
+            <lb/>παρὰ τῶν [Κλέας κληρονόμ]ων Μέμμιος Ἀντίο
+            <lb break="no"/>χος, κα[ταλαβόμενος] ἐ[κ τ]ῶ[ν] ἐπί με κομισθέ[ν]
+            <lb break="no"/>των γραμμάτ[ων προσήκειν Ἀντι]όχῳ πλέθρα
+            <lb/>Φωκικὰ [υλ[ε]ʹ, ὅσα ἂν εὑρεθῇ] πλείω τούτων,
+            <lb/>κρείνω εἶναι [τῆς Δαυλιέων] πόλεως. ὁμο
+            <lb break="no"/>ίως ἀγ[ροῦ] ε[ὐξυλείας πλέθρα] [υλ]ʹ κρείνω
+            <lb/>εἶναι Ἀ[ντιόχου, τὰ δὲ λοιπὰ τῆ]ς πόλεως εἶ
+            <lb break="no"/>ναι. χωρίω[ν πλατάνου καὶ μ]οσχοτομεῶν
+            <lb/>πλέθρ[α [σλ]ʹ κρείνω εἶναι Ἀντ]ιόχου, τὰ δὲ λοι
+            <lb break="no"/>πὰ τῆ[ς πόλεως. τὴν δὲ ἀρχὴ]ν τῆς μετρή[σεως]
+            <lb/>κρεί[νω γενέσθαι τῆς χώρα]ς, ὅθεν ἂν βού
+            <lb break="no"/>[λ]η[ται Ἀντίοχος ἐν ἑκατέ]ρῳ{ν} τῶν ἀγρῶν,
+            <lb/>[δρ]υπ[πίῳ καὶ εὐξυλείᾳ, ἐ]ν δὲ πλατάνῳ
+            <lb/>[κ]αὶ μος[χοτομέαις μία ἐπ]’ ἀμφοτέροις ἀρ
+            <lb break="no"/>χὴ τῆς [μετρήσεως ἔστ]αι, μετρουμένων
+            <lb/>[ἀπὸ] τῆ[ς δοθείσης ἀρχῆς τῶν ἐφ]εξῆς, μὴ
+            <lb/>ἐ[λλογουμένων ταῖς μετρήσε]σιν ἁπάσαις
+            <lb/>μήτε ῥε[ίθρων μήτε ὅσα τραχέ]α ὄντα καὶ
+            <lb/>μὴ δυν[άμενα γεωργεῖσθαι ὑ]πὲρ δέκα σ[φύ]
+            <lb break="no"/>[ρας] ἐστ[ίν. παρῆσαν· Τ(ίτος) Φλαούιος Εὔβου
+            <lb break="no"/>λος ἀπεφηνάμην καὶ ἐσφράγισμαι], Λ(ούκιος) Μές
+            <lb break="no"/>τριος Σώ[κλαρος, Κλεομένης] Κλεομένους,
+            <lb/>Νείκων Συ[μφ]ό[ρου, Λαμπρίας] Νείκωνος,
+            <lb/>Ζώπυρος Ἀντ[ιπάτρου], Σωσίβιος Δράκω
+            <lb break="no"/>νος, Νείκων Ἀλ[εξάνδρ]ου, Λέων Θεοδό
+            <lb break="no"/>του, Κάλλων Φύλα[κος, Κάσ]σιος Μαρτιανός.</ab>
+      </div>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>vacat</ab>
+      </div>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ψηφίσματι τῆς πόλεος.
+            <lb/>ὁδὸς δὲ ἡ ἐπὶ τὸν
+            <lb/>ἀρχαγέτην ἕξει πλά
+            <lb break="no"/>τος καλάμους δύο.
+            <lb/>τὰ δὲ σημεῖα καὶ τοὺ[ς]
+            <lb/>ὅρους τῆς μετρήσε
+            <lb break="no"/>ως ἐνχαράξουσι κο[ι]
+            <lb break="no"/>νῇ ἐντὸς τῆς εἰκάδο[ς]
+            <lb/>τοῦ δωδεκάτου μη
+            <lb break="no"/>νός, ἡμῶν ὅταν ἐν
+            <lb break="no"/>χαραχθῶσιν ἐπελε[υ]
+            <lb break="no"/>σομένων αὐτούς.
+            <lb/>περὶ ἀγροῦ δρυππίο[υ]
+            <lb/>κατὰ τὴν προκομισθ[εῖ]
+            <lb break="no"/>σαν χεῖρα ὑπὸ Σεραπι
+            <lb break="no"/>άδος Ζωπύρου τοῦ
+            <lb/>ἐγδίκου καὶ τῶν περ[ὶ]
+            <lb/>Φίλωνα Σωσικράτου[ς
+            <lb/>καὶ Δάμωνα Ζωπύ
+            <lb break="no"/>ρου ἀρχόντων κρείν[ο]
+            <lb break="no"/>μεν, εἴ τι λείπει τῷ ἀ
+            <lb break="no"/>ριθμῷ ἐκ τῆς ἀποφά
+            <lb break="no"/>σεως τῆς Εὐβούλου
+            <lb/>τετρακοσίων τριάκο[ν]
+            <lb break="no"/>τα πέντε πλέθρων,
+            <lb/>τούτου ἔχειν ἀπαίτη
+            <lb break="no"/>σιν Σεραπιάδα ἀπὸ
+            <lb/>τῆς Δαυλιέων πόλε
+            <lb break="no"/>ως. παρῆσαν·
+            <lb/>Κούρριος Αὐτόβου
+            <lb break="no"/>λος κέκρικα καὶ {τὴ[ν]}
+            <lb/>τὴν πρώτην ἐσφρά
+            <lb break="no"/>γις[α], Νεικειφόρος Λυ
+            <lb break="no"/>κομήδους κέκρικα,
+            <lb/>Ἀγασίας Τείμωνος
+            <lb/>κέκρικα, [Π](όπλιος) Αἴλιος
+            <lb/>Δαμόξενος ἐσφρά
+            <lb break="no"/>γισα τετάρτην, Εἰσί[δ](ωρος)
+            <lb/>πέμπτην, Μητρόδω
+            <lb break="no"/>ρος Ἀπολλοδότου Ἀν
+            <lb break="no"/>τικυρεὺς, Νεικάρε
+            <lb break="no"/>τος Πίστου Τιθορεὺς],
+            <lb/>Τύραννος Τυράννου
+            <lb/>ἐσφράγισμαι, Ἀκίνδ[υ]
+            <lb break="no"/>νος Καλλικράτους Τ[ι]
+            <lb break="no"/>θορεὺς, Σέξ(τος) Κορν[ήλι]
+            <lb break="no"/>ος Ἀξίοχος, Εὔνου[ς]
+            <lb/>Ἐπαφρᾶ, Καλλιγένη[ς]
+            <lb/>Κλεονείκου ἐσφράγι[κα
+            <lb/>Τιθορεύς.</ab>
+      </div>
+      <div type="translation">
+         <p>(Side a:) To good fortune. When the emperor
+                Trajan <persName type="emperor">Hadrian </persName>Caesar Augustus
+                (was consul) for the 2nd time and <persName>Gnaios Phouskos Saleinator </persName>was consul, 9 days before the kalends of
+                November at <placeName type="ancient">Chaironeia</placeName>.
+                    <persName>Zopyros, son of Aristion</persName>, and
+                    <persName>Parmenon, son of Zopyros</persName>, the
+                legal representatives of the city of the <placeName type="ancient">Daulieoi</placeName>, certified that the
+                underwritten verdict given by <persName>T. Phlaouios Euboulos </persName>was copied (accurately).</p>
+         <p>I, <persName>T. Phlaouios Euboulos</persName>, judge and boundary-setter appointed by
+                    <persName>Kasios Maximos </persName>the proconsul,
+                supervised (or retained?) by <persName>Oualerios Seoueros</persName>, proconsul, between <persName>Zopyros son of Aristion </persName>and <persName>Parmenon, son of Zopyros</persName>, and <persName>Memmios, son of Antiochos</persName>, concerning
+                the disputed places, having heard from both parties for as long as they wished and
+                having attended the <foreign xml:lang="la">demonstratio</foreign>,
+                and having been ordered to deliver a verdict by <persName>Klodios Granianos</persName>, the most excellent
+                proconsul, I judge as follows. Of the field <placeName type="ancient">Dryppios</placeName>, which <persName>Memmios Antiochos </persName>bought for himself
+                from the heirs of <persName>Kleon</persName>, as I
+                understand from the documents presented to me, (I judge that) 435 Phocic  belong to
+                    <persName>Antiochos</persName>. Whatever should be
+                found to be more than this, I judge to belong to the city of the <placeName type="ancient">Daulieoi</placeName>. Similarly, of the field
+                    <placeName type="ancient">Euxyleia</placeName>, 430
+                     I judge
+                to be <persName>Antiochos’</persName>, the remainder
+                to be the city’s. Of the estates <placeName type="ancient">Platanos </placeName>and <placeName type="ancient">Moschotomeai</placeName>, 230  I judge to be
+                    <persName>Antiochos’</persName>, the rest the
+                city’s. I judge that the origin point of the field survey should be established
+                wherever <persName>Antiochos </persName>wishes in each
+                of the fields <placeName type="ancient">Dryppios </placeName>and
+                    <placeName type="ancient">Euxyleia</placeName>, but in
+                    <placeName type="ancient">Platanos </placeName>and <placeName type="ancient">Moschotomeai </placeName>there will be one
+                survey origin for both estates, with the survey proceeding continuously from the
+                appointed origin, not including in the surveyed area streams, rough areas, or areas
+                that cannot be cultivated that are over ten . Present:
+                    <persName>T. Phlaouios Euboulos </persName>delivered the verdict and affixed his seal, <persName>L. Mestrios Soklaros</persName>, <persName>Kleomenes, son of Kleomenes</persName>, <persName>Neikon, son of Symphoros</persName>, <persName>Lamprias, son of Neikon</persName>, <persName>Zopyros, son of Antipatros</persName>, <persName>Sosibios, son of Drakon</persName>, <persName>Neikon, son of Alexandros</persName>, <persName>Leon, son of Theodotos</persName>, <persName>Kallon, son of Phylax</persName>, <persName>Kassios, son of Martianos</persName>.</p>
+         <p>(Side b:) By a decree of the city. The road to
+                the (shrine of the) founder shall be two wide. They shall
+                engrave jointly the landmarks and boundaries of the survey by the twentieth day of
+                the twelfth month, with us reviewing them when they are engraved. Concerning the
+                field called <placeName type="ancient">Dryppios</placeName>, in
+                accordance with the document presented by <persName>Serapis, son of Sopyros </persName>the legal representative and by the archons
+                for(?) <persName>Philon, son of Sosikrates </persName>and <persName>Damon, son of Zopyros</persName>, we judge that if there should be anything lacking from the
+                measurements of four hundred thirty-five  in the verdict of
+                    <persName>Euboulos</persName>, that <persName>Serapis </persName>will have a claim for it from
+                the city of the <placeName type="ancient">Daulieoi</placeName>.
+                Present: I, <persName>Kourrios Autoboulos</persName>,
+                have judged and affixed the first seal. I <persName>Neikeiphoros, son of Lykomedes</persName>, have judged. I, <persName>Agasias, son of Teimon</persName>, have judged. I,
+                    <persName>P. Aelios Damoxenos </persName>have
+                affixed the fourth seal. I, <persName>Eisidoros</persName>, fifth. <persName>Metrodoros, son of Apollodotos </persName>of <placeName type="ancient">Antikyra</placeName>. <persName>Neikaretos, son of Pistos </persName>of <placeName type="ancient">Tithorea</placeName>. <persName>Tyrannos, son of Tyrannos </persName>have affixed
+                (this) seal. <persName>Akindynos, son of Kallikrates </persName>of <placeName type="ancient">Tithorea</placeName>.
+                    <persName>Sex. Kornelios Axiochos</persName>.
+                    <persName>Eunous, son of Epaphras</persName>.
+                    <persName>Kalligenes, son of Keoneikus</persName>
+                of <placeName type="ancient">Tithorea</placeName> have affixed
+                (this) seal.</p>
+      </div>
+   </div>
+</div>

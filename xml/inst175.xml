@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST175">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Demarcation between Public Land of <placeName type="ancient">Philippi</placeName> and Private Landholders</head>
+   <p>Date(s): <date>AD 117-138</date>
+   </p>
+   <p>
+      <seg type="instance-description">A fragmentary boundary marker from the area of <placeName type="ancient">Philippi</placeName> (mod. Krenides in Greece) attests to an <hi rend="bold">authoritative demarcation</hi> between public land of <placeName type="ancient">Philippi</placeName> and land apparently belonging to private owners, who may have been characterized as “the heirs of so-and-so.” The <foreign xml:lang="la">auctoritas</foreign> of the emperor is invoked, but no other personnel of the Roman administration are indicated in the surviving portion of the text.</seg>
+   </p>
+   <div type="document" xml:id="DOC274"><!--*IPhilippi 475; CIL 3.14406d. See also: Pikoulas 1999, 899.11.-->
+      <head>DOC274: <bibl type="preferred">IPhilippi 475</bibl>; <bibl>CIL 3.14406d</bibl>. See also: <bibl>Pikoulas 1999, 899.11</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctor(itate)
+            <lb/>imp(eratoris) Caes(aris)
+            <lb/>Hadriani Aug(usti)
+            <lb/>fines derect(i)
+            <lb/>[int]er pop(ulum) Phil(ippensem) [et]
+            <lb/>her(edes) SPAN</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar
+                    <persName type="emperor">Hadrian </persName>Augustus, boundary
+                drawn between the <placeName type="ancient">populus Philippensis</placeName> and the heirs of ???.</p>
+      </div>
+   </div>
+</div>

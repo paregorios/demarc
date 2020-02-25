@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST146">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Authoritative Demarcation between <placeName type="ancient">Asseria</placeName> and <placeName type="ancient">Sidrona</placeName>
+   </head>
+   <p>Date(s): <date>AD 62-68</date>
+   </p>
+   <p>
+      <seg type="instance-description">This fragmentary boundary marker records an <hi rend="bold">authoritative demarcation</hi>between <placeName type="ancient">Asseria</placeName> (mod. <placeName type="modern">Podgrađe</placeName> near <placeName type="modern">Benkovac</placeName> in <placeName type="modern">Croatia</placeName>) and <placeName type="ancient">Sidrona</placeName> (mod. <placeName type="modern">Gradina</placeName> at <placeName type="modern">Medviđa</placeName>).</seg>
+   </p>
+   <p type="treParaIndent_20_Char_20_Char">Though the name of the presiding official is lost, the settlement can be dated to (or near) the tenure of <persName>P. Cornelius Dolabella</persName> as governor of <placeName type="ancient">Dalmatia</placeName> because the same centurion who handled the boundary demarcation between <placeName type="ancient">Corinium</placeName> and <placeName type="ancient">Nedinum</placeName>
+      <note n="447" xml:id="ftn447"> Instance <ref target="#INST17">
+            <bibl>
+               <biblScope>3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> carried out similar duties in this instance. The surviving portion of the text is very similar to the more complete one from this other case, and it can be securely shown to have been a boundary restoration. Given this similarity and the coincidence of personnel, it is certainly possible that the present evidence also attests to such a restoration. This hypothesis cannot be proved without the discovery and publication of a complete marker, or the missing portion of this one.</p>
+   <div type="document" xml:id="DOC310"><!--*EDH HD030504; ILJug 3.2845; Wilkes 1974, 262 no. 10; ILS 9379; Betz 1938, 33 n. 8; AE 1905.164.-->
+      <head>DOC310: <bibl type="preferred">EDH HD030504</bibl>; <bibl>ILJug 3.2845</bibl>; <bibl>Wilkes 1974, 262 no. 10</bibl>; <bibl>ILS 9379</bibl>; <bibl>Betz 1938, 33 n. 8</bibl>; <bibl>AE 1905.164</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>---
+            <lb/>[--] Caesaris Au(gusti) [---]
+            <lb/>inter Sidrinos et
+            <lb/>Asseriates Q(uintus) Aebu
+            <lb break="no"/>tius Liberalis (centurio) leg(ionis)
+            <lb/>XI definit</ab>
+      </div>
+      <div type="translation">
+         <p>... of Caesar Augustus ... between the
+                    <placeName type="ancient">Sidrini</placeName> and the
+                    <placeName type="ancient">Asseriates</placeName>, <persName>Quintus Aebutius Liberalis</persName>, centurion
+                    of<placeName type="ancient"> Legio XI</placeName> bounded
+                it.</p>
+      </div>
+   </div>
+</div>

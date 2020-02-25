@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST120">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Demarcations of a <foreign xml:lang="la">praefectura</foreign> of <placeName type="ancient">Ucubis</placeName>
+   </head>
+   <p>Date(s): <date>AD 73; 81-94</date>
+   </p>
+   <p>
+      <seg type="instance-description">Two boundary markers from the area of modern Valdecaballeros in Spain attest to an <hi rend="bold">authoritative demarcation</hi> during the reign of the emperor Vespasian and another during the reign of Domitian. The first marker (Text <ref target="ddoc:240">
+            <bibl>
+               <biblScope>82.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>) was placed between the <placeName type="ancient">Lacinimurgenses</placeName> (an otherwise unknown people) and <foreign xml:lang="la">coloni</foreign> of <placeName type="ancient">Ucubi</placeName> (mod. Espejo, southeast of Córdoba). The Domitianic marker (Text <ref target="ddoc:160">
+            <bibl>
+               <biblScope>82.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>) mentions separated the <foreign xml:lang="la">coloni</foreign> of <placeName type="ancient">Ucubi</placeName> from the people of <placeName type="ancient">Emerita Augusta</placeName> (mod. Mérida). The location of the boundary marker, and the use of the word <foreign xml:lang="la">coloni</foreign>, provides evidence for the existence in this area of a non-contiguous <foreign xml:lang="la">praefectura</foreign> of the Roman colony at <placeName type="ancient">Ucubi</placeName>.<note n="455" xml:id="ftn455"> CIL 2.2.7, 198. Cf., Campbell 2000, 349 n. 54 and Campbell 2000, 379 n. 56. Compare the Capuan <foreign xml:lang="la">praefectura</foreign>on Crete: Instance <ref target="#INST57">
+               <bibl>
+                  <biblScope>27</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. </note> The use of the terminology <foreign xml:lang="la">terminus Augustalis</foreign> on the Domitianic marker may imply that the <foreign xml:lang="la">praefectura</foreign> dates to the age of the emperor Augustus. It is possible, then, that these markers indicate restorations of the relevant boundaries, but it is impossible to be definitive. No subordinate representatives of the Roman administration are mentioned.</seg>
+   </p>
+   <div type="document" xml:id="DOC240"><!--*EDH HD007455; CIL 2.7.870 and photo (Tab. 22); AE 1986.323; Vaquerizo Gil 1986, 130-133.14.-->
+      <head>DOC240: <bibl type="preferred">EDH HD007455</bibl>; <bibl>CIL 2.7.870 and photo (Tab. 22)</bibl>; <bibl>AE 1986.323</bibl>; <bibl>Vaquerizo Gil 1986, 130-133.14</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar Aug(ustus)
+            <lb/>Vespasianus po
+            <lb break="no"/>ntif(ex) [max(imus)] trib(unicia) p
+            <lb break="no"/>ot(estate) [IIII i]mp(erator) X p(ater)
+            <lb/>p(atriae) co(n)s(ul) IIII design(atus)
+            <lb/>V ter(minavit?) inter Laci
+            <lb break="no"/>nimurg(enses) et Ucu
+            <lb break="no"/>bitanos c(olonos) c(oloniae) Clarita
+            <lb break="no"/>tis Iuliae</ab>
+      </div>
+      <div type="translation">
+         <p>The Emperor Caesar Augustus <persName type="emperor">Vespasian</persName>, pontifex maximus, (holding
+                the) tribunician power for the 4th time, (saluted as) imperator 10 (times), father
+                of the country, consul 4 (times), consul-designate for the 5th time (established the
+                boundary?) between the <placeName type="ancient">Lacinimurgenses </placeName>and <placeName type="ancient">Ucubitani</placeName>,
+                    <foreign xml:lang="la">coloni</foreign> of the <placeName type="ancient">colonia Claritas Iulia.</placeName>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC160"><!--*CIL 2.7.871; CIL 2.656; ILS 5972. See also: Campbell 2000, 379 n. 56; Campbell 2000, 349 n. 54.-->
+      <head>DOC160: <bibl type="preferred">CIL 2.7.871</bibl>; <bibl>CIL 2.656</bibl>; <bibl>ILS 5972</bibl>. See also: <bibl>Campbell 2000, 379 n. 56</bibl>; <bibl>Campbell 2000, 349 n. 54</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(eratore) Domiti
+            <lb break="no"/>ano Caes(are) Aug(usto)
+            <lb/>Divi Aug(usti) Vesp(asiani) f(ilio)
+            <lb/>Augustalis te
+            <lb break="no"/>rminus c(olonorum) c(oloniae) C(laritatis) Iul(iae) Ucubitanor(um)
+            <lb/>inter Aug(ustanos) Emer(itenses)</ab>
+      </div>
+      <div type="translation">
+         <p>The Emperor <persName type="emperor">Domitian</persName> Caesar Augustus, son of the
+                god Augustus Vespasian. Augustan boundary marker of the <foreign xml:lang="la">coloni </foreign>of the <placeName type="ancient">Colonia Claritas Iuliae of the Ucubitani</placeName> against (the people of) <placeName type="ancient">Augusta Emerita</placeName>.</p>
+      </div>
+   </div>
+</div>

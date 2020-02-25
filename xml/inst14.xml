@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST14">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>An Official Demarcation of the Territorial Boundaries of <placeName type="ancient">Musti</placeName>
+   </head>
+   <p>Date(s): <date>AD 138-161</date>
+   </p>
+   <p>
+      <seg type="instance-description">Two identical boundary markers from the area of <placeName type="ancient">Musti</placeName> (mod. <placeName type="modern">Henchir-Mest</placeName> in <placeName type="modern">Tunisia</placeName>) commemorate the resolution of a <hi rend="bold">boundary dispute</hi>sometime during the reign of <persName type="emperor" rend="normal">Antoninus Pius</persName>. The markers derive their legal authority from the emperor (<foreign xml:lang="la">ex auctoritate</foreign>) and stem from his legal decision (<foreign xml:lang="la">ex sententia</foreign>).</seg>
+   </p>
+   <p>The unique phrase <foreign xml:lang="la">determinatio facta publica</foreign> (a public boundary determination has been made) ties the markers to a specific legal investigation and description of <placeName type="ancient">Musti’s</placeName> boundaries that would have been recorded in a legal document to ensure its lasting validity and accessibility. The explicitness of this relationship between legal document and boundary marker would have facilitated future verification of the markers and their locations (if fraud or repositioning was suspected) in the very manner described by the agrimensores.<note n="339" xml:id="ftn339"> Campbell 2000, 32.30-34.35. </note>
+   </p>
+   <p>The emphasis on a <foreign xml:lang="la">determinatio</foreign>, and the use of <foreign xml:lang="la">cippi</foreign> (i.e., boundary markers) to carry it, indicates that the case focused at least in part on boundaries. It is therefore likely that <persName type="emperor" rend="normal">Pius’</persName> verdict consisted primarily in delegating authority for resolution of the dispute, as well as survey and description of the boundaries, to an appropriate official in the province. In other cases, this official is often indicated on the boundary marker. Here, we would be expected to have recourse to a public copy of the <foreign xml:lang="la">determinatio</foreign> to learn such details. It may well be that the <placeName type="ancient">Mustitani</placeName> petitioned the emperor for assistance in dealing with encroachments on their territory by other communities or extra-civic <foreign xml:lang="la">latifundia</foreign>, and the emperor responded by ordering a survey and the creation of a legally valid, public boundary description, accompanied by the placement of corresponding boundary markers.<note n="340" xml:id="ftn340"> The present inscriptions were discovered along the ridgeline of the <placeName type="modern">Djebel Bou Khil </placeName>to the south of <placeName type="ancient">Musti</placeName>. Two imperial estates, one to the northeast and one to the southeast, probably bordered <placeName type="ancient">Musti’s </placeName>
+         <foreign xml:lang="la">territorium</foreign>, with the <placeName type="ancient">Fossa Regia </placeName>providing an eastern border. Summary and citations: Beschaouch 1968, 135-137, with sketch map. </note> We can assume that this process would have taken into account any available earlier markers, maps, documents and testimony. That a public <foreign xml:lang="la">determinatio</foreign> was explicitly required implies that pre-existing documentation had been inadequate to prevent problems or resolve disputes. It is a pity that the text of the emperor’s legal decision, together with the text of the <foreign xml:lang="la">determinatio</foreign> itself and other related documents, have not come down to us. That such an inscribed dossier once existed seems likely, given examples from <placeName type="ancient">Delphi</placeName>, <placeName type="ancient">Istria</placeName> and <placeName type="ancient">Coronea</placeName>.<note n="341" xml:id="ftn341"> Instances <ref target="#INST16">
+            <bibl>
+               <biblScope>39</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, <ref target="#INST21">
+            <bibl>
+               <biblScope>16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST66">
+            <bibl>
+               <biblScope>43</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <div type="document" xml:id="DOC69"><!--*EDH HD011851; CIL 8.27459; AE 1895.27; Carton 1895, 62.-->
+      <head>DOC69: <bibl type="preferred">EDH HD011851</bibl>; <bibl>CIL 8.27459</bibl>; <bibl>AE 1895.27</bibl>; <bibl>Carton 1895, 62</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctoritate et senten
+            <lb break="no"/>tia
+            <lb/>Imp(eratoris) Caesaris T(iti) Aeli Anto
+            <lb break="no"/>nini Aug(usti) Pii determina
+            <lb break="no"/>tio facta publica Mustita
+            <lb break="no"/>norum</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority and according to the decision
+                of the emperor Caesar Titus Aelius <persName type="emperor">Antoninus Augustus Pius</persName>. The <foreign xml:lang="la">determinatio</foreign> of the <placeName type="ancient">Mustitani</placeName> was made public.<note n="342" xml:id="ftn342"> R. Talbert suggests an alternate translation for <foreign xml:lang="la">determinatio facta publica</foreign>: “the <foreign xml:lang="la">determinatio </foreign>was made in the public interest.” </note>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC68"><!--*EDH HD024385; ILT 1560; AE 1929.71.-->
+      <head>DOC68: <bibl type="preferred">EDH HD024385</bibl>; <bibl>ILT 1560</bibl>; <bibl>AE 1929.71</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ex auctoritate]
+            <lb/>[et sententia] Imp(eratoris)
+            <lb/>Antonini Aug(usti) Pii determina
+            <lb break="no"/>tio [fac]ta publi
+            <lb break="no"/>ca M[us]titanorum</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC185"><!--*Wilkes 1974, 265 no. 16; CIL 3.14239/4; CIL 3.3157; CIL 3.8663.-->
+      <head>DOC185: <bibl type="preferred">Wilkes 1974, 265 no. 16</bibl>; <bibl>CIL 3.14239/4</bibl>; <bibl>CIL 3.3157</bibl>; <bibl>CIL 3.8663</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Her(culi) Aug(usto) [sac](rum)
+            <lb/>Val(erius) Val(ens) v[et(eranus)]
+            <lb/>ex (centurione) limite[m]
+            <lb/>pub(licum) prae
+            <lb break="no"/>clus(um) ob
+            <lb/>decr(etum) Auf(idi?)
+            <lb/>Gall(i) leg(ati)
+            <lb/>suo inp(endio)
+            <lb/>aperuit
+            <lb/>im(peratore) Com(m)o[do II]
+            <lb/>et Mar[tio]
+            <lb/>Vero [II]
+            <lb/>co(n)s(ulibus) VI [Kal(endas)]
+            <lb/>Ma[i(as)]</ab>
+      </div>
+      <div type="translation">
+         <p>Sacred to Hercules Augustus. <persName>Valerius Valens</persName>, veteran and former
+                centurion, in accordance with the verdict of <persName>Aur[elius?] Gallus</persName>, legate – and at his own expense – cleared the
+                public <foreign xml:lang="la">limes </foreign>that had been
+                blocked. (Dated:) when the emperor <persName type="emperor">Commodus </persName>and Martius <persName type="emperor">Verus </persName>were consuls for the second time, 6 days before the kalends of
+                May.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC261"><!--Wilkes 1974, 267-268 no. 24; *CIL 3.9860.-->
+      <head>DOC261: <bibl>Wilkes 1974, 267-268 no. 24</bibl>; <bibl type="preferred">CIL 3.9860</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>- - - -
+            <lb/>iu[d]ex [d]a[t]us a [F]la
+            <lb break="no"/>vio Va[ler]io Cons
+            <lb break="no"/>[t]a[nt]io [v(iro) c(larissimo)] p(raeside) p(rovinicae) [D]elm(atiae)
+            <lb/>[f]i[ne]s i[nt]e[r] Salv
+            <lb break="no"/>ia[t]as e[t] S[tr]ido[n]e[n]ses [d]e[t]e[r]m
+            <lb break="no"/>inavi[t].</ab>
+      </div>
+      <div type="translation">
+         <p>... <foreign xml:lang="la">iudex datus </foreign>by <persName>Flavius Valerius Constantius</persName>, <foreign xml:lang="la">vir clarissimus</foreign>, <foreign xml:lang="la">praeses </foreign>of the <placeName type="ancient">provincia Delmatia</placeName>, established the boundaries between the <placeName type="ancient">Salviatae </placeName>and the <placeName type="ancient">Stridonenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC465"><!--*Wilkes 1974, 264-265 no. 15; CIL 3.8716a.-->
+      <head>DOC465: <bibl type="preferred">Wilkes 1974, 264-265 no. 15</bibl>; <bibl>CIL 3.8716a</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>--- iu]de[x ---]
+            <lb/>[--- Cons]tantio V[ --- ]
+            <lb/>[ --- ]DEA[ ---</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC263"><!--Wilkes 1974, 258-259 no. 2; ILS 5953b; CIL 3.15053. See also: AE 1980.498.-->
+      <head>DOC263: <bibl>Wilkes 1974, 258-259 no. 2</bibl>; <bibl>ILS 5953b</bibl>; <bibl>CIL 3.15053</bibl>. See also: <bibl>AE 1980.498</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex conventione finis
+            <lb/>inter Ortoplinos et Pare
+            <lb break="no"/>ntinos aditus ad aquam
+            <lb/>vivam Ortoplinis passus
+            <lb/>D latus I</ab>
+      </div>
+      <div type="translation">
+         <p>By agreement. Boundary between the <placeName type="ancient">Ortoplini </placeName>and the <placeName type="ancient">Parentini</placeName>. Access to the spring
+                for the <placeName type="ancient">Ortoplini</placeName>: 500
+                paces (long) and 1 wide.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC310"><!--*EDH HD030504; ILJug 3.2845; Wilkes 1974, 262 no. 10; ILS 9379; Betz 1938, 33 n. 8; AE 1905.164.-->
+      <head>DOC310: <bibl type="preferred">EDH HD030504</bibl>; <bibl>ILJug 3.2845</bibl>; <bibl>Wilkes 1974, 262 no. 10</bibl>; <bibl>ILS 9379</bibl>; <bibl>Betz 1938, 33 n. 8</bibl>; <bibl>AE 1905.164</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>---
+            <lb/>[--] Caesaris Au(gusti) [---]
+            <lb/>inter Sidrinos et
+            <lb/>Asseriates Q(uintus) Aebu
+            <lb break="no"/>tius Liberalis (centurio) leg(ionis)
+            <lb/>XI definit</ab>
+      </div>
+      <div type="translation">
+         <p>... of Caesar Augustus ... between the
+                    <placeName type="ancient">Sidrini</placeName> and the
+                    <placeName type="ancient">Asseriates</placeName>, <persName>Quintus Aebutius Liberalis</persName>, centurion
+                    of<placeName type="ancient"> Legio XI</placeName> bounded
+                it.</p>
+      </div>
+   </div>
+</div>

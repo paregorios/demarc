@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST93">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of a Boundary Marker at <placeName type="ancient">Smilec</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 22</bibl>
+   </p>
+   <p>Date(s): <date>AD 161-164?</date>
+   </p>
+   <p>
+      <seg type="instance-description">This cippus was found at <placeName type="modern">Smilec</placeName> in the area of <placeName type="ancient">Durostorum</placeName> (mod. <placeName type="modern">Silistra</placeName> in <placeName type="modern">Bulgaria</placeName>) in 1965. The text explains the marker: it was placed by a centurion, on the order of the governor (whose term of service provides the date), in accordance with earlier verdicts (<foreign xml:lang="la">secundum senten[t]ias pr[ae]ceden[tes ? ---</foreign>). This instance therefore qualifies as a boundary restoration. The <hi rend="bold">boundary dispute</hi>s implied by the mention of earlier verdicts are otherwise unattested, as is the placename <placeName type="ancient">locus Subiati</placeName>.</seg>
+   </p>
+   <div type="document" xml:id="DOC129"><!--*EDH HD012295; AE 1969/70.567; Velkov 1970, 55-58.-->
+      <head>DOC129: <bibl type="preferred">EDH HD012295</bibl>; <bibl>AE 1969/70.567</bibl>; <bibl>Velkov 1970, 55-58</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Iul(ius) Ferox p(rimus) p(ilus) leg(ionis)
+            <lb/>XI Cl(audiae) iussu v(iri) c(larissimi) Ser
+            <lb break="no"/>vili Fabiani co(n)s(ularis) n(ostri)
+            <lb/>terminum posui
+            <lb/>in locum Subiati
+            <lb/>secundum senten
+            <lb break="no"/>[t]ias pr[ae]ceden
+            <lb break="no"/>[tes? - - - - -</ab>
+      </div>
+      <div type="translation">
+         <p>I, <persName>Iulius Ferox</persName>, <foreign xml:lang="la">primus pilus </foreign>of <placeName type="ancient">Legio 11 Claudia</placeName>, by order of <foreign xml:lang="la">vir clarissimus </foreign>
+            <persName>Servilius Fabianus </persName>our <foreign xml:lang="la">consularis</foreign>, placed the boundary marker in the <placeName type="ancient">locus Subiati</placeName>, according to prior
+                verdicts ...</p>
+      </div>
+      <div type="translation">
+         <p>It is right that <foreign xml:lang="la">limites</foreign>, as I said above, should always
+                be passable for rights of way and for conducting surveys. ... In some regions when
+                the <foreign xml:lang="la">limites </foreign>encroach on actual
+                farm buildings, the owners of the farm buildings construct gates, install doors, and
+                position slaves beside them with the task of allowing people a passage through,
+                since a serviceable right of way ought to be maintained for the people. Now, a right
+                of way is granted by landholders on the understanding that they may occupy the
+                    <foreign xml:lang="la">limites</foreign>, but on this
+                condition, namely, if farm buildings have been situated on <foreign xml:lang="la">limites</foreign>, that is, <foreign xml:lang="la">limites </foreign>on which they encroach, the
+                owners must provide a right of way for the people through their land, provided that
+                the route is no more difficult than that through the farm buildings ... I do not
+                think that anyone should take over a <foreign xml:lang="la">limes </foreign>for cultivation, on the grounds that he prefers to offer a right of way
+                through a field.<note n="345" xml:id="ftn345"> 
+               <foreign xml:lang="la">qui tamen, ut supra diximus, semper [in] itineribus &lt;et&gt; mensuris agendis peruii oportet ut sint. ... quibusdam regionibus, cum in ipsis incidant uillis, portas domini uillarum faciunt ianuasque inponunt et seruos huic negotio ad transmittendum populum applicant, quoniam utilissimum iter populo seruari debeat. datur autem uia a possessoribus, ut limites occurrent; hac tamen condicione, ut si &lt;u&gt;illae in limitibus positae sint, id est limites in quibus incidunt, &lt;red&gt;dant per agros suos iter populo, dum non deterius quam per &lt;u&gt;illas transeant. sed quaedam ita positae sunt, ut quantumcumque de limite deflectere uelint, incommodum iter patiantur: ita necessario per ipsas transeunt uillas. limitem autem non puto quemquam occupare debere colendo, ut per agrum iter reddere mallet: alioquin deflexus illi, qui de limite detorquentur, multo maiorem occupant modum </foreign>(Campbell 2000, 124 l. 28 - 126 l. 5; translation is Campbell’s). </note>
+         </p>
+      </div>
+   </div>
+</div>

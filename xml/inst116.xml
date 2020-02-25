@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST116">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Multiple Authoritative Demarcations Involving the Sacred Land of Artemis at <placeName type="ancient">Ephesus</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 34, 35, 36, 37 and 39</bibl>
+   </p>
+   <p>Date(s): <date>prior to 23 BC; 6/5 BC; AD 84-88; AD 110-112</date>
+   </p>
+   <p>
+      <seg type="instance-description">A growing number of boundary markers and other epigraphic texts from the area of <placeName type="ancient">Ephesus</placeName> (mod. <placeName type="modern">Selçuk</placeName> in <placeName type="modern">Turkey</placeName>) provides evidence for at least four major <hi rend="bold">authoritative demarcation</hi>s there, carried out under the emperors <persName type="emperor" rend="normal">Augustus</persName>, <persName type="emperor" rend="normal">Domitian</persName> and <persName type="emperor" rend="normal">Trajan</persName>. None of them can be shown definitively to have originated in disputes. The Augustan projects should be seen as part of a much larger effort aimed at restoring the properties and prestige of Artemis’ famed temple (and her city), which had evidently suffered significant diminution during the Roman civil wars at the hands of successive, cash-hungry eastern commanders. Efforts to disambiguate both the ownership and extent of landed properties, roads and watercourses may imply that disputes occurred during these processes and thus required settlement, but none is explicitly documented. <persName type="emperor" rend="normal">Domitian’s</persName> project, which on present evidence dealt only with agricultural property, took at least four years to complete under the supervision of each proconsul in succession. It has recently been connected to the establishment at <placeName type="ancient">Ephesus</placeName> of a perpetual gymnasiarch and an associated massive building project in the city center. A motivation for the Trajanic demarcation, which also addressed agricultural land, remains to be developed.</seg>
+   </p>
+   <p>The eleven boundary markers associated with authoritative imperial demarcations of agricultural land<note n="364" xml:id="ftn364"> Texts <ref target="ddoc:494">
+            <bibl>
+               <biblScope>61.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> - <ref target="ddoc:495">
+            <bibl>
+               <biblScope>61.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="ddoc:200">
+            <bibl>
+               <biblScope>61.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> - <ref target="ddoc:502">
+            <bibl>
+               <biblScope>61.16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> can be taken together with other finds<note n="365" xml:id="ftn365"> Three undatable boundary markers bearing the text <seg type="T8">ὅρος ἱεροῦ Ἀρτέμιδος </seg>(IEph 3503 = Knibbe 1979, 141.3; IEph 3504; IEph 3505).  </note> to demonstrate that, during the principate at least, the cult of Artemis benefited from income on at least three large areas of “sacred land.”<note n="366" xml:id="ftn366"> The following discussion summarizes the essential work on this subject to date: Knibbe 1979, Knibbe 1989, 223-226, <seg type="T15">Scherrer 1990</seg>, Alföldy 1991, Engelmann 1993, Içten 1998, 83.1, Engelmann 1998, 308-309 and Engelmann 1999, 143-146.4. </note> The assumption of most scholars working on this material is that these lands formed large, integral blocks; however, this is largely just an assumption. It is quite possible that the temple holdings were intermixed with other properties.<note n="367" xml:id="ftn367"> The findspots of the markers are indicated on the following maps: Knibbe 1979, 147, IEph 7.2, 296 and Engelmann 1999, 145. The discussion below makes use of physical and cultural landmarks explicitly labeled on BAtlas Maps 56 and 61. Most of the findspots are not marked there. </note> 
+   </p>
+   <p>The first area probably extended from the immediate environs of the temple itself northeastward along the valley of the <placeName type="ancient">Cayster</placeName> (mod. <placeName type="modern">Küçük Menderes</placeName>) until the point at which the river turns north, near the mausoleum at <placeName type="modern">Belevi</placeName>. From there, this section of property continued eastward along the bottom of the shallow valley bounded on the south by the <placeName type="ancient">Messogis Mons </placeName>(mod. <placeName type="modern">Aydın Dağları</placeName>) and on the north by slightly rising land that extends from the <placeName type="modern">Belevi</placeName> quarries on the west to <placeName type="ancient">Almoura</placeName> (mod. <placeName type="modern">Eskioba</placeName>) on the east. Existing documentation takes the temple property only about half-way up this valley, to the modern sites of <placeName type="modern">Bühükkale </placeName>and <placeName type="modern">Hasançavuslar</placeName>.</p>
+   <p>The second block of temple property lay further to the north and east. It seems to have occupied an area between <placeName type="ancient">Larisa</placeName>, <placeName type="ancient">Almoura </placeName>and <placeName type="ancient">*Siklia</placeName>.</p>
+   <p>The goddess also apparently owned property in the area of <placeName type="ancient">Metropolis </placeName>(mod. <placeName type="modern">Yeniköy</placeName>) as well, where to date only one boundary marker (<seg type="term">in situ</seg>) has been found.</p>
+   <p type="Heading_20_4">Demarcations and Other Beneficia of Augustus</p>
+   <p>The direct evidence for the first of two boundary demarcations under <persName type="emperor" rend="normal">Augustus </persName>consists of three bilingual boundary markers that say simply that he “restored boundaries to Artemis” (Texts <ref target="ddoc:494">
+         <bibl>
+            <biblScope>61.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>- <ref target="ddoc:495">
+         <bibl>
+            <biblScope>61.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). Two of these markers were recovered in the first (southern) area of property, while a third was found (evidently not <seg type="term">in situ</seg>) in the town of <placeName type="modern">Selçuk</placeName>. Their emplacement cannot be dated precisely, but they are probably associated with an imperial restoration and (possibly) expansion of agricultural land belonging to the goddess, as indicated by other evidence.</p>
+   <p>Three other epigraphic sources shed light on the nature and date of this event. The first is a bilingual inscription from <placeName type="ancient">Ephesus</placeName>, dating to ca. 23 BC. It records the improvement of part of a processional way sacred to Artemis<note n="368" xml:id="ftn368"> Mixed Language Inscriptions 148. </note> as a “<foreign xml:lang="la">beneficium </foreign>of Caesar Augustus, funded from the proceeds of the sacred fields that he gave (<foreign xml:lang="la">de[dit]</foreign> = <foreign xml:lang="grc">ἐχαρί[σατο]</foreign>) <seg type="T8">to</seg> Diana” (Text <ref target="ddoc:508">
+         <bibl>
+            <biblScope>61.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). The work was conducted under the direction of the proconsul of <placeName type="ancient">Asia</placeName>, <persName>Sextus Appuleius </persName>(hence the date). The second piece of relevant evidence is provided by a bilingual inscription that records the construction (in 6-5 BC) of a wall for the <foreign xml:lang="la">fanum </foreign>(<foreign xml:lang="grc">ναός</foreign>, presumably Artemis’ sanctuary) and an <foreign xml:lang="la">Augusteum</foreign>, all funded “from the (sacred) income of Diana (the goddess)” (Text <ref target="ddoc:510">
+         <bibl>
+            <biblScope>61.5</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>).<note n="369" xml:id="ftn369"> The implications and interpretative difficulties presented by this construction project – including the location and identification of the <foreign xml:lang="la">Augusteum </foreign>– are explored in Engelmann 1993 and Scherrer 1990. The wall in question is probably the peribolos wall, which identified the sacred precincts and the spatial extent of the sanctuary’s asylum (<seg type="treGreekTransliterated">asylia</seg>). See Rigsby 1996, 388-392 for further discussion. </note> The third relevant document is a fragmentary bilingual edict of an even later proconsul, <persName>Paullus Fabius Persicus</persName>, who served during the early years of <persName type="emperor" rend="normal">Claudius’ </persName>reign. The edict addresses a variety of matters touching on civic and temple administration, and in particular makes note of a deficiency of temple funds, apparently because of embezzlement. <persName>Persicus </persName>makes a special point of drawing attention to <persName type="emperor" rend="normal">Augustus’ </persName>earlier provisions in this area by restoring the goddess’ “copious income” (<foreign xml:lang="la">abundans vectigal</foreign>) (Text <ref target="ddoc:509">
+         <bibl>
+            <biblScope>61.8</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). </p>
+   <p>
+      <persName type="emperor" rend="normal">Augustus </persName>apparently arranged for the identification and restoration of land that generated lease income for the temple of Artemis, and probably increased the amount of this land as well (although how this was accomplished – by purchase or appropriation – is unclear).<note n="370" xml:id="ftn370"> Compare lands owned and leased for income by the temple of Zeus at <placeName type="ancient">Aizanoi</placeName>, restored by <persName type="emperor" rend="normal">Hadrian</persName>, and lands owned and operated by the temple of Diana Tifatina in <placeName type="ancient">Campania</placeName>, restored by <persName type="emperor" rend="normal">Vespasian</persName>. </note> Whether the demarcation occurred at the same time as the gift of land is unclear, but given the restorative aspect of the project, this seems likely.</p>
+   <p>
+      <persName type="emperor" rend="normal">Augustus’</persName> 
+      <foreign xml:lang="la">beneficia </foreign>at <placeName type="ancient">Ephesus </placeName>were not limited to the restoration and expansion of the goddess’ agricultural property. We have already seen that he arranged, through the proconsul, for the construction of a wall around the sanctuary of Artemis and an <foreign xml:lang="la">Augusteum</foreign>. Two other Greek inscriptions dating to the same year (6-5 BC) memorialize an additional project: his establishment of “sacred stelae of the roads and waterways for(?) Artemis” (Texts <ref target="ddoc:505">
+         <bibl>
+            <biblScope>61.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>- <ref target="ddoc:506">
+         <bibl>
+            <biblScope>61.7</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). The placement of these inscriptions identified parts of the urban fabric as the property of the goddess and clearly required survey, for these two examples each carry statements of the width of the roads and waterways so identified. The recording of widths for the roads and waterways in effect constitutes a boundary demarcation of sorts: the inscribed information then provided a basis on which encroachment or use of these spaces could be assessed. This survey cannot have been the same event as the restitution of the temple lands, which had been accomplished nearly twenty years before. </p>
+   <p>This survey is frequently connected by modern scholars with a terribly fragmentary document whose letter forms are not inconsistent with the Augustan age.<note n="371" xml:id="ftn371"> Knibbe 1989, 223-224.59, where significant new fragments are tentatively related to some smaller ones, published earlier in IEph. </note> It includes some directional cues and personal names, and also probably mentions boundary-marking officials (<seg type="T8">ὁρισταί</seg>), earlier proclamations (<seg type="T8">τὰ προσεσημ</seg>
+      <seg type="T7">[</seg>
+      <seg type="T8">ειωμένα </seg>
+      <seg type="T7">???]), </seg>a local religious official with responsibility over something sacred <seg type="T7">(</seg>
+      <seg type="T8">οἰκονόμος</seg>
+      <seg type="T7">  </seg>
+      <seg type="T8">τῶν ἱερῶν τῶ</seg>
+      <seg type="T7">[</seg>
+      <seg type="T8">ν </seg>
+      <seg type="T7">---</seg>
+      <seg type="T8">  </seg>
+      <seg type="T7">]), </seg>sites<seg type="T7">(</seg>
+      <seg type="T8">τόποι</seg>
+      <seg type="T7">), </seg>a restoration<seg type="T7"> (</seg>
+      <seg type="T8">ἀποκατάστασις</seg>
+      <seg type="T7">), </seg>inscribed documents <seg type="T7">(</seg>
+      <seg type="T8">στήλαι</seg>
+      <seg type="T7">), </seg>and boundary markers<seg type="T7"> (</seg>
+      <seg type="T8">ὅροι</seg>
+      <seg type="T7">). </seg>It is important to note here that this document, though suggestive, is not clearly a boundary description, and cannot be definitively linked to any of the Augustan projects.<note n="372" xml:id="ftn372"> Whatever the precise nature of this document (perhaps a letter or civic decree), it is not recognizable as a straightforward <foreign xml:lang="grc">ὁροθέσια</foreign>, and, <seg type="term">pace</seg> Burton 2000, 209.34, should not be considered as documentation of the earlier agricultural land demarcation. </note>
+   </p>
+   <p>This pattern of imperial benefaction reinforces what we know about the larger agenda of the emperor <persName type="emperor" rend="normal">Augustus</persName>. In his <seg type="treTitle">Res Gestae</seg>, <persName type="emperor" rend="normal">Augustus</persName> celebrates the replacement of the treasures allegedly looted from the temples of <placeName type="modern">Asia Minor</placeName> by <persName>Antony</persName>. The subsequent attention to the financial health and good order of <placeName type="ancient">Ephesus</placeName> and its famous goddess,<note n="373" xml:id="ftn373"> Scherrer 1990. </note> though not highlighted in the <seg type="treTitle">Res Gestae</seg>, accords well with the attention and funds <persName type="emperor" rend="normal">Augustus </persName>lavished on temples at <placeName type="modern">Rome</placeName>. It can be paralleled elsewhere in the empire as well.<note n="374" xml:id="ftn374"> See Alföldy 1991, 160-162 for discussion and sources. </note> As the benefactor <seg type="term">par excellence </seg>of both gods and men, Augustus enhanced and reinforced his position of preeminence. The mature application, in the context of imperial administration, of land survey and boundary demarcation foreshadows the remarkably consistent approach and language of our later examples. It clearly sprang from the intersection of already mature Greek and Roman traditions of land management and civic boundary demarcation.</p>
+   <p type="Heading_20_4">The Domitianic Demarcation</p>
+   <p>Six published boundary markers provide evidence for an extended demarcation effort during the reign of the emperor <persName type="emperor" rend="normal">Domitian</persName> (Texts <ref target="ddoc:200">
+         <bibl>
+            <biblScope>61.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> - <ref target="ddoc:499">
+         <bibl>
+            <biblScope>61.14</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>).<note n="375" xml:id="ftn375"> This overview derives from that presented at Engelmann 1999, 145-146. </note> The focus again was the agricultural property of Artemis, as evidenced both by their findspots (scattered across the areas described above) and by their texts: “boundary markers of the sacred estate of Artemis established.” We do not know when the process of survey began or ended, but our earliest marker (Text <ref target="ddoc:200">
+         <bibl>
+            <biblScope>61.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) dates to the proconsular tenure of <persName>Sex. Iulius Frontinus</persName> (AD 84/85). The latest (Text <ref target="ddoc:500">
+         <bibl>
+            <biblScope>61.12</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) dates to AD 87/88, the term of <persName>C. Vettulenus Civica Cerialis</persName>. There is at present no documentation for one of the intervening years (AD 85/86), but two markers (Texts <ref target="ddoc:497">
+         <bibl>
+            <biblScope>61.10</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>and <ref target="ddoc:496">
+         <bibl>
+            <biblScope>61.11</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) belong to AD 86/87 (<persName>P. Nonius Asprenas Caesius Cassianus</persName>). The other two carry <persName type="emperor" rend="normal">Domitian’s</persName> titulature, but are damaged in the portion of the text that cites the proconsul. Text <ref target="ddoc:498">
+         <bibl>
+            <biblScope>61.13</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> preserves the first letter of the proconsul’s name: <foreign xml:lang="grc">Φ</foreign>. There are three possible proconsular candidates known from this period: <persName>Sex. Iulius Frontinus</persName> (AD 84/85, cf., Text <ref target="ddoc:200">
+         <bibl>
+            <biblScope>61.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), <persName>L. Mestrius Florus</persName> (ca. AD 88/89) and <persName>M. Fulvius Gillo</persName> (ca. AD 89/90). If either of the latter two individuals were responsible, this would extend the project for another year or two. <persName>Frontinus</persName> is the most conservative supplement possible. The other fragmentary document (Text <ref target="ddoc:499">
+         <bibl>
+            <biblScope>61.14</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) provides no clue as to the identity of its proconsul.</p>
+   <p>The full context for the Domitianic demarcation remains obscure. There is contemporaneous evidence of imperial benefaction at <placeName type="ancient">Ephesus</placeName>, including the establishment of a “perpetual gymnasiarch” and associated construction in the city center.<note n="376" xml:id="ftn376"> Engelmann 1998, 308-309, Engelmann 1999, 144-145. </note> It may be that this work was funded on the proceeds from the land so demarcated. It is possible that the land in question constituted a new gift of the emperor (again by purchase or appropriation). On the other hand, we may have here yet another reidentification and restitution of lands already associated with the temple, perhaps those demarcated under <persName type="emperor" rend="normal">Augustus</persName>, perhaps others. The embezzlement alluded to by the Claudian-era proconsul <persName>Paullus Fabius Persicus </persName>may indicate that the misappropriation and misuse of temple lands and proceeds was a recurrent problem at <placeName type="ancient">Ephesus</placeName> that perpetually required the attention of the Roman administration. If this speculation is correct, then the Domitianic project may well have had its origins in disputes and local elite competition. These disputes could have been generated by the efforts of the Roman administration and the local elite to identify funds to support the Domitianic building project and benefactions. </p>
+   <p type="Heading_20_4">The Trajanic Demarcation</p>
+   <p>Unlike the Augustan and Domitianic efforts, no theory has been advanced as to the context or aims of the demarcation under Trajan. It is documented by two boundary markers (Texts <ref target="ddoc:501">
+         <bibl>
+            <biblScope>61.15</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>and <ref target="ddoc:502">
+         <bibl>
+            <biblScope>61.16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). Only one of these (Text <ref target="ddoc:501">
+         <bibl>
+            <biblScope>61.15</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) can be dated, on the tenure of the proconsul Q. Fabius Postuminus, to AD 111/112. This document also mentions a <seg type="T8">διάταγμα</seg> (edict?) of Postuminus’ immediate predecessor, L. Baebius Tullus, so it would appear that this issue (whatever its nature) was also significant in duration. </p>
+   <p>(Greek:) The emperor Caesar Augustus re-established the boundaries for Artemis.</p>
+   <div type="document" xml:id="DOC494"><!--Mixed Language Inscriptions 149b; *IEph 3501; Knibbe 1979, 140.1; IGR 4.1672; ILS 3239; CIL 3.14195.-->
+      <head>DOC494: <bibl>Mixed Language Inscriptions 149b</bibl>; <bibl type="preferred">IEph 3501</bibl>; <bibl>Knibbe 1979, 140.1</bibl>; <bibl>IGR 4.1672</bibl>; <bibl>ILS 3239</bibl>; <bibl>CIL 3.14195</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar
+            <lb/>Augustus fines
+            <lb/>Dianae restituit
+            <lb/>
+            <seg xml:lang="grc">Αὐτοκράτωρ Καῖσαρ
+            <lb/>Σεβαστὸς ὅρους
+            <lb/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">Ἀρτέμιδι ἀποκατέ
+            <lb break="no"/>στησεν</seg>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>(Latin:) The emperor Caesar Augustus restored
+                the boundaries for Diana.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC507"><!--Mixed Language Inscriptions 149a; *Içten 1998, 83.1.-->
+      <head>DOC507: <bibl>Mixed Language Inscriptions 149a</bibl>; <bibl type="preferred">Içten 1998, 83.1</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar
+            <lb/>Augustus fines
+            <lb/>Dianae restituit
+            <lb/>
+            <seg xml:lang="grc">Αὐτοκράτωρ Καῖσαρ Σεβασ
+            <lb break="no"/>τὸς ὅρους Ἀρτέμιδι
+            <lb/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">ἀποκατέστησεν.</seg>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC495"><!--*IEph 3502; Knibbe 1979, 140.2; IGR 4.1673.-->
+      <head>DOC495: <bibl type="preferred">IEph 3502</bibl>; <bibl>Knibbe 1979, 140.2</bibl>; <bibl>IGR 4.1673</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Imp(erator) C]aesar
+            <lb/>[Augu]stus
+            <lb/>[fines] Dianae
+            <lb/>restituit
+            <lb/>
+            <seg xml:lang="grc">Αὐτοκράτωρ
+            <lb/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">Καῖσαρ Σεβασ
+            <lb break="no"/>[τὸς ------</seg>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC508"><!--Mixed Language Inscriptions 148; EDH HD016427 (Latin only); AE 1991.1502; SEG 41.971; *Alföldy 1991; IEph 459; Bammer 1974, 108; AE 1966.425.-->
+      <head>DOC508: <bibl>Mixed Language Inscriptions 148</bibl>; <bibl>EDH HD016427 (Latin only)</bibl>; <bibl>AE 1991.1502</bibl>; <bibl>SEG 41.971</bibl>; <bibl type="preferred">Alföldy 1991</bibl>; <bibl>IEph 459</bibl>; <bibl>Bammer 1974, 108</bibl>; <bibl>AE 1966.425</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[bene]ficio Ca[esaris]
+            <lb/>[A]ugusti ex rediti[bus]
+            <lb/>agrorum sacroru[m]
+            <lb/>quos is Dianae de[dit]
+            <lb/>via strata Sex(to)
+            <lb/>Appul[eio]
+            <lb/>pro co(n)s(ule)
+            <lb/>
+            <seg xml:lang="grc">[Τ]ῆι Καίσαρος τοῦ Σεβαστο[ῦ]
+            <lb/>[χάριτ]ι ἐκ τῶν ἱερῶν προσό[δων]
+            <lb/>[ἃ]ς αὐτὸς τῇ θεᾶι ἐχαρί[σατο]
+            <lb/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">ὁδὸς ἐστρώθη ἐπὶ ἀνθυπάτ[ου]
+            <lb/>Σέξτου Ἀππολήιου.</seg>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>(Latin:) As a <foreign xml:lang="la">beneficium</foreign> of Caesar Augustus, the road
+                was resurfaced out of the proceeds from the sacred fields which he gave to Diana by
+                Sextus Appuleius, proconsul.</p>
+         <p>(Greek:) As a <foreign xml:lang="la">beneficium</foreign> of Caesar Augustus, the road
+                was resurfaced out of the sacred proceeds which he gave to the goddess by the
+                proconsul Sextos Appoleios.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC510"><!--Mixed Language Inscriptions 150; Rigsby 1996, 391.183; *IEph 1522; ILS 97; CIL 3.6070.-->
+      <head>DOC510: <bibl>Mixed Language Inscriptions 150</bibl>; <bibl>Rigsby 1996, 391.183</bibl>; <bibl type="preferred">IEph 1522</bibl>; <bibl>ILS 97</bibl>; <bibl>CIL 3.6070</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar divi f(ilius) Aug(usti) co(n)s(ul) XII tr(ibunicia) pot(estate) XVIII pontifex
+            <lb/>maximus ex reditu Dianae fanum et Augusteum muro
+            <lb/>muniendum curavit [[C. Asinio [Gallo pro co(n)s(ule)]]] curatore
+            <lb/>Sex(to) Lartidio leg(ato).
+            <lb/>
+            <seg xml:lang="grc">Αὐτοκράτωρ Καῖσαρ θεοῦ υἱὸς Σεβαστὸς ὕπατος τὸ ιβʹ δημαρχικῆς ἐξουσίας τὸ ιηʹ
+            <lb/>
+            </seg>
+            <seg xml:lang="grc"/>
+            <seg xml:lang="grc">[ἐκ] τῶν ἱερῶν τῆς θεοῦ προσόδων τὸν νεὼ καὶ τὸ Σεβαστῆον τιχισθῆναι προενοήθη
+            <lb/>[[ἐπὶ ἀνθυπάτου Γαίου Ἀσινίου Γάλλου]] ἐπιμελήᾳ Σέξστου Λαρτιδίου πρεσβευτοῦ.</seg>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>(Latin:) The emperor Caesar, son of a god,
+                    <persName type="emperor">Augustus</persName>, consul 12 (times),
+                (holding the) tribunician power 18 (times), pontifex maximus, out of the proceeds of
+                Diana, took care of fortifying the sanctuary and the <foreign xml:lang="la">Augusteum</foreign> with a wall, with <persName>C. Asinius </persName>,
+                overseeing with <persName>Sextus Lartidius</persName>,
+                legate.</p>
+         <p>(Greek:) The emperor Caesar, son of a god,
+                    <persName type="emperor">Augustus</persName>, consul 12 (times),
+                holding the tribunician power 18 (times), out of the sacred proceeds of the goddess,
+                undertook to wall the sanctuary and the 
+                , with <persName>Sexstos Lartidios</persName>, legate, overseeing.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC505"><!--*IEph 1523.-->
+      <head>DOC505: <bibl type="preferred">IEph 1523</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκράτωρ Καῖσαρ
+            <lb/>θεοῦ υἱὸς Σεβαστός
+            <lb/>ὕπατος τὸ ιβ´, δημαρ
+            <lb break="no"/>χικῆς ἐξουσίας τὸ ιη´
+            <lb/>στήλας ἱερὰς τῶν ὁ
+            <lb break="no"/>δῶν καὶ ῥίθρων Ἀρτέμι
+            <lb break="no"/>δι ἀποκατέστησεν [[ἐπὶ ἀνθυπάτου]]
+            <lb/>[[Γαίου Ἀσινίου Γάλλου]]
+            <lb/>ἐπιμελήα Σεξτου
+            <lb/>Λαρτιδίου πρεσ
+            <lb break="no"/>βευτου. τὸ ῥεῖθρον ἔχει πλά
+            <lb break="no"/>τους πήχεις ιε´.</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of a god, <persName type="emperor">Augustus</persName>, consul 12 (times), holding
+                the tribunician power 18 (times), established the sacred stelae of the roads and
+                watercourses for Artemis , with <persName>Sextos Lartidios</persName>, legate, overseeing.
+                The watercourse has a width of 15  (i.e.,
+                cubits).</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC506"><!--*IEph 1524.-->
+      <head>DOC506: <bibl type="preferred">IEph 1524</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκράτωρ Καῖσαρ
+            <lb/>θεοῦ υἱὸς Σεβαστός
+            <lb/>ὕπατος τὸ ιβ´, δημαρ
+            <lb break="no"/>χικῆς ἐξουσίας τὸ ιη´
+            <lb/>στήλας ἱερὰς τῶν
+            <lb/>ὁδῶν καὶ ῥίθρων Ἀρ
+            <lb break="no"/>τέμιδι ἀποκατέστη
+            <lb break="no"/>σεν [[ἐπὶ ἀνθυπάτου]]
+            <lb/>[[Γαίου Ἀσινίου Γάλλου]]
+            <lb/>ἐπιμελήα Σέξτου
+            <lb/>Λαρτιδίου πρεσβευτοῦ. [ἡ] ὁδὸς ἔχει σὺν τῶι
+            <lb/>[ῥ]είθρῳ τοῦ ποταμοῦ
+            <lb/>πήχεις λ´.</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar, son of a god, <persName type="emperor">Augustus</persName>, consul 12 (times), holding
+                the tribunician power 18 (times), established the sacred stelae of the roads and
+                watercourses for Artemis , with <persName>Sextos Lartidios</persName>, legate, overseeing.
+                The road has with the bed of the river a width of 30  (i.e.,
+                cubits).</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC509"><!--*IEph 1, 111 no. 19B (b).-->
+      <head>DOC509: <bibl type="preferred">IEph 1, 111 no. 19B (b)</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>-----
+            <lb/>[ --- multae enim aedes deo]
+            <lb break="no"/>[ru]m ignibus cons[umptae aut] ruinae con[lapsae]
+            <lb/>[i]acent; templum [ip]sum Dianae cum sit o[rna]
+            <lb break="no"/>[m]entum provinciae et operis magnifice[ntia et]
+            <lb/>[ve]tustate religionis et abundantia{e} vect[iga]
+            <lb break="no"/>[l]ium, quae a divo Augusto deo deae restitu[ta]
+            <lb/>[sun]t, eget suis opibus nec suffecit restitu[tio]
+            <lb/>[bene]ficiorum, quae co[ ----- ]
+            <lb/>-----</ab>
+      </div>
+      <div type="translation">
+         <p>For many temples of the gods have fallen to
+                ruin through structural collapse or consuming fire. The temple of Diana itself –
+                although it is a jewel of the province by virtue of the magnificence of its
+                construction and by the antiquity of its rites, and by the abundance of its income,
+                which was restored to the goddess by the divine <persName type="emperor">Augustus</persName>, a god – is in want of its own
+                resources ...</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC200"><!--*Engelmann 1999, 143-146.4.-->
+      <head>DOC200: <bibl type="preferred">Engelmann 1999, 143-146.4</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>κατὰ τὴν Αὐτοκρά
+            <lb break="no"/>τορος Καίσαρος
+            <lb/>Δομιτιανοῦ Σεβασ
+            <lb break="no"/>τοῦ Γερμανικοῦ
+            <lb/>διαταγὴν ὅρος ἱεροῦ
+            <lb/>χωρίου τῆς Ἀρτέμι
+            <lb break="no"/>δος τεθεὶς ἐπὶ Σέ
+            <lb break="no"/>ξτου Ἰουλίου Φρον
+            <lb break="no"/>τείνου ἀνθυπά
+            <lb break="no"/>του διὰ Κλωδίου
+            <lb/>Κέλσου πρεσβευ
+            <lb break="no"/>του.</ab>
+      </div>
+      <div type="translation">
+         <p>According to the  (edict?) of the
+                emperor Caesar Domitian <persName type="emperor">Augustus</persName>
+                Germanicus, boundary marker of the sacred estate of Artemis established by
+                    <persName>Sextos Ioulios Phronteinos</persName>,
+                proconsul, through <persName>Klodios Kelsos</persName>, legate.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC497"><!--*IEph 3507.-->
+      <head>DOC497: <bibl type="preferred">IEph 3507</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[κατὰ τὴν Αὐτοκράτορος]
+            <lb/>[Καίσαρος Δομετιανοῦ Σε]
+            <lb break="no"/>[βα]στο[ῦ Γερμανικοῦ]
+            <lb/>διαταγὴν ὅρο[ς ἱεροῦ χω]
+            <lb break="no"/>ρίου τῆς Ἀρτέμιδος [τε]
+            <lb break="no"/>θεὶς ἐπὶ Ποπλίου Νω
+            <lb break="no"/>νίου Ἀσπρήνα Καισίου
+            <lb/>Κασσιανοῦ ἀνθυπάτου
+            <lb/>παρόντος ἐπὶ τοὺς τόπους.</ab>
+      </div>
+      <div type="translation">
+         <p>According to the  (edict?) of the
+                emperor Caesar Domitian <persName type="emperor">Augustus</persName>
+                Germanicus, boundary marker of the sacred estate of Artemis established by
+                    <persName>Poplios Nonios Asprena Kaisios Kassianos</persName>, proconsul, who was present at the sites.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC496"><!--*IEph 3506; Knibbe 1979, 141.4; McCrum-Woodhead 497; AE 1933.123.-->
+      <head>DOC496: <bibl type="preferred">IEph 3506</bibl>; <bibl>Knibbe 1979, 141.4</bibl>; <bibl>McCrum-Woodhead 497</bibl>; <bibl>AE 1933.123</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[κατὰ τὴν Αὐτοκρά]
+            <lb break="no"/>[τορος Καίσαρος Δο]
+            <lb break="no"/>[μετιανοῦ] Σεβα[στοῦ]
+            <lb/>[Γερμαν]ικοῦ δ[ιαταγ]ήν
+            <lb/>ὅρος ἱεροῦ χωρ[ίου]
+            <lb/>τῆς Ἀρτέμιδος τε
+            <lb break="no"/>θεὶς [ἐ]πὶ Ποπλίου Νω
+            <lb break="no"/>νίου Ἀσπρήνα Καισίου Κα[σ]σ[ι-]
+            <lb break="no"/>ανοῦ ἀνθυπ[άτ]ου παρόν
+            <lb break="no"/>τος ἐπὶ τοὺς τόπους.</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC500"><!--IEph 3510.-->
+      <head>DOC500: <bibl>IEph 3510</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>κατ[ὰ τὴν]
+            <lb/>Αὐτοκρά[τορος]
+            <lb/>Καίσαρο[ς [[Δομι]]
+            <lb break="no"/>[[τιανοῦ]] Σεβ[αστοῦ]
+            <lb/>[[Γερμανικοῦ]] [διατα]
+            <lb break="no"/>γὴν ὅρος [ἱεροῦ χω]
+            <lb break="no"/>ρίου τῆς Ἀρτέμιδος]
+            <lb/>τεθεὶς ἐπ[ὶ Γαίου]
+            <lb/>Οὐετουλ[ηνοῦ Κι]
+            <lb break="no"/>βίκα Κερια[λίου ἀνθυπά]
+            <lb break="no"/>του διά Π[ -------- ]
+            <lb break="no"/>τ[.]ηκου Σάγ[κτου? πρεσ]
+            <lb break="no"/>βευτοῦ</ab>
+      </div>
+      <div type="translation">
+         <p>According to the  (edict?) of the
+                emperor Caesar <persName type="emperor">Domitian</persName> Augustus
+                Germanicus, boundary marker of the sacred estate of Artemis established by
+                    <persName>Gaios Ouetoulenos Kibika Kerialios</persName>, proconsul, through P(...) (...)ekou Sagktou(?),
+                legate.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC498"><!--*IEph 3508.-->
+      <head>DOC498: <bibl type="preferred">IEph 3508</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>κατὰ τὴν Αὐτο
+            <lb break="no"/>κρ[άτορος Καίσ]αρος
+            <lb/>Δ[ομετιανοῦ Σεβα]σ
+            <lb break="no"/>τ[οῦ Γερμανικοῦ δια]τα
+            <lb break="no"/>γ[ὴν ὅρος ἱεροῦ χωρί]ου τ[ῆς Ἀρτέμιδος τε]
+            <lb break="no"/>θ[είς ἐπὶ ἀνθυπάτου]
+            <lb/>Φ[ -----</ab>
+      </div>
+      <div type="translation">
+         <p>According to the  (edict?) of the
+                emperor Caesar <persName type="emperor">Domitian</persName> Augustus
+                Germanicus, boundary marker of the sacred estate of Artemis established ... Ph(...)
+                ....</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC499"><!--*IEph 3509.-->
+      <head>DOC499: <bibl type="preferred">IEph 3509</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>κατὰ τὴν Αὐτ[οκρά]
+            <lb break="no"/>τορος Καίσαρο[ς [[Δομε]]]
+            <lb break="no"/>[[τιανοῦ]] Σεβα[στοῦ [[Γερ]]]
+            <lb break="no"/>[[μανικοῦ]] δι[αταγὴν] ὅρος ἱεροῦ χωρί[ου τῆς]
+            <lb/>Ἀρτέμιδος τεθ[είς ἐπὶ]
+            <lb/>-----</ab>
+      </div>
+      <div type="translation">
+         <p>According to the  (edict?) of the
+                emperor Caesar <persName type="emperor">Domitian</persName> Augustus
+                Germanicus, boundary marker of the sacred estate of Artemis established .... </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC501"><!--IEph 3511.-->
+      <head>DOC501: <bibl>IEph 3511</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[κατὰ τὴν τοῦ Αὐτο]
+            <lb break="no"/>[κράτορος Νέρουα]
+            <lb/>[Τραιανοῦ Καίσαρος ]
+            <lb/>Σεβαστοῦ Γερμαν[ι]
+            <lb break="no"/>κοῦ Δακικοῦ διαταγὴν ὅρος ἱερός Ἀρτέ
+            <lb break="no"/>μιδος τεθεὶς ἐπὶ ἀν
+            <lb break="no"/>θυπάτου Φαβίου Ποσ
+            <lb break="no"/>τομείνου κατὰ τὸ Το
+            <lb break="no"/>ύλλου διάταγμα.</ab>
+      </div>
+      <div type="translation">
+         <p>According to the  (edict?) of the
+                emperor Nerva <persName type="emperor">Trajan</persName> Caesar
+                Augustus Germanicus Dacicus, sacred boundary marker of Artemis established by the
+                proconsul <persName>Phabios Postomeinos</persName>,
+                according to the  (edict?) of <persName>Toullos</persName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC502"><!--*IEph 3512.-->
+      <head>DOC502: <bibl type="preferred">IEph 3512</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>κατὰ τὴν τοῦ [Αὐτοκρά]
+            <lb break="no"/>τορος Νέρουα Τ[ραιανοῦ Καί]σαρος Σεβ[ατοῦ Γερ]
+            <lb break="no"/>μανικοῦ Δα[κικοῦ διατα]γὴν ὅρος ἱε[ρὸς Ἀρ]
+            <lb break="no"/>[[τέμι]]δο[ς τεθείς]
+            <lb/>-----</ab>
+      </div>
+      <div type="translation">
+         <p>According to the  (edict?) of the
+                emperor Nerva <persName type="emperor">Trajan</persName> Caesar
+                Augustus Germanicus Dacicus, sacred boundary marker of Artemis ... </p>
+      </div>
+   </div>
+</div>

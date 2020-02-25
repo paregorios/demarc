@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST72">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>A Hadrianic Benefaction to Thracian <placeName type="ancient">Abdera</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 62</bibl>
+   </p>
+   <p>Date(s): <date>AD 117-138</date>
+   </p>
+   <p>
+      <seg type="instance-description">Two inscriptions from the area of <placeName type="ancient">Abdera</placeName> (mod. Avdira in Greece) would seem to attest to a <foreign xml:lang="la">beneficium</foreign> of the emperor Hadrian.<note n="423" xml:id="ftn423"> For discussion in the context of Hadrian’s civic benefactions (and other possible land grants) see, Boatwright 2000, 85. The <foreign xml:lang="la">beneficium</foreign> is probably also recognized in the city’s adoption of the title “Hadriane,” reflected in other inscriptions and coinage (Boatwright 2000, 105). </note> The people of <placeName type="ancient">Abdera</placeName> placed these inscriptions, whose texts differ, to record their gratitude to Hadrian for restoring their ancestral boundaries “all the way to the river <placeName type="ancient">Nestos</placeName>.” The context of this restoration is obscure, but it may have come at the expense of <placeName type="ancient">Thasos</placeName>, which controlled a <foreign xml:lang="la">peraea</foreign> (itself of ancient origins) on the Thracian mainland.<note n="424" xml:id="ftn424"> At least one imperial-era boundary marker associated with it has been found, about 10 km to the west of the <placeName type="ancient">Nestos</placeName> (not in situ, see Instance <ref target="#INST97">
+               <bibl>
+                  <biblScope>88</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>, AD 101). A letter of a governor of <placeName type="ancient">Thracia</placeName> to the city of <placeName type="ancient">Thasos</placeName> may also relate to affairs in the <foreign xml:lang="la">peraea</foreign>, including a territorial dispute with <placeName type="ancient">Philippi</placeName> (see Instance <ref target="#INST112">
+               <bibl>
+                  <biblScope>18</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>, AD 69-79). </note>
+      </seg>
+   </p>
+   <div type="document" xml:id="DOC371"><!--*AE 1937.171; Bakalakis 1937, 29.-->
+      <head>DOC371: <bibl type="preferred">AE 1937.171</bibl>; <bibl>Bakalakis 1937, 29</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[Αὐτοκρ]άτ[ορα Τραϊανὸν]
+            <lb/>Ἁδριανὸν [Καίσαρα Σεβα]
+            <lb break="no"/>στὸν μεγίστω[ς εὐ]ν[οηθεῖσα]
+            <lb/>ἡ Ἁδριανέων [Ἀβδηρειτῶν πόλις]
+            <lb/>ἐπὶ τῶν ὅρῶν ε[ὐχαριστίας ἕνεκεν]
+            <lb/>ἀπολαβοῦσα τὴ[ν ἰδίαν γῆν τῇ]
+            <lb/>ἐκείνου προνοί[ᾳ καὶ τοῦ πεμφθέν]
+            <lb break="no"/>τος ὑπ’ αὐτοῦ [ ------------ ]
+            <lb/>Ἀγρίππα πρεσβευτοῦ.</ab>
+      </div>
+      <div type="translation">
+         <p>(Thinking highly?) of the emperor (Trajan)
+                    <persName type="emperor">Hadrian</persName> (Caesar) Augustus,
+                the greatest, the (city) of the Hadrian (<placeName type="ancient">Abdereitoi</placeName>) (erected this
+                monument) (because of gratitude) for the boundaries, having recovered (their own
+                land) through his foresight and that of the legate he (sent) .... Agrippa.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC224"><!--*Smallwood 1966 448; AE 1937.170; Bakalakis 1937, 26.-->
+      <head>DOC224: <bibl type="preferred">Smallwood 1966 448</bibl>; <bibl>AE 1937.170</bibl>; <bibl>Bakalakis 1937, 26</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκράτορι Καίσα[ρι]
+            <lb/>θεοῦ Τραϊανοῦ Παρθ[ι]
+            <lb break="no"/>κοῦ υἱῷ θεοῦ Νέρουα υ[ἱ]
+            <lb break="no"/>ωνῷ Τραϊανῷ Ἁδριανῷ
+            <lb/>Σεβαστῷ Ζηνὶ Ἐφορίῷ
+            <lb/>ἡ Ἁδριανέων Ἀβδηρειτῶ[ν]
+            <lb/>πόλις ἐπὶ τῶν ὅρων ἀπολ[α]
+            <lb break="no"/>βοῦσα τὴν ἰδίαν γῆν διὰ
+            <lb/>τὴν οὐράνιον αὐτοῦ πρό
+            <lb break="no"/>vοιαν εὐχαριστίας ἕνεκεν
+            <lb/>διατεθέντων μέχρι ποτα
+            <lb break="no"/>μοῦ Μέστου</ab>
+      </div>
+      <div type="translation">
+         <p>To the emperor Caesar, son of the god Trajan,
+                grandson of the god Nerva, Trajan <persName type="emperor">Hadrian</persName> Augustus Zeus of the Borders, the city of the Hadrianic
+                    <placeName type="ancient">Abdereitoi</placeName>, having
+                recovered their own land through his heavenly foresight, because of gratitude for
+                the establishment of the boundaries, all the way to the river <placeName type="ancient">Mestos</placeName>.</p>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST180">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Authoritative Demarcation on a North African Imperial Estate?</head>
+   <p>Date(s): <date>AD 235-238</date>
+   </p>
+   <p>
+      <seg type="instance-description">A single boundary marker records a mid-third-century demarcation between the <placeName type="ancient">castellum Gurolensis</placeName> (probably at mod. Bir el Khreba in Algeria) and what was probably another <foreign xml:lang="la">castellum</foreign>, named here as <placeName type="ancient">Medianum Matidianum Alexandrianum Tizirlensis</placeName> (to be identified, perhaps with <placeName type="ancient">vicus Augusti</placeName> at mod. Bir bou Saadia).<note n="510" xml:id="ftn510"> See further EncBerb 12, s.v. <foreign xml:lang="la">“castellum.”</foreign> 
+         </note> The demarcation was carried out on the authority of an imperial procurator of the <foreign xml:lang="la">ratio privata</foreign>, and so may mark this area as an imperial estate. The demarcation involved the replacement of an old boundary marker (<foreign xml:lang="la">vetus terminus</foreign>) according to a prior <foreign xml:lang="la">determinatio</foreign>, agreement, verdict or other precedent, described here cryptically as <foreign xml:lang="la">acta</foreign>.</seg>
+   </p>
+   <div type="document" xml:id="DOC392"><!--EDH HD023402; *ILS 9382; AE 1907.5.-->
+      <head>DOC392: <bibl>EDH HD023402</bibl>; <bibl type="preferred">ILS 9382</bibl>; <bibl>AE 1907.5</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[e]x auc(toritate) Ax[i]
+            <lb/>Aeliani v(iri) e(gregii)
+            <lb/>proc(uratoris) Aug(usti)
+            <lb/>ter(minus) vetus po
+            <lb break="no"/>situs secun
+            <lb break="no"/>dum acta inter kastel[l(um)] Gurolen
+            <lb break="no"/>sem et Medianum
+            <lb/>[M]atidianum Ale
+            <lb break="no"/>xandrianum Tizir
+            <lb break="no"/>lensem</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of Axius Aelianus, <foreign xml:lang="la">vir egregius</foreign>, imperial procurator, the
+                old boundary marker was placed according to <foreign xml:lang="la">acta</foreign> between the <placeName type="ancient">kastellum Gurolensis</placeName> and Medianus Matidianus Alexandrianus
+                Tizirlensis.</p>
+      </div>
+   </div>
+</div>

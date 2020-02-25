@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST62">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute between the <placeName type="ancient">Patulcenses</placeName> and <placeName type="ancient">Galillenses</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 2, 3 and 4</bibl>
+   </p>
+   <p>Date(s): <date>AD 69</date>
+   </p>
+   <p>
+      <seg type="instance-description">This <hi rend="bold">boundary dispute</hi> engaged the attention of three successive governors of the island of <placeName type="ancient">Sardinia</placeName>.</seg>
+   </p>
+   <p>A bronze tablet discovered near the village of <placeName type="modern">Esterzili</placeName> in south-central <placeName type="modern">Sardinia</placeName> in 1866 records the verdict of the proconsul <persName>L. Helvidius Agrippa</persName> in a boundary dispute between two communities, the Roman colonists known as the <placeName type="ancient">Patulcenses Campani</placeName> (located near mod. <placeName type="modern">Partedi</placeName>) and the indigenous <placeName type="ancient">Galillenses</placeName> (near mod. <placeName type="modern">Gerrei</placeName>).<note n="270" xml:id="ftn270"> The colonial foundation is of uncertain date. </note> The decision was issued in mid March of AD 69, but the case had begun and had received ongoing attention under <persName>Agrippa’s</persName> two immediate predecessors.</p>
+   <p type="P39">Since for the public good it is appropriate to stand by prior judgments and since concerning the case of the <placeName type="ancient">Patulcenses</placeName>, <persName>Marcus Iuventius Rixa</persName>, <foreign xml:lang="la">vir ornatissimus</foreign> and imperial procurator, often delivered the verdict that the boundaries of the <placeName type="ancient">Patulcenses</placeName> must be preserved just as they were arranged on the bronze tablet by <persName>Marcus Metellus</persName>, and finally he ruled that he wanted to punish the <placeName type="ancient">Galillenses</placeName>, who had frequently renewed the dispute and not obeyed his decree, but out of respect for the mercy of the best and greatest princeps he was content to admonish them in an edict that they should be quiet and abide by rulings in prior cases and by the Kalends of October next they should withdraw from the lands of the <placeName type="ancient">Patulcenses</placeName> and hand over the empty property, and that if they persisted in their disobedience he would direct his severity against those responsible for the rebellion; and since after this <persName>Caecilius Simplex</persName>, <foreign xml:lang="la">clarissimus vir</foreign>, in the same case, in response to the <placeName type="ancient">Galillenses’</placeName> statement that they would produce a tablet pertaining to the matter from the <foreign xml:lang="la">tabularium principis</foreign>, ruled that it was humane for an evidentiary postponement to be granted and gave them a space of three months until the Kalends of December by which day if the map was not produced he would follow the one that was in the province; and since I also, having been approached by the <placeName type="ancient">Galillenses</placeName> with the excuse that the map had not yet been produced, granted them a delay until the Kalends of that February which was next, and I understood that the delay was agreeable to the <foreign xml:lang="la">possessores</foreign>, let the <placeName type="ancient">Galilenses</placeName> withdraw from within the boundaries of the <placeName type="ancient">Patulcenses Campani</placeName>, which they have occupied by force, before the next Kalends of April. And if they do not obey this proclamation, let them know that they will be liable to punishment for their longstanding and already frequently denounced disobedience.</p>
+   <div type="document" xml:id="DOC117"><!--*Cadoni 1993; ILS 5947; CIL 10.7852.-->
+      <head>DOC117: <bibl type="preferred">Cadoni 1993</bibl>; <bibl>ILS 5947</bibl>; <bibl>CIL 10.7852</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(eratore) Othone Caesare Aug(usto) co(n)s(ule) XV K(alendas) Apriles.
+            <lb/>Descriptum et recognitum ex codice ansato L(uci) Helvi Agrippae procons(ulis) quem protulit Cn(aeus) Egnatius
+            <lb/>Fuscus scriba quaestorius in quo scriptum fuit it quod infra scriptum est tabula V c(apitibus) VIII
+            <lb/>et VIIII et X. III Idus Mart(ias) L(ucius) Helvius Agrippa proco(n)s(ul) caussa cognita pronuntiavit:
+            <lb/>Cum pro utilitate publica rebus iudicatis stare conveniat et de caussa Patulcensi
+            <lb break="no"/>um M(arcus) Iuventius Rixa, vir ornatissimus, procurator Aug(usti) saepius pronunt&lt;i&gt;averit fi
+            <lb break="no"/>nes Patulcensium ita servandos esse ut in tabula ahenea a M(arco) Metello ordinati
+            <lb/>essent ultimoque pronuntiaverit Galillenses frequenter retractantes controver
+            <lb break="no"/>siamnec parentes decreto suo se castigare voluisse sed respectu clementiae optumi
+            <lb/>maximique principis contentum esse edicto admonere ut quiescerent et rebus
+            <lb/>iudicatis starent et intra K(alendas) Octobr(es) primas de praedis Patulcensium decederent vacuam
+            <lb break="no"/>que possessionem traderent; quodsi in contumacia perseverassent, se in auctores
+            <lb/>seditionis severe anima adversurum; et postea Caecilius Simplex, vir clarissi
+            <lb break="no"/>mus, ex eadem caussa aditus a Galillensibus dicentibus tabulam se ad eam rem
+            <lb/>pertinentem ex tabulario principis adlaturos pronuntiaverit humanum esse
+            <lb/>dilationem probationi dari et in K(alendas) Decembres trium mensum spatium dederit in
+            <lb break="no"/>tra quam diem, nisi forma allata esset, se eam quae in provincia esset secuturum;
+            <lb/>ego quoque aditus a Galillensibus excusantibus quod nondum forma allata esset, in
+            <lb/>K(alendas) Februarias quae p(roximae) f(uerunt) spatium dederim et moram &lt;i&gt;llis possessoribus intellegam esse iucun
+            <lb break="no"/>dam: Galil(l)enses ex finibus Patulcensium Campanorum quos per vim occupaverant intra K(alendas)
+            <lb/>Apriles primas decedant: quodsi huic pronuntiationi non optemperaverint, sciant
+            <lb/>se longae contumaciae et iam saepe denuntiata(e) animadversioni obnoxios
+            <lb/>futuros. In consilio fuerunt: M(arcus) Iulius Romulus leg(atus) pro pr(aetore), T(itus) Atilius Sabinus q(uaestor)
+            <lb/>pro pr(aetore), M(arcus) Stertinius Rufus f(ilius), Sex(tus) Aelius Modestus, P(ublius) Lucretius Clemens, M(arcus) Domitius
+            <lb/>Vitalis, M(arcus) Lusius Fidus, M(arcus) Stertinius Rufus. Signatores: Cn(aei) Pompei Ferocis, Aureli
+            <lb/>Galli, M(arci) Blossi Nepotis, C(ai) Cordi Felicis, L(uci) Vigelli Crispini, C(ai) Valeri Fausti, M(arci) Luta
+            <lb break="no"/>ti Sabini, L(uci) Coccei Genialis, L(uci) Ploti Veri, D(ecimi) Veturi Felicis, L(uci) Valeri Pepli.</ab>
+      </div>
+      <div type="translation">
+         <p>When the emperor <persName type="emperor">Otho</persName> Caesar Augustus was consul, on the
+                15th day before the Kalends of April. Copied and verified from the bound codex of
+                    <persName>Lucius Helvius Agrippa</persName>,
+                proconsul, which <persName>Cnaeus Egnatius Fuscus</persName>, <foreign xml:lang="la">scriba quaestorius</foreign>, brought out, in which was written that which is written
+                below. Tablet 5, at headings 8, 9 and 10:</p>
+         <p>3 days before the Ides of March, <persName>Lucius Helvius Agrippa</persName>, proconsul, when
+                the case had been heard, declared:</p>
+         <p>In his <foreign xml:lang="la">consilium</foreign> were: <persName>Marcus Iulius Romulus</persName>. propraetorian legate; <persName>Titus Atilius Sabinus</persName>, propraetorian
+                quaestor; <persName>Marcus Stertinius Rufus</persName>
+                the son; <persName>Sextus Aelius Modestus</persName>;
+                    <persName>Publius Lucretius Clemens</persName>;
+                    <persName>Marcus Domitius Vitalis</persName>;
+                    <persName>Marcus Lusius Fidus</persName>; and
+                    <persName>Marcus Stertinius Rufus</persName>.</p>
+         <p>Witnesses: <persName>Cnaeus Pompeius Ferox</persName>; <persName>Aurelius Gallus</persName>; <persName>Marcus Blossus Nepos</persName>, <persName>Gaius Cordus Felix</persName>, <persName>Lucius Vigellus Crispinus</persName>; <persName>Gaius Valerius Faustus</persName>; <persName>Marcus Lutatus Sabinus</persName>; <persName>Lucius Cocceius Genialis</persName>; <persName>Lucius Plotius Verus</persName>; <persName>Decimus Veturus Felix</persName>; <persName>Lucius Valerius Peplus.</persName>
+         </p>
+      </div>
+      <div type="translation">
+         <p>In his <foreign xml:lang="la">consilium</foreign> were: <persName>Marcus Iulius Romulus</persName>. propraetorian legate; <persName>Titus Atilius Sabinus</persName>, propraetorian
+                quaestor; <persName>Marcus Stertinius Rufus</persName>
+                the son; <persName>Sextus Aelius Modestus</persName>;
+                    <persName>Publius Lucretius Clemens</persName>;
+                    <persName>Marcus Domitius Vitalis</persName>;
+                    <persName>Marcus Lusius Fidus</persName>; and
+                    <persName>Marcus Stertinius Rufus</persName>.</p>
+         <p>Witnesses: <persName>Cnaeus Pompeius Ferox</persName>; <persName>Aurelius Gallus</persName>; <persName>Marcus Blossus Nepos</persName>, <persName>Gaius Cordus Felix</persName>, <persName>Lucius Vigellus Crispinus</persName>; <persName>Gaius Valerius Faustus</persName>; <persName>Marcus Lutatus Sabinus</persName>; <persName>Lucius Cocceius Genialis</persName>; <persName>Lucius Plotius Verus</persName>; <persName>Decimus Veturus Felix</persName>; <persName>Lucius Valerius Peplus.</persName>
+         </p>
+      </div>
+   </div>
+</div>

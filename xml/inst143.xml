@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST143">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>An Altar to Hercules</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 20</bibl>
+   </p>
+   <p>Date(s): <date>AD 179</date>
+   </p>
+   <p>
+      <seg type="instance-description">An inscribed altar from the area of <placeName type="ancient">Salona</placeName> (mod. <placeName type="modern">Solin</placeName> in <placeName type="modern">Croatia</placeName>) may bear a special type of witness – that of the losing party<note n="344" xml:id="ftn344"> Fergus Millar, among many others, has remarked that “the fact of a text’s having been inscribed was itself a function of its having been of interest or advantage to a particular individual or group” (Millar 1992, 644). In general, the losing party in a lawsuit would have been unlikely to widely publicize the documents associated with it. </note> – to the resolution of a <hi rend="bold">boundary dispute</hi> by the otherwise unknown <persName>Aur[elius] (or Auf[idius]) Gallus</persName>, governor of <placeName type="ancient">Dalmatia</placeName> in AD 179.</seg>
+   </p>
+   <p>As I see it, this private dedication records a former centurion’s grim satisfaction upon completing the clearing of a blocked right-of-way that split his holdings. The use of the term <foreign xml:lang="la">limes</foreign>, combined with a requirement to keep said boundaries clear, indicates that the land in question must have qualified as <foreign xml:lang="la">ager divisus et assignatus </foreign>(divided and allocated land). This legal requirement is most clearly explained in the <seg type="treTitle">de condicionibus agrorum </seg>of <persName>Siculus Flaccus</persName>:</p>
+   <p>
+      <persName>Valens </persName>therefore owned property that had previously been divided and distributed in accordance with Roman colonial procedure, probably to discharged military veterans such as himself. That <persName>Valens </persName>considered the governor’s decision a heavy task is perhaps indicated by his choice of Hercules as the object of his dedication. The use of the unparelleled phrase <foreign xml:lang="la">ob decr(etum)</foreign>for the more common <foreign xml:lang="la">ex decreto </foreign>nonetheless clearly indicates that the governor’s mandate was delivered as a verdict in a case heard according to the <foreign xml:lang="la">cognitio </foreign>procedure.<note n="346" xml:id="ftn346"> 
+         <foreign xml:lang="la">ob decr(etum) </foreign>is Wilkes’ reading and supplement, improving upon <foreign xml:lang="la">ob dec(essionem) </foreign>as printed at CIL 3.8663, the source of much confusion for scholars who overlook Wilkes’ edition, which was informed by direct autopsy of the inscription (e.g., Burton 2000 no. 20 and Campbell 2000, 459 who both have written that the closing of the <foreign xml:lang="la">limes</foreign> must have had something to do with “the departure or death of the governor.”). </note> It seems likely that another landowner, or perhaps the community that had territorial jurisdiction over the allocated area, brought a case against <persName>Valens </persName>in which they alleged his failure to keep the standard right-of-way clear across his holdings. The governor ruled in the plaintiff’s favor, requiring <persName>Valens </persName>to undertake the clearing of the <foreign xml:lang="la">limes</foreign>. It is not clear whether the path of the <foreign xml:lang="la">limes</foreign> itself was at issue as well, for <persName>Valens </persName>was memorializing his compliance with the verdict, not the details of the case. If he had argued that the line of the <foreign xml:lang="la">limes </foreign>followed a different (unblocked) route than that alleged by the plaintiff, or that he had already provided an adequate alternate route in the manner described by <persName>Siculus Flaccus</persName>, he must have failed to prove it.</p>
+   <p>If this interpretation of the text is correct, then it provides a precious glimpse into the potential range of attitudes and responses of those who lost cases involving boundary disputes during the Roman empire.</p>
+   <div type="document" xml:id="DOC185"><!--*Wilkes 1974, 265 no. 16; CIL 3.14239/4; CIL 3.3157; CIL 3.8663.-->
+      <head>DOC185: <bibl type="preferred">Wilkes 1974, 265 no. 16</bibl>; <bibl>CIL 3.14239/4</bibl>; <bibl>CIL 3.3157</bibl>; <bibl>CIL 3.8663</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Her(culi) Aug(usto) [sac](rum)
+            <lb/>Val(erius) Val(ens) v[et(eranus)]
+            <lb/>ex (centurione) limite[m]
+            <lb/>pub(licum) prae
+            <lb break="no"/>clus(um) ob
+            <lb/>decr(etum) Auf(idi?)
+            <lb/>Gall(i) leg(ati)
+            <lb/>suo inp(endio)
+            <lb/>aperuit
+            <lb/>im(peratore) Com(m)o[do II]
+            <lb/>et Mar[tio]
+            <lb/>Vero [II]
+            <lb/>co(n)s(ulibus) VI [Kal(endas)]
+            <lb/>Ma[i(as)]</ab>
+      </div>
+      <div type="translation">
+         <p>Sacred to Hercules Augustus. <persName>Valerius Valens</persName>, veteran and former
+                centurion, in accordance with the verdict of <persName>Aur[elius?] Gallus</persName>, legate – and at his own expense – cleared the
+                public <foreign xml:lang="la">limes </foreign>that had been
+                blocked. (Dated:) when the emperor <persName type="emperor">Commodus </persName>and Martius <persName type="emperor">Verus </persName>were consuls for the second time, 6 days before the kalends of
+                May.</p>
+      </div>
+   </div>
+</div>

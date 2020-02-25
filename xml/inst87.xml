@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST87">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Demarcations between <placeName type="ancient">Cirta</placeName> and its Neighbors</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 54 and 57</bibl>
+   </p>
+   <p>Date(s): <date>at least AD 69-253</date>
+   </p>
+   <p>
+      <seg type="instance-description">A significant number of boundary markers related to the territory of <placeName type="ancient">Cirta</placeName> (mod. <placeName type="modern">Constantine</placeName> in <placeName type="modern">Algeria</placeName>) and its federated communities survive and have been published, thanks both to the regional importance of the city in the early Roman Empire<note n="448" xml:id="ftn448"> 
+            <placeName type="ancient">Cirta</placeName> was the center of a large section of the territory of <persName>Juba I</persName>, given by <persName>Caesar</persName> to his ally <persName>P. Sittius</persName>and others. <placeName type="ancient">Cirta</placeName> became a <foreign xml:lang="la">colonia</foreign> between 36 and 27 BC and was incorporated into the province of <foreign xml:lang="la">Africa nova</foreign>. Between the reigns of <persName type="emperor" rend="normal">Augustus</persName> and the Flavians, <placeName type="ancient">Cirta</placeName> became the head of a four-city confederation with <placeName type="ancient">Rusicade</placeName>, <placeName type="ancient">Chullu</placeName>and <placeName type="ancient">Milev</placeName>that eventually became known as the <foreign xml:lang="la">res publica IIII coloniarum Cirtensium</foreign>. <placeName type="ancient">Cirta’s</placeName>predominance was long-lived; for example, its third century citizens erected an honorific inscription to the emperors <persName type="emperor" rend="normal">Trebonianus Gallus</persName> and <persName type="emperor" rend="normal">Volusianus</persName> with revenues from the “public lands of the <placeName type="ancient">Siguitani</placeName>” (Text 1.27). See further EncBerb s.v. “Cirta” by F. Bertrandy, pp. 1971-1973. </note> and to the interests and energies of French colonialists living at <placeName type="modern">Constantine</placeName> during the 19th and 20th centuries. None of these markers can be associated definitively with disputes. Only some of them constitute <hi rend="bold">authoritative demarcation</hi>s.</seg>
+   </p>
+   <p type="treParaIndent_20_Char">Twenty-one boundary inscriptions related to the territory of <placeName type="ancient">Cirta</placeName>are known. These can be divided into 6 groups, of which only four groups (consisting of 13 markers total) can be dated. The groups are as follows: </p>
+   <ul>
+      <li>Undated: markers of the public land (<foreign xml:lang="la">ager publicus</foreign>) of <placeName type="ancient">Cirta</placeName>, and possibly related markers with other texts (Texts <ref target="ddoc:77">
+            <bibl>
+               <biblScope>81.15</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> through <ref target="ddoc:382">
+            <bibl>
+               <biblScope>81.28</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>).</li>
+      <li>Between AD 69-84: markers erected on the authority of the emperor <persName type="emperor" rend="normal">Vespasian</persName> through <persName>C. Tullius Pomponianus Capito</persName>, a legate (of uncertain status) of the emperor. The markers indicate public lands (<foreign xml:lang="la">agri publici</foreign>) of <placeName type="ancient">Cirta</placeName>, assigned or leased (<foreign xml:lang="la">adsignati</foreign>)<note n="449" xml:id="ftn449"> See DizEpig s.v. “Adsignatio (publica)” and DizEpig s.v. “Ager,” esp. 2. “Demanio dello Stato: ager publicus populi Romani”. </note> to the <placeName type="ancient">Suburbures Regiani</placeName> and the <placeName type="ancient">Nicives</placeName> (Texts <ref target="ddoc:217">
+            <bibl>
+               <biblScope>81.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="ddoc:216">
+            <bibl>
+               <biblScope>81.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> = Burton 2000 no. 54).</li>
+      <li>Between AD 117-138: markers erected on the authority of the emperor <persName type="emperor" rend="normal">Hadrian</persName>, with no other officials mentioned. The markers separate public lands of <placeName type="ancient">Cirta</placeName> from allocated lands of <placeName type="ancient">Cirta</placeName>; i.e., lands that had been assigned to individual landowners within the territory of <placeName type="ancient">Cirta</placeName> (Texts <ref target="ddoc:84">
+            <bibl>
+               <biblScope>81.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> through <ref target="ddoc:388">
+            <bibl>
+               <biblScope>81.13</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>).</li>
+      <li>Between AD 117-138: a single marker related to centuriation, also placed on the authority of the emperor <persName type="emperor" rend="normal">Hadrian</persName>(Text <ref target="ddoc:387">
+            <bibl>
+               <biblScope>81.14</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>).</li>
+      <li>Undated markers, possibly corresponding to the same demarcation as the Hadrianic group described above, but carrying shorter inscriptions that do not mention the emperor or his agents, and therefore cannot be dated by internal evidence.<note n="450" xml:id="ftn450"> Roman surveyors would not necessarily inscribe all boundary markers with a full text. Compare, for example, the use of everything from mute stones to very explicit inscriptions in the Trajanic redemarcation of the Julio-Claudian centuration grid in central <placeName type="modern">Tunisia</placeName>: Instance <ref target="#INST8">
+               <bibl>
+                  <biblScope>87</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. </note> These markers relate to public and allocated lands of <placeName type="ancient">Cirta</placeName>, and to allocated lands of <placeName type="ancient">Milev</placeName> (mod. <placeName type="modern">Mila</placeName>), one of the participants in the four-city <foreign xml:lang="la">contributio</foreign> headed by <placeName type="ancient">Cirta</placeName> (Texts <ref target="ddoc:80">
+            <bibl>
+               <biblScope>81.17</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> through <ref target="ddoc:381">
+            <bibl>
+               <biblScope>81.21</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>).</li>
+      <li>AD 138: markers erected on the authority of <persName>P. Cassius Secundus</persName>, an imperial legate of <persName type="emperor" rend="normal">Hadrian</persName>. The markers indicate public lands of <placeName type="ancient">Sigus</placeName>, and one marker explicitly separates those lands from allocated lands of the <placeName type="ancient">Cirtenses</placeName> (Texts <ref target="ddoc:86">
+            <bibl>
+               <biblScope>81.23</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> through <ref target="ddoc:378">
+            <bibl>
+               <biblScope>81.26</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> = Burton 2000 no. 57). These markers may relate to one or both of the two preceding instances of demarcation, or may represent a follow-up or additional allocation of land.</li>
+   </ul>
+   <div type="document" xml:id="DOC217"><!--*EDH HD012592; AE 1969/70.696; BAA 3 (1968), 293-300.-->
+      <head>DOC217: <bibl type="preferred">EDH HD012592</bibl>; <bibl>AE 1969/70.696</bibl>; <bibl>BAA 3 (1968), 293-300</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex au(c)torit(ate)
+            <lb/>Imp(eratoris) Vespasia(ni)
+            <lb/>Cae(saris) Aug(usti) agr(i)
+            <lb/>pub(lici) Cir(tensium) ad(signati) Sub
+            <lb break="no"/>urb(uribus) Reg(ianis) et
+            <lb/>Nicibibus per
+            <lb/>Tul&lt;l&gt;ium Pom
+            <lb break="no"/>ponianum
+            <lb/>Capitonem
+            <lb/>leg(atum) Aug(usti)</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor <persName type="emperor">Vespasian</persName> Caesar Augustus. Public lands
+                of the <placeName type="ancient">Cirtenses</placeName> assigned
+                to the <placeName type="ancient">Suburbures Regiani</placeName>
+                and the <placeName type="ancient">Nicibes</placeName> through
+                Tullius Pomponianus Capito, .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC216"><!--*EDH HD017303; AE 1957.175.-->
+      <head>DOC216: <bibl type="preferred">EDH HD017303</bibl>; <bibl>AE 1957.175</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>-------
+            <lb/>[---]ES Caesar(is)
+            <lb/>Aug(usti) agri pu[b]
+            <lb break="no"/>lici Cirt(ensium) adsig(nati)
+            <lb/>Nicibibus et S
+            <lb break="no"/>uburburibus
+            <lb/>Regi(anis) per Tulliu(m) Pomponianu(m)
+            <lb/>Capitone(m)
+            <lb/>leg(atum) Aug(usti)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC377"><!--Christofle 1935, 220; *EDH HD024480; AE 1936.137.-->
+      <head>DOC377: <bibl>Christofle 1935, 220</bibl>; <bibl type="preferred">EDH HD024480</bibl>; <bibl>AE 1936.137</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auct(oritate)
+            <lb/>Imp(eratoris) Caesaris
+            <lb/>Traiani Hadriani
+            <lb/>Aug(usti)
+            <lb/>agri accept(i) [---]
+            <lb/>separa(ti)
+            <lb/>
+            <lb break="no"/>a p(ublico) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar Trajan
+                    <persName type="emperor">Hadrian</persName> Augustus, allocated
+                lands ... separated from public (land) of the <placeName type="ancient">Cirtenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC84"><!--*ILS 5978; Logeart 1939, 162.1; CIL 8.19104; EE 5.861.-->
+      <head>DOC84: <bibl type="preferred">ILS 5978</bibl>; <bibl>Logeart 1939, 162.1</bibl>; <bibl>CIL 8.19104</bibl>; <bibl>EE 5.861</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>a(gri) p(ublici) C(irtensium)
+            <lb/>
+            <lb break="no"/>ex auct(oritate)
+            <lb/>imp(eratoris) Caesaris
+            <lb/>Traiani Hadriani
+            <lb/>Aug(usti)
+            <lb/>agri accept(i) Cirt(ensium)
+            <lb/>separati a publ(ico)</ab>
+      </div>
+      <div type="translation">
+         <p>Public land of the <placeName type="ancient">Cirtenses</placeName>. // By the authority of
+                the emperor Caesar Trajan <persName type="emperor">Hadrian</persName> Augustus, allocated lands of the <placeName type="ancient">Cirtenses</placeName>, separated from public
+                (land).</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC75"><!--*CIL 8.19431; EE 5.859; CIL 8, 965; CIL 8.7084.-->
+      <head>DOC75: <bibl type="preferred">CIL 8.19431</bibl>; <bibl>EE 5.859</bibl>; <bibl>CIL 8, 965</bibl>; <bibl>CIL 8.7084</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>a(gri) p(ublici) C(irtensium)
+            <lb/>
+            <lb break="no"/>ex auct(oritate)
+            <lb/>imp(eratoris) Caesaris
+            <lb/>Traiani Hadr[iani]
+            <lb/>Aug(usti)
+            <lb/>agri accep(ti) Cirt(ensium)
+            <lb/>separa[ti] a [p]u[b(lico)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC76"><!--*CIL 8.19432; EE 5.860; CIL 8.7085.-->
+      <head>DOC76: <bibl type="preferred">CIL 8.19432</bibl>; <bibl>EE 5.860</bibl>; <bibl>CIL 8.7085</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctor(itate)
+            <lb/>imp(eratoris) Traiani
+            <lb/>Hadriani Ca[e]
+            <lb break="no"/>saris Aug(usti)
+            <lb/>ag(ri) Cir(tensium) ac(cepti) sep(arati) a p(ublico)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC376"><!--*EDH HD022728; AE 1939.160; Logeart 1939, 165.3.-->
+      <head>DOC376: <bibl type="preferred">EDH HD022728</bibl>; <bibl>AE 1939.160</bibl>; <bibl>Logeart 1939, 165.3</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctori
+            <lb break="no"/>tate Imp(eratoris)
+            <lb/>Caesaris
+            <lb/>Traiani Ha
+            <lb break="no"/>driani Aug(usti)
+            <lb/>a(gri) a(ccepti) C(irtensium) s(eparati) a p(ublico)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC380"><!--Logeart 1939, 166.4.-->
+      <head>DOC380: <bibl>Logeart 1939, 166.4</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctori
+            <lb break="no"/>tate imp(eratoris)
+            <lb/>Caesaris
+            <lb/>Traiani [Ha]
+            <lb break="no"/>driani [Aug(usti)]
+            <lb/>a(gri) a(ccepti) C(irtensium) s(eparati) a p(ublico)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC81"><!--*Logeart 1939, 163.2; CIL 8.7090.-->
+      <head>DOC81: <bibl type="preferred">Logeart 1939, 163.2</bibl>; <bibl>CIL 8.7090</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctori
+            <lb break="no"/>tate imp(eratoris)
+            <lb/>Caesaris
+            <lb/>Traiani Ha
+            <lb break="no"/>driani Aug(usti)
+            <lb/>a(gri) ac(cepti) s(eparati) a p(ublico)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC389"><!--*ILAlg 2.410.-->
+      <head>DOC389: <bibl type="preferred">ILAlg 2.410</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ex auct(oritate)] imp(eratoris) caes(aris) [Tr]aiani Had[ri]an(i) Aug(usti) p(atris) [p(atriae)] a(gri) a(ccepti) C(irtensium) s(eparati) a p(ublico).
+            <lb/>
+            <lb break="no"/>a(gri) p(ublici) C(irtensium).</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC390"><!--*EDH HD021458; AE 1914.231.-->
+      <head>DOC390: <bibl type="preferred">EDH HD021458</bibl>; <bibl>AE 1914.231</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Ex auctori]
+            <lb break="no"/>ta[te Imp(eratoris) Ca]
+            <lb break="no"/>esaris Tra
+            <lb break="no"/>iani Ha[d]r[i]
+            <lb break="no"/>ani Aug(usti)
+            <lb/>p(atris) p(atriae) a(gri) a(ccepti) C(irtensium) s(eparati) a p(ublico)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC79"><!--*CIL 8.7088.-->
+      <head>DOC79: <bibl type="preferred">CIL 8.7088</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctor(itate)
+            <lb/>imp(eratoris) Caes(aris) Tr[ai]
+            <lb break="no"/>ani [ ----]C
+            <lb/>PP[ ----- ]A[ -- ]</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC388"><!--*EDH HD018292; AE 1965.233; Lassus 1960, 96.-->
+      <head>DOC388: <bibl type="preferred">EDH HD018292</bibl>; <bibl>AE 1965.233</bibl>; <bibl>Lassus 1960, 96</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex aucto
+            <lb break="no"/>ritate Imp(eratoris) Cae
+            <lb break="no"/>saris Aug(usti)
+            <lb/>Traiani [ ---</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC387"><!--*EDH HD018672; AE 1989.852; Gascou 1989, 155-157.26.-->
+      <head>DOC387: <bibl type="preferred">EDH HD018672</bibl>; <bibl>AE 1989.852</bibl>; <bibl>Gascou 1989, 155-157.26</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>D(ecumanus) XXI
+            <lb/>K(ardo) VI
+            <lb/>
+            <lb break="no"/>Ex aucto
+            <lb break="no"/>ritate
+            <lb/>Imp(eratoris) Cae
+            <lb break="no"/>saris Aug(usti)
+            <lb/>Traiani
+            <lb/>[H]adriani a(gri) p(ublici) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>(Side a:) Decumanus 21, Kardo 6.</p>
+         <p>(Side b:) By the authority of the emperor
+                Caesar Augustus Trajan <persName type="emperor">Hadrian</persName>:
+                public land of the <placeName type="ancient">Cirtenses</placeName>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC77"><!--*ILAlg 2.1993; CIL 8.7086.-->
+      <head>DOC77: <bibl type="preferred">ILAlg 2.1993</bibl>; <bibl>CIL 8.7086</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>a(gri) p(ublici) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>Public land of the <placeName type="ancient">Cirtenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC78"><!--*CIL 8.7087.-->
+      <head>DOC78: <bibl type="preferred">CIL 8.7087</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>a(gri) p(ublici) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC80"><!--*CIL 8.19974; CIL 8.19433; ILS 5980; CIL 8.8211; CIL 8.7089.-->
+      <head>DOC80: <bibl type="preferred">CIL 8.19974</bibl>; <bibl>CIL 8.19433</bibl>; <bibl>ILS 5980</bibl>; <bibl>CIL 8.8211</bibl>; <bibl>CIL 8.7089</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>a(gri) p(ublici) C(irtensium)
+            <lb/>
+            <lb break="no"/>a(gri) a(ccepti) M(ilevitanorum)</ab>
+      </div>
+      <div type="translation">
+         <p>Public land of the <placeName type="ancient">Cirtenses</placeName>. // Allocated lands of
+                the <placeName type="ancient">Milevitani</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC83"><!--*ILS 5979; Logeart 1939, 172.6; CIL 8.18768; CIL 8.10821; Const 19 (1878), 379.-->
+      <head>DOC83: <bibl type="preferred">ILS 5979</bibl>; <bibl>Logeart 1939, 172.6</bibl>; <bibl>CIL 8.18768</bibl>; <bibl>CIL 8.10821</bibl>; <bibl>Const 19 (1878), 379</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>a(gri) p(ublici) C(irtensium)
+            <lb/>
+            <lb break="no"/>a(gri) a(ccepti) C(irtensium)
+            <lb/>
+            <lb break="no"/>a(gri) a(ccepti) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>Public lands of the <placeName type="ancient">Cirtenses</placeName>. Allocated lands of the
+                    <placeName type="ancient">Cirtenses</placeName>. Allocated
+                lands of the <placeName type="ancient">Cirtenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC88"><!--*CIL 8.19329; EE 5.865.-->
+      <head>DOC88: <bibl type="preferred">CIL 8.19329</bibl>; <bibl>EE 5.865</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>a(gri) a(ccepti) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>Allocated land (belonging to) the <placeName type="ancient">Cirtenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC383"><!--*Logeart 1939, 170.5.-->
+      <head>DOC383: <bibl type="preferred">Logeart 1939, 170.5</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>a(gri) a(ccepti) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC381"><!--*EDH HD020885; ILAlg 2.2003; AE 1908.246.-->
+      <head>DOC381: <bibl type="preferred">EDH HD020885</bibl>; <bibl>ILAlg 2.2003</bibl>; <bibl>AE 1908.246</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>a(gri) a(ccepti) C(irtensium)
+            <lb/>
+            <lb break="no"/>a(gri) p(ublici) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>Allocated land of the <placeName type="ancient">Cirtenses</placeName>. // Public land of the
+                    <placeName type="ancient">Cirtenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC391"><!--*ILAlg 2.6517.-->
+      <head>DOC391: <bibl type="preferred">ILAlg 2.6517</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>agri Cirt(ensium)
+            <lb/>publici de c(olonia?)
+            <lb/>
+            <lb break="no"/>agri Cirtenses acceptari(i).</ab>
+      </div>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>agri Cirt(ensium)
+            <lb/>publici de c(olonia?)
+            <lb/>
+            <lb break="no"/>agri Cirtenses acceptari(i).</ab>
+      </div>
+      <div type="translation">
+         <p>Public lands of the <placeName type="ancient">Cirtenses</placeName>, from the colony(?).
+                Allocated Cirtensian lands.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC86"><!--*EDH HD022731; ILAlg 2.6834; AE 1939.161; Logeart 1939, 178.10.-->
+      <head>DOC86: <bibl type="preferred">EDH HD022731</bibl>; <bibl>ILAlg 2.6834</bibl>; <bibl>AE 1939.161</bibl>; <bibl>Logeart 1939, 178.10</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auct(oritate) P(ubli) C
+            <lb break="no"/>assi Secun
+            <lb break="no"/>di leg(ati) Aug(usti)
+            <lb/>a(gri) p(ublici) Sig(uitanorum)</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of Publius Cassius Secundus,
+                imperial legate. Public land of the <placeName type="ancient">Siguitani</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC87"><!--*EDH HD031225; ILS 5977a; Logeart 1939, 175.8; CIL 8.19134; EE 5.864. See also: ILAlg 2.6516.-->
+      <head>DOC87: <bibl type="preferred">EDH HD031225</bibl>; <bibl>ILS 5977a</bibl>; <bibl>Logeart 1939, 175.8</bibl>; <bibl>CIL 8.19134</bibl>; <bibl>EE 5.864</bibl>. See also: <bibl>ILAlg 2.6516</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auc(toritate) P(ubli) Cassi
+            <lb/>Secundi leg(ati)
+            <lb/>Aug(usti) a(gri) p(ublici) S(iguitanorum)
+            <lb/>
+            <lb break="no"/>a(gri) d(ivisi) S(iguitanis)</ab>
+      </div>
+      <div type="translation">
+         <p>(Side a:) By the authority of Publius Cassius
+                Secundus, imperial legate, public land of the <placeName type="ancient">Siguitani</placeName>.</p>
+         <p>(Side b:) Divided land of <placeName type="ancient">Sigus</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC222"><!--*EDH HD031219; ILAlg 2.6846; Logeart 1939, 175.11; CIL 8.19132; EE 5 (1884).862.-->
+      <head>DOC222: <bibl type="preferred">EDH HD031219</bibl>; <bibl>ILAlg 2.6846</bibl>; <bibl>Logeart 1939, 175.11</bibl>; <bibl>CIL 8.19132</bibl>; <bibl>EE 5 (1884).862</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auct(oritate) P(ublii) C
+            <lb break="no"/>assi Secun
+            <lb break="no"/>di leg(ati) Aug(usti)
+            <lb/>a(gri) p(ublici) Sig(uitanorum)
+            <lb/>
+            <lb break="no"/>a(gri) d(ivisi) S(iguitanis)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC378"><!--*EDH HD031222; ILAlg 2.6515; ILS 5977; Logeart 1939, 173.7; CIL 8.19133; EE 5.863.-->
+      <head>DOC378: <bibl type="preferred">EDH HD031222</bibl>; <bibl>ILAlg 2.6515</bibl>; <bibl>ILS 5977</bibl>; <bibl>Logeart 1939, 173.7</bibl>; <bibl>CIL 8.19133</bibl>; <bibl>EE 5.863</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auct(oritate)
+            <lb/>P(ubli) Cassi Se
+            <lb break="no"/>cundi leg(ati)
+            <lb/>Aug(usti) a(gri) p(ublici) Sig(uitanorum)
+            <lb/>
+            <lb break="no"/>a(gri) a(ccepti) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>(Side a:) By the authority of Publius Cassius
+                Secundus, imperial legate: public land of the <placeName type="ancient">Siguitani</placeName>.</p>
+         <p>(Side b:) Allocated land of the <placeName type="ancient">Cirtenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC372"><!--*ILAlg 2.6514; Logeart 1939, 176.9; CIL 8.10148.-->
+      <head>DOC372: <bibl type="preferred">ILAlg 2.6514</bibl>; <bibl>Logeart 1939, 176.9</bibl>; <bibl>CIL 8.10148</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(eratori) Caes(are)
+            <lb/>C(aio) Vibio Tre[b]oniano
+            <lb/>Gallo Invicto Pio
+            <lb/>felice Aug(usto) p(atre) p(atriae) pon
+            <lb break="no"/>tifice maximo tri[b](unicia)
+            <lb/>[po]testate proco(n)s(ule)
+            <lb/>et
+            <lb/>Imp(erator) Caes(are) C(aio) Vibio Afinio
+            <lb/>Gallo Veldumiano
+            <lb/>Volussiano
+            <lb/>Pio Felice Aug(usto)
+            <lb/>r(es) p(ublica) C(irtensium) e p(ublicis) S(iguitanorum)</ab>
+      </div>
+      <div type="translation">
+         <p>To the emperor Caesar Caius Vibius <persName type="emperor">Trebonianus Gallus </persName>Invictus Pius Felix
+                Augusti, father of the country, pontifex maximus, (holding the) tribunician power,
+                proconsul and to the emperor Caesar Caius Vibius Afinius Gallus Veldumianus
+                    <persName type="emperor">Volussianus</persName> Pius Felix
+                Augustus, the <foreign xml:lang="la">res publica</foreign> of the
+                    <placeName type="ancient">Cirtenses</placeName>, from the
+                (revenues of the) public (lands) of the <placeName type="ancient">Siguitani</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC382"><!--*EDH HD027240; ILAlg 2.1959; AE 1913.151.-->
+      <head>DOC382: <bibl type="preferred">EDH HD027240</bibl>; <bibl>ILAlg 2.1959</bibl>; <bibl>AE 1913.151</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>l(imes) p(ublicus?) C(irtensium)</ab>
+      </div>
+      <div type="translation">
+         <p>Public right-of-way-and-boundary(?) of the
+                    <placeName type="ancient">Cirtenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC54"><!--*ILAlg 1.134; ILS 5976; CIL 8.17407; CIL 8.10838.-->
+      <head>DOC54: <bibl type="preferred">ILAlg 1.134</bibl>; <bibl>ILS 5976</bibl>; <bibl>CIL 8.17407</bibl>; <bibl>CIL 8.10838</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>P(---) Hipp(oniensium)
+            <lb/>
+            <lb break="no"/>Cirtensium</ab>
+      </div>
+      <div type="translation">
+         <p>(Public? land) of the <placeName type="ancient">Hipponienses </placeName>// (Public? land) of
+                the <placeName type="ancient">Cirtenses.</placeName>
+         </p>
+      </div>
+   </div>
+</div>

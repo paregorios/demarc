@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST108">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Casting a Spell on the Governor in <placeName type="ancient">Hispania</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 7</bibl>
+   </p>
+   <p>Date(s): <date>first century AD?</date>
+   </p>
+   <p>
+      <seg type="instance-description">Three lead tablets, inscribed in Latin on both sides and recovered from separate funerary vases near <placeName type="ancient">Emporion</placeName> (mod. Empúries in <placeName type="modern">Spain</placeName>), provide testimony for a <hi rend="bold">possible boundary dispute</hi> between two local peoples, the <placeName type="ancient">Indicetani</placeName> and the <placeName type="ancient">Olossitani</placeName>.</seg>
+   </p>
+   <p>The coincidence of these two otherwise rare ethnic names<note n="292" xml:id="ftn292"> For the <placeName type="ancient">Olossitani</placeName>, see Lamboglia 1959. I have been unable to find any published information about the <placeName type="ancient">Indicetani</placeName>, either primary or secondary, despite assertions by the editors of IRC that they are “well known from the inscriptions.”  </note> in what is clearly a Roman judicial context has led most commentators to assume that a boundary dispute occasioned the creation and deposition of these tablets; however, there is no internal evidence to support this assumption.<note n="293" xml:id="ftn293"> This has led to a variety of speculative efforts at dating the inscriptions (which, as for most such deposits, must be later than the Augustan era data for the funerary vases). This in turn has led some commentators to connect the putative boundary dispute with a hypothetical reorganization of <placeName type="ancient">Emporion’s </placeName>territory following on from its promotion to the status of <foreign xml:lang="la">municipium</foreign>under the Flavian emperors. Such learned speculation, although valuable, is not directly germane to the purpose of this work, and so readers are referred to the cited editions for details. </note> The altercation could have concerned any conceivable grievance between two peoples, although we may consider a boundary or other land dispute as significantly likely.<note n="294" xml:id="ftn294"> I am aware of only one other such tablet that mentions a Roman governor, one <persName>Theodoros</persName>, governor of <placeName type="ancient">Cyprus</placeName>, although the context appears to have been a civil case involving two individuals (Gager 1992, 136-137 no. 46). Separately, I am aware of only one extant imprecation that mentions boundaries specifically, an inscribed curse on a statue base erected by the second century AD builder of a bath complex in <placeName type="ancient">Chalcis</placeName>. The curse aims to deter subsequent owners of the property from removing the statue or infringing upon a demarcated area surrounding it (Gager 1992, 184-185 no. 86).  </note>
+   </p>
+   <p>These tablets are usually described as <foreign xml:lang="la">tabellae defixiones</foreign> or curse tablets, but it is probably more helpful to speak of them as the surviving physical elements of a binding spell evidently cast in an effort to prevent injustice in the legal proceedings.<note n="295" xml:id="ftn295"> A good descriptive overview of such inscribed objects and the various types of effects for which they were employed – including a critique of past scholarly approaches (with references) – may be found in Gager 1992, 3-30, together with the introduction to his selection of legal texts on pages 116-122. Note, however, the corrective provided by Vine 1993. On the “judicial curse,” intended not for revenge but to influence the trial itself, see also Faraone 1991a, 15. </note> Two of the three tablets (Texts <ref target="ddoc:363">
+         <bibl>
+            <biblScope>30.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>and <ref target="ddoc:176">
+         <bibl>
+            <biblScope>30.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) carry texts consisting entirely of somewhat repetitive lists of individuals and groups in the nominative case, with some genitive dependencies.<note n="296" xml:id="ftn296"> Repetition, iteration and enumeration are not uncommon features of such spells.  </note> The third tablet (Text <ref target="ddoc:364">
+         <bibl>
+            <biblScope>30.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) is similar, and similarly repetitive, but includes at the end of one side an optative subjunctive construction that would appear to take all the nominatives in the list as its subject and thus reveal to us the principal aim of the spell: <foreign xml:lang="la">inique ne int[er]sint</foreign>, which I take to mean “may they not participate (in the trial) unjustly.”<note n="297" xml:id="ftn297"> The evident goal of many surviving spells that can be connected to Greek or Roman judicial proceedings was to prevent one’s opponents from speaking effectively at trial (Gager 1992, 118-119 and 132-136 no. 45), whereas this spell seems merely to seek the prevention of injustice (see Instance <ref target="#INST166">
+            <bibl>
+               <biblScope>11</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> for a case in which a member of a governor’s <foreign xml:lang="la">consilium </foreign>was prepared to take a bribe in return for his influence in a boundary dispute, perhaps just the sort of situation that our spell’s commissioner here sought to prevent). On the use of wish formulae in binding spells, and the deployment of such spells as defensive measures, see Faraone 1991a, 5 and 9. </note> This interpretation is reinforced by the preceding phrase, in the nominative plural, which seems to modify either the entire list of subjects, or at least those immediately preceding the verbal clause: <foreign xml:lang="la">atve{ve}rsari mei</foreign> (my adversaries).<note n="298" xml:id="ftn298"> The translation at Gager 1992, 142-143 no. 52 is hopelessly inadequate and, consequently, the associated discussion unrewarding. Having decided that “the Latin is corrupt” (it is not) and having mistaken the Latin phrase <foreign xml:lang="la">consilium legati</foreign> for a nonsensical “council with jurisdiction over the <placeName type="ancient">Indicetani</placeName>” (and similarly confused variations throughout), the translator goes astray, ignoring entirely the phrase <foreign xml:lang="la">atve{ve}rsari mei </foreign>and rendering<foreign xml:lang="la"> inique ne int[er]sint</foreign> as “... oppose me unfairly ...,” which strips it of its clear hortative force. In a Roman judicial context, the word <foreign xml:lang="la">consilium</foreign> can denote nothing other than the advisory council of the presiding magistrate. In this case that connotation is made even clearer by the text’s composer, who provides us with the dependent genitive <foreign xml:lang="la">legati</foreign>. Failing to recognize such a well-documented institution as the Roman magistrate’s <foreign xml:lang="la">consilium</foreign> reveals the irresponsiblity of the volume’s editor in proclaiming that, although “we know much about the formal aspects of ancient legal culture ... for our purposes, we may safely ignore these formal matters ...” (Gager 1992, 116). </note>
+   </p>
+   <p>It is impossible in my view to ascertain who conducted or commissioned the spell and the deposition of the tablets, although the otherwise unknown <persName>Sempronius Campanus Fidentinus</persName> (the only named individual who is not clearly a Roman official) is an obvious candidate. On the other hand, it is worth noting that often curses and binding spells omitted the name of the commissioner, perhaps to avoid mistakenly catching them up in the spell’s effects. If all the individuals and groups appearing on the tablets in the nominative are meant to be taken as the subject of final clause’s verb – and are thus in agreement with the adjectival phrase <foreign xml:lang="la">atve{ve}rsari mei</foreign> – then <persName>Fidentinus</persName> cannot have been the spell’s commissioner.</p>
+   <div type="document" xml:id="DOC363"><!--IAGIL 114; *IRC 3.172; EDH HD019064. See also: Plana 1995, 99-101; AE 1955, 69 n. 222; AE 1952.122b.-->
+      <head>DOC363: <bibl>IAGIL 114</bibl>; <bibl type="preferred">IRC 3.172</bibl>; <bibl>EDH HD019064</bibl>. See also: <bibl>Plana 1995, 99-101</bibl>; <bibl>AE 1955, 69 n. 222</bibl>; <bibl>AE 1952.122b</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Fulvus legatus Au
+            <lb break="no"/>gusti Rufus legatus
+            <lb/>Augusti Maturus
+            <lb/>proqurator Augusti
+            <lb/>legati atvocati Ind[i]
+            <lb break="no"/>cetanorum
+            <lb/>
+            <lb break="no"/>Consilium Fulvi
+            <lb/>legati Olossi
+            <lb break="no"/>tani Campanus
+            <lb/>Fidentinus Augus(ti)
+            <lb/>[---]O[---]</ab>
+      </div>
+      <div type="translation">
+         <p>(side a): <persName>Fulvus</persName>, the imperial legate, <persName>Rufus</persName>, the imperial legate, <persName>Maturus</persName>, the imperial procurator, the
+                delegates and advocates of the <placeName type="ancient">Indicetani</placeName>,</p>
+         <p>(side b): the advisory council of <persName>Fulvus </persName>the legate, the <placeName type="ancient">Olossitani,</placeName>
+                <persName>Campanus Fidentinus</persName>, the imperial
+                (procurator?),</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC176"><!--IAGIL 115; *IRC 3.173; EDH HD019061. See also: Lamboglia 1959; AE 1952.122a.-->
+      <head>DOC176: <bibl>IAGIL 115</bibl>; <bibl type="preferred">IRC 3.173</bibl>; <bibl>EDH HD019061</bibl>. See also: <bibl>Lamboglia 1959</bibl>; <bibl>AE 1952.122a</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Olossita[ni]
+            <lb/>Titus Aurelius
+            <lb/>Fulvus lega
+            <lb break="no"/>tus Augusti
+            <lb/>Rufus legatus Au
+            <lb break="no"/>gus[ti]
+            <lb/>
+            <lb break="no"/>Maturus proqura
+            <lb break="no"/>tor Augusti consi
+            <lb break="no"/>lium legati
+            <lb/>legati Indiceta
+            <lb break="no"/>norum
+            <lb/>{Indicetanoru[m]}</ab>
+      </div>
+      <div type="translation">
+         <p>(side a): the <placeName type="ancient">Olossitani,</placeName>
+                <persName>Titus Aurelius Fulvus</persName>, the
+                imperial legate, <persName>Rufus</persName>, the
+                imperial legate,</p>
+         <p>(side b): <persName>Maturus</persName>, the imperial procurator, the
+                advisory council of the legate, the delegates of the <placeName type="ancient">Indicetani,</placeName>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC364"><!--IAGIL 116; *IRC 3.174; EDH HD019067. See also: AE 1955, 69 n. 222; AE 1952.122c.-->
+      <head>DOC364: <bibl>IAGIL 116</bibl>; <bibl type="preferred">IRC 3.174</bibl>; <bibl>EDH HD019067</bibl>. See also: <bibl>AE 1955, 69 n. 222</bibl>; <bibl>AE 1952.122c</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Ful]vus legatus
+            <lb/>[Aug]usti Rufus lega
+            <lb break="no"/>[tus Aug]usti Matu
+            <lb break="no"/>[rus] procurator
+            <lb/>[Aug]usti consilium
+            <lb/>legati atvoca
+            <lb break="no"/>ti Indicetano
+            <lb break="no"/>{ti Indicetano}
+            <lb/>ru[m]
+            <lb/>
+            <lb break="no"/>[Oloss]itani
+            <lb/>Sempronius
+            <lb/>Campanus Fi
+            <lb break="no"/>dentinus atve
+            <lb break="no"/>{ve}rsari
+            <lb break="no"/>mei inique
+            <lb/>ne int[er]sint.</ab>
+      </div>
+      <div type="translation">
+         <p>(side a): <persName>Fulvus</persName>, the imperial legate, <persName>Rufus</persName>, the imperial legate, <persName>Maturus</persName>, the imperial procurator, the
+                advisory council of the legate, the advocates of the <placeName type="ancient">Indicetani</placeName>,</p>
+         <p>(side b): the <placeName type="ancient">Olossitani</placeName>, <persName>Sempronius Campanus Fidentinus</persName>, my
+                adversaries, may they not participate unjustly.</p>
+      </div>
+   </div>
+</div>

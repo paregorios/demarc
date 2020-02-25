@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST158">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute Involving <placeName type="ancient">Cisimbrium</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 6</bibl>
+   </p>
+   <p>Date(s): <date>AD 84</date>
+   </p>
+   <p>
+      <seg type="instance-description">An Augustan boundary marker (<foreign xml:lang="la">terminus Augustalis</foreign>) was placed “in accordance with the verdict of the proconsul” (<foreign xml:lang="la">[ex] decreto ... proconsulis</foreign>), thereby indicating that a <hi rend="bold">boundary dispute</hi> had occurred.</seg>
+   </p>
+   <p>This <foreign xml:lang="la">terminus Augustalis </foreign>is unique in that it is the only published such stone to record the involvement of a provincial governor in its establishment. Most others record either the direct involvement of the emperor <persName type="emperor" rend="normal">Augustus</persName> himself, or do not make any indication of authority beyond that implied by their title. Further, this is one of only two that can be reliably interpreted as evidence of a dispute.  <note n="278" xml:id="ftn278"> See Instance <ref target="#INST157">
+            <bibl>
+               <biblScope>1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. The <foreign xml:lang="la">termini Augustales</foreign>constitute a special category of boundary marker. See further note <bibl>
+            <ptr target="dbib:elliott-2004"/>
+            <biblScope unit="note">220</biblScope>
+            <biblScope unit="ref-name">ftn220</biblScope>
+         </bibl>. </note> 
+   </p>
+   <p>This particular marker was placed during <persName type="emperor" rend="normal">Domitian’s</persName> tenth consulate. It demarcates territory belonging to the <placeName type="ancient">Municipium Flavium Cisimbrense</placeName>(<placeName type="ancient">Cisimbrium</placeName>, mod. <placeName type="modern">Zambra</placeName>). The dispute must have involved a boundary originally demarcated by Augustan-era markers. Only one other <foreign xml:lang="la">terminus Augustalis </foreign>can be securely dated to <persName type="emperor" rend="normal">Domitian’s</persName> reign.<note n="279" xml:id="ftn279"> CIL 2<seg type="T19">2</seg>.7.871 = ILS 5972. It separated the <placeName type="ancient">c(oloni) c(oloniae) C(laritatis) Iul(iae) Ucubitanor(um)</placeName> from the <placeName type="ancient">Aug(ustani) Emer(itenses).</placeName> 
+      </note>
+   </p>
+   <div type="document" xml:id="DOC153"><!--*EDH HD000993; CIL 2.5.302; AE 1986.334c; Stylow 1986, 295; AE 1982.544; AE 1977.440; HEp 1 (1989) 288.-->
+      <head>DOC153: <bibl type="preferred">EDH HD000993</bibl>; <bibl>CIL 2.5.302</bibl>; <bibl>AE 1986.334c</bibl>; <bibl>Stylow 1986, 295</bibl>; <bibl>AE 1982.544</bibl>; <bibl>AE 1977.440</bibl>; <bibl>HEp 1 (1989) 288</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(eratore) Domitiano Ca[es(are) Aug(usto)]
+            <lb/>Aug(usti) f(ilio) X co(n)s(ule) term[inus]
+            <lb/>Augustalis munici[pi Fla]
+            <lb break="no"/>vi Cisimbrensis [ex]
+            <lb/>decreto L(uci) Antisti [Rus]
+            <lb break="no"/>tici proco(n)s(ulis).</ab>
+      </div>
+      <div type="translation">
+         <p>When the emperor <persName type="emperor">Domitian</persName> Caesar Augustus, son of
+                Augustus was consul for the 10th time. Augustan boundary marker of the <placeName type="ancient">Municipium Flavium Cisimbrense</placeName>, in
+                accordance with the verdict of <persName>Lucius Antistius Rusticus</persName>, proconsul.</p>
+      </div>
+   </div>
+</div>

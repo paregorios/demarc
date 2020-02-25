@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST159">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Legate Appointed by Proconsul as <foreign xml:lang="la">iudex</foreign> in a Boundary Dispute in <placeName type="ancient">Macedonia</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 29</bibl>
+   </p>
+   <p>Date(s): <date>AD 114</date>
+   </p>
+   <p>
+      <seg type="instance-description">A fragmentary inscription found near mod. <placeName type="modern">Akhladha</placeName> in <placeName type="modern">Greece</placeName> attests to the settlement of a <hi rend="bold">boundary dispute</hi>.</seg>
+   </p>
+   <p>The inscription begins with a long dative phrase which includes the latter portion of <persName type="emperor" rend="normal">Trajan’s</persName> titulature as well as both consuls’ names for the year AD 114. The dative has been used here in the Greek where the ablative would have been used in Latin for a phrase dating the document.<note n="309" xml:id="ftn309"> BE 1966.239. </note> The proconsul of <placeName type="ancient">Macedonia</placeName>, <persName>Q. Annius Maximus</persName>, appoint<seg type="T6">ed</seg> an individual whose full name may have been <persName>C. Tyrannius Priscus </persName>as <foreign xml:lang="la">iudex datus </foreign>(<foreign xml:lang="grc">δοθεὶς κριτὴς</foreign>) in a boundary dispute between two peoples whose names are too badly damaged to be identified. Priscus carries the titulature of an imperial legate, but is not otherwise attested. It seems reasonable to assume that he had been assigned to the proconsul’s staff by the emperor, and that the proconsul had delegated adjudication of the case to him. P.A. MacKay’s guess that Priscus was was temporarily in the province on official duties and was asked by the proconsul to attend to this case while in transit seems unnecessarily ad hoc.<note n="310" xml:id="ftn310"> MacKay 1965, 251. </note>
+   </p>
+   <div type="document" xml:id="DOC194"><!--BE 1966.239; *EAM 181; SEG 24.486; Petsa 1996, 355-356.259; AE 1965.206; MacKay 1965. See also: Pikoulas 1999, 898.8.-->
+      <head>DOC194: <bibl>BE 1966.239</bibl>; <bibl type="preferred">EAM 181</bibl>; <bibl>SEG 24.486</bibl>; <bibl>Petsa 1996, 355-356.259</bibl>; <bibl>AE 1965.206</bibl>; <bibl>MacKay 1965</bibl>. See also: <bibl>Pikoulas 1999, 898.8</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>---
+            <lb/>[ --- Τραιανῷ --- ]
+            <lb break="no"/>ῷ [Γ]ε[ρ]μ[αν]ικ[ῷ]
+            <lb/>Δακικῷ ὑπάτ[ῳ]
+            <lb break="no"/>τὸ ἕκτον δημ[α]
+            <lb break="no"/>ρχικῆς ἐξου[σί]
+            <lb break="no"/>ας τὸ ὄ[γ]δ[οον] κα[ὶ]
+            <lb/>δέκατον [ἀ]ρχι
+            <lb break="no"/>ερεῖ μεγίστῷ
+            <lb/>πατρὶ πατρί
+            <lb break="no"/>δος Κ. Νιννί
+            <lb break="no"/>ῳ Ἅστα Π. Μα
+            <lb break="no"/>νειλίῳ Οὐοπί
+            <lb break="no"/>σκῳ ὑπάτοις Γ. Τυ
+            <lb break="no"/>ρ[α]ννιος Πρεῖσ
+            <lb break="no"/>κος πρεσβευτὴ[ς]
+            <lb/>καὶ ἀντιστράτ[η]
+            <lb break="no"/>γος δοθεὶς κρ[ι]
+            <lb break="no"/>τὴς ὑπὸ Κ. Ἀ{ι}ννί[ου]
+            <lb/>Μαξίμου ἄνθ[υ]
+            <lb break="no"/>[π]άτου μεταξὺ [ . ]
+            <lb break="no"/>[.]αιων καὶ Δεβ[ . ]
+            <lb break="no"/>[.]αιων ὅρους [ἔ]
+            <lb break="no"/>[θ]ηκα</ab>
+      </div>
+      <div type="translation">
+         <p>(Dated: when ... <persName type="emperor">Trajan </persName>... ) Germanicus Dacicus, consul
+                six times, holding the tribunician power for the eighteenth time, pontifex maximus,
+                father of the country, and when <persName>K(ouintos) Ninnios Hasta </persName>and <persName>P(oublios) Maneilios Ouopiskos </persName>were consuls, <persName>G(aios) Tyrannios Preiskos</persName>,
+                propraetorian legate, appointed as judge by <persName>K(ouintos) Annios Maximos</persName>, proconsul, between the <placeName type="ancient">...aioi</placeName> and the <placeName type="ancient">Deb...ai</placeName>, established the
+                boundaries.</p>
+      </div>
+   </div>
+</div>

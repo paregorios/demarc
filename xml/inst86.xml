@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST86">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Mopsouestia</placeName> and <placeName type="ancient">Aegae</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 46</bibl>
+   </p>
+   <p>Date(s): <date>AD 69-96?</date>
+   </p>
+   <p>
+      <seg type="instance-description">A fragmentary boundary marker attests to a <hi rend="bold">boundary dispute</hi> between the cities of <placeName type="ancient">Mopsouestia</placeName> and <placeName type="ancient">Aegae</placeName> in <placeName type="ancient">Cilicia</placeName>. Enough of the text survives for us to identify distinctive terminology that indicates a judicial context (<foreign xml:lang="la">in re praesenti</foreign> = in the present case) combined with boundary demarcation (<foreign xml:lang="la">fines ... terminavit</foreign> = he marked the boundaries).</seg>
+   </p>
+   <p>Doblhofer liberally restores the beginning of the text on the basis of other boundary markers to read: <foreign xml:lang="la">[ex auctoritate / imp(eratoris) Caesaris / Vespasiani? Aug(usti) ... </foreign>Even if he is correct, this need not mean that the emperor was directly involved.<note n="271" xml:id="ftn271"> 
+         <seg type="term">Pace</seg> AE 1966.486. </note> In lines 4 and 5, Doblhofer gives us two options for the beginning of the main clause that constitutes that remainder of the text. He must provide a nominative subject for the verb <foreign xml:lang="la">terminavit</foreign> in lines 12-13, and he must accommodate the ablative phrase of which the fragmentary titulature <foreign xml:lang="la">--- ] Asprenate C[ --- ]/ano leg(ato) pro prae(atore) provinciae Ciliciae</foreign> is the end. He gives us two options: <foreign xml:lang="la">[ ... </foreign>Name<foreign xml:lang="la"> proc(urator) Aug(usti) / decernente P(ublio)? Nonio ]</foreign> 
+      <foreign xml:lang="la">Asprenate</foreign> etc. and <foreign xml:lang="la">[ ... </foreign>Name <foreign xml:lang="la">iudex datus a P(ublio)? Nonio ] Asprenate </foreign>etc. <persName>Asprenas’</persName>identity is uncertain. He may be one of two known <foreign xml:lang="la">Nonii</foreign> attested under the reigns of <persName type="emperor" rend="normal">Vespasian</persName> and <persName type="emperor" rend="normal">Domitian</persName>, hence the date range for this text. Depending on which ablative construction we accept for the supplement, we must see <persName>Asprenas</persName>as either taking a subsidiary role (<foreign xml:lang="la">decernente</foreign>) to whoever was named as the subject of the verb <foreign xml:lang="la">terminavit</foreign>, or as the official with primary authority over the case, who then appoints a <foreign xml:lang="la">iudex</foreign> whose name is lost. I am inclined to accept the latter proposition, for there is only one other boundary marker in which <foreign xml:lang="la">decernente</foreign> is thus used.<note n="272" xml:id="ftn272"> Instance <ref target="#INST45">
+            <bibl>
+               <biblScope>53</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> In that text the proconsul judges a dispute that seems to have been delegated to him by the emperor. The verb <foreign xml:lang="la">termino</foreign> is not used. On the other hand there are several boundary texts that employ the verb <foreign xml:lang="la">termino</foreign> in the third person singular perfect as this one does.<note n="273" xml:id="ftn273"> Instances <ref target="#INST94">
+            <bibl>
+               <biblScope>64</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST109">
+            <bibl>
+               <biblScope>84</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, as well as a number of boundary markers of the bed and banks of the Tiber (e.g., EDH HD021346 = CIL 6.40867 and EDH HD021343 = CIL 6.40868). There are two other cases where the verb or verb form is supplemented and may be suspect: Instances <ref target="#INST85">
+            <bibl>
+               <biblScope>98</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST120">
+            <bibl>
+               <biblScope>82</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> In each of these cases, it is the official with final judiciary control of the case who is the subject of the sentence (one proconsul, one imperial legate and one <foreign xml:lang="la">curator alvei et riparum Tiberis et cloacarum urbis</foreign>). There is no exact parallel for a text with <foreign xml:lang="la">terminavit</foreign> in which a <foreign xml:lang="la">iudex</foreign> is mentioned, but given the fact it is the <foreign xml:lang="la">iudex</foreign> who has final judicial authority in such a case, it would be natural for his name to appear in the nominative. </p>
+   <div type="document" xml:id="DOC128"><!--*EDH HD016472; AE 1966.486; Doblhofer 1960.-->
+      <head>DOC128: <bibl type="preferred">EDH HD016472</bibl>; <bibl>AE 1966.486</bibl>; <bibl>Doblhofer 1960</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>- - - - - - - - - -
+            <lb/>P(ublio) Nonio]
+            <lb/>Asprenate C[---]
+            <lb break="no"/>ano leg(ato) pro pr(aetore)
+            <lb/>provinciae Cili
+            <lb break="no"/>ciae in re praesen
+            <lb break="no"/>ti fines inter
+            <lb/>Mopseotas et
+            <lb/>Aegenses termi
+            <lb break="no"/>navit</ab>
+      </div>
+      <div type="translation">
+         <p>... (by <persName>Publius Nonios) Asprenas C[- - -]anus</persName>, propraetorian imperial
+                legate of the province of <placeName type="ancient">Cilicia</placeName>, in the present case between the <placeName type="ancient">Mopseotae</placeName> and the <placeName type="ancient">Aegenses</placeName>, (he--not Asprenas)
+                marked the boundaries.</p>
+      </div>
+   </div>
+</div>

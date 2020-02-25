@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST115">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>The <foreign xml:lang="la">Koinon</foreign> of Thessaly Assists a Roman Proconsul</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 33</bibl>
+   </p>
+   <p>Date(s): <date>AD 11-35</date>
+   </p>
+   <p>
+      <seg type="instance-description">A <hi rend="bold">boundary dispute</hi> (<foreign xml:lang="grc">τὴν ... ὑπόθεσιν, ἣν εἶχον περὶ ὅρων</foreign>) that required a predetermination as to the area of land that belonged to each party.</seg>
+   </p>
+   <p type="treParaIndent_20_Char_20_Char">A badly damaged inscription from <placeName type="ancient">Kierion</placeName> (mod. <placeName type="modern">Pyrgos Kieriou in Greece</placeName>) would seem to be the remnants of either an inscribed civic archive (analogous to the extensive archive wall from <placeName type="ancient">Coronea</placeName>) or a more specifically focused evidentiary dossier (like the boundary stelae from <placeName type="ancient">Histria</placeName>).<note n="225" xml:id="ftn225"> See Texts <ref target="ddoc:449">
+            <bibl>
+               <biblScope>43.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> - <ref target="ddoc:451">
+            <bibl>
+               <biblScope>43.9</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and Instance <ref target="#INST21">
+            <bibl>
+               <biblScope>16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, respectively. </note> This inscription transmits to us the lacunose texts of three letters, all apparently related to a boundary dispute between the communities of <placeName type="ancient">Kierion</placeName> and <placeName type="ancient">Metropolis</placeName> (mod. <placeName type="modern">Palaiokastro Georgikon</placeName>), both situated in the fertile Thessalian plains of mainland <placeName type="modern">Greece</placeName> through which the various tributaries feeding the <placeName type="ancient">Peneios</placeName> river flow.</p>
+   <p type="treParaIndent_20_Char_20_Char">The inscription is too badly damaged to hazard a translation of the letters, but a significant amount of information can nonetheless be gleaned from it.<note n="226" xml:id="ftn226"> In the texts that follow this description, I have chosen not to reproduce the majority of the supplements printed in IG and reproduced in most subsequent editions. Many of them are wholly speculative, and sometimes give the careless reader the impression that there is more to the letter than the surviving words would indicate. I have retained those supplements that are clearly part of a formulaic phrase repeated elsewhere intact in the dossier. </note>
+   </p>
+   <p type="treParaIndent_20_Char_20_Char">The first letter (Text <ref target="ddoc:197">
+         <bibl>
+            <biblScope>2.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) is the most damaged of the three. It mentions a quarrel (l. 1), votes cast by secret ballot under oath (l. 2), and a verdict (<foreign xml:lang="grc">
+         <seg type="T2">κρίσις</seg>
+      </foreign>) resulting from the voting in which some quantity of something (presumably some measure of land) is declared to be Kierian, thirty-one measures to be Metropoleian, and five to belong to neither party (ll. 5-6).<note n="227" xml:id="ftn227"> Who might have owned or controlled the remaining land is utterly obscure. </note>
+   </p>
+   <p type="treParaIndent_20_Char_20_Char">The second letter (Text <ref target="ddoc:480">
+         <bibl>
+            <biblScope>2.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) clarifies the situation for us somewhat. It is addressed to one <persName>[ --- ]paios Sabeinos</persName>, legate of <persName type="emperor" rend="normal">Tiberius</persName> Caesar. This individual is surely <persName>C. Poppaeus Sabinus</persName>, governor of the combined provinces of <placeName type="ancient">Moesia, Achaia </placeName>and <placeName type="ancient">Macedonia</placeName>between AD 11 and 35, hence the date range for this dossier. The name of the letter’s author has not survived. He was perhaps <foreign xml:lang="grc">
+         <seg type="T2">[ --- </seg>
+      </foreign>
+      <foreign xml:lang="grc">γραμματε</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">]</seg>
+      </foreign>
+      <foreign xml:lang="grc">ὺς</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">τῶν</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">συνέδρῶν</foreign> (secretary of the <seg type="treGreekTransliterated">synedrion</seg>, the governing council of the Thessalian <seg type="treGreekTransliterated">koinon</seg>). He indicates that <persName>Sabinus</persName> had written about the boundary dispute between the <placeName type="ancient">Metropoleitai</placeName> and the (we supply on the basis of lines below) <placeName type="ancient">Kierieis</placeName> (ll. 2-3). It emerges that <persName>Sabinus’</persName> letter<note n="228" xml:id="ftn228"> This letter is not extant. It cannot be the fragmentary Text <ref target="ddoc:197">
+            <bibl>
+               <biblScope>2.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> which also mentions the detailed terms of the verdict and therefore must postdate the council’s decision. </note> had directed a judicial investigation (<foreign xml:lang="grc">
+         <seg type="T2">κρίσις</seg>
+      </foreign>) on some unspecified issues, clearly relevant to the boundary dispute, which <persName>Sabinus</persName> had discussed in person with the author in <placeName type="ancient">Aidepsos</placeName> on an earlier occasion (ll. 3-4). The author seems to say that he had put those questions to the council in <placeName type="ancient">Larissa</placeName>(?) on a particular day, that both parties had made presentations of their positions, and a verdict (<foreign xml:lang="grc">
+         <seg type="T2">κρίσις</seg>
+      </foreign>) had been reached by secret ballot under oath. The verdict seems to match that mentioned in Text <ref target="ddoc:197">
+         <bibl>
+            <biblScope>2.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>: two-hundred and ninety-(eight) measures were declared Kierieisan, (thirty)-one measures (Metropoleian), and five measures unassigned.</p>
+   <p type="treParaIndent_20_Char_20_Char">The third letter (Text <ref target="ddoc:481">
+         <bibl>
+            <biblScope>2.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) is also addressed to <persName>Sabinus</persName>, this time by an individual whose name is lost but whose title appears to have been <foreign xml:lang="grc">
+         <seg type="T2">[ --- </seg>
+      </foreign>
+      <foreign xml:lang="grc">στρατη</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">]</seg>
+      </foreign>
+      <foreign xml:lang="grc">γὸς</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Θεσσαλῶν</foreign> (general of the Thessalians). He indicates that <persName>Sabinus</persName> had written to him and to some other group of people, probably the council (ll. 2-3). He uses nearly the same phrase as Text <ref target="ddoc:480">
+         <bibl>
+            <biblScope>2.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>to say that the subject of <persName>Sabinus’</persName> letter had been the boundary dispute between the (<placeName type="ancient">Kierieis</placeName>) and the <placeName type="ancient">Metropoleitai </placeName>(l. 3). He reports the same verdict as Texts <ref target="ddoc:197">
+         <bibl>
+            <biblScope>2.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>and <ref target="ddoc:480">
+         <bibl>
+            <biblScope>2.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>, reached under oath by secret ballot, namely that two hundred ninety-eight measures were (Kierieisan), some lost number were Metropoleitan, and five (were unclaimed) (ll. 4-7). The verdict (<foreign xml:lang="grc">
+         <seg type="T2">κρίσις</seg>
+      </foreign>) is mentioned in the penultimate line, in what may be a statement of hope that the verdict will be acceptable to <persName>Sabinus</persName>.</p>
+   <p type="treParaIndent_20_Char_20_Char">These documents are important to the present study for several reasons. First, they constitute one of the earliest pieces of documentary evidence for a boundary dispute under the empire. But, according to most commentators, they reflect a pre-imperial approach to provincial boundary disputes in which a Roman magistrate (or the Senate), petitioned by the parties to an inter-civic dispute, delegated the case to another state or body for resolution.<note n="229" xml:id="ftn229"> The process of third-party arbitration was well established amongst Greek states. Rome became an increasingly active player in this system as its interests in the east expanded, although the Republican Senate frequently chose to delegate arbitrations others requested of it to third parties, often after imposing limitations on the nature of the question to be decided (Ager 1989 passim and for Rome’s role especially, pp. 26-29).  </note> None of the other boundary disputes in the imperial period demonstrates the use of third-party arbitration. A transition must have occurred from Rome’s use of third-party arbitration (so evident in Republican-era documents) to the range of procedures we see in the evidence collected here: governors using the <foreign xml:lang="la">cognitio</foreign>procedure as well as <foreign xml:lang="la">iudices dati</foreign>, and the emperor employing special legates for those cases where a governor’s jurisdiction was inadequate or superseded by his own. That Sabinus’ apparent use of third-party arbitration should be roughly contemporaneous with evidence from elsewhere showing the standard imperial approaches already in use may mark the reigns of <persName type="emperor" rend="normal">Augustus</persName> and <persName type="emperor" rend="normal">Tiberius</persName> as the transitional period.</p>
+   <p type="treParaIndent_20_Char_20_Char">A note of caution is in order, however. The letters in this dossier make it very clear that the dispute was about boundaries (<foreign xml:lang="grc">τὴν</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Κιεριέων</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">τε</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">καὶ</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Μητροπολειτῶν</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">ὑπόθεσιν</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">, </seg>
+      </foreign>
+      <foreign xml:lang="grc">ἣν</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">εἶχον</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">περὶ</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">ὅρων</foreign>
+      <seg type="T6">)</seg>. Nonetheless, the verdict of the council, reiterated in all three letters, does not seem to have addressed the location or nature of the boundaries themselves. Rather, Sabinus seems to have asked the members of the council to rule on a particular question: how much land in a particular area belonged to each party (or neither). In this light, the present dispute takes on more than a passing resemblance to two other disputes that occurred during imperial times: the protracted second-century contest between <placeName type="ancient">Coronea</placeName> and <placeName type="ancient">Thisbe</placeName> over pasturage in an alpine meadow, and a similarly lengthy case involving <placeName type="ancient">Daulis</placeName> and a private individual.<note n="230" xml:id="ftn230"> 
+         <seg type="T35"/>Instances <ref target="#INST66">
+            <bibl>
+               <biblScope>43</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST138">
+            <bibl>
+               <biblScope>42</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> In both of these cases, each of the parties was judged to have a rightful claim to a portion of a particular area. Subsequent to that decision, a survey and allocation were necessary to apportion the appropriate amounts to each party and to clearly delineate the boundaries that, evidently, could not be reconstructed with certainty from the evidence available. We can imagine, therefore, that Sabinus, upon receipt of the council’s collective opinion on apportionment, would have issued his own orders – perhaps in the form of a verdict – for the survey and marking of borders that fairly reflected each party’s share.</p>
+   <p type="treParaIndent_20_Char_20_Char">We may carry this line of speculation one step further. While it was the case that federal states in Hellenistic Greece were generally involved in most arbitrations between their members,<note n="231" xml:id="ftn231"> 
+         <seg type="T35">Ager 1989, 22-26.</seg> 
+      </note> Sabinus may have felt that the Thessalian council had particular reason to know about the relative rights of these two cities in the area in question. We cannot prove this hypothesis from the surviving evidence, but like so many other attested cases, this one may have had a long pedigree, stretching back to land distribution or another settlement, perhaps adjudicated by the council itself at an earlier date. Under circumstances like these it would have made practical sense for a busy governor to call for verification from a body whose earlier ruling one or the other party in a dispute was presenting as evidence in a case before him. </p>
+   <p type="treParaIndent_20_Char_20_Char">Whatever the circumstances of the delegation and the scope of the council’s involvement, it is clear that the authority for the resolution of the dispute lay with <persName>Sabinus</persName>. This circumstance follows the model of all of our other evidence. There is no indication that any provincial council had autonomous authority in resolving territorial disputes during the imperial age.<note n="232" xml:id="ftn232"> 
+         <seg type="T35">Burton 2000, 204.</seg> 
+      </note>
+   </p>
+   <div type="document" xml:id="DOC197"><!--IThess 1.13a; Ehrenberg 1955 321a; IG 9.2.261(I). See also: Ager 1989, 519.25.-->
+      <head>DOC197: <bibl>IThess 1.13a</bibl>; <bibl>Ehrenberg 1955 321a</bibl>; <bibl>IG 9.2.261(I)</bibl>. See also: <bibl>Ager 1989, 519.25</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[ - 16 - διαφ]έ̣ρωνται πρὸς ἀ[λλή]λας οὐ
+            <lb/>[- 18 - ]ΙΗ αἰτεῖται, ὅπως μεθ’ ὅρκου κρυφα[ί]
+            <lb break="no"/>[ως - 14 - Μη]τ̣ροπολειτῶν κρινόντων, βραβεύον
+            <lb break="no"/>[τος - 14 - τ]ε παρ’ ὑμεῖν ὀφίλοντος, καθ’ ἣν καὶ τῆς κρίς[ε]
+            <lb break="no"/>[ως - 16 - ]ν ἠνέχθησαν μεθ’ ὅρκου ψῆφοι Κιεριεῦς[ι]
+            <lb/>[διακόσιαι ἐνενήκοντα ὀκτώ, Μητρο]πολείταις τριάκοντα μία, ἄκυροι πέντε.</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC480"><!--IThess 1.13b; Ehrenberg 1955 321b; IG 9.2.261(II).-->
+      <head>DOC480: <bibl>IThess 1.13b</bibl>; <bibl>Ehrenberg 1955 321b</bibl>; <bibl>IG 9.2.261(II)</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[ vac. Γαΐῳ Ποπ]π̣αίῳ Σαβείνῳ πρεσβευτῇ Τιβερίου Καίσαρ[ος]
+            <lb/>[ - 8 - γραμματε]ὺς τῶν συνέδρων πλεῖστα χαίρειν. ἔγρα
+            <lb break="no"/>[ψας ἡμῖν τὴν Κιεριέων καὶ Μητ]ροπολειτῶν ὑπόθεσιν ἣν εἶχον περὶ ὅρων, ὅ
+            <lb break="no"/>[τι – 14 - ]Σ κρῖναι οὓς καὶ ἐδήλους μοι κατ’ ὄψιν ἐν Αἰδε
+            <lb break="no"/>[ψῷ - 14 - ἀ]ναγαγόντα προθεῖναι τὴν κρίσιν ἐν τῷ ἐνε
+            <lb break="no"/>[στηκότι – 8 - ἐν Λα]ρίσῃ συνεδρίῳ τῷ ἐν τῷ Θύῳ μηνί· συνελθόντ&lt;ω&gt;[ν]
+            <lb/>[ - 10 - τ]ὴ̣ν κρίσιν καὶ λόγων ὑπ’ αὐτῶν γενομένων, ἐνηνέ
+            <lb break="no"/>[χθαι τὰς ψήφους κρυφαίως μεθ’] ὅρκου Κιεριεῦσιν μὲν διακοσίας ἐνενήκον[τα]
+            <lb/>[ὀκτώ, Μητροπολείταις δὲ τριάκοντ]α μίαν, ἀκύρους πέντε. ταῦτα ἐπιτήδειον ἡγη
+            <lb break="no"/>[σάμεθα? - 8 - ]</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC481"><!--IThess 1.13.c; Ehrenberg 1955 321c; *IG 9.2.261.-->
+      <head>DOC481: <bibl>IThess 1.13.c</bibl>; <bibl>Ehrenberg 1955 321c</bibl>; <bibl type="preferred">IG 9.2.261</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[ --- Γαΐῳ Ποπ]παίῳ Σαβείνῳ πρεσβευτῇ Τιβερίου Καίσα[ρος]
+            <lb/>[ - 12 - στρατη]γὸς Θεσσαλῶν χαίρειν· ἔγραψας κἀμοὶ καὶ το[ῖς]
+            <lb/>[συνέδροις τὴν Κιεριέων τε καὶ] Μ̣ητροπολειτῶν ὑπόθεσιν, ἣν εἶχον περὶ ὅρων, ὅ
+            <lb break="no"/>[τι τὸ συνέδριον τὴν περὶ τούτων] διάγνωσιν ἀνέπεμψεν. γείνωσκε οὖν εἱρημ[έ]
+            <lb break="no"/>[νους τοὺς συνέδρους τοὺς ἐν τῷ Θύ]ῳ μηνὶ καὶ ἐνηνεγμένας μεθ’ ὅρκου κρυφαί
+            <lb break="no"/>[ως τὰς ψήφους Κιεριεῦσιν] μὲν διακοσίας ἐνενήκοντα ὀκτώ, Μητρ[ο]
+            <lb break="no"/>[πολείταις δὲ τριάκοντα μίαν, ἀκύρους π]έ̣ντε· ταῦτα οὖν ἐπιτήδειον ἡγης[ά]
+            <lb break="no"/>[μεθα γράψαι, ὅπως - 11 - ]ΟΝ τὸ βέβαιον ἡ κρίσις ὑπό σου λάβῃ ἐπι
+            <lb/>[ - 20 - ] vacat</ab>
+      </div>
+   </div>
+</div>

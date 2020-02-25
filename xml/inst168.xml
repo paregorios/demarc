@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST168">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Authoritative Demarcation between <placeName type="ancient">Dorylaion</placeName> and Another City</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 72</bibl>
+   </p>
+   <p>Date(s): <date>AD 117-138</date>
+   </p>
+   <p>
+      <seg type="instance-description">A fragmentary boundary marker found built into the minaret of a mosque in the modern town of <placeName type="modern">Mutalıp</placeName> in <placeName type="modern">Turkey</placeName> provides evidence for an <hi rend="bold">authoritative demarcation</hi>between the nearby city of <placeName type="ancient">Dorylaion</placeName> (mod. <placeName type="modern">Şarhüyük</placeName>), located in the province of <placeName type="ancient">Asia</placeName>, and another city whose name is mostly lost.</seg>
+   </p>
+   <p>The text indicates that the boundary markers were placed according to an order (<foreign xml:lang="grc">κατὰ κέλευσιν</foreign>
+      <seg type="T6">) of t</seg>he emperor <persName type="emperor" rend="normal">Hadrian</persName>, whose titulature is abbreviated. It is on the basis of this phrase that the inscription is dated. The placement of the markers was carried out by one <persName>C. Iulius Severus</persName>, who is styled simply as <persName type="emperor" rend="normal">Hadrian’s</persName>propraetorian legate (<foreign xml:lang="grc">διὰ ... πρεσβ(ευτοῦ) αὐτοῦ ἀντιστρατήγου</foreign>). His function in a proconsular province must be divined from other evidence, and this effort has exercised modern scholars in a process of debate that – in the absence of additional clarifying evidence – cannot be fully resolved.</p>
+   <p>In the normal course of things, we would expect to find the provincial governor handling boundary demarcations involving cities of his own province. He would accomplish this in one of two ways: by seeing to the matter himself, or by delegating it to another individual with appropriate authority (for example, a legate on his staff). If the demarcation involved a dispute, he could also delegate the judicial process to a Roman citizen (or panel thereof), acting as <foreign xml:lang="la">
+         <seg type="T6">iudex datus </seg>
+      </foreign>(a well-attested procedure modeled on the formulary process of the Roman private law). <persName>Severus </persName>is otherwise attested as “legate in <placeName type="ancient">Asia</placeName>,”<note n="489" xml:id="ftn489"> See notes <bibl>
+            <ptr target="dbib:elliott-2004"/>
+            <biblScope unit="note">492</biblScope>
+            <biblScope unit="ref-name">ftn492</biblScope>
+         </bibl> and <bibl>
+            <ptr target="dbib:elliott-2004"/>
+            <biblScope unit="note">494</biblScope>
+            <biblScope unit="ref-name">ftn494</biblScope>
+         </bibl>. </note> and this would seem to settle the matter, but for the identification of the other city mentioned on the inscription.</p>
+   <p>As is common in both the Latin and Greek boundary inscriptions, the plural ethnic name of a city’s inhabitants is used in this inscription. <foreign xml:lang="grc">Δορυλαέων </foreign>presents no problem: it is the well-attested genitive plural form of the relevant ethnic. All that remains of the genitive plural ethnic of the other city’s people is a stem and the inflected ending: <foreign xml:lang="grc">-αιεων</foreign>
+      <seg type="T6">. </seg>There seems to be room for at most one character at the beginning of line 2 before the alpha; there is also a lacuna that might admit five or six characters at the end of the preceding line, immediately following <foreign xml:lang="grc">Δορυλαέων</foreign>. The first three of these characters ought to be <foreign xml:lang="grc">καὶ</foreign>, leaving only 3 or 4 characters to complete the name. There are only two attested communities in the area whose names might be supplied here: <placeName type="ancient">Midaion </placeName>(mod. <placeName type="modern">Kütahya</placeName>, less than 30 km to the east, gen. pl. <foreign xml:lang="grc">Μιδαιέων</foreign>) and <placeName type="ancient">Nicaea </placeName>(mod. <placeName type="modern">İznik</placeName>, over 90 km to the northwest and in the province of <placeName type="ancient">Bithynia</placeName>, gen. pl. <foreign xml:lang="grc">Νικαιέων</foreign>).<note n="490" xml:id="ftn490"> The variant spelling <foreign xml:lang="grc">Μιδαιεύς </foreign>seems to be attested only by StByz s.v., <foreign xml:lang="grc">Μιδάειον</foreign>. <foreign xml:lang="grc">Νικαιεύς </foreign>is common in both ancient literature and the epigraphy. </note> The original editors rejected the possible supplement <foreign xml:lang="grc">[καὶ Μι/δ]αιέων </foreign>on the grounds that it “conflicts with ... the traces on the stone” whereas <foreign xml:lang="grc">[καὶ Νι/κ]αιέων </foreign>does not. This critical observation is not explained in more detail. Despite the fact that the findspot is very close to <placeName type="ancient">Dorylaion </placeName>and <placeName type="ancient">Medaion </placeName>is much closer than <placeName type="ancient">Nicaea</placeName>, the choice of <placeName type="ancient">Nicaea </placeName>has been followed by most modern scholars.<note n="491" xml:id="ftn491"> The only published objection is voiced more recently by Şahin 1986, 140-141 note 55, who argues cogently against the original editors’ assumption that the stone had been carried to its findspot from somewhere to the north on the watershed of the <placeName type="modern">Bozdağ </placeName>(“<seg type="treForeign">dem Grenz-Berg zwischen Nikaia und Dorylaion</seg>”). He cites the ready availability of reusable finished stone in the immediate vicinity from a number of ancient sites. Therefore, he continues, given the argument of proximity, we must rehabilitate the supplement <foreign xml:lang="grc">[καὶ Μι/δ]αιέων</foreign>. Matters are not helped by the fact that, according to Şahin, the stone cannot now be found. </note>
+   </p>
+   <p>Scholars who have accepted <placeName type="ancient">Nicaea </placeName>as the other city in this demarcation have been forced to deal with difficulties presented by <persName>Severus’ </persName>role in the matter. Apart from his identification in this inscription as an imperial legate, we also have his cursus on honorific inscriptions <seg type="T6">from </seg>
+      <placeName type="ancient">
+         <seg type="T8">Ancyra</seg>
+      </placeName>
+      <placeName type="ancient">  </placeName>(mod. <placeName type="modern">Ankara</placeName>), making him, at one time or other, <foreign xml:lang="la">curator</foreign> of <placeName type="ancient">Bithynia-Pontus </placeName>and proconsul of <placeName type="ancient">Asia</placeName>.<note n="492" xml:id="ftn492"> There are two extant copies, which differ in some minor particulars: Bosch 1967, 197.156 = IGR 4.174 = ILS 8826 and Bosch 1967, 198.157 = IGR 4.175: <foreign xml:lang="grc">πρὸς ε’ ῥάβδους πεμφθέντα εἰς Βειθυνίαν διορθωτὴν καὶ λογιστὴν ὑπὸ θεοῦ </foreign>
+         <foreign xml:lang="grc">
+            <seg type="T11">Ἁ</seg>
+         </foreign>
+         <foreign xml:lang="grc">δριανοῦ.</foreign>
+         <seg type="T8">  </seg>He is called<seg type="T7">  </seg>
+         <foreign xml:lang="grc">ἀνθύπατος Ἀσίας</foreign>
+         <seg type="T8">  </seg>only in the second inscription. The Bithynian appointment is confirmed by Cass. Dio 69.14.4. See Bosch 1967, 197-204 for extended discussion of these and other relevant texts. </note> His proconsulate can be dated securely to ca. AD 152/3 and so need not trouble us further here. Most scholars doubt that he can have conducted a boundary demarcation involving a city of <placeName type="ancient">Asia </placeName>while serving in <placeName type="ancient">Bithynia-Pontus</placeName>, for this would have undermined the authority of the proconsul of <placeName type="ancient">Asia</placeName>.<note n="493" xml:id="ftn493"> But note Robert 1940a, 321 note 2, who attributed the boundary demarcation to <persName>Severus’</persName> curatorship in <placeName type="ancient">Bithynia-Pontus</placeName> and then theorized that we have evidence here of a change in the boundary of the two provinces, incorporating <placeName type="ancient">Dorylaion </placeName>in <placeName type="ancient">Bithynia-Pontus </placeName>at this date. Contra, see Aichinger 1982, 198 note 19. </note> But a legate on the staff of the proconsul of <placeName type="ancient">Asia </placeName>whose brief was confined to that province would also seem an unlikely candidate for such a trans-provincial task, similarly undermining the authority of the governor in <placeName type="ancient">Bithynia-Pontus</placeName>. Closer inspection of the cursus inscriptions provides the solution to this problem. <persName>Severus </persName>was serving as a special legate of the emperor <persName type="emperor" rend="normal">Hadrian</persName>, in accordance with an imperial letter and <foreign xml:lang="la">mandata</foreign>.<note n="494" xml:id="ftn494"> 
+         <foreign xml:lang="grc">πρεσβεύσαντα ἐν Ἀσίαι ἐξ ἐπιστολῆς κὲ κωδικίλλων θεοῦ Ἀδριανοῦ</foreign>
+         <seg type="T7">.</seg>
+         <seg type="T8"> This</seg> is the conclusion of Aichinger 1982, 197-198.4, reiterated by Thomasson 1991, 78. See both for earlier literature and discussion. </note> These arrangements may well have attached him to the proconsul’s staff in Asia (this is undocumented), but granted him additional authority to deal with other matters. Whether this letter (or the <foreign xml:lang="la">mandata</foreign>) directly addressed the boundary issue involving <placeName type="ancient">Dorylaion </placeName>is a matter entirely of speculation. <persName>Severus’ </persName>task may have been more generally defined.</p>
+   <p>Despite the difficulties presented by this damaged inscription, our model of administrative responsibility for civic (and related) boundaries can accommodate the various possible reconstructions. If both cities involved in this demarcation lay within the province of Asia, then the proconsul could have delegated the matter to any authoritative figure he chose. If the two cities lay in different provinces, then we must accept a special imperial mission (or at least special instructions from the emperor that conferred additional authority) on Severus. It is important to remember, however, that nothing about this text guarantees that the demarcation arose from a dispute.</p>
+   <div type="document" xml:id="DOC287"><!--Aichinger 1982, 197-198.4; AE 1938.144; MAMA 5.60.-->
+      <head>DOC287: <bibl>Aichinger 1982, 197-198.4</bibl>; <bibl>AE 1938.144</bibl>; <bibl>MAMA 5.60</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[ὅρο]ι μεταξὺ Δορυλαέων [καὶ --]
+            <lb break="no"/>[-]αιέων οἱ τεθέντες κατὰ κέ
+            <lb break="no"/>λευσιν Αὐτοκράτ(ορος) Καίσ(αρος) Τραιαν(οῦ)
+            <lb/>Ἁδριανοῦ Σεβ(αστοῦ) π(ατρὸς) π(ατρίδος) διὰ Γ. Ἰουλ(ίου)
+            <lb/>Σεουήρου πρεσβ(ευτοῦ) αὐτοῦ ἀν
+            <lb break="no"/>τιστρατήγου.</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary markers between the <placeName type="ancient">Dorylaeoi </placeName>and the <placeName type="ancient">(...)aieoi</placeName>, placed according to
+                the command of the emperor Caesar Trajan <persName type="emperor">Hadrian</persName> Augustus, father of the country, through G(aius) Iulius
+                Severus, his propraetorian legate.</p>
+      </div>
+   </div>
+</div>

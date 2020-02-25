@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST144">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Salvia</placeName> and <placeName type="ancient">Stridon</placeName>
+   </head>
+   <p>Date(s): <date>AD 270-287</date>
+   </p>
+   <p>
+      <seg type="instance-description">A suspect third-century inscription from mod. <placeName type="modern">Bosnia Hercegovina</placeName>, known only from an early nineteenth century notebook copy, purports to document a verdict in a <hi rend="bold">boundary dispute</hi>, delivered by an unknown <foreign xml:lang="la">iudex datus</foreign> who had been appointed by <persName type="emperor" rend="normal">Constantius I</persName> during the latter’s service as <foreign xml:lang="la">praeses provinciae Delmaticae</foreign>.</seg>
+   </p>
+   <p>The boundary demarcated is said to have separated the territories of <placeName type="ancient">Salvia </placeName>(mod. <placeName type="modern">Halapić</placeName>) and <placeName type="ancient">Stridon</placeName> (an as-yet-unlocated settlement in <placeName type="ancient">Dalmatia</placeName>). The unusually late date, the name <persName>Valerius</persName> for <persName>Constantius</persName>, the reference to <placeName type="ancient">Stridon</placeName> (birthplace of <persName>St. Jerome</persName>) and the fact that O. Hirschfeld was unable to locate the original notes or the inscription when he was editing the text for CIL, have led many scholars to doubt the authenticity of the text.<note n="355" xml:id="ftn355"> Wilkes 1974, 267-268 no. 24 provides a detailed discussion of the modern pedigree. </note>
+   </p>
+   <p>A second, very fragmentary inscription (Text <ref target="ddoc:465">
+         <bibl>
+            <biblScope>55.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), found at <placeName type="ancient">Salona</placeName> (mod. <placeName type="modern">Solin</placeName> in <placeName type="modern">Croatia</placeName>)<note n="356" xml:id="ftn356"> A considerable distance from the reported findspot of Text <ref target="ddoc:261">
+            <bibl>
+               <biblScope>55.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, but it is unclear whether either inscription was found <seg type="term">in situ</seg>. </note> in the late nineteenth century and now also lost, may have duplicated the same text.</p>
+   <div type="document" xml:id="DOC261"><!--Wilkes 1974, 267-268 no. 24; *CIL 3.9860.-->
+      <head>DOC261: <bibl>Wilkes 1974, 267-268 no. 24</bibl>; <bibl type="preferred">CIL 3.9860</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>- - - -
+            <lb/>iu[d]ex [d]a[t]us a [F]la
+            <lb break="no"/>vio Va[ler]io Cons
+            <lb break="no"/>[t]a[nt]io [v(iro) c(larissimo)] p(raeside) p(rovinicae) [D]elm(atiae)
+            <lb/>[f]i[ne]s i[nt]e[r] Salv
+            <lb break="no"/>ia[t]as e[t] S[tr]ido[n]e[n]ses [d]e[t]e[r]m
+            <lb break="no"/>inavi[t].</ab>
+      </div>
+      <div type="translation">
+         <p>... <foreign xml:lang="la">iudex datus </foreign>by <persName>Flavius Valerius Constantius</persName>, <foreign xml:lang="la">vir clarissimus</foreign>, <foreign xml:lang="la">praeses </foreign>of the <placeName type="ancient">provincia Delmatia</placeName>, established the boundaries between the <placeName type="ancient">Salviatae </placeName>and the <placeName type="ancient">Stridonenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC465"><!--*Wilkes 1974, 264-265 no. 15; CIL 3.8716a.-->
+      <head>DOC465: <bibl type="preferred">Wilkes 1974, 264-265 no. 15</bibl>; <bibl>CIL 3.8716a</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>--- iu]de[x ---]
+            <lb/>[--- Cons]tantio V[ --- ]
+            <lb/>[ --- ]DEA[ ---</ab>
+      </div>
+   </div>
+</div>

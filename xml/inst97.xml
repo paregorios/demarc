@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST97">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>A Demarcation of the Thracian <foreign xml:lang="la">peraea</foreign> of <placeName type="ancient">Thasos</placeName>
+   </head>
+   <p>Date(s): <date>AD 101</date>
+   </p>
+   <p>
+      <seg type="instance-description">A single boundary marker discovered (not in situ) at modern Petropege in Greece (not far from the putative site of <placeName type="ancient">Akontisma</placeName>) attests to a Trajanic authoritative demarcation of a boundary “between the Thracians and the Thasians,” i.e., the boundary of <placeName type="ancient">Thasos’</placeName> well-attested <foreign xml:lang="la">peraea</foreign> on the mainland of Thrace. The inscription invokes the <foreign xml:lang="la">auctoritas</foreign> of the emperor and breaks off after the beginning of what appears to be a <foreign xml:lang="la">determinatio</foreign> or a relative statement of distance along the boundary. <placeName type="ancient">Thasos’</placeName> 
+         <foreign xml:lang="la">peraea</foreign> may have been the subject of a <hi rend="bold">boundary dispute</hi>, attested by an inscribed letter of a Thracian governor sometime between AD 69-79.<note n="473" xml:id="ftn473"> Instance <ref target="#INST112">
+               <bibl>
+                  <biblScope>18</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. </note>. There is no indication of a dispute in the present instance.</seg>
+   </p>
+   <div type="document" xml:id="DOC139"><!--*EDH HD014711; AE 1992.1533; ILGR 212; AE 1968.469. See also: Pikoulas 1999, 898.7.-->
+      <head>DOC139: <bibl type="preferred">EDH HD014711</bibl>; <bibl>AE 1992.1533</bibl>; <bibl>ILGR 212</bibl>; <bibl>AE 1968.469</bibl>. See also: <bibl>Pikoulas 1999, 898.7</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(eratore) Caesare
+            <lb/>Nerva Traiano
+            <lb/>A[u]g(usto) Germanico
+            <lb/>[I]III Articuleio Pae
+            <lb break="no"/>to co(n)s(ulibus) ex auctoritate Imp(eratoris) Caesaris
+            <lb/>Nervae Traiani Aug(usti)
+            <lb/>Germanici. Fines
+            <lb/>inter Thracas et Tha
+            <lb break="no"/>sios. Terminus secun
+            <lb break="no"/>dus. Infra vicum Rhadeloninum [ --- ]
+            <lb/>[ -------</ab>
+      </div>
+      <div type="translation">
+         <p>When the emperor Caesar Nerva <persName type="emperor">Trajan</persName> Augustus Germanicus was consul
+                for the 4th (time) and Articuleius Paetus was consul (with him). By the authority of
+                the emperor Caesar Nerva <persName type="emperor">Trajan </persName>Augustus Germanicus. Boundaries between the <placeName type="ancient">Thracae </placeName>and the <placeName type="ancient">Thasii</placeName>. <foreign xml:lang="la">Terminus </foreign>number 2. Below the <placeName type="ancient">vicus Rhadeloninus</placeName> ...</p>
+      </div>
+   </div>
+</div>

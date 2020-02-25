@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST94">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of the <foreign xml:lang="la">praedia publica</foreign> of <placeName type="ancient">Gortyn</placeName>
+   </head>
+   <p>Date(s): <date>AD 64-65</date>
+   </p>
+   <p>
+      <seg type="instance-description">Two boundary markers recovered from the area of <placeName type="ancient">Pyranthos</placeName> (mod. <placeName type="modern">Pyrathi</placeName> on <placeName type="modern">Crete</placeName>) attest to the restoration and demarcation of public land belonging to <placeName type="ancient">Gortyn</placeName> that had been occupied by private persons. The proconsul carried out this activity under the authority of the emperor and a decree of the Senate. It is unclear why the proconsul should have needed authorization to handle such a matter involving a city that fell within his provincial jurisdiction. Perhaps some of the parties occupying the lands in question asserted that they were not under his jurisdiction, therefore requiring special authorization. The involvement of the Senate is unusual for the imperial period, though standard during the Republic. It may be that this matter had antecedents in Republican-era land distributions or disputes, but that information is wholly inaccessible to us.<note n="387" xml:id="ftn387"> It is likely that this area too was involved in a major reorganization carried out under Augustus. See Instance <ref target="#INST57">
+               <bibl>
+                  <biblScope>27</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. </note> It may also be the case that the transition away from the Senate’s involvement in <hi rend="bold">boundary dispute</hi>s in the provinces was not wholly complete by this point in Nero’s reign.<note n="388" xml:id="ftn388"> Compare Instance <ref target="#INST76">
+               <bibl>
+                  <biblScope>10</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. Talbert 1984, 401-402 relates the Senate’s involvement to its own embarassment in AD 59 when it could not handle a <foreign xml:lang="la">repetundae</foreign> trial brought against L. Acilius Strabo by the people of <placeName type="ancient">Cyrenaica</placeName> because it had no knowledge of the <foreign xml:lang="la">mandata</foreign> Strabo had been given by Claudius. </note>
+      </seg>
+   </p>
+   <div type="document" xml:id="DOC134"><!--*EDH HD026658; *ICret 1.26.2; AE 1919.22.-->
+      <head>DOC134: <bibl type="preferred">EDH HD026658</bibl>; <bibl type="preferred">ICret 1.26.2</bibl>; <bibl>AE 1919.22</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctoritate
+            <lb/>Neronis Cl&lt;a&gt;udi
+            <lb/>Caesaris Aug(usti) Ger
+            <lb break="no"/>man&lt;i&gt;ci pontif(icis)
+            <lb/>maxi(mi) trib(unicia) pot(estate) XI
+            <lb/>imp(eratoris) co(n)s(ulis) IIII p(atris) p(atriae) et
+            <lb/>ex s(enatus) c(onsulto)
+            <lb/>L(ucius) Turpilius Dexter
+            <lb/>proco(n)s(ul) pr[aedia p]ublica
+            <lb/>Gortunio[rum p]leraqu
+            <lb break="no"/>e a priva[ti]s occupata
+            <lb/>res{res}t[it]uit termin
+            <lb break="no"/>avitque</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of <persName type="emperor">Nero </persName>Claudius Caesar Augustus
+                Germanicus, pontifex maximus, (holding the) tribunician power for the 11th time,
+                (saluted as) imperator, consul 4 times, father of the country, and according to a
+                decree of the Senate, <persName>Lucius Turpilius Dexter</persName>, proconsul, restored the <foreign xml:lang="la">praedia publica</foreign> of the <placeName type="ancient">Gortunii</placeName>, which had been largely
+                occupied by private persons, and put up boundary markers.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC294"><!--*ICret 1.26.3.-->
+      <head>DOC294: <bibl type="preferred">ICret 1.26.3</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auc[toritate]
+            <lb/>Neron[is Claudi]
+            <lb/>Caes[aris Aug(usti)] Ger[manici ---</ab>
+      </div>
+   </div>
+</div>

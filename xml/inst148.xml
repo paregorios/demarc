@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST148">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between the <placeName type="ancient">Barizaniates</placeName> and the <placeName type="ancient">Lizaviates</placeName>
+   </head>
+   <p>Date(s): <date>first century AD</date>
+   </p>
+   <p>
+      <seg type="instance-description">An otherwise unknown individual, most likely a first-century governor of <placeName type="ancient">Dalmatia,</placeName> appointed a <foreign xml:lang="la">iudex</foreign> to deliver a verdict (<foreign xml:lang="la">sententia</foreign>) in this <hi rend="bold">boundary dispute</hi> between two otherwise unknown peoples.</seg>
+   </p>
+   <div type="document" xml:id="DOC466"><!--*Wilkes 1974, 266 no. 20.-->
+      <head>DOC466: <bibl type="preferred">Wilkes 1974, 266 no. 20</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ --- ]V[ --- ]
+            <lb/>[ --- ]s Bassus [leg(atus) Aug(usti) pr(o) pr(aetore)]
+            <lb/>inter Barizani[ates et]
+            <lb/>Lizaviates in neg(otio)
+            <lb/>finali C(aium) Plotium Ma
+            <lb break="no"/>[xi]mum iudicare iussit
+            <lb/>[ --- ]A p[ra]ecepit ut
+            <lb/>[diceret se]ntentiam
+            <lb/>[de ponendis ter]minis.</ab>
+      </div>
+      <div type="translation">
+         <p>... ]<persName>s Bassus </persName>(propraetorian imperial legate) ordered <persName>Caius Plotius Maximus </persName>to make a judgment
+                in the boundary matter between the <placeName type="ancient">Barizaniates </placeName>and the <placeName type="ancient">Lizaviates</placeName> ... and instructed that he should deliver a verdict
+                concerning the placement of boundary markers.</p>
+      </div>
+   </div>
+</div>

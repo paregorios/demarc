@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST46">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Possible Boundary Dispute between the <placeName type="ancient">Thabborenses</placeName> and the <placeName type="ancient">Thimisuenses</placeName>
+   </head>
+   <p>Date(s): <date>uncertain date</date>
+   </p>
+   <p>
+      <seg type="instance-description">A single boundary marker from the area of <placeName type="ancient">Thimisua</placeName> (mod. Sidi-Bou-Argoub in Tunisia) records a demarcation, effected by a centurion, between the <placeName type="ancient">Thimisuenses</placeName> and the people of <placeName type="ancient">Thabbora</placeName> (mod. Henchir-Tambra). The boundary marker was placed in accordance with a map: <foreign xml:lang="la">posit[us secun]dum formam</foreign>. It would appear that the word <foreign xml:lang="la">formam</foreign> was modified by a trailing adjective, of which a partial stem and the inflected ending is all that remains: <foreign xml:lang="la">formam [ - ca. 3 -]tianam</foreign>. Mommsen supplemented <foreign xml:lang="la">[Mar]tianam</foreign>, but offered no justification. It is reasonable to assume that, whatever the missing characters, the adjective in question corresponded to the name of the person under whose responsibility in the map was prepared.<note n="357" xml:id="ftn357"> Compare Instance <ref target="#INST156">
+               <bibl>
+                  <biblScope>31</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref> where an imperial legate in Dalmatia restored something “according to Dolabella’s map:” <foreign xml:lang="la">[s]ecundum formam Dolabellianam</foreign>. </note> The consultation of a map probably marks this demarcation as a restoration or a dispute as well, if the map was an earlier one. Pre-existing <foreign xml:lang="la">formae</foreign> are consulted in six other instances.<note n="358" xml:id="ftn358"> Instances <ref target="#INST62">
+               <bibl>
+                  <biblScope>22</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>, <ref target="#INST103">
+               <bibl>
+                  <biblScope>67</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>, <ref target="#INST8">
+               <bibl>
+                  <biblScope>87</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>, <ref target="#INST21">
+               <bibl>
+                  <biblScope>16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>, <ref target="#INST156">
+               <bibl>
+                  <biblScope>31</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref> and <ref target="#INST59">
+               <bibl>
+                  <biblScope>66</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. </note> No instances list contemporaneous <foreign xml:lang="la">formae</foreign>.</seg>
+   </p>
+   <div type="document" xml:id="DOC58"><!--EDH HD022250; *CIL 8.23910; AE 1898.42.-->
+      <head>DOC58: <bibl>EDH HD022250</bibl>; <bibl type="preferred">CIL 8.23910</bibl>; <bibl>AE 1898.42</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[--- termi]
+            <lb break="no"/>nus posit[us secun]
+            <lb break="no"/>dum formam [Mar?]
+            <lb break="no"/>tianam per P(ublium) [.]e[.]lium Se[ --]
+            <lb break="no"/>minum (centurionem) coh(ortis) XIII urb(anae). Inter
+            <lb/>Thabborenses et Themisu[enses].</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary marker placed, according to the map of
+                    <persName>Martianus(?)</persName>, through
+                    <persName>Publius Aelius(?) Se[---]minus</persName>, centurion of <placeName type="ancient">Cohors Urbana XIII </placeName>between the <placeName type="ancient">Thabborenses </placeName>and the <placeName type="ancient">Thimisuenses</placeName>.</p>
+      </div>
+   </div>
+</div>

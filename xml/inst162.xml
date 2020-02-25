@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST162">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between the <placeName type="ancient">Tiktaenoi</placeName> and the <placeName type="ancient">Sporenoi</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 42</bibl>
+   </p>
+   <p>Date(s): <date>AD 253-260?</date>
+   </p>
+   <p>
+      <seg type="instance-description">A boundary marker found at modern <placeName type="modern">Girey Pazarı</placeName>
+         <note n="351" xml:id="ftn351"> Near the village of <placeName type="modern">Karadiğin</placeName>, now <placeName type="modern">Akdiğin</placeName>, in the district of <placeName type="modern">Kütahya</placeName> 
+         </note> in <placeName type="modern">Turkey</placeName>
+         <note n="352" xml:id="ftn352"> French 1991, 57 s.v. “KÜTAHYA” contra Christol 1982, 24. </note> provides evidence for a <hi rend="bold">boundary dispute</hi> between two communities hitherto unlocatable, and may be dated to the latter part of the third century.</seg>
+   </p>
+   <p>
+      <seg type="T31">Neither of the Roman officials mentioned can be securely identified. The date is provided by the mention of multiple emperors and by other evidence for the creation of the short-lived province of </seg>
+      <placeName type="ancient">
+         <seg type="T31">Phrygia et Caria, </seg>
+      </placeName>
+      <seg type="T31">ca. AD 250-260.</seg>
+      <seg type="T31">
+         <note n="353" xml:id="ftn353"> Christol 1982, 34-42 with detailed notes and references. </note>
+      </seg>
+      <seg type="T31"> Because Iulius Iulianus, the procurator mentioned in the inscription, is said to govern “the Phrygian and Carian parts (of </seg>
+      <placeName type="ancient">
+         <seg type="T31">Asia</seg>
+      </placeName>
+      <seg type="T31">),” we assume this inscription dates to shortly before its constitution as a separate province. The </seg>
+      <seg type="treGreekTransliterated">
+         <seg type="T31">Sebastoi</seg>
+      </seg>
+      <seg type="T31"> are therefore probably </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Valerian</seg>
+      </persName>
+      <seg type="T31"> and </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Mareades </seg>
+      </persName>
+      <seg type="T31">who, in any case, do not seem to have had any personal involvement in this case. They are only mentioned as part of </seg>
+      <persName>
+         <seg type="T31">Iulianus’</seg>
+      </persName>
+      <seg type="T31"> titulature. We deduce a boundary dispute at the root of this demarcation by virtue of </seg>
+      <persName>
+         <seg type="T31">Dionysios’</seg>
+      </persName>
+      <seg type="T31"> emphasis on a personal inspection of the </seg>
+      <seg type="treGreekTransliterated">
+         <seg type="T31">topoi</seg>
+      </seg>
+      <seg type="T31">. </seg>
+      <persName>
+         <seg type="T31">Iulianus’</seg>
+      </persName>
+      <seg type="T31"> directive to </seg>
+      <persName>
+         <seg type="T31">Dionysios</seg>
+      </persName>
+      <seg type="T31">(</seg>
+      <foreign xml:lang="grc">κατὰ</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">τὴν</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">κέλευσιν</foreign>
+      <seg type="T31">) would then seem to indicate not simply an order to emplace boundaries, but the delegation of judicial responsibility for resolving the boundary dispute. </seg>
+      <persName>
+         <seg type="T31">Dionysios</seg>
+      </persName>
+      <seg type="T31"> was therefore acting as a </seg>
+      <foreign xml:lang="la">
+         <seg type="T31">iudex datus </seg>
+      </foreign>
+      <seg type="T31">of a procuratorial (virtual) governor of the (virtual) province.</seg>
+   </p>
+   <div type="document" xml:id="DOC207"><!--French 1991, 57 s.v. ”KÜTAHYA”; AE 1982.896; SEG 32.1287; *Christol 1982. See also: SEG 41.1238.-->
+      <head>DOC207: <bibl>French 1991, 57 s.v. ”KÜTAHYA”</bibl>; <bibl>AE 1982.896</bibl>; <bibl>SEG 32.1287</bibl>; <bibl type="preferred">Christol 1982</bibl>. See also: <bibl>SEG 41.1238</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Εἰού(λιος) Διονύσιος
+            <lb/>ἀπὸ χιλιαρχιῶ
+            <lb break="no"/>ν, κατὰ τὴν κέλευ
+            <lb break="no"/>σιν τοῦ κρατίστου ἐπιτρόπου τῶν Σε
+            <lb break="no"/>βαστῶν Εἰουλ(ίου) Εἰου
+            <lb break="no"/>λιανοῦ διέποντος
+            <lb/>κὲ τὰ τῆς ἡγειμονίας
+            <lb/>μέρη Φρυγίας τε κὲ Καρίας,
+            <lb/>γενόμενος ἐπὶ τῶν τό
+            <lb break="no"/>πων κὲ τὴν ἀκριβίαν ἐξσε
+            <lb break="no"/>πάσας ὡροθέτησα,
+            <lb/>παρόντος κὲ γεομέ
+            <lb break="no"/>τρου Αἰλιανοῦ Ἐαρινο[ῦ]· ὅρος Τικταηνῶν κὲ Σπο
+            <lb break="no"/>ρηνῶν.</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Eioulios Dionysios</persName>, <foreign xml:lang="la">a militiis</foreign>(?),<note n="354" xml:id="ftn354"> Burton 2000 no. 42 would translate <foreign xml:lang="la">tribunus militum</foreign>. See Christol 1982 for discussion. </note> according to the order of the most excellent imperial
+                procurator <persName>Eioulios Eioulianos </persName>who manages the Phrygian and Carian parts of the province, having gone
+                to the places and examined the details, established the boundary, accompanied by the
+                surveyor <persName>Ailianos Earinos</persName>.
+                Boundary marker of the <placeName type="ancient">Tiktaenoi </placeName>and <placeName type="ancient">Sporenoi</placeName>. </p>
+      </div>
+   </div>
+</div>

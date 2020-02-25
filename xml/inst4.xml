@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST4">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Demarcations between the <placeName type="ancient">Musulamii</placeName> and their neighbors</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 55, 79, 80, 81, 82 and 85</bibl>
+   </p>
+   <p>Date(s): <date>AD 102-117</date>
+   </p>
+   <p>
+      <seg type="instance-description">These boundary markers carry texts recording <hi rend="bold">authoritative demarcation</hi>s, but cannot be certainly categorized as disputes.</seg>
+   </p>
+   <p>Between the years AD 105 and AD 116/117, the <placeName type="ancient">Musulamii </placeName>are on record as involved in at least seven different boundary demarcations in <placeName type="modern">North Africa</placeName>.<note n="474" xml:id="ftn474"> The discovery of yet another boundary marker was evidently announced at the 15th international conference <foreign rend="italic">L’Africa Romana</foreign>, held in Tozeur, 11-15 December 2002. One hopes it will appear in the conference volume: N. Kallala, “Une nouvelle borne de délimitation du territoire des Musulames.” Other papers were also scheduled that may bear on the topic of this dissertation, e.g., A. M’charek, “Aspects de la colonisation flavienne dans le territoire musulame,” P. López-Felpeto, “Organización territorial romana en communidades indígenas: algunos ejemplos africanos,” and G. Di Stefano, “Dai <placeName type="ancient">Nibgenii</placeName> a <placeName type="ancient">Turris Tamalleni</placeName>: Storie di confine lungo il <placeName type="ancient">limes Tripolitanus</placeName>” (<seg type="term">non vidi</seg>, pre-conference program, cf. http://www.uniss.it/africaromana/testi/programma_2002.htm). </note> The first four of these were carried out in AD 105 by the legate commanding <placeName type="ancient">legio III Augusta</placeName>, <persName>L. Minicius Natalis</persName>. At that time, he separated the territory of the <placeName type="ancient">Musulamii</placeName> from an imperial estate (Texts <ref target="ddoc:5">
+         <bibl>
+            <biblScope>89.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> and <ref target="ddoc:484">
+         <bibl>
+            <biblScope>89.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), an estate belonging to an otherwise unattested owner named <persName>Valeria Atticilla</persName> (Text <ref target="ddoc:9">
+         <bibl>
+            <biblScope>89.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), the territory of an otherwise unattested people called the <placeName type="ancient">*Tisibenenses</placeName> (Text <ref target="ddoc:11">
+         <bibl>
+            <biblScope>89.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), and the territory of the Roman colony at <placeName type="ancient">Madauros</placeName> (Text <ref target="ddoc:7">
+         <bibl>
+            <biblScope>89.5</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). All of the markers are inscribed with similar texts, invoking the emperor’s authority and recording <persName>Natalis’</persName>involvement as well as the names of the parties whose property or territory was demarcated.<note n="475" xml:id="ftn475"> A fragmentary boundary inscription found at <placeName type="ancient">Madauros</placeName> also bears the name of <persName>Natalis</persName> and seems to employ the same verbal formula, but it is not clear who owned or controlled the land from which that of the <placeName type="ancient">Madaurenses</placeName> was separated (Instance <ref target="#INST26">
+            <bibl>
+               <biblScope>90</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). </note> Whether these demarcations, each attested by a separate bilateral boundary inscription, derived from the same administrative act or legal case is unclear.</p>
+   <p>Eleven years later, a new legate in command of the legion, <persName>L. Acilius Strabo Clodius Nummus,</persName> demarcated the <placeName type="ancient">Musulamii’s</placeName> boundaries again with the same imperial estate (Text <ref target="ddoc:6">
+         <bibl>
+            <biblScope>89.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), with the territory of <placeName type="ancient">Madauros</placeName> (Text <ref target="ddoc:8">
+         <bibl>
+            <biblScope>89.7</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), with another people called the <placeName type="ancient">Bul[la]menses</placeName>, and (on a three-party boundary marker) with both the imperial estate and the territory of the Roman colony at <placeName type="ancient">Ammaedara</placeName> (Text <ref target="ddoc:72">
+         <bibl>
+            <biblScope>89.8</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). </p>
+   <p>Often cited in this context, a fragmentary inscription, datable to AD 102, may allude to the abolition of the <placeName type="ancient">Musulamii’s </placeName>traditional boundaries, or to the exile of an individual or a group beyond those boundaries (Text <ref target="ddoc:13">
+         <bibl>
+            <biblScope>89.10</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). A poorly-preserved rupestral inscription may have mentioned the <placeName type="ancient">Musulamii</placeName> and may have functioned as a boundary marker, but it is too badly damaged to be of any definitive value (Text <ref target="ddoc:345">
+         <bibl>
+            <biblScope>89.11</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>).</p>
+   <p>For years, scholars argued that markers such as these should be seen as evidence of a progressive Roman effort aimed at the ‘cantonnement’ of the <placeName type="ancient">Musulamii</placeName> (and other transhumant or semi-nomadic native peoples), concurrent with the extension of Roman military and colonial presence into the area at this period.<note n="476" xml:id="ftn476"> E.g., Bénabou 1976, 438. This confinement to an imposed territory is seen as both practical and punitive, an ongoing response to the support provided to <persName>Tacfarinas</persName> by the <placeName type="ancient">Musulamii</placeName> in his revolt under <persName type="emperor" rend="normal">Tiberius</persName>(Hitchner 1994, 32-33, cf., Instance <ref target="#INST8">
+            <bibl>
+               <biblScope>87</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). See further: Bénabou 1986, Benzinah ben Abdallah 1992 and Quinn 2003. </note> The ostensible goal: to convert uncooperative nomads into sedentary farmers by forcing them onto reservations. Since the 1970s, objections have been raised against this model. Archaeological survey and comparative methodologies have demonstrated that the <placeName type="ancient">Musulamii</placeName> were not so much a large tribe as “an amorphous alliance group which covered a region of great ecological variety ... that certainly included some agriculture before the Romans arrived.”<note n="477" xml:id="ftn477"> Whittaker 1978, 345. </note> These problems are acknowledged by E. Fentress in her influential study on <placeName type="ancient">Numidia</placeName>, but the ‘cantonnement’ model remains central to her presentation.<note n="478" xml:id="ftn478"> Fentress 1979, 72-73. </note> She does consider the possibility that disputes between indigenous communities and newer Roman owners of large <foreign xml:lang="la">latifundia</foreign> (like <persName>Valeria Aticilla</persName>) or smaller colonial holdings (e.g., veterans settled at <placeName type="ancient">Amaedara</placeName> and <placeName type="ancient">Madauros</placeName>) may have led to the legates’ intervention, but there is no explicit evidence to this effect either. Whatever degree of mixed nomadism, transhumance and settled agriculture was practiced by the various small clans that made up the <placeName type="ancient">Musulamii</placeName>before or after contact with <placeName type="modern">Rome</placeName>, the simple emplacement of authoritative boundary markers cannot be taken as punitive or as indicative of the creation of reservations.<note n="479" xml:id="ftn479"> Whittaker 1978, 345-346: “All the evidence really shows is that some of the fractions of the alliance groups were sedentary in certain obviously agricultural regions – which is precisely what could be expected.” </note> Markers bearing indistinguishable texts (apart from the names of parties and officials involved) survive from many areas where the ‘suppression of nomadism’ cannot have been an issue. </p>
+   <div type="document" xml:id="DOC5"><!--*EDH HD023444; ILAlg 1.2988; Guénin 1908, 165.1; AE 1907.19; CRAI 1906, 479.1.-->
+      <head>DOC5: <bibl type="preferred">EDH HD023444</bibl>; <bibl>ILAlg 1.2988</bibl>; <bibl>Guénin 1908, 165.1</bibl>; <bibl>AE 1907.19</bibl>; <bibl>CRAI 1906, 479.1</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[E]x auctori[tate]
+            <lb/>Imp(eratoris) Nerva(e) Traiani
+            <lb/>Caes(aris) Aug(usti) Ger(manici) Dacici
+            <lb/>L(ucius) Minicius Natalis
+            <lb/>leg(atus) Aug(usti) pro pr(aetore)
+            <lb/>inter Aug(ustum) et
+            <lb/>Musul(amios) XXXI
+            <lb/>P(---) m(ilia) p(assuum) [X]VI (et passus) DCCC</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the Emperor Nerva
+                    <persName type="emperor">Trajan </persName>Caesar Augustus
+                Germanicus Dacicus. <persName>Lucius Minicius Natalis</persName>, propraetorian imperial legate, (set the boundary) between
+                Augustus and the <placeName type="ancient">Musulamii</placeName>
+                . . .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC484"><!--Naddari 2000, ???; AE 2000.1629.-->
+      <head>DOC484: <bibl>Naddari 2000, ???</bibl>; <bibl>AE 2000.1629</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ --- inter A]ug(ustum?) et Musul[a]
+            <lb break="no"/>mios. V ad p(alum)
+            <lb/>(milia) p(edes) XXV.</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC9"><!--*EDH HD025996; ILT 1653; AE 1923.26; CRAI 1923, 72; BSAF 1923, 147-149.-->
+      <head>DOC9: <bibl type="preferred">EDH HD025996</bibl>; <bibl>ILT 1653</bibl>; <bibl>AE 1923.26</bibl>; <bibl>CRAI 1923, 72</bibl>; <bibl>BSAF 1923, 147-149</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctoritate
+            <lb/>Imp(eratoris) Nervae Traiani Caesaris
+            <lb/>Augusti Germanici Dacici pontif(icis)
+            <lb/>maximi trib(unicia) potest(ate) VIIII imp(eratoris) IIII co(n)s(ulis) V p(atris) p(atriae)
+            <lb/>L(ucius) Minicius Natalis leg(atus) Aug(usti) pr(o) pr(aetore) inter Mu
+            <lb break="no"/>sulam&lt;i&gt;os et Valeriam Atticillam
+            <lb/>LXXXX A(- - -) P(- - -) p(edes) CXVICD</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Nerva
+                    <persName type="emperor">Trajan</persName> Caesar Augustus
+                Germanicus Dacicus, pontifex maximus, (holding the) tribunician power for the 9th
+                time, (saluted as) imperator 4 times, consul 5 times, father of the country.
+                    <persName>Lucius Minicius Natalis</persName>,
+                propraetorian imperial legate (set the boundary) between the <placeName type="ancient">Musulamii</placeName> and <persName>Valeria Atticilla</persName> ...</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC11"><!--*EDH.HD023450; ILAlg 1.2978; Guénin 1908, 116-117; AE 1907.21; CRAI 1906, 479.3. See also: Desanges 1962, 138-139.-->
+      <head>DOC11: <bibl type="preferred">EDH.HD023450</bibl>; <bibl>ILAlg 1.2978</bibl>; <bibl>Guénin 1908, 116-117</bibl>; <bibl>AE 1907.21</bibl>; <bibl>CRAI 1906, 479.3</bibl>. See also: <bibl>Desanges 1962, 138-139</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[E]x auctor[itate]
+            <lb/>[I]mp(eratoris) Ner(vae) Tra[iani]
+            <lb/>Caes(aris) Aug(usti) Ger(manici) D[acici]
+            <lb/>L(ucius) Minicius Na[talis]
+            <lb/>leg(atus) Aug(usti) pro pr(aetore) [inter]
+            <lb/>Musul(amios) et Tisiben[e]
+            <lb break="no"/>nses II A(---) I[-]
+            <lb/>CCCCLXXII</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Nerva
+                    <persName type="emperor">Trajan</persName> Caesar Augustus
+                Germanicus Dacicus, <persName>Lucius Minicius Natalis</persName>, propraetorian imperial legate, (set the boundary) between
+                the <placeName type="ancient">Musulamii</placeName> and the
+                    <placeName type="ancient">*Tisibenenses</placeName>
+                ...</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC7"><!--*EDH HD031156; *EDH HD022238; ILAlg 1.2828; CIL 8.28073a; ILS 5958a; AE 1898.39a; BCTH 1896.213a; CIL 8.4676; RevSocSav 7 (1874), 327 (checking).-->
+      <head>DOC7: <bibl type="preferred">EDH HD031156</bibl>; <bibl type="preferred">EDH HD022238</bibl>; <bibl>ILAlg 1.2828</bibl>; <bibl>CIL 8.28073a</bibl>; <bibl>ILS 5958a</bibl>; <bibl>AE 1898.39a</bibl>; <bibl>BCTH 1896.213a</bibl>; <bibl>CIL 8.4676</bibl>; <bibl>RevSocSav 7 (1874), 327 (checking)</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctoritate
+            <lb/>Imp(eratoris) Nervae Traiani
+            <lb/>Caes(aris) Aug(usti) Germani
+            <lb break="no"/>ci Dacici
+            <lb/>L(ucius) Minicius Natalis
+            <lb/>leg(atus) Aug(usti) pro pr(aetore) inter
+            <lb/>Madaurenses et Musulamios</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the Emperor Nerva
+                    <persName type="emperor">Trajan </persName>Caesar Augustus
+                Germanicus Dacicus, <persName>Lucius Minicius Natalis</persName>, propraetorian imperial legate (set the boundary) between
+                the <placeName type="ancient">Madaurenses</placeName> and the
+                    <placeName type="ancient">Musulamii</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC6"><!--*EDH.HD023447; ILAlg 1.2989; Guénin 1908, 165.2; AE 1907.20; CRAI 1906, 479.2.-->
+      <head>DOC6: <bibl type="preferred">EDH.HD023447</bibl>; <bibl>ILAlg 1.2989</bibl>; <bibl>Guénin 1908, 165.2</bibl>; <bibl>AE 1907.20</bibl>; <bibl>CRAI 1906, 479.2</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auc[t]o[ritate]
+            <lb/>Imp(eratoris) Ne{ne}rv[ae Traiani]
+            <lb/>Caes(aris) Aug(usti) Ger(manici) D[acici]
+            <lb/>co(n)s(ulis) VI im[p(eratoris)] XIII
+            <lb/>L(ucius) Acilius Strabo Clod
+            <lb break="no"/>ius Nummus leg(atus) Aug(usti)
+            <lb/>pr(o) pr(aetore) inter
+            <lb/>Aug(ustum) et Musul(amios)</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the Emperor Nerva
+                    <persName type="emperor">Trajan</persName> Caesar Augustus
+                Germanicus Dacicus, consul 6 times, (saluted as) imperator 13 times. <persName>Lucius Acilius Strabo Clodius Nummus</persName>,
+                propraetorian imperial legate (set the boundary) between Augustus and the <placeName type="ancient">Musulamii</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC8"><!--*EDH HD031165; *EDH HD022241; ILAlg 1.2829; CIL 8.28073b; ILS 5958b; AE 1898.39b; BCTH 1896.213b.-->
+      <head>DOC8: <bibl type="preferred">EDH HD031165</bibl>; <bibl type="preferred">EDH HD022241</bibl>; <bibl>ILAlg 1.2829</bibl>; <bibl>CIL 8.28073b</bibl>; <bibl>ILS 5958b</bibl>; <bibl>AE 1898.39b</bibl>; <bibl>BCTH 1896.213b</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Ex au]ctori[tate]
+            <lb/>Imp(eratoris) Nervae Traiani
+            <lb/>Caes(aris) Aug(usti) Ger(manici) Dacici
+            <lb/>co(n)s(ulis) VI [i]mp(eratoris) XIII
+            <lb/>L(ucius) Acilius Strabo Cl[od]
+            <lb break="no"/>ius Nummus leg(atus) Aug(usti)
+            <lb/>pr(o) pr(aetore) inter Musul(amios)
+            <lb/>et Madaurens(es)</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the Emperor Nerva
+                    <persName type="emperor">Trajan </persName>Caesar Augustus
+                Germanicus Dacicus, consul 6 times, (saluted as) imperator 13 times. <persName>Lucius Acilius Strabo Clodius Nummus</persName>,
+                propraetorian imperial legate, (set the boundary) between the <placeName type="ancient">Musulamii</placeName> and the <placeName type="ancient">Madaurenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC72"><!--*EDH HD031168; ILAlg 1.2939bis.-->
+      <head>DOC72: <bibl type="preferred">EDH HD031168</bibl>; <bibl>ILAlg 1.2939bis</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Ex auctoritate]
+            <lb/>[Imp(eratoris) Ne]rvae Trai
+            <lb break="no"/>[a]ni Caes(aris) Aug(usti) Ger(manici)
+            <lb/>[Da]cici co(n)s(ulis) VI
+            <lb/>imp(eratoris) XIIII
+            <lb/>L(ucius) Acilius Strabo
+            <lb/>Clodius Nummus
+            <lb/>l[e]g(atus) Aug(usti) pro pr(aetore) inter
+            <lb/>Aug(ustum) et Am(ma)edere(nses)
+            <lb/>et Musul(amios)</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Nerva
+                    <persName type="emperor">Trajan</persName> Caesar Augustus
+                Germanicus Dacicus consul 6 times, (saluted as) imperator 14 times. <persName>Lucius Acilius Strabo Clodius Nummus</persName>,
+                propraetorian imperial legate (set the boundary) between Augustus and the <placeName type="ancient">Ammaedarenses</placeName> and the <placeName type="ancient">Musulamii</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC517"><!--*AE 1999.1815.-->
+      <head>DOC517: <bibl type="preferred">AE 1999.1815</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[e]xs(!) auctoritat(e)
+            <lb/>[Im]p(eratoris) Nervae Traia[ni]
+            <lb/>[Ca]es(aris) [A]ug(usti) Ger(manici) Dacic(i)
+            <lb/>[c]o(n)s(ulis) VI imp(eratoris) XIIII
+            <lb/>[L(ucius) A]cilius Strabo Clo
+            <lb break="no"/>[di]us Nummus leg(atus) A[ug(usti)]
+            <lb/>pro pr(aetore) in[t]er
+            <lb/>Musul(amios) et
+            <lb/>Bul[la]menses</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Nerva
+                    <persName type="emperor">Trajan</persName> Caesar Augustus
+                Germanicus Dacicus consul 6 times, (saluted as) imperator 14 times. <persName>Lucius Acilius Strabo Clodius Nummus</persName>,
+                propraetorian imperial legate (set the boundary) between the <placeName type="ancient">Musulamii</placeName> and the <placeName type="ancient">Bullamenses</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC13"><!--*EDH HD031141; ILAlg 1.2939; ILS 5959; CIL 8.16692; CIL 8.10667.-->
+      <head>DOC13: <bibl type="preferred">EDH HD031141</bibl>; <bibl>ILAlg 1.2939</bibl>; <bibl>ILS 5959</bibl>; <bibl>CIL 8.16692</bibl>; <bibl>CIL 8.10667</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctoritate
+            <lb/>Imp(eratoris) Caes(aris) Traiani
+            <lb/>Aug(usti) Ger(manici) Dacici
+            <lb/>L(ucius) Munatius Gallus
+            <lb/>leg(atus) pro pr(aetore)
+            <lb/>finibus Musulamior(um)
+            <lb/>[---]ectis vetustatis
+            <lb/>[---]tam abolevit</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar
+                    <persName type="emperor">Trajan</persName> Augustus Germanicus
+                Dacicus, <persName>Lucius Munatius Gallus</persName>,
+                propraetorian imperial legate, abolished (banished) ... with regard to (?) the
+                boundaries of the <placeName type="ancient">Musulamii</placeName>
+                ...</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC345"><!--*Fentress 1979, 75.15; AAA 29.59.-->
+      <head>DOC345: <bibl type="preferred">Fentress 1979, 75.15</bibl>; <bibl>AAA 29.59</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[---] Imperatore (---)iano (---)ano (---) ṂVS(---?) [---]</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC92"><!--*ILS 5964; CIL 8.20618; CIL 8.8811.-->
+      <head>DOC92: <bibl type="preferred">ILS 5964</bibl>; <bibl>CIL 8.20618</bibl>; <bibl>CIL 8.8811</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Limes
+            <lb/>agrorum a Gar
+            <lb break="no"/>gilio Goddeo dec(urione)
+            <lb/>p(ublice) p(ositus) secundum ius
+            <lb break="no"/>sionem v(iri) p(erfectissimi) Iucun
+            <lb break="no"/>di Peregrini p(raesidis) n(ostri)
+            <lb/>inter territori
+            <lb break="no"/>um Aureliese et p
+            <lb break="no"/>rivata [r]ation[e]
+            <lb/>[---]OC[---]</ab>
+      </div>
+      <div type="translation">
+         <p>Field boundary between the Aurelian(?)
+                territory and the <foreign xml:lang="la">ratio privata,</foreign>
+                publicly established(?) by Gargilius Goddeus, decurion, following the orders of
+                Iucundus Peregrinus, <foreign xml:lang="la">vir perfectissimus,</foreign> our <foreign xml:lang="la">praeses.</foreign>
+         </p>
+      </div>
+   </div>
+</div>

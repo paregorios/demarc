@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST103">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of the Boundaries of the Fields Consecrated to Diana Tifatina</head>
+   <p>Date(s): <date>AD 77 or 78</date>
+   </p>
+   <p>
+      <seg type="instance-description">The venerable sanctuary of <placeName type="ancient">Diana Tifatina</placeName> (now the modern church of <placeName type="modern">S. Angelo in Formis</placeName> in <placeName type="modern">Italy</placeName>) lay just south of the <placeName type="ancient">Volturnus</placeName> (mod. <placeName type="modern">Volturno</placeName>) river at the northwestern end of the <placeName type="ancient">Mons Tifata</placeName>. As many as five boundary markers dating to AD 77 or 78 survived the Roman period to document the restoration of boundaries defining lands and plots belonging to the temple (Texts <ref target="ddoc:492">
+            <bibl>
+               <biblScope>67.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> - <ref target="ddoc:374">
+            <bibl>
+               <biblScope>67.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). The emperor <persName type="emperor" rend="normal">Vespasian</persName> is credited with responsibility for the restoration, which was implemented on the basis of a map ascribed to the emperor <persName type="emperor" rend="normal">Augustus</persName>. The lands in question had been dedicated to the goddess originally by the dictator <persName>Sulla</persName>following a victory in the area over the consul <persName>Gaius Norbanus</persName> in 83 BC; this origin is noted on the boundary markers and confirmed by a passage in Velleius Paterculus (Text <ref target="ddoc:491">
+            <bibl>
+               <biblScope>67.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>).<note n="402" xml:id="ftn402"> Vallat 1979, 984 thinks that <persName>Sulla’s</persName>‘donation’ to Diana should be seen as part of a larger and more complex series of land distributions in <placeName type="ancient">Campania</placeName>, attested by other sources but overlooked by Velleius. </note>
+      </seg>
+   </p>
+   <p>
+      <persName type="emperor" rend="normal">Augustus’</persName> earlier involvement is obscure. It may be the case that the map was prepared in the course of resolving an earlier dispute touching on the same area.<note n="403" xml:id="ftn403"> Rigsby 1976, 321. </note> On the other hand, the restitution of temple lands has long been identified as a matter of special concern for <persName type="emperor" rend="normal">Augustus</persName>,<note n="404" xml:id="ftn404"> Moatti 1993, 37, with sources and literature. </note> as has the more general stabilization of landholding of all types.<note n="405" xml:id="ftn405"> Campbell 1996, 95-98. </note> The Augustan map could have been made in the context of more general surveys associated with dispute resolution or veteran settlements in <placeName type="ancient">Campania</placeName>, and might well have indicated pre-existing ownership of land in the area that was not disturbed (or verified) during this period.<note n="406" xml:id="ftn406"> The confiscation of land from <placeName type="ancient">Capua</placeName>for veteran settlements by <persName type="emperor" rend="normal">Augustus</persName> is documented (ILS 6308 = CIL 10.3825, cf., Campbell 1996, 94 and note 88). It was in compensation for this loss that <placeName type="ancient">Capua</placeName> received a <foreign xml:lang="la">praefectura</foreign> in <placeName type="modern">Crete</placeName>. See Instance <ref target="#INST57">
+            <bibl>
+               <biblScope>27</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> Any of these predilections or activities may have led to the creation of the map, but without more explicit testimony we cannot move beyond speculation.</p>
+   <p>The path whereby <persName type="emperor" rend="normal">Vespasian</persName> became involved in this matter is similarly unclear. Scholars generally assume that encroachment on the temple lands, either by local landholders or wealthy elites from <placeName type="modern">Rome</placeName> with landed interests in <placeName type="ancient">Campania</placeName>, led to a case before the emperor that resulted in the restoration.<note n="407" xml:id="ftn407"> Thus Rigsby 1976, 321, following Mommsen (CIL 10, 367). </note> Where we do have unequivocal evidence for direct imperial involvement in the resolution of boundary disputes, this is the pattern we see. An aggrieved party brought the case to the emperor directly (if in <placeName type="modern">Italy</placeName> or if the case spanned provincial jurisdictions), or a governor – who needed advice or had to impose a solution in the absence of adequate evidence – consulted the emperor himself. What the particulars were in this affair, or who <persName type="emperor" rend="normal">Vespasian</persName> employed to conduct local investigations and carry out the survey and emplacement of the new markers, we do not know.<note n="408" xml:id="ftn408"> The nature of the property consecrated to Diana Tifatina seems to have been different from that consecrated to Zeus Conditor at <placeName type="ancient">Aezanoi </placeName>in that Diana’s estates were worked by slave laborers under the supervision of a <foreign xml:lang="la">vilicus</foreign>(Carlsen 1994a and Carlsen 1995, 62-63). The sacred lands at <placeName type="ancient">Aezanoi</placeName>were leased for a fee. </note>
+   </p>
+   <p>In the presentation of texts below, I have followed the arguments of De Franciscis 1966, who rehabilitates two early reports of markers that were suppressed by Mommsen at CIL 10.3828 as inferior modern copies of the text he edited. At issue is some variation in the texts. Some refer to <foreign xml:lang="la">agri</foreign> dedicated to the goddess, others refer to <foreign xml:lang="la">loci</foreign>. Both words are now securely attested on markers excavated in the 20th century. De Franciscis 1966, 245 considers two possible explanations, neither entirely satisfying, for the <seg type="term">variatio</seg>: perhaps <foreign xml:lang="la">loci</foreign> refer to parcels of land in mountainous terrain and <foreign xml:lang="la">agri</foreign> to cultivable fields in the plain, or perhaps <foreign xml:lang="la">loci</foreign> designate “<seg type="treForeign">l’area sacra, il temenos</seg>” and <foreign xml:lang="la">agri</foreign> the agricultural area. Absent the discovery of more markers, securely <seg type="term">in situ</seg>, we will be unable to move beyond speculation here.</p>
+   <div type="document" xml:id="DOC491"><!--*Vell. Pat. 2.25.-->
+      <head>DOC491: <bibl type="preferred">Vell. Pat. 2.25</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Post uictoriam, namque ascendens montem Tifata cum C. Norbano concurrerat, Sulla gratis Dianae, cuius numini regio illa sacrata est, soluit; aquas salubritate medendisque corporibus nobiles agrosque omnes addixit deae. Huius gratae religionis memoriam et inscriptio templi adfixa posti hodieque &lt;et&gt; tabula testatur aerea intra aedem.</ab>
+      </div>
+      <div type="translation">
+         <p>After the victory (for, while ascending the
+                    <placeName type="ancient">Mons Tifata</placeName> he had
+                clashed with <persName>Gaius Norbanus</persName>)
+                    <persName>Sulla</persName> paid his debt to Diana
+                to whose <foreign xml:lang="la">numen</foreign> that region is
+                sacred; he assigned the waters (famed for their wholesomeness and healing
+                properties) as well as all the fields to the goddess. As a memorial to this pleasing
+                piety, an inscription affixed to the doorpost of the temple and a bronze tablet
+                inside the structure still today give witness.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC492"><!--De Franciscis 1966, 242.1.-->
+      <head>DOC492: <bibl>De Franciscis 1966, 242.1</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar
+            <lb/>Vespasianus
+            <lb/>Aug(ustus) co(n)s(ul) VIII
+            <lb/>fines locorum dicator(um)
+            <lb/>Dianae Tifatinae
+            <lb/>[a] Cornelio Sulla ex
+            <lb/>forma divi Aug(usti)
+            <lb/>restituit</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar <persName type="emperor">Vespasian </persName>Augustus, consul 8 times,
+                restored the boundaries of the sites consecrated to Diana Tifatina by <persName>Cornelius Sulla</persName> according to the map of
+                the god <persName type="emperor">Augustus</persName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC493"><!--*De Franciscis 1966, 243.2; Pratilli 1745, 281 (non vidi).-->
+      <head>DOC493: <bibl type="preferred">De Franciscis 1966, 243.2</bibl>; <bibl>Pratilli 1745, 281 (non vidi)</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar
+            <lb/>Vespasianus
+            <lb/>Aug(ustus) co(n)s(ul) VIII
+            <lb/>fines locorum dicator(um)
+            <lb/>Dianae Tifatinae
+            <lb/>a Cornelio Sulla ex
+            <lb/>forma divi Augusti
+            <lb/>restituit</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC375"><!--EDH HD028942; *De Franciscis 1966, 243.3; ILS 3240; AE 1894.146.-->
+      <head>DOC375: <bibl>EDH HD028942</bibl>; <bibl type="preferred">De Franciscis 1966, 243.3</bibl>; <bibl>ILS 3240</bibl>; <bibl>AE 1894.146</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(top:) P(raedia) D(ianae) T(ifatinae)</ab>
+      </div>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(face:) Imp(erator) Caesar
+            <lb/>Vespasianus Aug(ustus)
+            <lb/>co(n)s(ul) VIII fines locor(um)
+            <lb/>dicatorum Dianae
+            <lb/>Tifat(inae) a Cornelio Sulla
+            <lb/>ex forma divi Aug(usti)
+            <lb/>restituit</ab>
+      </div>
+      <div type="translation">
+         <p>The Estates of Diana Tifatina. The emperor
+                Caesar <persName type="emperor">Vespasian </persName>Augustus,
+                consul 8 times, restored the boundaries of the sites consecrated to Diana Tifatina
+                by <persName>Cornelius Sulla</persName> according to
+                the map of the god <persName type="emperor">Augustus</persName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC169"><!--*De Franciscis 1966, 243.4; ILS 251; CIL 10.3828.-->
+      <head>DOC169: <bibl type="preferred">De Franciscis 1966, 243.4</bibl>; <bibl>ILS 251</bibl>; <bibl>CIL 10.3828</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar
+            <lb/>Vespasianus
+            <lb/>Aug(ustus) co(n)s(ul) VIII
+            <lb/>fines agrorum
+            <lb/>dicatorum
+            <lb/>Dianae Tifat(inae) a
+            <lb/>Cornelio Sulla
+            <lb/>ex forma divi
+            <lb/>Aug(usti) restituit</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar <persName type="emperor">Vespasian </persName>Augustus, consul 8 times,
+                restored the boundaries of the fields consecrated to Diana Tifatina by <persName>Cornelius Sulla</persName> according to the map of
+                the god <persName type="emperor">Augustus</persName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC374"><!--*EDH HD010504; AE 1971.80; De Franciscis 1966, 244.5.-->
+      <head>DOC374: <bibl type="preferred">EDH HD010504</bibl>; <bibl>AE 1971.80</bibl>; <bibl>De Franciscis 1966, 244.5</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(top:) P(raedia) D(ianae) T(ifatinae)</ab>
+      </div>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(face:) Imp(erator) Caesar
+            <lb/>Vespasianus
+            <lb/>Aug(ustus) co(n)s(ul) VIII
+            <lb/>fines agror(um)
+            <lb/>dicatorum
+            <lb/>Dianae Tifat(inae)
+            <lb/>a Cornelio Sulla
+            <lb/>ex forma divi
+            <lb/>Aug(usti) restituit</ab>
+      </div>
+      <div type="translation">
+         <p>The Estates of Diana Tifatina. The emperor
+                Caesar <persName type="emperor">Vespasian </persName>Augustus,
+                consul 8 times, restored the boundaries of the fields consecrated to Diana Tifatina
+                by <persName>Cornelius Sulla</persName> according to
+                the map of the god <persName type="emperor">Augustus</persName>.</p>
+      </div>
+   </div>
+</div>

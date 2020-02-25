@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST17">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of Boundaries or Boundary Markers between <placeName type="ancient">Corinium</placeName> and <placeName type="ancient">Nedinum</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 9 and 16</bibl>
+   </p>
+   <p>Date(s): <date>AD 14-20, restored between AD 62-68</date>
+   </p>
+   <p>
+      <seg type="instance-description">The epigraphic record of <placeName type="ancient">Dalmatia</placeName> preserves several texts relating to the territorial boundary between <placeName type="ancient">Nedinum</placeName> (mod. <placeName type="modern">Nadin</placeName> in <placeName type="modern">Croatia</placeName>) and <placeName type="ancient">Corinium</placeName> (mod. <placeName type="modern">Karin</placeName>). Despite problems in the modern transmission and publication of these texts, we can be confident in identifying here a restoration of boundaries or boundary markers (<foreign xml:lang="la">restituti</foreign> with no antecedent expressed) that had been established according to the edict of an earlier governor.</seg>
+   </p>
+   <p>The two most complete texts date to the tenure of <persName>A. Ducenius Geminus</persName>, who served as governor sometime between AD 62 and 68. One of these texts (Text <ref target="ddoc:178">
+         <bibl>
+            <biblScope>3.5</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) was found at <placeName type="modern">Popović</placeName> (<placeName type="modern">Benkovac</placeName>). It records the restoration of at least a portion of the boundary as previously demarcated according to an edict of the governor <persName>P. Cornelius Dolabella</persName> (c. AD 14-20).<note n="233" xml:id="ftn233"> On the use of an edict, see page <bibl>
+            <biblScope type="page">30</biblScope> (<title type="short">Elliott 2004</title>)</bibl>. </note>
+   </p>
+   <p>Another text, preserved only in a Renaissance manuscript, apparently also records Geminus’ use of the same two centurions to establish boundaries between <placeName type="ancient">Nedinum </placeName>and <placeName type="ancient">Corinium</placeName>, but makes no mention of <persName>Dolabella’s</persName> earlier ruling (Text <ref target="ddoc:463">
+         <bibl>
+            <biblScope>3.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). There is some uncertainty on the part of modern scholars as to whether this reported document should be connected to a fragmentary version of what appears to be the same text, discovered in <placeName type="modern">Pridraga (Zadar)</placeName>. It was first published in 1902 and was still extant as late as the 1970s (Text <ref target="ddoc:181">
+         <bibl>
+            <biblScope>3.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). If we accept the manuscript testimony as accurate (the extant inscribed document does not preserve the names of the parties to the dispute), then the omission of any mention of <persName>Dolabella’s</persName> earlier demarcation seems odd. Did <persName>Dolabella</persName> resolve a dispute between the two cities regarding only a portion of their common border, or had some subsequent activity rendered his decision obsolete for a portion of the boundary? The second text does indicate that new measurements of some kind were required under <persName>Geminus</persName>; there is no such mention of direct survey in the first text. It is of course equally possible that the manuscript version incorporates antiquarian embellishment on the preserved text now at <placeName type="modern">Pridraga</placeName>, and the text should be seen as representing a different settlement involving the same Roman personnel, but between two parties whose names are irrevocably lost, and who may have been one or the other, or neither of the <placeName type="ancient">Neditae</placeName> and the <placeName type="ancient">Corinienses</placeName>.</p>
+   <p>Two other inscriptions, one fragmentary and the other laconic, are often cited together with the decisions of <persName>Geminus</persName>, but there is no certainty that they are related to this incident (Texts <ref target="ddoc:312">
+         <bibl>
+            <biblScope>3.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>and <ref target="ddoc:461">
+         <bibl>
+            <biblScope>3.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). Neither one provides any useful information about Roman administrative practice with respect to boundary disputes.</p>
+   <div type="document" xml:id="DOC463"><!--*Wilkes 1974, 260 no. 7; CIL 3.2883.-->
+      <head>DOC463: <bibl type="preferred">Wilkes 1974, 260 no. 7</bibl>; <bibl>CIL 3.2883</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Fin[i]s inter Neditas et Corinienses
+            <lb/>derectus mensuris actis iussu
+            <lb/>[A(uli) Du]ceni Gemini leg(ati) per A(ulum) Resium
+            <lb/>Maximum (centurionem) legionis XI principem
+            <lb/>posteriorem c(oh)o[r(tis)] I et per [Q(uintum)] A[e]butium
+            <lb/>Liberalem (centurionem) eiusdem leg(ionis) (h)astatum
+            <lb/>posteriorem c(o)hor(tis) I.</ab>
+      </div>
+      <div type="translation">
+         <p>The boundary between the <placeName type="ancient">Neditae</placeName> and the <placeName type="ancient">Corinienses</placeName> drawn, measurements
+                having been made, by order of <persName>Aulus Ducenius Geminus</persName>, legate, through <persName>Aulus Resius Maximus</persName>, centurion of <placeName type="ancient">Legio XI</placeName>, <foreign xml:lang="la">princeps posterior</foreign> of Cohors I and
+                through <persName>Quintus Aebutius Liberalis</persName>, centurion of the same legion, <foreign xml:lang="la">hastatus posterior</foreign> of Cohors I.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC181"><!--*ILJug 3.2879; Wilkes 1974, 260-262 no. 8; CIL 3.15045/2.-->
+      <head>DOC181: <bibl type="preferred">ILJug 3.2879</bibl>; <bibl>Wilkes 1974, 260-262 no. 8</bibl>; <bibl>CIL 3.15045/2</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>-]
+            <lb/>[iussu A. Duceni Gem]ini [leg(ati)]
+            <lb/>per A. Resium [Maximum (centurionem)]
+            <lb/>[le]g(ionis) XI prin(cipem) pos[terio]
+            <lb break="no"/>rem c(o)hor(tis) I et Q. [Ae]
+            <lb break="no"/>butium Liberal[em]
+            <lb/>(centurionem) leg(ionis) eiusdem (h)a[sta]
+            <lb break="no"/>[t]um posteriorem.</ab>
+      </div>
+      <div type="translation">
+         <p>... by order of <persName>Aulus Ducenius Geminus</persName>, legate, through
+                    <persName>Aulus Resius Maximus</persName>,
+                centurion of <foreign xml:lang="la">Legio XI</foreign>, <foreign xml:lang="la">princeps posterior</foreign> of <foreign xml:lang="la">Cohors I</foreign> and <persName>Quintus Aebutius Liberalis</persName>, centurion of
+                the same legion, <foreign xml:lang="la">hastatus posterior</foreign>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC461"><!--*ILJug 3.2866; Wilkes 1974, 260 no. 5.-->
+      <head>DOC461: <bibl type="preferred">ILJug 3.2866</bibl>; <bibl>Wilkes 1974, 260 no. 5</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>finis Nediti</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary of the <placeName type="ancient">Nediti</placeName>(?).</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC312"><!--*ILJug 3.2867.-->
+      <head>DOC312: <bibl type="preferred">ILJug 3.2867</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>------
+            <lb/>leg. Aug. [ --- ]
+            <lb/>Neditụ[ --- ]
+            <lb/>------</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC178"><!--*ILJug 3.2871; Wilkes 1974, 260 no. 6; ILS 5953; Betz 1938, 30 n. 1 and 32 n. 7; CIL 3.9973 + p. 2273.-->
+      <head>DOC178: <bibl type="preferred">ILJug 3.2871</bibl>; <bibl>Wilkes 1974, 260 no. 6</bibl>; <bibl>ILS 5953</bibl>; <bibl>Betz 1938, 30 n. 1 and 32 n. 7</bibl>; <bibl>CIL 3.9973 + p. 2273</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[E]x edictu (!) P. Cor
+            <lb break="no"/>neli Dolabele (!) leg(ati)
+            <lb/>pro praetore determinav[it]
+            <lb/>S. Titius Geminus
+            <lb/>pri(nceps) posterior leg(ionis)
+            <lb/>VII inter Neditas
+            <lb/>et Corinienses
+            <lb/>restituti iussu A.
+            <lb/>Duceni Gemini
+            <lb/>leg(ati) Augusti pr(o) p[r(aetore)]
+            <lb/>per A. Resium [M]a
+            <lb break="no"/>ximum (centurionem) leg(ionis) XI
+            <lb/>C(laudiae) p(iae) f(idelis) pr(incipem) posterior(em)
+            <lb/>et Q. Aebutium
+            <lb/>Liberalem (h)astat(um)
+            <lb/>posteriore(m) leg(ionis)
+            <lb/>eiusdem</ab>
+      </div>
+      <div type="translation">
+         <p>According to the edict of <persName>Publius Cornelius Dolabela</persName>,
+                propraetorian imperial legate: <persName>Sextus Titius Geminus</persName>, <foreign xml:lang="la">princeps posterior</foreign> of <placeName type="ancient">Legio VII </placeName>demarcated the boundary (<foreign xml:lang="la">terminavit</foreign>) between the <placeName type="ancient">Neditae</placeName> and the <placeName type="ancient">Corinienses</placeName>. (Boundary markers?)
+                restored by order of <persName>A. Ducenius Geminus</persName>, propraetorian imperial legate, through <persName>Aulus Resius Maximus</persName>, centurion of
+                    <foreign xml:lang="la">Legio XI Claudia Pia Fidelis</foreign>,
+                    <foreign xml:lang="la">princeps posterior</foreign> and
+                    <persName>Quintus Aebutius Liberalis</persName>,
+                    <foreign xml:lang="la">hastatus posterior</foreign> of the same
+                legion.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC274"><!--*IPhilippi 475; CIL 3.14406d. See also: Pikoulas 1999, 899.11.-->
+      <head>DOC274: <bibl type="preferred">IPhilippi 475</bibl>; <bibl>CIL 3.14406d</bibl>. See also: <bibl>Pikoulas 1999, 899.11</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctor(itate)
+            <lb/>imp(eratoris) Caes(aris)
+            <lb/>Hadriani Aug(usti)
+            <lb/>fines derect(i)
+            <lb/>[int]er pop(ulum) Phil(ippensem) [et]
+            <lb/>her(edes) SPAN</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar
+                    <persName type="emperor">Hadrian </persName>Augustus, boundary
+                drawn between the <placeName type="ancient">populus Philippensis</placeName> and the heirs of ???.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC121"><!--*EDH HD022739; CIL 3.12237; AE 1897.73.-->
+      <head>DOC121: <bibl type="preferred">EDH HD022739</bibl>; <bibl>CIL 3.12237</bibl>; <bibl>AE 1897.73</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Termini
+            <lb/>positi ab
+            <lb/>Irenaeo Aug(usti)
+            <lb/>lib(erto) proc(uratore) [in]ter
+            <lb/>CLR[---]O[---]
+            <lb break="no"/>E(?)I[---]orcenos</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary markers placed by Irenaeus, imperial
+                freedman, procurator, between ...</p>
+      </div>
+   </div>
+</div>

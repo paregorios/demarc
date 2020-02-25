@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST155">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Verdict of P. Cornelius Dolabella</head>
+   <p>Date(s): <date>AD 14-20</date>
+   </p>
+   <p>
+      <seg type="instance-description">This fragmentary inscription, probably a boundary marker, attests to a verdict (<foreign xml:lang="la">decretum</foreign>) of the governor <persName>P. Cornelius Dolabella</persName>. The text mentions a boundary (<foreign xml:lang="la">finis</foreign>), and so we may confidently connect this text to a <hi rend="bold">boundary dispute</hi>, but the names of the parties to the case have been lost. Compare the better attested disputes also adjudicated by <persName>Dolabella</persName>: Instance <ref target="#INST17">
+            <bibl>
+               <biblScope>3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST147">
+            <bibl>
+               <biblScope>4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>.</seg>
+   </p>
+   <div type="document" xml:id="DOC311"><!--*EDH HD026691; ILJug 3.2872; Wilkes 1974, 259 no. 3; AE 1910.80.-->
+      <head>DOC311: <bibl type="preferred">EDH HD026691</bibl>; <bibl>ILJug 3.2872</bibl>; <bibl>Wilkes 1974, 259 no. 3</bibl>; <bibl>AE 1910.80</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[E]x dec[reto]
+            <lb/>[P(ubli)] Cornel[i]
+            <lb/>[Do]label(lae) le[g(ati) pro]
+            <lb/>[pr(aetore)] finis int[er]
+            <lb/>[ ---</ab>
+      </div>
+      <div type="translation">
+         <p>According to the verdict of <persName>Publius Cornelius Dolabela</persName>,
+                propraetorian legate: boundary between ...</p>
+      </div>
+   </div>
+</div>

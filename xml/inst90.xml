@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST90">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Procuratorial Demarcation of the <placeName type="ancient">agri B[l]aes(iani)</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 27</bibl>
+   </p>
+   <p>Date(s): <date>AD 184-185</date>
+   </p>
+   <p>
+      <seg type="instance-description">Two boundary markers from the area of <placeName type="ancient">Deultum</placeName> (mod. Debelt in Bulgaria) record the demarcation of fields belonging to (or leased by) an otherwise unknown people called the <placeName type="ancient">B[l]aes(iani)</placeName>. This demarcation may have been part of census or patrimonial operations.<note n="506" xml:id="ftn506"> See further discussion on page <ref target="#INST090_DISCUSSION">
+               <bibl>
+                  <biblScope>47</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref>. </note>
+      </seg>
+   </p>
+   <div type="document" xml:id="DOC190"><!--*EDH HD017242; AE 1965.2.-->
+      <head>DOC190: <bibl type="preferred">EDH HD017242</bibl>; <bibl>AE 1965.2</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctor[ita]
+            <lb break="no"/>te Cl(audi) Cen[s]or[i]
+            <lb break="no"/>ni proc(uratoris) A[u]g(usti) et
+            <lb/>aes(timatione) iur[is] agr
+            <lb break="no"/>orum B[l]aes(ianorum)
+            <lb/>Marti[a]lis
+            <lb/>Aug(usti) lib(ertus) po
+            <lb break="no"/>suit</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of Claudius Censorinus,
+                procurator of Augustus and by legal estimation of the fields of the Blaesiani.
+                Martialis, freedman of Augustus, placed (this marker).</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC386"><!--*EDH HD017239; AE 1965.1.-->
+      <head>DOC386: <bibl type="preferred">EDH HD017239</bibl>; <bibl>AE 1965.1</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ex auc]tor[itat]
+            <lb break="no"/>[te C]l(audi) Cen[so]
+            <lb break="no"/>[r]ini pro
+            <lb break="no"/>[c(uratoris)] Aug(usti) et aes(timatione)
+            <lb/>iur[i]s agrorum
+            <lb/>[B]laes(ianorum) M
+            <lb break="no"/>[arti]alis [Au]
+            <lb break="no"/>[g(usti) li]b(ertus) [p]os
+            <lb break="no"/>[uit]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

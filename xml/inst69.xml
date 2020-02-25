@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST69">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute Over Lands Attributed to Zeus the Founder at <placeName type="ancient">Aizanoi</placeName>
+   </head>
+   <p>Date(s): <date>AD 119-125</date>
+   </p>
+   <p>
+      <seg type="instance-description">Three fragmentary boundary markers found in the vicinity of <placeName type="ancient">Aizanoi</placeName>(mod. <placeName type="modern">Çavdarhisar</placeName> in <placeName type="modern">Turkey</placeName>) record the emperor <persName type="emperor" rend="normal">Hadrian’s</persName>restoration (<foreign xml:lang="la">imperator ... restituit</foreign>) of the “boundaries given to Zeus the Founder and the <foreign xml:lang="la">civitas</foreign> of the <placeName type="ancient">Aezaniti</placeName> by Attalus and Prousias the kings” (<foreign xml:lang="la">fines Iovi conditori et civitati Aezanitorum datos ab Attalo et Prusia regibus</foreign>). We are lucky in this case to be able to discover the circumstances of this restoration through a surviving dossier of related letters, inscribed on the walls of the temple of Zeus in <placeName type="ancient">Aizanoi</placeName>. The restoration of the boundaries, which can be dated to AD 129, appears to have been the concluding act of a judicial saga that began at least as early as AD 119 and engaged two proconsuls of <placeName type="ancient">Asia</placeName> and the emperor himself. Its consequence – the reestablishment of a steady revenue stream for the city, which seems to have administered the temple’s funds – may have facilitated the promotion of Zeus’ birth cult at <placeName type="ancient">Aizanoi</placeName> and helped to finance the massive building projects of the Hadrianic and Antonine periods.<note n="412" xml:id="ftn412"> MAMA 9, xxxiii-xxxiv. The governor’s letter (Text 1.1 explicitly indicates that resolution of the dispute will permit “the city to enjoy the revenues due to it” (<foreign xml:lang="grc">ἵνα μὴ πάλιν τινὲς ἀ[μφισβητοῦντες περὶ τοῦ τέλους τοῦ] Βράδειον ἀπολαῦσαι τὴν πόλιν τῆς [προσηκούσης προσόδου παραίτιοι] γένωνται</foreign>). </note> The dispute stemmed from land distributions made in the early second century BC that had dropped out of practice and certain knowledge in the intervening centuries, but whose financial consequences (i.e., lease payments to the temple) had recently been revived by unknown parties. This case illustrates very well the manner in which a <hi rend="bold">boundary dispute</hi> could arise from another type of land dispute. It also illustrates the manner in which the course of a case, the availability of evidence and the strategies adopted by the litigants, could cause a single dispute to exhibit many of the characteristics of the different case classifications recognized by the <foreign xml:lang="la">agrimensores</foreign>.</seg>
+   </p>
+   <p>The temple dossier begins with a letter of the proconsul of Asia <persName>T. Avidius Quietus (AD 125-126)</persName>, addressed to the magistrates, council and people, presumably of <placeName type="ancient">Aizanoi</placeName>(Text <ref target="ddoc:286">
+         <bibl>
+            <biblScope>68.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). To it were attached several documents: a letter of the emperor <persName type="emperor" rend="normal">Hadrian</persName>(Text <ref target="ddoc:485">
+         <bibl>
+            <biblScope>68.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>) that addressed questions <persName>Quietus</persName> had raised in a previous letter (not extant), a letter written by <persName>Quietus</persName> to an imperial procurator named <persName>Hesperus </persName>requesting the investigation of relevant matters (Text <ref target="ddoc:486">
+         <bibl>
+            <biblScope>68.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), and finally <persName>Hesperus’ </persName>reply to <persName>Quietus</persName>, never fully inscribed (Text <ref target="ddoc:487">
+         <bibl>
+            <biblScope>68.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>).<note n="413" xml:id="ftn413"> The texts of the letters, accompanied by excellent English translations and authoritative commentary, are presented by B. Levick and S. Mitchell (MAMA 9, xxxvi-xliii), and in general I follow their presentation in the summary that follows here. They repeat the definitive texts (with minor changes) published by Laffi 1971, which should also be consulted. The quality and accessibility of this presentation – combined with the time limitations associated with production of the dissertation – have led me to omit reproducing the texts and translations here. MAMA does not provide a translation of the boundary markers, so I have proceeded with a full presentation of these. Relevant editions with commentary have also been published subsequent to MAMA 9: Mixed Language Inscriptions 166a-b and Bringmann 1995, 286-291.253. </note>
+   </p>
+   <p>This dispute centered on land near <placeName type="ancient">Aizanoi </placeName>that had originally been donated to the temple of Zeus there by two Hellenistic kings, probably <persName>Attalus I</persName> and <persName>Prusias I</persName>. This land, divided into parcels called <seg type="treGreekTransliterated">kleroi</seg>, seems to have been assigned originally to military or paramilitary colonists, with the result that the fees paid for leases (<foreign xml:lang="la">vectigal</foreign>) were devoted to the god. By <persName type="emperor" rend="normal">Hadrian’s</persName> time, the payment of these fees was evidently long out of practice. Further, the pattern of landholding in the area had changed significantly, so that the original size of the <seg type="treGreekTransliterated">kleroi</seg> could not be determined, and so that some landowners could argue that the land they held did not fall within the boundaries of the original allotment (i.e., they were not temple lands at all). These issues apparently arose because of an attempt (its origins obscure) to reinstate the <foreign xml:lang="la">vectigal</foreign>associated with the original <seg type="treGreekTransliterated">kleroi</seg>. It seems unlikely that the Romans in any way initiated this matter; rather, it most likely arose from competition between local elites who, unable to resolve the affair, brought it to the provincial governor for adjudication.</p>
+   <p>The first documented Roman engagement with the dispute occurred during the term of <persName>C. Trebonius Proculus Mettius Modestus </persName>(proconsul of Asia, AD 119-120). The details of the case are not extant, but he seems to have issued a verdict as to the rate at which the <foreign xml:lang="la">vectigal</foreign> was to be calculated. <persName>Modestus’</persName> verdict did not resolve the matter, which next engaged <persName>T. Avidius Quietus </persName>(proconsul of Asia, AD 124-125). The complaint brought before <persName>Quietus </persName>seems to have centered on two issues of implementation. First, it seems that the size of the original <seg type="treGreekTransliterated">kleroi</seg>, on which the amounts of the <foreign xml:lang="la">vectigal </foreign>were to be calculated, could not be agreed. Secondly, there was disagreement over the date to which retrospective payments should be calculated.</p>
+   <p>It is clear that there was no intent to redistribute land or redemarcate individual <seg type="treGreekTransliterated">kleroi</seg>. The idea was to determine the amount of area per original <seg type="treGreekTransliterated">kleros</seg>, which could then be divided into the amount of <foreign xml:lang="la">vectigal </foreign>fixed by Modestus, thereby producing a rate that could be applied to the existing landholdings. In the end, <persName>Quietus </persName>was unable to find convincing evidence for the original size of the <seg type="treGreekTransliterated">kleroi</seg>. An imposed settlement to this issue was needed, and so he recommended to the emperor that the average size of <seg type="treGreekTransliterated">kleroi </seg>in neighboring communities be used for the calculations needed at <placeName type="ancient">Aizanoi</placeName>. Hadrian agreed, and a procurator was commissioned to conduct the investigation in the neighboring communities. Surveyors were deployed by the procurator to gather the information.</p>
+   <p>
+      <persName type="emperor" rend="normal">Hadrian’s</persName> reply to <persName>Quietus</persName>, which in tone and scope compares favorably with the replies of <persName type="emperor" rend="normal">Trajan</persName>preserved in <persName>Pliny’s</persName>correspondence from <placeName type="ancient">Bithynia</placeName>, also addressed the issue of retrospective payment.<note n="414" xml:id="ftn414"> It should be noted here that consultation of the emperor seems to have occurred on the governor’s initiative. Having arrived at a stage in the dispute where precedents and locally available evidence had failed, <persName>Quietus </persName>was conscious that new law touching on an aspect of the case needed to be made: a specific solution to the problem of inadequate evidence needed to be imposed. He had an idea of how that should be accomplished, but sought the emperor’s guidance and confirmation. This procedure compares favorably, and even illuminates, <persName>Pliny’s</persName> correspondence with <persName type="emperor" rend="normal">Trajan</persName>. It also suggests that, in other boundary disputes adjudicated by governors where the emperor’s involvement or authority is cryptically invoked, a similar set of conditions obtained. </note> If there was no question as to the identification of property as part of the temple lands, then payment was to be calculated from the date of <persName>Modestus’</persName> earlier ruling. If there were some question, then calculation was to begin from the date of <persName type="emperor" rend="normal">Hadrian’s</persName> letter, even if subsequent legal action related to that identification were to take more time.</p>
+   <p>This last provision proved to be prescient (or the issue was already explicit), for the three boundary markers demonstrate that a subsequent survey and demarcation were needed in AD 129. This survey was evidently aimed at recovering the boundaries of the area that the kings had originally donated to the temple, and seems to have taken a written demarcation made by <persName>Prusias</persName> as its basis. On the basis of this demarcation, current landholdings could then be assessed to see if they fell within the area subject to the reinstated <foreign xml:lang="la">vectigal</foreign>.</p>
+   <p>It is possible that the disputes over sacred land at <placeName type="ancient">Aizanoi</placeName> were provoked by an imperial building project. The well-preserved temple of Zeus was constructed at this period. Just as Augustus (and possibly later emperors) restored pre-existing sacred land of Artemis at Ephesus in order to fund major building projects there, Hadrian may have had a similar plan in mind.</p>
+   <p type="P15">Other Types of Land Disputes</p>
+   <div type="document" xml:id="DOC286"><!--*MAMA 9, xxxvi.A and 178.P1; Laffi 1971, 9.A.-->
+      <head>DOC286: <bibl type="preferred">MAMA 9, xxxvi.A and 178.P1</bibl>; <bibl>Laffi 1971, 9.A</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC485"><!--*MAMA 9, xxxvii.B and 178.P2; Laffi 1971, 9.B.-->
+      <head>DOC485: <bibl type="preferred">MAMA 9, xxxvii.B and 178.P2</bibl>; <bibl>Laffi 1971, 9.B</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC486"><!--*MAMA 9, xxxvii.C and 178.P3; Laffi 1971, 10.C.-->
+      <head>DOC486: <bibl type="preferred">MAMA 9, xxxvii.C and 178.P3</bibl>; <bibl>Laffi 1971, 10.C</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC487"><!--*MAMA 9, xxxvii.D and 278.P4; Laffi 1971, 10.D.-->
+      <head>DOC487: <bibl type="preferred">MAMA 9, xxxvii.D and 278.P4</bibl>; <bibl>Laffi 1971, 10.D</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC488"><!--*Mixed Language Inscriptions 166b; MAMA 9.9 note 4 = 178.P5; Laffi 1971, 10-11.E. See also: Bowersock 1991, 224.-->
+      <head>DOC488: <bibl type="preferred">Mixed Language Inscriptions 166b</bibl>; <bibl>MAMA 9.9 note 4 = 178.P5</bibl>; <bibl>Laffi 1971, 10-11.E</bibl>. See also: <bibl>Bowersock 1991, 224</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar Traianus Hadrianus
+            <lb/>Aug(ustus) p(ater) p(atriae) co(n)s(ul) III trib(unicia) pot(estate) XIII fines Iovi c[on]
+            <lb break="no"/>[di]tori et civitati Aezanitorum datos
+            <lb/>[a]b Attalo et Prusia regibus restitu
+            <lb break="no"/>[it mensuram agente] Septimio Sat
+            <lb break="no"/>urnino primipilare (sic) sicut Prusi
+            <lb break="no"/>as rex egerat</ab>
+      </div>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκρ[άτορ Καῖσαρ] Τραιανὸς Ἁδρ
+            <lb break="no"/>ιανὸς Σεβαστὸς [πάτηρ πατρ]ίδος
+            <lb/>[ὕ]πατος [τό γ’ δημαρχι]κῆς ἐξους
+            <lb break="no"/>[ίας τ]ό ιγ’ [χώρας Διὶ κτίστῃ καὶ] πό
+            <lb break="no"/>[λει] Αἰζ[ανιτῶν δοθεί]σας ὑπὸ Ἀτ
+            <lb break="no"/>[τάλου καὶ Προυσίου] Βασιλέων ἀ[ποκατέστησεν μετροῦ]ντος [Σεπτι]
+            <lb break="no"/>[μίου Σατουρνείνου] πρειμουπι
+            <lb break="no"/>[λαριόυ καθὼς Πρου]σίας
+            <lb/>Βασιλεὺς [ἤρξ]ατο</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar Trajan <persName type="emperor">Hadrian</persName> Augustus, father of the
+                country, consul 3 (times), (holding the) tribunician power 13 (times) restored the
+                boundaries given to Zeus the Founder and the city of the <placeName type="ancient">Aezaniti</placeName> by <persName>Attalus</persName> and <persName>Prusias</persName> the kings, a survey having been
+                made by <persName>Septimius Saturninus</persName>
+                <foreign xml:lang="la">primus pilus </foreign>just as King
+                    <persName>Prusias</persName> had laid it
+                out.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC489"><!--AE 1989.702; *Mixed Language Inscriptions 166a; MAMA 9, 4-5.8 (C8). See also: Bowersock 1991, 224.-->
+      <head>DOC489: <bibl>AE 1989.702</bibl>; <bibl type="preferred">Mixed Language Inscriptions 166a</bibl>; <bibl>MAMA 9, 4-5.8 (C8)</bibl>. See also: <bibl>Bowersock 1991, 224</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Imp(erator) Caesar Traianus Hadrianus ] Aug(ustus) p(ater) p(atriae)
+            <lb/>[co(n)s(ul) III trib(unicia) pot(estate) XIII fines Iovi co]ndito[ri]
+            <lb/>[et civitate Aezanitorum dato]s ab At[talo]
+            <lb/>[et Prusia regibus restituit] mens[uram]
+            <lb/>[agente Septimio Saturni]no primipila
+            <lb break="no"/>[ri sicut Prusias rex egerat]</ab>
+      </div>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[Αὐτοκράτορ Καῖσαρ Τρ]αιανὸς Ἁδρια
+            <lb break="no"/>[νὸς Σεβαστὸς πάτηρ] πατρίδος ὕπα
+            <lb break="no"/>[τος τό γ’ δημαρχικῆς ἐξ]ουςίας τό ιγ’
+            <lb/>[χώρας Διὶ κτίστῃ καὶ π]όλει Αἰζανι
+            <lb break="no"/>[τῶν δοθείσας ὑπὸ Ἀτ]τάλου καὶ Πρου
+            <lb break="no"/>[σίου Βασιλέων ἀποκ]ατέστησεν με
+            <lb break="no"/>[τροῦντος Σεπτι]μίου Σατουρνεί
+            <lb break="no"/>[νου πρειμουπιλαριόυ κ]αθὼς Προυσίας
+            <lb/>[Βασιλεὺς ἤρξατο]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC490"><!--*MAMA 9, 5.9 (C9).-->
+      <head>DOC490: <bibl type="preferred">MAMA 9, 5.9 (C9)</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>-----
+            <lb/>[ὑπὸ Ἀττάλου καὶ Προ]υσίου
+            <lb/>[Β]ασιλέων [ἀποκατέστησε] με
+            <lb break="no"/>τροῦντος Σ[επτιμί]ου Σατουρ
+            <lb break="no"/>νείνου πρειμ[ι]πιλαρ[ι]όυ καθὼ[ς]
+            <lb/>καὶ Προυσίας Βασιλεὺς ἤρξατο</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

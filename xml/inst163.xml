@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST163">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>A Proconsul Demarcates the City of <placeName type="ancient">Arykanda</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 44</bibl>
+   </p>
+   <p>Date(s): <date>ca. AD 162-163</date>
+   </p>
+   <p>
+      <seg type="instance-description">Three identical boundary markers from the vicinity of <placeName type="ancient">Arykanda</placeName> (mod. <placeName type="modern">Aykırca</placeName> in <placeName type="modern">Turkey</placeName>) attest to an <hi rend="bold">authoritative demarcation</hi> in accordance with the orders of the emperors Marcus Aurelius and Lucius Verus (<foreign xml:lang="grc">Αὐτοκρατόρων ... κελευσάντων</foreign>). The demarcation was carried out by the proconsul of <placeName type="ancient">Asia</placeName>, Ti. Iulius Frugi. It seems to have involved the establishment of (revised?) boundaries for the city (<foreign xml:lang="grc">ἀνθύπατος περιορίσας τὴν πόλιν</foreign>) and the placement of boundary markers (<foreign xml:lang="grc">τὰς στήλας ἔταξεν</foreign>). The context and motivation for this demarcation are thoroughly obscure.</seg>
+   </p>
+   <div type="document" xml:id="DOC209"><!--*IArykanda 25a-b; Şahin 1992, 81-82; Şahin 1984, 39 s.v. ”Der neue Grenzstein”; SEG 6.764 (= 25a); SEG 34.1309; TAM 2.787 (= 25a).-->
+      <head>DOC209: <bibl type="preferred">IArykanda 25a-b</bibl>; <bibl>Şahin 1992, 81-82</bibl>; <bibl>Şahin 1984, 39 s.v. ”Der neue Grenzstein”</bibl>; <bibl>SEG 6.764 (= 25a)</bibl>; <bibl>SEG 34.1309</bibl>; <bibl>TAM 2.787 (= 25a)</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[Αὐτοκρατόρων]
+            <lb/>[Καισάρω]ν Σε[βα]
+            <lb break="no"/>[στῶ]ν Μάρ(κου) Αὐ
+            <lb break="no"/>[ρηλί]ου Ἀντω
+            <lb break="no"/>[νείνο]υ καὶ Λου
+            <lb break="no"/>κί[ου] Αὐρηλίου
+            <lb/>Οὐήρου κελε[υ]
+            <lb break="no"/>σάντων Τιβέ
+            <lb break="no"/>ριος Ἰούλιος
+            <lb/>Φρούγι ὁ κρά
+            <lb break="no"/>τιστος ἀνθύ
+            <lb break="no"/>πατος περιορί
+            <lb break="no"/>σας τὴν πόλιν
+            <lb/>τὰς στήλας
+            <lb/>ἔταξεν</ab>
+      </div>
+      <div type="translation">
+         <p>With the emperor Caesar Augustus <persName type="emperor">Marcus Aurelius </persName>Antoninus and
+                    <persName type="emperor">Lucius Aurelius Verus</persName> having
+                commanded it, Tiberius Iulius Frugi, propraetorian legate, having established
+                boundaries for the city, placed the markers.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC474"><!--Şahin 1984, 40 s.v. ”Fragment eines dritten(?) Grenzsteins” (= 25c); Şahin 1984, 40 s.v. ”Ein zweiter Grenzstein” (= 25d); SEG 6.763 (= 25d); TAM 2.786 (= 25d); *IArykanda 25c-d.-->
+      <head>DOC474: <bibl>Şahin 1984, 40 s.v. ”Fragment eines dritten(?) Grenzsteins” (= 25c)</bibl>; <bibl>Şahin 1984, 40 s.v. ”Ein zweiter Grenzstein” (= 25d)</bibl>; <bibl>SEG 6.763 (= 25d)</bibl>; <bibl>TAM 2.786 (= 25d)</bibl>; <bibl type="preferred">IArykanda 25c-d</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκρ[ατόρων]
+            <lb/>Καισάρ[ων Σεβασ]
+            <lb break="no"/>τῶν Μά[ρ(κου) Αὐρη]
+            <lb break="no"/>λίου Ἀ[ντωνείνου]
+            <lb/>καὶ Λου[κίου Αὐρη]
+            <lb break="no"/>λίου Ο[ὐήρου κε]
+            <lb break="no"/>λευσά[ντων Τι]
+            <lb break="no"/>β[έ]ριο[ς Ἰού]
+            <lb break="no"/>[λιος Φρούγι ὁ]
+            <lb/>[κράτιστος ἀνθύ]
+            <lb break="no"/>[πατος περιορί]
+            <lb break="no"/>[σας τὴν πόλιν]
+            <lb/>[τὰς στήλας]
+            <lb/>[ἔταξεν]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC475"><!--*IArykanda 25e.-->
+      <head>DOC475: <bibl type="preferred">IArykanda 25e</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκρατό[ρων]
+            <lb/>Κ[αι]σ[άρ]ων Σεβασ(τῶν)
+            <lb/>[Μάρ]κου [Αὐρη]
+            <lb break="no"/>[λίο]υ [Ἀντωνείνου]
+            <lb/>[καὶ Λουκίου Αὐρη]
+            <lb break="no"/>[λίου Οὐήρου κε]
+            <lb break="no"/>[λευσάντων Τι]
+            <lb break="no"/>[βέριος Ἰούλιος]
+            <lb/>[Φρούγι ὁ κρά]
+            <lb break="no"/>[τιστος ἀνθύ]
+            <lb break="no"/>[πατος περιορί]
+            <lb break="no"/>[σας τὴν πόλιν]
+            <lb/>[τὰς στήλας]
+            <lb/>[ἔταξεν]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

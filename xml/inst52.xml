@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST52">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute between the <placeName type="ancient">Vanacini</placeName> and the <placeName type="ancient">Mariani</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 1</bibl>
+   </p>
+   <p>Date(s): <date>AD 77</date>
+   </p>
+   <p>
+      <seg type="instance-description">A <hi rend="bold">boundary dispute</hi> (<foreign xml:lang="la">de controversia finium</foreign>) between long-established Roman colonists and an indigenous community on the island of <placeName type="ancient">Corsica</placeName>, attested by a rescript of the emperor <persName type="emperor" rend="normal">Vespasian</persName>.</seg>
+   </p>
+   <p>In his rescript to the <placeName type="ancient">Vanacini </placeName>– an indigenous community whose territory spanned the base of the <placeName type="modern">Cap Corse </placeName>peninsula on <placeName type="modern">Corsica</placeName> – <persName type="emperor" rend="normal">Vespasian</persName> delegates resolution of their boundary dispute with long-established Roman colonists at <placeName type="ancient">Mariana </placeName>to the provincial governor. He explicitly indicates that a surveyor has been provided to support the governor’s investigation. The rescript also acknowledges the praise conferred upon a former governor of the island by the delegates of the <placeName type="ancient">Vanacini</placeName>and, in addition, confirms the unspecified <foreign xml:lang="la">beneficia</foreign> that had been conferred on the <placeName type="ancient">Vanacini</placeName> by <persName type="emperor" rend="normal">Augustus</persName> and retained by the <placeName type="ancient">Vanacini</placeName> through the reign of <persName type="emperor" rend="normal">Galba</persName>.</p>
+   <p>This incident should be compared to Text <ref target="ddoc:318">
+         <bibl>
+            <biblScope>16.5</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> in which a provincial governor confirms that he has permitted an embassy of thanksgiving for a previous governor to be conveyed onward, presumably to <placeName type="modern">Rome</placeName>.<note n="277" xml:id="ftn277"> This was part of <placeName type="ancient">Histria’s </placeName>long-abiding effort to gain regular confirmation of its ancestral rights to revenue from the preservation of fish harvested in the <placeName type="modern">Danube</placeName> delta, originally “granted by the emperor.” </note> There is no obvious reason why the provincial governor of <placeName type="ancient">Corsica</placeName> could not have handled a boundary dispute between two communities in his own province; nothing about the present case seems to require the emperor’s involvement. It would seem, again on the model of the Histrian documents, that he could even have confirmed the imperial <foreign xml:lang="la">beneficia</foreign>. We can speculate that it was anxious concern on the part of the <placeName type="ancient">Vanacini</placeName> themselves that led them to ask the governor for permission to convey praise of a former governor to the emperor in <placeName type="modern">Rome</placeName>. This embassy gave them the opportunity to bundle together their other major concerns: the boundary dispute and the <foreign xml:lang="la">beneficia</foreign>(the latter a particularly great concern given the chaos that had preceded <persName type="emperor" rend="normal">Vespasian’s</persName> rise to power). <persName type="emperor" rend="normal">Vespasian</persName>acknowledges the praise of the former governor, confirms the validity of the <foreign xml:lang="la">beneficium</foreign> and returns the boundary dispute to the governor, who is in the best position to resolve it. </p>
+   <p type="P41">The emperor Caesar <persName type="emperor">Vespasian</persName> Augustus sends greetings to the magistrates and senators of the <placeName type="ancient">Vanacini</placeName>. I am glad that <persName>Otacilius Sagitta</persName>, my friend and procurator, governed you in such a way that he deserves your praise. As regards the boundary dispute that you have with the <placeName type="ancient">Mariani</placeName> relating to those fields that you bought from my procurator <persName>Publilius Memorialis</persName>: in order that <persName>Claudius Clemens</persName>, my procurator, might establish the boundary, I have written to him and I have sent a surveyor. I confirm the <foreign xml:lang="la">beneficia</foreign>, given to you by the god <persName type="emperor" rend="normal">Augustus</persName> after his seventh consulate, which <foreign xml:lang="la">beneficia</foreign>you retained to the time of <persName type="emperor" rend="normal">Galba</persName>.</p>
+   <div type="document" xml:id="DOC101"><!--*CIL 10.8038.-->
+      <head>DOC101: <bibl type="preferred">CIL 10.8038</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar Vespasianus Augustus
+            <lb/>magistratibus et senatoribus
+            <lb/>Vanacinorum salutem dicit
+            <lb/>Otacilium Sagittam amicum et procu
+            <lb break="no"/>ratorem meum ita vobis praefuisse
+            <lb/>ut testimonium vestrum mereretur
+            <lb/>delector
+            <lb/>de controversia finium quam ha
+            <lb break="no"/>betis cum Marianis pendenti ex
+            <lb/>i(i)s agris quos a procuratore meo
+            <lb/>Publilio Memoriale emistis ut
+            <lb/>finiret Claudius Clemens procu
+            <lb break="no"/>rator meus scripsi ei et mensorem
+            <lb/>misi
+            <lb/>beneficia tributa vobis ab divo
+            <lb/>Augusto post septimum consula
+            <lb break="no"/>tum quae in tempora Galbae reti
+            <lb break="no"/>nuistis confirmo
+            <lb/>egerunt legati
+            <lb/>Lasemo Leucani f(ilius) sacerd(os) Aug(usti)
+            <lb/>Eunus Tomasi f(ilius) sacerd(os) Aug(usti)
+            <lb/>C(aio) Arruntio Catellio Celere M(arco)
+            <lb/>Arruntio Aquila co(n)s(ulibus) IIII Idus Octobr(es)</ab>
+      </div>
+      <div type="translation">
+         <p>The legates who acted were: <persName>Lasemo, son of Leucanus</persName>, priest of
+                Augustus and <persName>Eunus, son of Tomasus</persName>, priest of Augustus. [Dated:] when <persName>Gaius Arruntius Catellius Celer</persName> and
+                    <persName>Marcus Arruntius Aquila</persName> were
+                consuls, four days before the Ides of October.</p>
+      </div>
+   </div>
+</div>

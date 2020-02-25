@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST9">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>A Negotiated Boundary between the <placeName type="ancient">Zamucci</placeName> and the <placeName type="ancient">Muduciuvi</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 78</bibl>
+   </p>
+   <p>Date(s): <date>AD 86</date>
+   </p>
+   <p>
+      <seg type="instance-description">This boundary marker was placed in accordance with the agreement of both parties (<foreign xml:lang="la">ex conven/tione utrarumque nationum</foreign>), and therefore may be taken as evidence of a <hi rend="bold">boundary dispute</hi>.</seg>
+   </p>
+   <p>This single boundary marker from coastal <placeName type="modern">Libya</placeName> provides the only evidence for the resolution of a boundary dispute between these two indigenous peoples. The date of the demarcation, as calculated from the imperial titulature, places the event in the same year as the reported ‘destruction’ of the <placeName type="ancient">Nasamones</placeName> by <placeName type="ancient">Legio III Augusta</placeName> as a consequence of a tax revolt in which tax collectors were killed.<note n="286" xml:id="ftn286"> Zonaras 11.19. </note> It is not clear whether the boundary action was related to the conflict, or merely took advantage of the temporary presence of the legionary legate in what ought to have been part of the proconsular province. Surviving documentation for proconsuls during the 80s AD is incomplete, and therefore we cannot say who was governing <placeName type="ancient">Africa Proconsularis </placeName>at the time of this demarcation.<note n="287" xml:id="ftn287"> Thomasson 1996, 45-48. </note> Neither party seems to have been related to the <placeName type="ancient">Nasamones</placeName>; rather, they are thought to be sub-tribes of the <placeName type="ancient">Macae.</placeName>
+      <note n="288" xml:id="ftn288"> Mattingly 1994, 27-28, 32, 74, 76.. </note>
+   </p>
+   <div type="document" xml:id="DOC132"><!--*EDH HD020847; IRT 854; AE 1940.70; Romanelli 1939, 111-118.-->
+      <head>DOC132: <bibl type="preferred">EDH HD020847</bibl>; <bibl>IRT 854</bibl>; <bibl>AE 1940.70</bibl>; <bibl>Romanelli 1939, 111-118</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ex a]uctorit(ate)
+            <lb/>[I]mp(eratoris) divi Vespasi
+            <lb break="no"/>ani f(ili) [[Domitiani]]
+            <lb/>Aug(usti) Germ(anici) pont(ificis)
+            <lb/>max(imi) trib(unicia) pot(estate) VI
+            <lb/>imp(eratoris) XIIII co(n)s(ulis) XIII
+            <lb/>cens(oris) perpet(ui) p(atris) p(atriae)
+            <lb/>iussu Suelli Flac
+            <lb break="no"/>ci leg(ati) Aug(usti) pro pr(aetore)
+            <lb/>terminus positi(!) inter na
+            <lb break="no"/>tionem Muduciuviorum
+            <lb/>e[t] Zamuciorum ex conven
+            <lb break="no"/>tione utrarumque
+            <lb/>nationum</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor, son of the
+                divine Vespasian, <persName type="emperor">
+               <seg type="T41">Domitian</seg>
+            </persName> Augustus Germanicus,
+                pontifex maximus, (holding the) tribunician power for the 6th time, (saluted as)
+                imperator 14 times, consul 13 times, censor in perpetuity, father of the country. On
+                the order of <persName>Suellius Flaccus</persName>,
+                propraetorian imperial legate, boundary marker(s) placed between the tribe of the
+                    <placeName type="ancient">Muduciuvi</placeName> and the tribe
+                of the <placeName type="ancient">Zamucii</placeName>, according
+                to the agreement of both tribes.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC141"><!--ILS 5954; *CIL 3.591. See also: Pikoulas 1999, 897.5; CIL 3, 989.-->
+      <head>DOC141: <bibl>ILS 5954</bibl>; <bibl type="preferred">CIL 3.591</bibl>. See also: <bibl>Pikoulas 1999, 897.5</bibl>; <bibl>CIL 3, 989</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ex auctoritate]
+            <lb/>[i]mp(eratoris) Aug(usti)
+            <lb/>[fi]nes dere[cti
+            <lb/>int]er Dien[ses
+            <lb/>et Olo]ssoni[os
+            <lb/>ex c]onvention[e]
+            <lb/>ipsorum
+            <lb/>[im]p(eratore) Nerva [T]ra[ia
+            <lb break="no"/>n]o Ca[es]ar[e]
+            <lb/>Aug(usto) German[ico]
+            <lb/>IIII co(n)s(ule).</ab>
+      </div>
+      <div type="translation">
+         <p>[By the authority] of the emperor
+                    Augustus,<note n="300" xml:id="ftn300"> Presumably, we are to understand Trajan. </note> boundaries drawn between the <placeName type="ancient">Dienses</placeName> and <placeName type="ancient">Olossonioi</placeName>, according to the
+                agreement of both of them, when the emperor Nerva <persName type="emperor">Trajan</persName> Caesar Augustus Germanicus was
+                consul for the 4th time.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC129"><!--*EDH HD012295; AE 1969/70.567; Velkov 1970, 55-58.-->
+      <head>DOC129: <bibl type="preferred">EDH HD012295</bibl>; <bibl>AE 1969/70.567</bibl>; <bibl>Velkov 1970, 55-58</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Iul(ius) Ferox p(rimus) p(ilus) leg(ionis)
+            <lb/>XI Cl(audiae) iussu v(iri) c(larissimi) Ser
+            <lb break="no"/>vili Fabiani co(n)s(ularis) n(ostri)
+            <lb/>terminum posui
+            <lb/>in locum Subiati
+            <lb/>secundum senten
+            <lb break="no"/>[t]ias pr[ae]ceden
+            <lb break="no"/>[tes? - - - - -</ab>
+      </div>
+      <div type="translation">
+         <p>I, <persName>Iulius Ferox</persName>, <foreign xml:lang="la">primus pilus </foreign>of <placeName type="ancient">Legio 11 Claudia</placeName>, by order of <foreign xml:lang="la">vir clarissimus </foreign>
+            <persName>Servilius Fabianus </persName>our <foreign xml:lang="la">consularis</foreign>, placed the boundary marker in the <placeName type="ancient">locus Subiati</placeName>, according to prior
+                verdicts ...</p>
+      </div>
+      <div type="translation">
+         <p>It is right that <foreign xml:lang="la">limites</foreign>, as I said above, should always
+                be passable for rights of way and for conducting surveys. ... In some regions when
+                the <foreign xml:lang="la">limites </foreign>encroach on actual
+                farm buildings, the owners of the farm buildings construct gates, install doors, and
+                position slaves beside them with the task of allowing people a passage through,
+                since a serviceable right of way ought to be maintained for the people. Now, a right
+                of way is granted by landholders on the understanding that they may occupy the
+                    <foreign xml:lang="la">limites</foreign>, but on this
+                condition, namely, if farm buildings have been situated on <foreign xml:lang="la">limites</foreign>, that is, <foreign xml:lang="la">limites </foreign>on which they encroach, the
+                owners must provide a right of way for the people through their land, provided that
+                the route is no more difficult than that through the farm buildings ... I do not
+                think that anyone should take over a <foreign xml:lang="la">limes </foreign>for cultivation, on the grounds that he prefers to offer a right of way
+                through a field.<note n="345" xml:id="ftn345"> 
+               <foreign xml:lang="la">qui tamen, ut supra diximus, semper [in] itineribus &lt;et&gt; mensuris agendis peruii oportet ut sint. ... quibusdam regionibus, cum in ipsis incidant uillis, portas domini uillarum faciunt ianuasque inponunt et seruos huic negotio ad transmittendum populum applicant, quoniam utilissimum iter populo seruari debeat. datur autem uia a possessoribus, ut limites occurrent; hac tamen condicione, ut si &lt;u&gt;illae in limitibus positae sint, id est limites in quibus incidunt, &lt;red&gt;dant per agros suos iter populo, dum non deterius quam per &lt;u&gt;illas transeant. sed quaedam ita positae sunt, ut quantumcumque de limite deflectere uelint, incommodum iter patiantur: ita necessario per ipsas transeunt uillas. limitem autem non puto quemquam occupare debere colendo, ut per agrum iter reddere mallet: alioquin deflexus illi, qui de limite detorquentur, multo maiorem occupant modum </foreign>(Campbell 2000, 124 l. 28 - 126 l. 5; translation is Campbell’s). </note>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC134"><!--*EDH HD026658; *ICret 1.26.2; AE 1919.22.-->
+      <head>DOC134: <bibl type="preferred">EDH HD026658</bibl>; <bibl type="preferred">ICret 1.26.2</bibl>; <bibl>AE 1919.22</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctoritate
+            <lb/>Neronis Cl&lt;a&gt;udi
+            <lb/>Caesaris Aug(usti) Ger
+            <lb break="no"/>man&lt;i&gt;ci pontif(icis)
+            <lb/>maxi(mi) trib(unicia) pot(estate) XI
+            <lb/>imp(eratoris) co(n)s(ulis) IIII p(atris) p(atriae) et
+            <lb/>ex s(enatus) c(onsulto)
+            <lb/>L(ucius) Turpilius Dexter
+            <lb/>proco(n)s(ul) pr[aedia p]ublica
+            <lb/>Gortunio[rum p]leraqu
+            <lb break="no"/>e a priva[ti]s occupata
+            <lb/>res{res}t[it]uit termin
+            <lb break="no"/>avitque</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of <persName type="emperor">Nero </persName>Claudius Caesar Augustus
+                Germanicus, pontifex maximus, (holding the) tribunician power for the 11th time,
+                (saluted as) imperator, consul 4 times, father of the country, and according to a
+                decree of the Senate, <persName>Lucius Turpilius Dexter</persName>, proconsul, restored the <foreign xml:lang="la">praedia publica</foreign> of the <placeName type="ancient">Gortunii</placeName>, which had been largely
+                occupied by private persons, and put up boundary markers.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC294"><!--*ICret 1.26.3.-->
+      <head>DOC294: <bibl type="preferred">ICret 1.26.3</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auc[toritate]
+            <lb/>Neron[is Claudi]
+            <lb/>Caes[aris Aug(usti)] Ger[manici ---</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC139"><!--*EDH HD014711; AE 1992.1533; ILGR 212; AE 1968.469. See also: Pikoulas 1999, 898.7.-->
+      <head>DOC139: <bibl type="preferred">EDH HD014711</bibl>; <bibl>AE 1992.1533</bibl>; <bibl>ILGR 212</bibl>; <bibl>AE 1968.469</bibl>. See also: <bibl>Pikoulas 1999, 898.7</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(eratore) Caesare
+            <lb/>Nerva Traiano
+            <lb/>A[u]g(usto) Germanico
+            <lb/>[I]III Articuleio Pae
+            <lb break="no"/>to co(n)s(ulibus) ex auctoritate Imp(eratoris) Caesaris
+            <lb/>Nervae Traiani Aug(usti)
+            <lb/>Germanici. Fines
+            <lb/>inter Thracas et Tha
+            <lb break="no"/>sios. Terminus secun
+            <lb break="no"/>dus. Infra vicum Rhadeloninum [ --- ]
+            <lb/>[ -------</ab>
+      </div>
+      <div type="translation">
+         <p>When the emperor Caesar Nerva <persName type="emperor">Trajan</persName> Augustus Germanicus was consul
+                for the 4th (time) and Articuleius Paetus was consul (with him). By the authority of
+                the emperor Caesar Nerva <persName type="emperor">Trajan </persName>Augustus Germanicus. Boundaries between the <placeName type="ancient">Thracae </placeName>and the <placeName type="ancient">Thasii</placeName>. <foreign xml:lang="la">Terminus </foreign>number 2. Below the <placeName type="ancient">vicus Rhadeloninus</placeName> ...</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC190"><!--*EDH HD017242; AE 1965.2.-->
+      <head>DOC190: <bibl type="preferred">EDH HD017242</bibl>; <bibl>AE 1965.2</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctor[ita]
+            <lb break="no"/>te Cl(audi) Cen[s]or[i]
+            <lb break="no"/>ni proc(uratoris) A[u]g(usti) et
+            <lb/>aes(timatione) iur[is] agr
+            <lb break="no"/>orum B[l]aes(ianorum)
+            <lb/>Marti[a]lis
+            <lb/>Aug(usti) lib(ertus) po
+            <lb break="no"/>suit</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of Claudius Censorinus,
+                procurator of Augustus and by legal estimation of the fields of the Blaesiani.
+                Martialis, freedman of Augustus, placed (this marker).</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC386"><!--*EDH HD017239; AE 1965.1.-->
+      <head>DOC386: <bibl type="preferred">EDH HD017239</bibl>; <bibl>AE 1965.1</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ex auc]tor[itat]
+            <lb break="no"/>[te C]l(audi) Cen[so]
+            <lb break="no"/>[r]ini pro
+            <lb break="no"/>[c(uratoris)] Aug(usti) et aes(timatione)
+            <lb/>iur[i]s agrorum
+            <lb/>[B]laes(ianorum) M
+            <lb break="no"/>[arti]alis [Au]
+            <lb break="no"/>[g(usti) li]b(ertus) [p]os
+            <lb break="no"/>[uit]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

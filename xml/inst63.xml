@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST63">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary dispute between the <placeName type="ancient">Sapuates</placeName> and <placeName type="ancient">Aemate</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 14</bibl>
+   </p>
+   <p>Date(s): <date>AD 40-42</date>
+   </p>
+   <p>
+      <seg type="instance-description">This rupestral boundary inscription succinctly records the delegation of judiciary authority by the provincial governor to a centurion for the purpose of resolving a <hi rend="bold">boundary dispute</hi> between the settlement of <placeName type="ancient">Aemate</placeName> (mod. <placeName type="modern">Dobrnja on Vrbas</placeName> in <placeName type="modern">Bosnia</placeName>) and a people called the <placeName type="ancient">Sapuates</placeName>, who inhabited the area just south of <placeName type="ancient">Aemate</placeName>.</seg>
+   </p>
+   <p>One of the more complete boundary documents from Dalmatia, this text was cut into a stone outcropping near <placeName type="modern">Vaganj</placeName> in the valley of the <placeName type="modern">Vrbas</placeName> river (ancient <placeName type="ancient">Urbanus fl.</placeName>) in modern <placeName type="modern">Bosnia-Hercegovina</placeName>. It can be dated to sometime shortly before the death of <persName type="emperor" rend="normal">Caligula</persName> in AD 41 on the basis of the emperor’s titulature and what is known about the career of the governor <persName>L. Arruntius Camillus Scribonianus.</persName>
+   </p>
+   <div type="document" xml:id="DOC118"><!--*Wilkes 1974, 267 no. 23; ILS 5950; CIL 3.9864a, cf. pp. 2165 and 2270.-->
+      <head>DOC118: <bibl type="preferred">Wilkes 1974, 267 no. 23</bibl>; <bibl>ILS 5950</bibl>; <bibl>CIL 3.9864a, cf. pp. 2165 and 2270</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>L(ucius) Arruntius
+            <lb/>Camil[l]us Scri
+            <lb break="no"/>b[o]nianus le[g(atus)] pro
+            <lb break="no"/>pr(aetore) C(aei) [C]ae[s]aris Aug(usti)
+            <lb/>Germanici, iudicem
+            <lb/>dedit M(arcum) Coelium (centurionem)
+            <lb/>leg(ionis) VII inter Sapuates
+            <lb/>et [..]matinos ut fines
+            <lb/>[reg]eret et terminus (sic) po[n(eret)]</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Lucius Arruntius Camillus Scribonianus</persName>, propraetorian legate of <persName type="emperor" rend="normal">Gaius Caesar Augustus Germanicus (</persName>
+            <persName type="emperor">Caligula</persName>
+            <persName type="emperor" rend="normal">)</persName>, appointed <persName>Marcus Coelius</persName>, centurion of <placeName type="ancient">Legio VII</placeName>, as <foreign xml:lang="la">iudex</foreign> between the <placeName type="ancient">Sapuates</placeName> and <placeName type="ancient">[Ae]matini</placeName> so that he might draw the boundaries and place boundary
+                markers.</p>
+      </div>
+   </div>
+</div>

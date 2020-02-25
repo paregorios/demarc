@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST24">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Demarcation Between <placeName type="ancient">Sagalassos</placeName> and <placeName type="ancient">Tymbrianassos</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 43</bibl>
+   </p>
+   <p>Date(s): <date>AD 54-55</date>
+   </p>
+   <p>
+      <seg type="instance-description">A <hi rend="bold">possible boundary dispute</hi> between the city of <placeName type="ancient">Sagalassos</placeName> and a nearby village on an imperial estate.</seg>
+   </p>
+   <p>As many as seven nearly identical boundary markers survived into the modern era to attest the resolution of what was probably a dispute between the prominent city of <placeName type="ancient">Sagalassos</placeName>, which lay within the province of <placeName type="ancient">Galatia</placeName>, and the neighboring community of <placeName type="ancient">Tymbrianassos</placeName>, which was situated within the bounds of an imperial estate.<note n="437" xml:id="ftn437"> The estate appears to be otherwise unattested, unless a cryptic boundary marker labeled <foreign xml:lang="la">finis / Caesaris / n(ostri) </foreign>was related to it (see Mitchell 1976, 117-118 = CIL 3 Supp. 6872 cf. 12147 = ILS 5967). </note> According to the text of these markers, the decision in the case was authorized by a letter (not extant) of the emperor <persName type="emperor" rend="normal">Claudius</persName>, who thereby presumably delegated authority for setting the border jointly to the governor (<persName>Petronius Umber</persName>) and an imperial procurator (<persName>L. Pupius Praesens</persName>).</p>
+   <p>
+      <persName type="emperor" rend="normal">Claudius</persName> is described in the text as <foreign xml:lang="grc">θεός</foreign> (god). Taking this together with <persName type="emperor" rend="normal">Nero’s</persName> titulature in the magistrates’ titles, most commentators date the boundary action to the early years of <persName type="emperor" rend="normal">Nero’s</persName> reign (AD 54-55). The inscriptions also record the provision that a fifth part of the <foreign xml:lang="la">usufruct</foreign> on the land belonging to <placeName type="ancient">Tymbrianassos</placeName> was owed to <placeName type="ancient">Sagalassos</placeName>.<note n="438" xml:id="ftn438"> The most recent and comprehensive discussion is Horsley 1998, whose treatment and identification of the various texts and editions I follow below. </note>
+   </p>
+   <p>G. Burton has cited these documents as evidence in support of his argument that the Roman provincial administration, “characterised by a substantial deficit of administrative resources” occasionally used “procurators for non-fiscal functions.”<note n="439" xml:id="ftn439"> Burton 1993, 25-26 with 20-21. </note> In particular, he takes these texts (from an imperial province) as “analogous examples” to others culled from proconsular provinces wherein procurators exercised judiciary authority in cases that ought to have required a governor’s involvement. Burton is of course aware that “the duties of the junior procurators who ran large patrimonial areas within a province no doubt always extended ... to the solution of any communal disputes which might have arisen.”<note n="440" xml:id="ftn440"> Burton 1993, 20. </note> Accordingly, he rightly exempts from consideration the placement of <foreign xml:lang="la">termini</foreign> by a freedman procurator near <placeName type="ancient">Synnada</placeName> in <placeName type="ancient">Phrygia</placeName> on the grounds that the land involved was probably patrimonial, i.e., part of an imperial estate over which the procurator had administrative authority.<note n="441" xml:id="ftn441"> See Instance <ref target="#INST174">
+            <bibl>
+               <biblScope>105</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, which, it should be noted, is not clearly a boundary dispute. </note> But when it comes to the boundary markers near <placeName type="ancient">Sagalassos</placeName>, Burton seems to have missed the significance of the full title given by the texts to what he describes simply as the “village of Tymbrianassus:” <foreign xml:lang="grc">κώμη</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Τυμβριανασσέων</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Νέρωνος</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Κλαυδίου</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Καίσαρος</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Σεβαστοῦ</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Γερμανικοῦ</foreign> (the village of the <placeName type="ancient">Tymbrianasseoi</placeName> of <persName type="emperor" rend="normal">Nero</persName> Claudius Caesar Augustus Germanicus). The clear implication of this phraseology – as pointed out by these texts’ editors – is that the village lay within the boundaries of an imperial estate. It is therefore not at all surprising, <seg type="term">pace</seg> Burton, that we should find the procurator involved.</p>
+   <p type="P21">In fact, these documents reinforce what emerges as a basic principle in Roman adjudication of boundary disputes; namely, that whoever judged the case required judiciary authority over all parties to the case. Neither the governor nor the procurator alone fulfilled this requirement because the boundary in dispute between the two communities was identical with the boundary between the imperial estate and the surrounding province. The lack of an obvious official who embodied the requisite judiciary authority necessitated an approach to the emperor (the next higher authority with sufficient competence), whence <persName type="emperor" rend="normal">Claudius’</persName> letter delegating the case to a board of two who, together, possessed the necessary span of authority. It is clear from other examples involving disputes over boundaries between provinces that the emperor could also have chosen to appoint a special legate as <foreign xml:lang="la">iudex</foreign> in the case.<note n="442" xml:id="ftn442"> It is a pity that Burton missed the example of Aichinger 1982, who explains the use of special legates in the provincial boundary cases convincingly. I am aware of only one other situation in which a board of two imperial officials jointly supervised a boundary demarcation: the joint remarking on <persName type="emperor" rend="normal">Vespasian’s</persName> authority of a small portion of the <placeName type="ancient">Fossa Regia</placeName> by the legate in command of <placeName type="ancient">Legio III Augusta</placeName>and another legate whose exact office remains a matter of speculation (Instance <ref target="#INST25">
+            <bibl>
+               <biblScope>83</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). </note>
+   </p>
+   <div type="document" xml:id="DOC329"><!--*Horsley 1998.-->
+      <head>DOC329: <bibl type="preferred">Horsley 1998</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἐξ ἐπιστολῆς Θεοῦ
+            <lb/>Σεβαστοῦ Γερμανικοῦ
+            <lb/>Καίσαρος Κοίντος Πε
+            <lb break="no"/>τρώνιος Οὖμβερ πρε
+            <lb break="no"/>σβευτὴς καὶ ἀντισ
+            <lb break="no"/>{τισ}τράτηγοςΝέρω
+            <lb break="no"/>νος Κλαυδίου Καίσ
+            <lb break="no"/>αρος Σεβαστοῦ Γερ&lt;μανικου&gt;
+            <lb/>καὶ{σαρος} Λούκ[ι]
+            <lb break="no"/>ος Πούπιος Πραίσης
+            <lb/>[ἐπί]τροπος Νέρωνο
+            <lb break="no"/>ς Κλαυδίου Καίσαρο
+            <lb break="no"/>ς Σεβαστοῦ Γερμανικο
+            <lb break="no"/>ῦ ὡροθέτησαν τὰ μ
+            <lb break="no"/>ὲν &lt;ἐν&gt; δεξι&lt;ᾷ&gt; εἶναι Σα
+            <lb break="no"/>γαλα&lt;σσέ&gt;ων, τὰ δὲ
+            <lb/>ἐν ἀριστερᾷ εἶναι
+            <lb/>κώμης Τυμβρια&lt;νασσέ&gt;ω
+            <lb break="no"/>νΝέρωνος Κλαυδί
+            <lb break="no"/>ου Καίσαρος Σεβασ
+            <lb break="no"/>τοῦ Γερμανικοῦ,
+            <lb/>ἐν ᾗ καὶ πέμπτον
+            <lb/>μέρος Σαγαλασ&lt;σέ&gt;ω
+            <lb break="no"/>ν.</ab>
+      </div>
+      <div type="translation">
+         <p>According to the letter of the god Augustus
+                Germanicus Caesar (<persName type="emperor">Claudius</persName>),
+                    <persName>Kointos Petronios Oumber</persName>,
+                propraetorian imperial legate of <persName type="emperor">Nero</persName> Claudius Caesar Augustus Germanicus, and Loukios Poupios
+                Praises, procurator of <persName type="emperor">Nero</persName>
+                Claudius Caesar Augustus Germanicus, set the boundary: the (land) on the right side
+                is to belong to the <placeName type="ancient">Sagalasseoi</placeName> and the (land) on the left side is to belong to the
+                village of the <placeName type="ancient">Tymbrianasseoi </placeName>of <persName type="emperor">Nero</persName> Claudius
+                Caesar Augustus Germanicus, in which a fifth part also belongs to the <placeName type="ancient">Sagalasseoi</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC24"><!--SEG 19.765a; *Bean 1959, 84-85.30X; IGR 3.335; OGIS 538; Ramsay 1941, 234-236.237; Ramsay 1895, 336.165; Ramsay 1886, 128-129.X.-->
+      <head>DOC24: <bibl>SEG 19.765a</bibl>; <bibl type="preferred">Bean 1959, 84-85.30X</bibl>; <bibl>IGR 3.335</bibl>; <bibl>OGIS 538</bibl>; <bibl>Ramsay 1941, 234-236.237</bibl>; <bibl>Ramsay 1895, 336.165</bibl>; <bibl>Ramsay 1886, 128-129.X</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἐξ ἐπιστολῆς Θε
+            <lb break="no"/>οῦ Σεβαστοῦ
+            <lb/>Γερμανικο[ῦ] Καίσαρ[ος],
+            <lb/>Κοίντος [Π]ετρώνι
+            <lb break="no"/>ος Οὖμβερ πρεσβευτὴς
+            <lb/>καὶ ἀντιστράτηγος Νέρω
+            <lb break="no"/>νος Κλαυδί[ο]υ Καίσαρος
+            <lb/>Σεβαστοῦ Γερμανικοῦ κα[ὶ]
+            <lb/>Λο[ύκι]ος Πούπιος Πραί
+            <lb break="no"/>σης [ἐπί]τροπος Ν[έρ]ωνος
+            <lb/>Κλα[υ]δίου [Κ]αίσ[αρ]ος Σε
+            <lb break="no"/>[βα]στοῦ Γε[ρ]μανικοῦ ὡ
+            <lb break="no"/>ροθέτησ[α]ν τὰ μὲν
+            <lb/>δε[ξ]ιᾷ εἶν[αι Σαγ]αλασσέων,
+            <lb/>τὰ [δ]ὲ ἐν ἀ[ρισ]τερᾷ κώ̣
+            <lb break="no"/>[μη]ς [Τ]υμβριανασσέ[ων Νέ]
+            <lb break="no"/>ρ[ωνος Κλ]αυδ[ί]ου Καίσαρος
+            <lb/>[Σεβαστοῦ Γ]ερμανικοῦ, [ἐν ᾗ]
+            <lb/>[καὶ πέμπτο]ν Σαγα[λασσέ]
+            <lb break="no"/>[ων]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC324"><!--SEG 19.765b; *Bean 1959, 84-85.30Y.-->
+      <head>DOC324: <bibl>SEG 19.765b</bibl>; <bibl type="preferred">Bean 1959, 84-85.30Y</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἐξ ἐπιστολῆς Θ&lt;εr&gt;οῦ
+            <lb/>Σεβαστοῦ Γερμανι
+            <lb break="no"/>κοῦ Καίσαρος, Κοίντος
+            <lb/>Π[ε]τρώνιος Ο&lt;ὖ&gt;μβερ
+            <lb/>πρεσβευτὴς καὶ ἀντιστρ[ά]
+            <lb break="no"/>τη[γ]ος Νέρωνος Κλαυ
+            <lb break="no"/>δίου Καίσαρος Σεβαστοῦ
+            <lb/>Γερμανικοῦ καὶ Λούκιος
+            <lb/>[Πού]πιος Πραίσης ἐπ[ί]τροπ[ος]
+            <lb/>[Νέρω]νος Κλαυδίου {Κα[ι]}
+            <lb/>Καίσαρος Σε̣[βα]στοῦ Γε&lt;ρ&gt;μανικο[ῦ]
+            <lb/>ὡροθέτη
+            <lb break="no"/>σαν τὰ μὲν
+            <lb/>δεξιᾷ εἶ
+            <lb break="no"/>[ναι] {Σαγαλα}
+            <lb/>Σαγαλασσέων,
+            <lb/>τὰ δὲ ἐν ἀριστε[ρᾷ]
+            <lb/>κώμης Τυμ
+            <lb break="no"/>βριανασσέων Νέρω
+            <lb break="no"/>νος Κλαυδίου Καί
+            <lb break="no"/>σαρος Σεβασ
+            <lb break="no"/>το&lt;ῦ&gt; Γε&lt;ρ&gt;μανικο[ῦ],
+            <lb/>ἐν ᾗ καὶ πέμπτο[ν]
+            <lb/>Σαγαλασσέ
+            <lb break="no"/>ων.</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC325"><!--SEG 19.765c; Bean 1959, 86-87.30Z; Ramsay 1941, 235-236.238; Ramsay 1886, 129.-->
+      <head>DOC325: <bibl>SEG 19.765c</bibl>; <bibl>Bean 1959, 86-87.30Z</bibl>; <bibl>Ramsay 1941, 235-236.238</bibl>; <bibl>Ramsay 1886, 129</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC326"><!--See: Robert 1940 11/12, 596.-->
+      <head>DOC326: <bibl>See: Robert 1940 11/12, 596</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC327"><!--See: Robert 1940 11/12, 596.-->
+      <head>DOC327: <bibl>See: Robert 1940 11/12, 596</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC328"><!--See: Ramsay 1941, 234; Bean 1959, 88 n. 45.-->
+      <head>DOC328: <bibl>See: Ramsay 1941, 234</bibl>; <bibl>Bean 1959, 88 n. 45</bibl>.</head>
+   </div>
+</div>

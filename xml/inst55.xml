@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST55">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute between the <placeName type="ancient">Lamienses</placeName> and <placeName type="ancient">Hypataei</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 30</bibl>
+   </p>
+   <p>Date(s): <date>AD 117? - 138?</date>
+   </p>
+   <p>
+      <seg type="instance-description">Serving as proconsul of either <placeName type="ancient">Achaia</placeName> or <placeName type="ancient">Macedonia</placeName>, <persName>Q. Gellius Augurinus</persName> delivered the following verdict (<foreign xml:lang="la">decreta</foreign>) in a <hi rend="bold">boundary dispute</hi> (<foreign xml:lang="la">de controversiis finium</foreign>) between the Thessalian communities of <placeName type="ancient">Lamia</placeName> and <placeName type="ancient">Hypata</placeName> (mod. <placeName type="modern">Hypati</placeName>). His ruling was subsequently inscribed, and was first recorded by modern scholars in 1855 in the Greek village of <placeName type="modern">Myxiates</placeName>, where the stone had been reused in building a house.</seg>
+   </p>
+   <p>A. Aichinger lists this case as an example of a governor handling a boundary dispute “under the significant influence of an emperor,” but she does not analyze the matter in any detail.<note n="311" xml:id="ftn311"> Aichinger 1982, 201. </note> It does at first seem to abrogate the general rule that governors handled boundary disputes themselves so long as all parties involved fell under their own provincial jurisdiction. But careful attention to the wording of the document makes the matter clearer. <persName>Augurinus</persName> says that the emperor <persName type="emperor" rend="normal">Hadrian</persName> had written to him. He does not represent himself as acting “on the orders of” vel sim. There are two possible explanations for what appears here to be imperial delegation: either the boundary dispute was associated in some way with other issues that required an imperial decision, or some aspect of the case led <persName>Augurinus</persName> to consult the emperor on the appropriate procedure to follow.</p>
+   <p>We do have at least one other example where a provincial community sent an embassy to the emperor with a number of concerns, including a boundary dispute.<note n="312" xml:id="ftn312"> Instance <ref target="#INST52">
+            <bibl>
+               <biblScope>25</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> 
+      <persName type="emperor" rend="normal">Vespasian’s</persName> response to a petition of the <placeName type="ancient">Vanacini</placeName>carefully addresses each of their concerns, including the confirmation of an unspecified beneficium, something the governor could not have done. He explicitly says that he has written to their provincial governor that he should resolve the boundary dispute after consulting a surveyor whom the emperor was sending. In this letter, <persName type="emperor" rend="normal">Vespasian</persName> uses language similar to that employed by <persName>Augurinus</persName> here. It seems particularly likely in <persName type="emperor" rend="normal">Hadrian’s</persName> case that concerns normally handled by provincial governors will have gone directly to the emperor, given his travels in the provinces.<note n="313" xml:id="ftn313"> Compare Instance <ref target="#INST66">
+            <bibl>
+               <biblScope>43</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <p>A second possibility is consultation of the emperor by the governor.<note n="314" xml:id="ftn314"> Instance <ref target="#INST69">
+            <bibl>
+               <biblScope>68</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> We have an example of this type as well, and it too dates to the reign of Hadrian. The incomplete dossier from <placeName type="ancient">Aizanoi</placeName> that addresses the disputes surrounding the sacred land of Zeus preserves a letter of Hadrian that was clearly prompted by a query from the governor on a complicated aspect of the affair. It is not unreasonable to suppose that Augurinus similarly found it necessary to consult the emperor.</p>
+   <div type="document" xml:id="DOC104"><!--CIL 3.12306; ILS 5947a; CIL 3.586; Henzen 1856; Smallwood 1966 447. See also: Stählin 1924, 220-222; RE s.v. Hypata.-->
+      <head>DOC104: <bibl>CIL 3.12306</bibl>; <bibl>ILS 5947a</bibl>; <bibl>CIL 3.586</bibl>; <bibl>Henzen 1856</bibl>; <bibl>Smallwood 1966 447</bibl>. See also: <bibl>Stählin 1924, 220-222</bibl>; <bibl>RE s.v. Hypata</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Q(uinto) Gellio Sentio Augurino proco(n)s(ule) decreta
+            <lb/>ex tabellis recitata kalendis Martis. Cum optimus maximusque princeps
+            <lb/>Traianus Hadrianus Aug(ustus) scripserit mihi uti adhibitis menso
+            <lb break="no"/>ribus de controversiis finium inter Lamienses et Hypataeos cognita causa
+            <lb/>terminarem egoque in rem praesentem saepius et continuis diebus
+            <lb/>fuerim cognoverimque praesentibus utriusque civitatis defensoribus,
+            <lb/>adhibito a me Iulio Victore evocato Augusti mensore, placet initium
+            <lb/>finium esse ab eo loco in quo Siden fuisse comperi, quae est infra con
+            <lb break="no"/>saeptum consecratum Neptuno, indeque descendentibus rigorem ser
+            <lb break="no"/>vari usque ad fontem Dercynnam, qui est trans flumen Sperchion, it[a ut per]
+            <lb/>amphispora Lamiensium et Hypataeorum rigor at fontem Dercynn[am supra]
+            <lb/>scriptum ducat et inde ad tumulum Pelion per decursum Sir [---]
+            <lb/>at monimentum Euryti quod est intra finem Lam[iensium --- ]
+            <lb/>[---] Erycaniorum et Proherniorum [---]
+            <lb/>[---] thraxum et Sido [---]
+            <lb/>[---] const [ ------</ab>
+      </div>
+      <div type="translation">
+         <p>Verdicts recited from the tablets when
+                    <persName>Quintus Gellius Sentius Augurinus</persName> was proconsul, on the <foreign xml:lang="la">kalends</foreign> of March. Since the best and
+                greatest <foreign xml:lang="la">princeps</foreign>, Trajan
+                    <persName type="emperor">Hadrian</persName> Augustus, wrote to
+                me that, once surveyors had been consulted concerning the boundary disputes between
+                the <placeName type="ancient">Lamienses</placeName> and the
+                    <placeName type="ancient">Hypataeoi</placeName>, and the case
+                had been investigated, I should make a boundary demarcation; and, since, in the case
+                at hand, I was present often and for successive days, and I investigated with the
+                defenders of both cities being present and with <persName>Iulius Victor</persName>, <foreign xml:lang="la">evocatus</foreign> of the emperor, a surveyor,
+                being consulted by me, let it be that the start of the boundary be from that place
+                in which I have learned <placeName type="ancient">Side</placeName> was, which is below the enclosed area consecrated to Neptune;
+                and thence in descending to preserve a straight line all the way to the spring
+                (called) <placeName type="ancient">Dercynna</placeName>, which is
+                across the river <placeName type="ancient">Sperchion</placeName>,
+                so that a straight line leads through the <foreign xml:lang="la">amphispora</foreign> of the <placeName type="ancient">Lamienses</placeName> and the <placeName type="ancient">Hypataeoi</placeName> to the above-mentioned spring <placeName type="ancient">Dercynna</placeName>; and thence to the
+                tumulus (called) <placeName type="ancient">Pelion</placeName>
+                along the slope (called) <placeName type="ancient">Sir...</placeName> to the monument of Eurytos which is within the boundaries of
+                the <placeName type="ancient">Lamienses</placeName> ...</p>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST48">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Demarcation between a <foreign xml:lang="la">castellum</foreign> and the <foreign xml:lang="la">ratio privata</foreign>
+   </head>
+   <p>Date(s): <date>ca. AD 340-350</date>
+   </p>
+   <p>
+      <seg type="instance-description">By far the latest <hi rend="bold">authoritative demarcation</hi> in this catalog, a single boundary marker from a site called el-Guerria in Algeria attests to a demarcation between the territory of the <placeName type="ancient">Castellum Aurelianense Antoninianense</placeName> and land belonging to the <foreign xml:lang="la">ratio privata</foreign>. The demarcation was carried out by a decurion (of the <foreign xml:lang="la">castellum?</foreign>), on the order of a mid-fourth-century provincial governor of <placeName type="ancient">Mauretania Sitifensis</placeName>.</seg>
+   </p>
+   <div type="document" xml:id="DOC92"><!--*ILS 5964; CIL 8.20618; CIL 8.8811.-->
+      <head>DOC92: <bibl type="preferred">ILS 5964</bibl>; <bibl>CIL 8.20618</bibl>; <bibl>CIL 8.8811</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Limes
+            <lb/>agrorum a Gar
+            <lb break="no"/>gilio Goddeo dec(urione)
+            <lb/>p(ublice) p(ositus) secundum ius
+            <lb break="no"/>sionem v(iri) p(erfectissimi) Iucun
+            <lb break="no"/>di Peregrini p(raesidis) n(ostri)
+            <lb/>inter territori
+            <lb break="no"/>um Aureliese et p
+            <lb break="no"/>rivata [r]ation[e]
+            <lb/>[---]OC[---]</ab>
+      </div>
+      <div type="translation">
+         <p>Field boundary between the Aurelian(?)
+                territory and the <foreign xml:lang="la">ratio privata,</foreign>
+                publicly established(?) by Gargilius Goddeus, decurion, following the orders of
+                Iucundus Peregrinus, <foreign xml:lang="la">vir perfectissimus,</foreign> our <foreign xml:lang="la">praeses.</foreign>
+         </p>
+      </div>
+   </div>
+</div>

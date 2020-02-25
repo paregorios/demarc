@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST99">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Histonium</placeName> and <persName>Tillius Sassius</persName>
+   </head>
+   <p>Date(s): <date>late 1st century AD</date>
+   </p>
+   <p>
+      <seg type="instance-description">This <hi rend="bold">boundary dispute</hi> (<foreign xml:lang="la">actum esse in re praesenti de controversia finium</foreign>) between a private landowner and the city of <placeName type="ancient">Histonium</placeName>(mod. <placeName type="modern">Vasto</placeName> in <placeName type="modern">Italy</placeName>) was handled by binding arbitration in front of an arbiter selected by both parties to the dispute. It is one of only two documented cases of the use of binding arbitration in boundary disputes, and the only one to involve a civic entity.<note n="274" xml:id="ftn274"> The other dispute, which involved private parties on both sides, is documented on tablets from Herculaneum (see note <bibl>
+               <ptr target="dbib:elliott-2004"/>
+               <biblScope unit="note">156</biblScope>
+               <biblScope unit="ref-name">ftn156</biblScope>
+            </bibl>). </note>
+      </seg>
+   </p>
+   <p>Although the inscription breaks off in the middle, enough survives for us to understand its content. It records the verdict (<foreign xml:lang="la">sentetia</foreign>, sic) of one <persName>Gaius Helvidius Priscus</persName>, acting as arbiter in a boundary dispute between an otherwise unknown individual named <persName>Tillius Sassus</persName> (represented by his procurator) and the <foreign xml:lang="la">municipium</foreign> 
+      <placeName type="ancient">Histoniensium</placeName>, represented by an advocate. At issue was the border separating two <foreign xml:lang="la">fundi</foreign>, one owned by each party. The surviving part of <persName>Priscus’</persName>verdict, which is given in the first person, concerns an important piece of evidence brought forward by the parties to the case: an old book that recorded a <foreign xml:lang="la">determinatio</foreign> made during the resolution of an earlier dispute over the same property line. If scholarly conjectures going back to Dessau are correct in identifying <persName>Priscus</persName> with the famous Stoic philosopher and senatorial critic of Vespasian,<note n="275" xml:id="ftn275"> PIR<seg type="T19">2</seg> H59. </note> then his verdict must have been delivered sometime in the latter part of the first century. The earlier case had been decided by an individual named Quintus Coelius Gallus in AD 19 (according to the consular date formula), some 50 or more years earlier. He, evidently, had served as the arbiter or <foreign xml:lang="la">iudex </foreign>in the earlier case, and had produced a <foreign xml:lang="la">determinatio</foreign> as part of his verdict.</p>
+   <p>Of particular interest is <persName>Priscus’</persName> language in his prologue to the recitation and explication of the old <foreign xml:lang="la">determinatio</foreign>.<note n="276" xml:id="ftn276"> On the basis of surviving evidence, this would appear to have been the universal form employed for rendering decisions in boundary disputes during the Roman empire, whether the case was resolved by an arbiter, an appointed <foreign xml:lang="la">iudex</foreign>, a governor, or a special legate of the emperor. </note> He describes the character of the original case and Gallus’ verdict using the same mixture of legal and boundary-related terms that we find in most of the extant Latin boundary-dispute evidence: <foreign xml:lang="la">actum esse in re praesenti de controversia finium, ita ut utrisque dominis tum fundorum praesentibus Gallus terminaret </foreign>(as the <foreign xml:lang="la">actio</foreign> in the case concerned a “dispute of boundaries,” so, with the then owners of both <foreign xml:lang="la">fundi</foreign> present, Gallus established the border). There is a clear linkage in <persName>Priscus’ </persName>phrase between the specific type of <foreign xml:lang="la">actio</foreign> (<foreign xml:lang="la">de controversia finium</foreign>), the presence of the owners of the property, and the process of <foreign xml:lang="la">terminatio</foreign> carried out by <persName>Gallus</persName> himself. Furthermore, <persName>Priscus’</persName> recitation of the old <foreign xml:lang="la">determinatio</foreign> emphasizes Gallus’ personal involvement in the placing of the boundaries and boundary markers (<foreign xml:lang="la">primum palum figeret ... palum fixum esse a Gallo ... derectam finem ab eodem Gallo</foreign>).</p>
+   <p>It seems difficult to escape the conclusion that the resolution of an <foreign xml:lang="la">actio de controversia finium </foreign>required – even if resolved extra-judicially through an <foreign xml:lang="la">arbiter ex compromisso </foreign>– the presence of the judicially competent individual and the owners (or their legal representatives) on the disputed territory itself so that the path of the boundary and the character of the markers could be demonstrated to them. It is clear from much other evidence that the Romans willingly and easily transferred the terminology and procedures of the private law in this area to disputes in the provinces between every conceivable combination of litigants: private and civic, citizen and peregrine. If it was a requirement of the private law, as we have argued above, that the verdict in a boundary dispute be delivered on site in the presence of the parties to the case, then the extrapolation of this requirement to the provinces also may help to explain a number of factors. First of all, it will explain the frequent emphasis in verdicts on the presence of the governor or <foreign xml:lang="la">iudex </foreign>on the boundary in question. It also explains why the governor writing to <placeName type="ancient">Thasos </placeName>says that he had sent a soldier for the boundaries, and that when he arrived himself he would establish them. The official resolution of the matter had to wait for his arrival. The prevalence of delegation (both by governors and by emperors) is also explained: if someone actually had to go to the site, it would rarely be practical for a governor to do so, let alone an emperor.</p>
+   <div type="document" xml:id="DOC163"><!--*ILS 5982. See also: Campbell 2000, 470; CIL 9.2827.-->
+      <head>DOC163: <bibl type="preferred">ILS 5982</bibl>. See also: <bibl>Campbell 2000, 470</bibl>; <bibl>CIL 9.2827</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>C(aius) Helvidius Priscus, arbiter
+            <lb/>ex conpromisso inter Q(uintum)
+            <lb/>Tillium Eryllum, procurato
+            <lb break="no"/>rem Tilli Sassi, et M(arcum) Paquium Aulanium,
+            <lb/>actorem municipi Histoniensium,
+            <lb/>utrisq(ue) praesentibus iuratus sentetiam
+            <lb/>dixit in ea verba, q(uae) inf(ra) s(cripta) s(unt).
+            <lb/>Cum libellus vetus ab actoribus Histoniensium
+            <lb/>prolatus sit, quem desideraverat Tillius
+            <lb/>Sassius exhiberi, et in eo scriptum fuerit,
+            <lb/>eorum locorum, de quibus agitur, fa
+            <lb break="no"/>ctam determinationem per Q(uintum) Coelium Gal
+            <lb break="no"/>lum: M(arco) Iunio Silano L(ucio) Norbano Balbo
+            <lb/>co(n)s(ulibus) VIII k. Maias inter P(ublium) Vaccium Vitulum
+            <lb/>auctorem Histoniensium fundi Heriani
+            <lb break="no"/>ci et Titiam Flaccillam proauctorem Til
+            <lb break="no"/>li Sassi fundi Vellani a(ctum) e(sse) in re praesenti
+            <lb/>de controversia finium, ita ut utrisq(ue)
+            <lb/>dominis tum fundorum praesentibus
+            <lb/>Gallus terminaret, ut primum palum
+            <lb/>figeret a quercu pedes circa undec
+            <lb break="no"/>im, abesset autem palus a fossa neque
+            <lb/>apparet, quod perdes scripti essent
+            <lb/>propter vetustatem libelli interrupti
+            <lb/>in ea parte, in qua numerus pedum
+            <lb/>scritus (sic) videtur fuisse -- inter fos
+            <lb break="no"/>sam autem et palum iter communem
+            <lb/>esset, cuius propietas soli Vacci Vituli esset;
+            <lb/>ex eo palo e regione ad fraxinum notatam pal
+            <lb break="no"/>um fixum esse a Gallo et ab eo palo e regione ad
+            <lb/>supercilium ultimi lacus Serrani in partem sinisterio
+            <lb break="no"/>[rem d]erectam finem ab eodem Gallo
+            <lb/>- - - - - - - - -</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Gaius Helvidius Priscus</persName>, <foreign xml:lang="la">arbiter ex conpromisso</foreign> between <persName>Quintus Tillius Eryllus</persName>, procurator of <persName>Tillius Sassius</persName>, and <persName>Marcus Paquius Aulanius</persName>, advocate of the
+                    <foreign xml:lang="la">municipium</foreign> of the <placeName type="ancient">Histonienses</placeName>, with both parties
+                present and himself having taken the oath, proclaimed his verdict in those words
+                which are written below.</p>
+         <p>Since an old book (petition?) that <persName>Tillius Sassius</persName> wanted considered as
+                evidence was produced by the advocates of the <placeName type="ancient">Histonienses</placeName>, and in it was
+                written a <foreign xml:lang="la">determinatio</foreign> of those
+                places concerned in this dispute that had been made by <persName>Quintus Coelius Gallus</persName> when <persName>Marcus Iunius Silanus</persName> and <persName>Lucius Norbanus Balbus</persName> were consuls, 8
+                days before the Kalends of May, between <persName>Publius Vaccius Vitulus</persName>, prior owner of the <placeName type="ancient">Histonienses’</placeName>
+                <placeName type="ancient">Fundus Herianicus </placeName>and
+                    <persName>Titia Flacilla</persName>, even earlier
+                owner of <persName>Tillius Sassus’</persName>
+                <placeName type="ancient">Fundus Vellanus</placeName>, and as the
+                case concerned a boundary dispute, so, with the owners of both estates present,
+                    <persName>Gallus</persName> established the
+                border, with the result that he placed the first stake about eleven feet from the
+                oak tree, then a stake that was some distance from the ditch (but how many feet were
+                written does not appear because, on account of age, the book has a gap in that spot
+                where the number of feet appears to have been written), then between the ditch and
+                the stake there was a common road of which the sole owner was <persName>Vaccus Vitulus</persName>. From this stake in a
+                straight line to the marked ash tree a stake was placed by <persName>Gallus</persName> and from that stake in a straight
+                line to the shore of the last lake of <persName>Serranus</persName>, on the left side the boundary was drawn by <persName>Gallus</persName> himself ...</p>
+      </div>
+   </div>
+</div>

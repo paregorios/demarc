@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST82">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Demarcation between Unnamed Parties in the Area of <placeName type="ancient">Capidava</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 24</bibl>
+   </p>
+   <p>Date(s): <date>AD 229</date>
+   </p>
+   <p>
+      <seg type="instance-description">Three boundary markers recovered from the area between <placeName type="ancient">Capidava</placeName> (mod. <placeName type="modern">Topalu</placeName> in <placeName type="modern">Romania</placeName>) and the <placeName type="ancient">Vicus *Ulmetensium</placeName> (mod. <placeName type="modern">Pantelimon de Sus</placeName>) attest to an <hi rend="bold">authoritative demarcation</hi> of something unspecified during the early third century.</seg>
+   </p>
+   <p>One of the three boundary markers was wholly unreadable when discovered, but it has been associated with the other two on the basis of its shape and material.<note n="509" xml:id="ftn509"> IScM 5.57b. </note> The other two clearly correspond to the same demarcation, but exhibit some differences in spelling and were found separately (Text <ref target="ddoc:127">
+         <bibl>
+            <biblScope>101.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> in the vicinity of <placeName type="modern">Topalu</placeName> and Text <ref target="ddoc:123">
+         <bibl>
+            <biblScope>101.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>in the vicinity of <placeName type="modern">Pantelimon de Sus</placeName>). Editors of these texts generally assume that the corresponding demarcation (ordered by the provincial governor <persName>Mantennius Sabinus </persName>and carried out by an otherwise unknown centurion) separated the civic territories of the two settlements. This supposition cannot be proved from the content of the text.</p>
+   <div type="document" xml:id="DOC127"><!--*EDH HD019084; IScM 5.8; AE 1960.349.-->
+      <head>DOC127: <bibl type="preferred">EDH HD019084</bibl>; <bibl>IScM 5.8</bibl>; <bibl>AE 1960.349</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Impera[n]
+            <lb break="no"/>te domin[o n(ostro)]
+            <lb/>Severo [Ale]
+            <lb break="no"/>x[an]dro
+            <lb/>c(onsule) III et Cass(io)
+            <lb/>Dion(e) II (consule)
+            <lb/>Iul(ius) Vit[alis]
+            <lb/>|(centurio) leg(ionis) ex [pr(a)ec(epto)]
+            <lb/>v(iri) c(larissimi) Mant[enni]
+            <lb/>co(n)s(ularis) n(ostri) t[ermi(nos)]
+            <lb/>fix(it)</ab>
+      </div>
+      <div type="translation">
+         <p>(Dated:) when the emperor our lord <persName type="emperor">Severus Alexander</persName> was consul for the
+                3rd time and <persName>Cassius Dio </persName>was
+                consul for the second time. <persName>Iulius Vitalis</persName>, centurion of the legion, according to the command of
+                    <persName>Mantennius Sabinus</persName>,
+                    <foreign xml:lang="la">clarissimus vir</foreign> our <foreign xml:lang="la">consularis</foreign>, established boundary
+                markers.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC123"><!--EDH HD025195; *IScM 5.57a; AE 1922.73; Parvan 1915, 245.-->
+      <head>DOC123: <bibl>EDH HD025195</bibl>; <bibl type="preferred">IScM 5.57a</bibl>; <bibl>AE 1922.73</bibl>; <bibl>Parvan 1915, 245</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imper[an]
+            <lb break="no"/>te dom(ino)
+            <lb/>nostro [[Se]]
+            <lb break="no"/>[[vero Alex]]
+            <lb break="no"/>[[andro]] co(n)s(ule)
+            <lb/>III T[-](?) C[a]ssi[o]
+            <lb/>Dione II co(n)s(ule)
+            <lb/>Iul(ius) Vitale(s)(!)
+            <lb/>|(centurio) leg(ionis) ex pr(a)
+            <lb break="no"/>ecepto v(iri) c(larissimi)
+            <lb/>Manten
+            <lb break="no"/>ni Sabin[i]
+            <lb/>co(n)s(ularis) n(ostri) t(erminos) ficxi[t](!)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

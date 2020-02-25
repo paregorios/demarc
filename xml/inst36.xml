@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST36">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Markers Placed between the <placeName type="ancient">Igilgilitani</placeName> and the <placeName type="ancient">Zimizes</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 59</bibl>
+   </p>
+   <p>Date(s): <date>AD 128</date>
+   </p>
+   <p>
+      <seg type="instance-description">The procuratorial governor of <placeName type="ancient">Mauretania Caesariensis</placeName> authorized the placement of boundary markers between territory belonging to Roman citizens living in the Augustan colony at <placeName type="ancient">Igilgili</placeName> (mod. <placeName type="modern">Jijel</placeName> in <placeName type="modern">Algeria</placeName>) and an indigenous people, the <placeName type="ancient">Zimizes</placeName>. The text seems to indicate a demarcation aimed a particular area, rather than an entire civic territory: its ostensible purpose was to clarify for the <placeName type="ancient">Zimizes</placeName> that they could no longer have use of a <foreign xml:lang="la">castellum</foreign> that was within the territory of <placeName type="ancient">Igilgili</placeName>. It is not clear whether this demarcation represents the resolution of a dispute between the two parties or whether the action was administrative (e.g., confiscation of an important facility as punishment for some other misbehavior), and so this incident must remain classified only as an <hi rend="bold">authoritative demarcation</hi>.</seg>
+   </p>
+   <p>The implications and consequences of this demarcation are incompletely understood. An argument has been made for seeing this demarcation as an example of Roman ‘governmental’ policy aimed at the reservation of ‘traditionally tribal’ land for intensive cultivation by Roman colonists.<note n="495" xml:id="ftn495"> Kehoe 1988, 207 n. 48. </note> Cultivation cannot be the point of the demarcation, for the inscribed text is clear: only the area enclosed by the wall of the ‘fortlet’<note n="496" xml:id="ftn496"> There is a vast and divergent scholarly literature on the topic of <foreign xml:lang="la">castella</foreign> in North Africa. The word seems to have denoted different things at different times to different ancient authors, ranging from ‘fortified place’ or ‘fortlet’ to ‘small, indigenous community.’ It may also have connoted, in some contexts, a hierarchical classification or rank of community. See: Bouchenaki 1977, 196-198, Whittaker 1978, 352-355, Gascou 1983 and Le Bohec 1990. Given the association in this case with a Roman colonial foundation, and the measurements for the <foreign xml:lang="la">castellum</foreign>itself (see note <bibl>
+            <ptr target="dbib:elliott-2004"/>
+            <biblScope unit="note">497</biblScope>
+            <biblScope unit="ref-name">ftn497</biblScope>
+         </bibl>), ‘fortlet’ seems the most acceptable choice. </note> (a mere 500 Roman feet)<note n="497" xml:id="ftn497"> If this 500 Roman feet (<foreign xml:lang="la">p(assus) D</foreign>) is a perimeter measurement, the <foreign xml:lang="la">castellum</foreign> will have been something like 125 Roman feet (approximately 121 ft = 37 m) on a side (if assumed to be square) or a circle with a diameter of 160 Roman feet (approximately 155 ft = 47.4 m). The enclosed area will then have been between 1,636 yd<seg type="T19">2</seg> and 2,105 yd<seg type="T19">2</seg> (1,369 m<seg type="T19">2</seg> – 1,762 m<seg type="T19">2</seg>), less than half the area of an NCAA regulation football field (5,333 yd<seg type="T19">2</seg> = 4,459 m<seg type="T19">2</seg>; cf., http://www.ncaa.org/champadmin/football/football_field.html). This is just slightly larger in area than one Roman <foreign xml:lang="la">actus quadratus </foreign>(half a <foreign xml:lang="la">iugerum</foreign>): 1,508 yd<seg type="T19">2</seg> = 1,262 m<seg type="T19">2</seg>. </note> was at issue. That the new structure had been built on land to which “the <placeName type="ancient">Zimizes</placeName>, who are generally thought to be mountain neighbours of the <placeName type="ancient">Igilgilitani</placeName>, had [previously] held joint title”<note n="498" xml:id="ftn498"> Whittaker 1978, 349. </note> is interesting indeed, but we cannot recover the reasons for this development. <foreign xml:lang="la">Castella</foreign>, such as this one, may well have been a resource of value both to sedentary agriculturalists and the transhumant or nomadic peoples with whom they interacted seasonally.<note n="499" xml:id="ftn499"> Around 44 BC a <foreign xml:lang="la">castellum</foreign> was divided by a Roman official: <foreign xml:lang="la">divisit</foreign> 
+         <foreign xml:lang="la">inter colonos et Uchitanos</foreign>. These <foreign xml:lang="la">coloni</foreign> are plausibly argued by Whittaker 1978, 354 to have been, not Roman veteran colonists, but “sedentary farmers of the royal Numidian estates” who needed to share the resources of the <foreign xml:lang="la">castellum</foreign> with the ‘possibly transhumant’ <placeName type="ancient">Uchitani</placeName>. There is nothing, <seg type="term">pace</seg> Whittaker, about this fragmentary Republican-era text that proves the division arose from a dispute or arbitration. </note>
+   </p>
+   <div type="document" xml:id="DOC90"><!--*EDH HD016506; ILS 5961; CIL 8.8369.-->
+      <head>DOC90: <bibl type="preferred">EDH HD016506</bibl>; <bibl>ILS 5961</bibl>; <bibl>CIL 8.8369</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Termini positi inter
+            <lb/>Igilgilitanos in
+            <lb/>quorum finibus kas
+            <lb break="no"/>tellum Victoriae
+            <lb/>positum est et Zimiz(es)
+            <lb/>ut sciant Zimizes
+            <lb/>non plus in usum
+            <lb/>se haber(e) ex aucto
+            <lb break="no"/>ritate M(arci) Vetti La
+            <lb break="no"/>tronis proc(uratoris) Aug(usti)
+            <lb/>qua in circuitu
+            <lb/>a muro kast(elli) p(assus)
+            <lb/>D pr(ovinciae) LXXXIX Tor
+            <lb break="no"/>quato et Libone co(n)s(ulibus)</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary markers placed between the <placeName type="ancient">Igilgilitani </placeName>(within whose borders
+                the <placeName type="ancient">castellum Victoriae </placeName>is
+                located) and the <placeName type="ancient">Zimizes</placeName>,
+                in order that the <placeName type="ancient">Zimizes </placeName>might know that they no longer have use of it. By the authority of
+                    <persName>Marcus Vettius Latro</persName>,. As much as is encircled by the wall of the <foreign xml:lang="la">castellum</foreign>: 500 feet. In the year of the
+                province 89, when <persName>Torquatus </persName>and
+                    <persName>Libo </persName>are consuls.</p>
+      </div>
+   </div>
+</div>

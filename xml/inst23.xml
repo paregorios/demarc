@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST23">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of Public Places at <placeName type="ancient">Pompeii</placeName>
+   </head>
+   <p>Date(s): <date>AD 70-79?</date>
+   </p>
+   <p>
+      <seg type="instance-description">Three boundary markers from <placeName type="ancient">Pompeii</placeName> bearing identical texts attest to the intervention of a tribune of the praetorian guard who, on the emperor’s authority, restored to civic control public lands that had been occupied by private persons. That this task entailed the resolution of more than one <hi rend="bold">boundary dispute</hi> is confirmed by the text’s indication that cases were heard and surveys made (<foreign xml:lang="la">causis cognitis et mensuris factis</foreign>).</seg>
+   </p>
+   <p>The career of this tribune, <persName>T. Suedius Clemens</persName>, as well as his activities in <placeName type="ancient">Pompeii</placeName>, are documented by a number of disparate sources.<note n="390" xml:id="ftn390"> See now Jiménez de Furundarena 1999 and Franklin 2001, 156-194, both with complementary sources, literature and discussion. The following discussion of Clemens’ role at <placeName type="ancient">Pompeii </placeName>is heavily dependent upon Franklin’s presentation and arguments. </note> He first comes to our attention as an infamous <foreign xml:lang="la">primus pilus </foreign>of the praetorians under <persName type="emperor" rend="normal">Otho</persName> in AD 69, and vanishes again after memorializing a visit (now <foreign xml:lang="la">praefectus castrorum</foreign>) to the colossus of Memnon in Egypt in AD 79. Surviving electoral notices at <placeName type="ancient">Pompeii</placeName> reveal that <persName>Clemens</persName> played a role in local politics during his tenure there, which can be no more securely dated than some time shortly before the eruption of <placeName type="modern">Mt. Vesuvius </placeName>in AD 79. He endorsed a man named <persName>M. Epidius Sabinus </persName>for the office of duovir. The notices in question style <persName>Clemens</persName> as <foreign xml:lang="la">sanctus</foreign> or <foreign xml:lang="la">sanctissimus</foreign> 
+      <foreign xml:lang="la">iudex</foreign> (sacred judge).<note n="391" xml:id="ftn391"> 
+         <seg type="T33">CIL 4.1059 = Franklin 2001, 158.166, CIL 4.768 = Franklin 2001, 159.168, CIL 4.7579 = Franklin 2001, 159.169.</seg> 
+      </note> On another notice, wherein Clemens’ title is not made explicit, <persName>Clemens’</persName> endorsement is characterized as a sententia: <foreign xml:lang="la">M. Epidium Sabinum ex sententia Suedi Clementis Sabinus d(uo) v(irum) i(ure) d(icundo) o(ro) v(os) f(aciatis)</foreign>.<note n="392" xml:id="ftn392"> CIL 4.791 = Franklin 2001, 158.167. </note> The use of this term may have been intended to evoke Clemens’ judicial role as well. For his part, <persName>Sabinus</persName> is elsewhere styled <foreign xml:lang="la">defensor coloniae</foreign>, a title that may indicate he served as a <foreign xml:lang="la">causidicus</foreign> (case pleader) before <persName>Clemens’</persName>tribunal.</p>
+   <p>We would of course like to know more about <persName>Clemens’</persName> activities and relationships with the local elites of <placeName type="ancient">Pompeii</placeName>, but even as it stands his is by far the most illuminating legacy of any of the <foreign xml:lang="la">iudices </foreign>known to have been involved in boundary disputes during the empire. It seems clear that the issue of <placeName type="ancient">Pompeii’s</placeName>public spaces was a very sensitive one. <persName>Clemens</persName> seems to have had a significant public profile, and to have engaged with members of the local elite in a dynamic way over an extended period of time. Whether we should take his relationship with <persName>Sabinus</persName> in the electoral notices as indicating that he was highly regarded throughout the community as a result of his work remains unclear. It depends on whether we take these electoral notices as the work of the candidate, or of his opponents. L. Acilius Strabo, who carried out a similar mission with respect to Roman public lands in <placeName type="ancient">Cyrenaica</placeName>, was prosecuted before the Senate by the provincials.<note n="393" xml:id="ftn393"> Instance <ref target="#INST183">
+            <bibl>
+               <biblScope>62</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> If <persName>Clemens</persName> was widely disliked for his role, a reported verdict in favor of a particular candidate on the part of the ‘most revered’ judge might not reflect well on the recipient.</p>
+   <p>The contexts in which these markers were placed provide some additional information about the nature of <persName>Clemens’</persName> commission.<note n="394" xml:id="ftn394"> The following discussion derives from the findings of Kathryn McDonnell, which she has been kind enough to share with me in advance of publication. See my notes on the context of each marker below. </note> They all occupy prominent positions just outside the city gates and coordinate spatially with a zone of clear space, tombs, statues and pathways that encircle the city just outside the walls. Some of the monuments carry inscriptions indicating that the monument was placed in accordance with a decree of the decurions or that the space had been explicitly granted for the purpose (<foreign xml:lang="la">locus datus</foreign>), a clear indication that civic public space in this area was being legally granted for the construction of tombs and the erection of monuments. At the <seg type="treForeign">Porta di Vesuvio</seg>, a number of uninscribed cippi survive, demarcating the edge of the road and some divisions between tombs. Clearly, <persName>Clemens’</persName>task was to oversee a review of all occupation in this zone, and to judge on the basis of available evidence which structures and uses had been legally authorized, and whether these legal users had kept their structures within bounds specified in the authorizations.</p>
+   <p>Although we cannot document it, it seems likely that <persName>Clemens’</persName> activities were directly and explicitly delegated to him by the emperor. This delegation presumably would have followed on from a petition brought to the emperor by the Roman colony at <placeName type="ancient">Pompeii</placeName>, requesting his assistance in sorting out a thorny problem that might otherwise provoke significant civic unrest. We should not be surprised by such an approach, since the inhabitants of <placeName type="modern">Italy</placeName> at this period lacked anyone equivalent to a provincial governor they could approach. The pattern is illustrated by the behavior of the people of Nuceria in AD 59, who approached the emperor with their concerns about a riot that had occurred in Pompeii, during which many of their citizens had been killed.<note n="395" xml:id="ftn395"> Tac. Ann. 14.17. </note> In that case, Nero referred the matter to the Senate. It may be that by Vespasian’s time is was quite clear that the demarcation of boundaries and related tasks was thoroughly a prerogative of the emperor.<note n="396" xml:id="ftn396"> We have only two examples of the Senate’s involvement in land disputes during the principate: Instances <ref target="#INST76">
+            <bibl>
+               <biblScope>10</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST94">
+            <bibl>
+               <biblScope>64</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. The first of these, involving the temple of Artemis Limnatis had significant pre-imperial antecedents, including action by the Senate during the Republic. The second case, in which the proconsul of <placeName type="modern">Crete</placeName> restored to the city of <placeName type="ancient">Gortyn</placeName> 
+         <foreign xml:lang="la">praedia publica</foreign>that had been occupied by private persons, was carried out on the combination of the emperor’s authority and a decree of the Senate. The reasons for this unique formulation are obscure. </note> In any case, only the emperor could have assigned an military officer on active service to attend to such a matter. As a special emissary of the emperor, <persName>Clemens’</persName> mission therefore compares with that of <persName type="emperor" rend="normal">Claudius’</persName> 
+      <foreign xml:lang="la">amicus</foreign> 
+      <persName>Iulius Planta</persName>, who was sent north to the area of <placeName type="ancient">Comum</placeName> to investigate a complex dispute involving several communities.<note n="397" xml:id="ftn397"> Instance <ref target="#INST54">
+            <bibl>
+               <biblScope>15</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <p type="P35">
+      <foreign xml:lang="la">ex auctoritate / imp(eratoris) caesaris / Vespasiani Aug(usti) / loca publica a privatis / possessa (vacat) T(itus) Suedius /</foreign>
+      <foreign xml:lang="la">
+         <seg type="T19">5</seg>
+      </foreign>
+      <foreign xml:lang="la"> Clemens tribunus causis / cognitis et mensuris factis / rei publicae Pompeianorum / restituit</foreign>
+   </p>
+   <div type="document" xml:id="DOC166"><!--ILS 5942; *CIL 10.1018.-->
+      <head>DOC166: <bibl>ILS 5942</bibl>; <bibl type="preferred">CIL 10.1018</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctoritate
+            <lb/>imp(eratoris) Caesaris
+            <lb/>Vespasiani Aug(usti)
+            <lb/>loca publica a privatis
+            <lb/>possessa T(itus) Suedius Clemens
+            <lb/>tribunus, causis cognitis et
+            <lb/>mensuris factis, rei
+            <lb/>publicae Pompeianorum
+            <lb/>restituit</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar
+                    <persName type="emperor">Vespasian </persName>Augustus,
+                    <persName>Titus Suedius Clemens</persName>,
+                tribune, the cases having been heard and measurements having been taken, restored
+                public places repossessed from private parties to the <placeName type="ancient">res publica Pompeianorum</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC323"><!--Spano 1910b, 399-401.-->
+      <head>DOC323: <bibl>Spano 1910b, 399-401</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctoritate
+            <lb/>imp(eratoris) Caesaris
+            <lb/>Vespasiani Aug(usti)
+            <lb/>loca publica
+            <lb/>a privatis possessa T(iberius) Suedius
+            <lb/>Clemens tribunus causis cognitis
+            <lb/>et mensuris factis rei publicae
+            <lb/>Pompeianorum restituit</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC482"><!--*Bruneau 1975, 124 fig. 14 (photo only).-->
+      <head>DOC482: <bibl type="preferred">Bruneau 1975, 124 fig. 14 (photo only)</bibl>.</head>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST142">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Asseria</placeName> and <placeName type="ancient">Alveria</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 18</bibl>
+   </p>
+   <p>Date(s): <date>AD 69</date>
+   </p>
+   <p>
+      <seg type="instance-description">This text, discovered at modern <placeName type="modern">Dobropoljci</placeName> in <placeName type="modern">Croatia</placeName>,<note n="260" xml:id="ftn260"> NB, at Wilkes 1974, 262 no. 11 the findspot is described as “probably Alveria,” but now see BAtlas 20 C5 following Miletić 1993, 69. </note> just south of ancient <placeName type="ancient">Alveria</placeName> (mod. <placeName type="modern">Gradina</placeName> in <placeName type="modern">Bjelina</placeName>) records the appointment of several otherwise unknown individuals with <foreign xml:lang="la">tria nomina</foreign> as <foreign xml:lang="la">iudices dati</foreign> in a <hi rend="bold">boundary dispute</hi> between <placeName type="ancient">Asseria</placeName> (mod. <placeName type="modern">Podgrađe</placeName> near <placeName type="modern">Benkovac</placeName>) and <placeName type="ancient">Alveria</placeName>.</seg>
+   </p>
+   <div type="document" xml:id="DOC184"><!--*Wilkes 1974, 262 no. 11; ILS 5951; CIL 3.9938; EE 2.563.-->
+      <head>DOC184: <bibl type="preferred">Wilkes 1974, 262 no. 11</bibl>; <bibl>ILS 5951</bibl>; <bibl>CIL 3.9938</bibl>; <bibl>EE 2.563</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Cl]audius L[ --- ]
+            <lb/>Avilius Clemen[s],
+            <lb/>Coelius Capella, P(ublius)
+            <lb/>ecius Libo, P(ublius) Valeri
+            <lb break="no"/>Secundus iudices
+            <lb/>ati a M(arco) Pompeio Silva
+            <lb break="no"/>no leg(ato) Aug(usti) pro pr(aetore) inter
+            <lb/>rem p(ublicam) Asseriatiut rem p(ublicam) Al
+            <lb break="no"/>veritarum inpraesenti per
+            <lb/>[sententi]determinaverunt.</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Tiberius Claudius L[- - -]</persName>, <persName>Gaius Avilius Clemens</persName>, <persName>Lucius Coelius Capella</persName>, <persName>Publius Raecius Libo</persName>, <persName>Publius Valerius Secundus</persName>, <foreign xml:lang="la">iudices</foreign> appointed by <persName>Marcus Pompeius Silvanus</persName>, propraetorian imperial legate, established the
+                boundary between the <foreign xml:lang="la">res publica</foreign>
+                of the <placeName type="ancient">Asseriates</placeName> and the
+                    <foreign xml:lang="la">res publica</foreign> of the <placeName type="ancient">Alveritae</placeName> through their own
+                verdict in the current case.</p>
+      </div>
+   </div>
+</div>

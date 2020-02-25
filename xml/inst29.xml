@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST29">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Possible Boundary Dispute between the <placeName type="ancient">Aunobari</placeName> and <persName>Iulius Regillus</persName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 86 and 87</bibl>
+   </p>
+   <p>Date(s): <date>after AD 117</date>
+   </p>
+   <p>
+      <seg type="instance-description">A largely intact inscription (Text <ref target="ddoc:235">
+            <bibl>
+               <biblScope>41.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>) records the verdict (<foreign xml:lang="la">decretum ex tabella recitavit</foreign>) of the North African proconsul in a dispute between the city of <placeName type="ancient">Aunobari</placeName> (mod. <placeName type="modern">Henchir-Kern-el-Kebch</placeName> in <placeName type="modern">Tunisia</placeName>) and a private individual, <persName>Iulius Regulus</persName>.</seg>
+   </p>
+   <p>
+      <persName>Regulus</persName> is otherwise unknown. The proconsul <persName>Marcellus</persName> is attested on an inscription from <placeName type="ancient">Lepcis Magna</placeName>, but cannot be dated by any more precise method than the internal evidence of this inscription. The text of <persName>Marcellus’</persName> decision makes reference to an earlier “verdict of <persName>Cornutus</persName>, <foreign xml:lang="la">clarissimus vir,</foreign>” who should be identified with <persName>C. Iulius Cornutus Tertullus</persName>, proconsul of <placeName type="ancient">Africa</placeName> in AD 116-117 or 117-118. <persName>Marcellus </persName>must therefore postdate <persName>Cornutus</persName>.</p>
+   <p>Poinssot thought the style of the lettering was consistent with a date between Hadrian and the Severi. This estimate matches that proposed by Poinssot for a fragmentary list of names and titles found in the same spatial context (Text <ref target="ddoc:340">
+         <bibl>
+            <biblScope>41.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). These individuals may have served on the proconsul’s <foreign xml:lang="la">consilium</foreign>, perhaps in the case in question (the first text indicates that the verdict was issued following consultation with the <foreign xml:lang="la">consilium</foreign>). Poinssot’s dating of the second text relies on speculative identifications of some of the individuals involved, and would put the inscription during the early years of the reign of <persName type="emperor" rend="normal">Marcus Aurelius</persName>.</p>
+   <p>As Poinssot also noted, the language of the first text is consistent with that found on inscriptions clearly related to verdicts and arbitral decisions in boundary disputes, hence the classification of this text, from which the full preamble is missing. It is possible that the dispute did not concern boundaries; this ambiguity illustrates how completely the judicial resolution of boundary disputes was administratively and procedurally embedded in the standard Roman provincial administrative approach.</p>
+   <div type="document" xml:id="DOC235"><!--EDH HD027676; *ILAfr 591; AE 1921.38; Poinssot 1920, 141.1.-->
+      <head>DOC235: <bibl>EDH HD027676</bibl>; <bibl type="preferred">ILAfr 591</bibl>; <bibl>AE 1921.38</bibl>; <bibl>Poinssot 1920, 141.1</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>-----
+            <lb/>[---]idia
+            <lb/>[---] inter Aunobari
+            <lb break="no"/>tanos et Iulium Regillum pro
+            <lb break="no"/>nuntiasse in ea verba quae
+            <lb/>infra scripta sunt
+            <lb/>postquae(!) Marcellus proco(n)s(ul)
+            <lb/>collocutus cum consilio decre
+            <lb break="no"/>tum ex tabella recitavit
+            <lb/>cum acta inter Iulium Regillum
+            <lb/>et Aunobaritanos causa solum
+            <lb/>aput(!) me Cornuti decretum cla
+            <lb break="no"/>rissimi viri prolatum sit nihil ex eo mutari placet</ab>
+      </div>
+      <div type="translation">
+         <p>... between the <placeName type="ancient">Aunobaritani</placeName> and <persName>Iulius Regillus</persName>, pronounced in those
+                words which are written below.</p>
+         <p>“After which, <persName>Marcellus</persName>, the proconsul, having
+                discussed the matter with his <foreign xml:lang="la">consilium</foreign>, read out the verdict from the tablets: ‘With regard to
+                the legal case between <persName>Iulius Regillus </persName>and the <placeName type="ancient">Aunobaritani</placeName>, since only the verdict of <persName>Cornutus</persName>, <foreign xml:lang="la">clarissimus vir</foreign>, was produced in my
+                presence, let nothing be changed from it.’”</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC340"><!--*EDH HD027679; ILAfr 592; AE 1921.39; Poinssot 1920, 142.2.-->
+      <head>DOC340: <bibl type="preferred">EDH HD027679</bibl>; <bibl>ILAfr 592</bibl>; <bibl>AE 1921.39</bibl>; <bibl>Poinssot 1920, 142.2</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>---------
+            <lb break="no"/>L(ucius) Iulius Catullinus Q(uintus) Pompeius Primus L(ucius) Sem
+            <lb break="no"/>pronius Flaccus Q(uintus) Cordius Clemens M(arcus) Cla(u)dius Phi
+            <lb break="no"/>lippus L(ucius) Neratius Bassus L(ucius) M(arius) Perpetuus scriba qu(a)es
+            <lb break="no"/>torius Sex(tus) Serius Verus haruspex L(ucius) Pomponius Cari
+            <lb break="no"/>sianus scriba librarius P(ublius) Papenius Salutaris
+            <lb/>scriba librarius</ab>
+      </div>
+   </div>
+</div>

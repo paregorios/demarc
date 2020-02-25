@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST112">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Disputes between <placeName type="ancient">Thasos</placeName> and <placeName type="ancient">Philippi</placeName>?</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 25 and 63</bibl>
+   </p>
+   <p>Date(s): <date>AD 69-79</date>
+   </p>
+   <p>
+      <seg type="instance-description">Sometime during the reign of Vespasian, L. Venuleius Pataecius, the procuratorial governor of <placeName type="ancient">Thracia</placeName>, sent a letter to the city of <placeName type="ancient">Thasos </placeName>(on the homonymous island in the Thracian Sea). In his letter, he addressed a number of concerns that the city had clearly brought to his attention, presumably by way of a letter or decree delivered by an embassy. At least one of these concerns appears to have been a dispute with an unnamed colony, probably <placeName type="ancient">Philippi</placeName> (mod. Krenides). The governor wrote that he had delivered a verdict in the case, but its text is not extant. A number of other topics, including transport obligations associated with the <foreign xml:lang="la">cursus publicus</foreign> and appeals against unspecified earlier verdicts delivered by one Lucius Antonius,<note n="258" xml:id="ftn258"> Various theories about the identification and activities of this individual have been advanced. See the entries for L. Antoninus Saturninus and L. Antonius Naso in the Prosopographical Index. Given the context, Burton 2000, 211.63 supposes that this earlier decision also concerned boundaries. </note>are also addressed. Before the inscription breaks off, Pataecius discusses his provisions for resolving what was clearly a <hi rend="bold">boundary dispute</hi>, possibly the aforementioned matter involving <placeName type="ancient">Philippi</placeName>. He has sent a soldier (presumably a surveyor) to deal with “the boundaries,” and he promises the Thasians that, when he himself arrives, they will have nothing to complain about.</seg>
+   </p>
+   <p>Perhaps the most startling aspect of this letter is the involvement of the governor of <placeName type="ancient">Thracia</placeName>. The city of <placeName type="ancient">Thasos</placeName> was a nominally “free city” of Greece, but fell administratively within the province of <placeName type="ancient">Macedonia</placeName>. Why would a free Greek city of <placeName type="ancient">Macedonia</placeName> approach the governor of another province? The answer would seem to be that the problems addressed involved <placeName type="ancient">Thasos’</placeName> 
+      <foreign xml:lang="la">peraea</foreign> on the Thracian mainland, a well-attested possession from the 5th century BC onwards. This would explain a boundary dispute with <placeName type="ancient">Philippi</placeName>, and would also explain why the governor of <placeName type="ancient">Thracia</placeName> would have anything to say about transport obligations through <placeName type="ancient">Thasos’</placeName> territory. These are all matters on which the governor of <placeName type="ancient">Macedonia</placeName> can have had no influence.</p>
+   <p>There are two other demarcations registered in this catalog that probably related to the Thasian <foreign xml:lang="la">peraea</foreign> in Thrace, but they do not seem to be related in any direct way to this affair.<note n="259" xml:id="ftn259"> Instances <ref target="#INST97">
+            <bibl>
+               <biblScope>88</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and <ref target="#INST89">
+            <bibl>
+               <biblScope>95</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note>
+   </p>
+   <div type="document" xml:id="DOC188"><!--McCrum-Woodhead 457; *Thasos 2.186. See also: Pikoulas 1999, 897.4.-->
+      <head>DOC188: <bibl>McCrum-Woodhead 457</bibl>; <bibl type="preferred">Thasos 2.186</bibl>. See also: <bibl>Pikoulas 1999, 897.4</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[Λ. ?] Οὐειvούλειος Παταίκιος ἐπίτροπος αὐτοκράτο[ρος]
+            <lb/>Καίσαρος Οὐεσπασιανοῦ Σεβαστοῦ Θασίων ἄρχουσ[ι]
+            <lb/>βουλῂ δήμωι χαίρειν vac. καὶ πρὸς τὴν κολωνείαν ἐδικα[ι]
+            <lb break="no"/>οδότησα ὑμᾶς καὶ ἀπειλήφατε τὸ ὀφειλόμενον ἀργύριον
+            <lb/>καὶ τῆς ἀνγαρείας ὑμᾶς τὸ λοιπὸν ἀπολύω παρὲξ ὧν ἂν
+            <lb/>διὰ̀ τῆς ὑμετέρας χώρας vac. ἃ δὲ Λούκιος Ἀντώνιος ἀνὴρ
+            <lb/>ἐπισημότατος κέκρικε περὶ τοῦ παρῳχηκότος οὐκ ἐδυν[άμην]
+            <lb/>[ἀ]νασκευασθῆναι στρατιώτην ἔδωκα ὑμεῖν περὶ τῶν ὅρων,
+            <lb/>ὅταν αὐτὸς γένομαι (sic) κατὰ τόπον στήσσω καὶ ἐν οὐδενὶ μέμψε
+            <lb break="no"/>[σ]θε προθυμίαν γὰρ ἐκτενεστάτην ἔχω τοῦ ποιεῖν εὖ πάντας ἐπὶ Θ[ρᾴ]
+            <lb break="no"/>[κ]ην, ὑμᾶς δὲ δὴ καὶ σφόδρα. vac.
+            <lb/>Υἱὸς σώφρω[ν] φίλος ὢν [••••] ξένος τοσοῦτος [ - - - - - - -</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Lucius(?)Venuleius Pataecius</persName>, procurator of Caesar <persName type="emperor">Vespasian</persName> Augustus, to the magistrates,
+                council and people of <placeName type="ancient">Thasos</placeName>, greetings. I have delivered a verdict to you with respect
+                to the colony, you have received the money owed (to you), and further I would
+                release you from transport service obligations () except for those
+                things that (move) through your territory. I am not able to reverse the past
+                judgements of <persName>Lucius Antonius</persName>,
+                    . With respect to the boundaries, I have given you a
+                soldier. When I myself come to the site, I will place them (i.e., the boundary
+                markers) and you will have nothing to complain about, for I have the most assiduous
+                desire to make everything better in <placeName type="modern">Thrace</placeName>(?), and indeed especially you. ...</p>
+      </div>
+   </div>
+</div>

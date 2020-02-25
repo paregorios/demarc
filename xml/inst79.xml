@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST79">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of boundaries of the <placeName type="ancient">Regio Palmyrena</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 48, 50 and 51</bibl>
+   </p>
+   <p>Date(s): <date>AD 102 - 153</date>
+   </p>
+   <p>
+      <seg type="instance-description">A recurrent <hi rend="bold">boundary dispute</hi> involving <placeName type="ancient">Palmyra</placeName> and either <placeName type="ancient">Apamea</placeName> or <placeName type="ancient">Emesa</placeName> seems to have demanded the attention first of a legate and a procurator of <persName type="emperor" rend="normal">Trajan</persName>, and later of both the emperors <persName type="emperor" rend="normal">Hadrian</persName> and <persName type="emperor" rend="normal">Antoninus Pius</persName>.<seg type="T31">  </seg>
+         <seg type="T31">
+            <note n="305" xml:id="ftn305"> In addition to enumerating the relevant entries in IGLS, Burton 2000 cites Matthews 1984, 162 for additional information. Unfortunately, Matthews’ brief overview is inadequate: it does not describe the particulars of the monument and erroneously asserts that the documents from <placeName type="modern">Khirbet el-Bilaas</placeName>are “three inscriptions on a single column” (an error of fact reiterated at Burton 2000, 210 no. 51). Burton would have done better to pass over Matthews and to cite the <seg type="term">editio princeps</seg>(Schlumberger 1939), in which much essential information omitted even from IGLS is clearly and responsibly presented. </note>
+         </seg>
+      </seg>
+   </p>
+   <p>
+      <seg type="T31">The epigraphic component of our evidence for this dispute consists of two boundary marker texts and a badly damaged honorific inscription. We have the advantage in this case of being able to recover some of the original context of these documents: the wreckage of a monument at </seg>
+      <placeName type="modern">
+         <seg type="T31">Khirbet el-Bilaas</seg>
+      </placeName>
+      <seg type="T31"> (a.k.a. </seg>
+      <placeName type="modern">
+         <seg type="T31">Amoudan</seg>
+      </placeName>
+      <seg type="T31">) in </seg>
+      <placeName type="modern">
+         <seg type="T31">Syria</seg>
+      </placeName>
+      <seg type="T31">, approximately 70km to the northwest of </seg>
+      <placeName type="ancient">
+         <seg type="T31">Palmyra</seg>
+      </placeName>
+      <seg type="T31">. The monument, as reconstructed by the excavators, consisted of two major elements.</seg>
+      <seg type="T31">  </seg>
+      <seg type="T31">The latest element, a cippus of square cross-section with an elaborate molded base and top, had been pierced in the center of its upper surface to anchor some object now missing. One face of this cippus carried a Latin inscription recording a restoration of boundaries in AD 153 (Text </seg>
+      <seg type="T31">
+         <ref target="ddoc:106">
+            <bibl>
+               <biblScope>35.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>
+      </seg>
+      <seg type="T31">).</seg>
+   </p>
+   <p>
+      <seg type="T31">Just over a meter to the northeast of the cippus, and at an odd angle to it, stood a square stone platform, approximately five meters on a side, that supported a column approximately ten meters in height (six drums survive, three or four are thought to be missing). The capital of the column survives, and its upper surface is engraved with six holes consistent with two statues standing back-to-back (now lost), each figure of which must have held a scepter or similar object in its left hand. The third column drum from the bottom was engraved with a now badly damaged Greek inscription including portions of the titulature of </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Trajan</seg>
+      </persName>
+      <seg type="T31"> and </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Nerva</seg>
+      </persName>
+      <seg type="T31">, but otherwise too mutilated to parse (Text </seg>
+      <seg type="T31">
+         <ref target="ddoc:459">
+            <bibl>
+               <biblScope>35.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>
+      </seg>
+      <seg type="T31">). It is generally thought to have been honorific in nature.</seg>
+   </p>
+   <p>
+      <seg type="T31">The third inscription is the earliest, and is also damaged. Part of it was found loose on the site, the other part was discovered re-used with other uninscribed stones to form a platform for the cippus bearing the Hadrianic inscription. This document, though lacking the middle portion of the text, almost certainly records the restitution of boundaries between </seg>
+      <placeName type="ancient">
+         <seg type="T31">Palmyra</seg>
+      </placeName>
+      <seg type="T31"> and </seg>
+      <placeName type="ancient">
+         <seg type="T31">Emesa </seg>
+      </placeName>
+      <seg type="T31">or </seg>
+      <placeName type="ancient">
+         <seg type="T31">Apamea </seg>
+      </placeName>
+      <seg type="T31">by a legate and a procurator of </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Trajan</seg>
+      </persName>
+      <seg type="T31">.</seg>
+   </p>
+   <p>
+      <seg type="T31">It seems clear that, in aggregate, we have evidence here for the same sort of intractable, recurrent dispute revealed by the documents from the </seg>
+      <placeName type="modern">
+         <seg type="T31">Coronean</seg>
+      </placeName>
+      <seg type="T31"> archive wall (Instance </seg>
+      <seg type="T31">
+         <ref target="#INST66">
+            <bibl>
+               <biblScope>43</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>
+      </seg>
+      <seg type="T31">). An initial dispute reached </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Trajan</seg>
+      </persName>
+      <seg type="T31">, possibly in AD 102. He delegated it to the governor of Syria (an imperial legate) and an imperial procurator also in Syria. He is said to have “restored the boundaries.” Thus we should infer that he gave instructions to his delegates to mark the boundaries in accordance with an earlier judgement or specific evidence that demonstrated the status quo ante, perhaps the same original demarcation cited by the later evidence: a demarcation made by the governor of Syria ca. AD 13-17.</seg>
+   </p>
+   <p>
+      <seg type="T31">This victorious restoration may have been celebrated by the people of </seg>
+      <placeName type="ancient">
+         <seg type="T31">Palmyra</seg>
+      </placeName>
+      <seg type="T31"> through the erection of a large, honorific monument to the emperor. The later cippus proves that the boundaries came into dispute again, and the case made its way to the emperor </seg>
+      <persName type="emperor" rend="normal">
+         <seg type="T31">Hadrian</seg>
+      </persName>
+      <seg type="T31"> who also issued a verdict in the case. The Antonine inscription that tells of Hadrian’s verdict dates to at least 12 years after the death of Hadrian. Either Hadrian’s verdict was abrogated by yet another flare-up of the dispute, or it was never implemented following his death. In either case, the matter came to Antoninus’ attention somehow and was addressed yet again through the governor of Syria in AD 153.</seg>
+   </p>
+   <div type="document" xml:id="DOC212"><!--*EDH  HD022758; IGLS 5.2549; AE 1939.178; Schlumberger 1939, 52-61 no. I.-->
+      <head>DOC212: <bibl type="preferred">EDH  HD022758</bibl>; <bibl>IGLS 5.2549</bibl>; <bibl>AE 1939.178</bibl>; <bibl>Schlumberger 1939, 52-61 no. I</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator)
+            <lb/>Caesar di[vi Nerva]e Aug(usti)
+            <lb/>f(ilius) Tr[aianus Aug(ustus) Ge]rma
+            <lb break="no"/>ni[cus pontif(ex) m]axi
+            <lb break="no"/>[mus tr(ibunicia) pot(estate) VI? imp(erator) II?] pa
+            <lb break="no"/>t[er patriae co(n)s(ul) II]II(?)
+            <lb/>de[s]ign[atus V? fine]s(?)
+            <lb/>[------]
+            <lb/>[------?]
+            <lb/>[--- a]rva civitat[is]
+            <lb/>[---]enorum per Iu[l]
+            <lb break="no"/>[iu]m Quadratum leg(atum)
+            <lb/>[Au]g(usti) pro pr(aetore) et Postu[m]
+            <lb break="no"/>[iu]m Acili[a]num p[r]oc(uratorem) A[ug(usti)]
+            <lb/>restituit</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName type="emperor" rend="normal">
+               <seg type="T31">Nerva</seg>
+            </persName>
+            <persName type="emperor">
+               <seg type="T31">Trajan</seg>
+            </persName>
+            <persName>
+               <seg type="T31">Iulius Quadratus</seg>
+            </persName>
+            <persName>
+               <seg type="T31">Postumius Acilianus</seg>
+            </persName>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC459"><!--*IGLS 5.2551; Schlumberger 1939, 64-66 no. IV.-->
+      <head>DOC459: <bibl type="preferred">IGLS 5.2551</bibl>; <bibl>Schlumberger 1939, 64-66 no. IV</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[ Αὐτοκρατορα Καισαρα θεοῦ] Νέρουα Cεβαστοῦ
+            <lb/>[ὑιὸν Νέρουαν Τραιανὸν Cεβαστὸ]ν Γερμανι[κὸν] τὸν
+            <lb/>[ - c. 15 - τὴς οἰκου]μένης κύριον καὶ
+            <lb/>[ - c. 20 - θ]εὸν Νέρουαν Cεβαστὸν
+            <lb/>( vestiges of 7 more lines)</ab>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC106"><!--*EDH HD022761; IGLS 5.2550; AE 1939.179; Schlumberger 1939, 61-63 no. II.-->
+      <head>DOC106: <bibl type="preferred">EDH HD022761</bibl>; <bibl>IGLS 5.2550</bibl>; <bibl>AE 1939.179</bibl>; <bibl>Schlumberger 1939, 61-63 no. II</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Imp(erator) Ca]esar
+            <lb/>d[i]vi Hadriani f(ilius)
+            <lb/>divi Traiani Parthi
+            <lb break="no"/>ci nepos divi Nervae
+            <lb/>pronepos T(itus) Aelius Hadria
+            <lb break="no"/>[nus A]ntoninus Aug(ustus) Pius pon
+            <lb break="no"/>tif(ex) max(imus) tr(i)b(unicia) pot(estate) XVI imp(erator) II co(n)s(ul) IIII
+            <lb/>p(ater) p(atriae) fines regionis Palmyrenae
+            <lb/>constitutos a Cretico Silano
+            <lb/>leg(ato) Aug(usti) pr(o) pr(aetore) ex sententia di
+            <lb break="no"/>vi Hadriani patris sui restitu(i)t
+            <lb/>per Pontium Laelianum leg(atum) Aug(usti) pr(o) p[r(aetore)]
+            <lb/>mense Decembre(!) Praesente et Rufino co(n)s(ulibus)</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName type="emperor" rend="normal">
+               <seg type="T31">Hadrian</seg>
+            </persName>
+            <persName type="emperor" rend="normal">
+               <seg type="T31">Trajan</seg>
+            </persName>
+            <persName type="emperor" rend="normal">
+               <seg type="T31">Nerva</seg>
+            </persName>
+            <persName type="emperor">Antoninus Augustus Pius</persName>
+            <foreign xml:lang="la">
+               <seg type="T31">regio Palmyrena</seg>
+            </foreign>
+            <persName>
+               <seg type="T31">Creticus Silanus</seg>
+            </persName>
+            <persName type="emperor">Hadrian</persName>
+            <persName>
+               <seg type="T31">Pontius Laelianus</seg>
+            </persName>
+            <persName>
+               <seg type="T31">Praesens</seg>
+            </persName>
+            <persName>
+               <seg type="T31">Rufinus</seg>
+            </persName>
+         </p>
+      </div>
+   </div>
+</div>

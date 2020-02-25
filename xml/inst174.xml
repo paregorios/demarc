@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST174">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Markers placed by a Freedman Procurator on an Imperial Estate in <placeName type="ancient">Phrygia</placeName>
+   </head>
+   <p>Date(s): <date>uncertain date</date>
+   </p>
+   <p>
+      <seg type="instance-description">A single boundary marker records the placement of boundaries, probably on an imperial estate in the vicinity of <placeName type="ancient">Synnada</placeName> (mod. Şuhut in Turkey). The demarcation was carried out by an imperial freedman and procurator.</seg>
+   </p>
+   <div type="document" xml:id="DOC121"><!--*EDH HD022739; CIL 3.12237; AE 1897.73.-->
+      <head>DOC121: <bibl type="preferred">EDH HD022739</bibl>; <bibl>CIL 3.12237</bibl>; <bibl>AE 1897.73</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Termini
+            <lb/>positi ab
+            <lb/>Irenaeo Aug(usti)
+            <lb/>lib(erto) proc(uratore) [in]ter
+            <lb/>CLR[---]O[---]
+            <lb break="no"/>E(?)I[---]orcenos</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary markers placed by Irenaeus, imperial
+                freedman, procurator, between ...</p>
+      </div>
+   </div>
+</div>

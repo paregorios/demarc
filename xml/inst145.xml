@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST145">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Ortopla</placeName> and <placeName type="ancient">Parentium</placeName>
+   </head>
+   <p>Date(s): <date>uncertain date</date>
+   </p>
+   <p>
+      <seg type="instance-description">This rupestral boundary marker, cut into a natural limestone cliff in the eastern range of the Velebit mountains in Croatia, attests to a <hi rend="bold">boundary dispute</hi>between the settlements of <placeName type="ancient">Ortopla</placeName> (mod. <placeName type="modern">Stinica</placeName> in <placeName type="modern">Croatia</placeName>) and <placeName type="ancient">Parentium</placeName> (mod. <placeName type="modern">Poreč</placeName>). The dispute was resolved through negotiation. No mention is made of involvement by any Roman official.This marker also indicates that there was a legal right-of-way granted to the <placeName type="ancient">Ortoplini</placeName> for access to a water source located within the territory of <placeName type="ancient">Parentium</placeName>. It may be that this water source was at least a partial cause of the dispute.</seg>
+   </p>
+   <div type="document" xml:id="DOC263"><!--Wilkes 1974, 258-259 no. 2; ILS 5953b; CIL 3.15053. See also: AE 1980.498.-->
+      <head>DOC263: <bibl>Wilkes 1974, 258-259 no. 2</bibl>; <bibl>ILS 5953b</bibl>; <bibl>CIL 3.15053</bibl>. See also: <bibl>AE 1980.498</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex conventione finis
+            <lb/>inter Ortoplinos et Pare
+            <lb break="no"/>ntinos aditus ad aquam
+            <lb/>vivam Ortoplinis passus
+            <lb/>D latus I</ab>
+      </div>
+      <div type="translation">
+         <p>By agreement. Boundary between the <placeName type="ancient">Ortoplini </placeName>and the <placeName type="ancient">Parentini</placeName>. Access to the spring
+                for the <placeName type="ancient">Ortoplini</placeName>: 500
+                paces (long) and 1 wide.</p>
+      </div>
+   </div>
+</div>

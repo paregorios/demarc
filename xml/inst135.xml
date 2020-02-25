@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST135">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Delphi</placeName> and <placeName type="ancient">Ambryssos</placeName>
+   </head>
+   <p>Date(s): <date>uncertain date prior to early 2d century</date>
+   </p>
+   <p>
+      <seg type="instance-description">This <hi rend="bold">boundary dispute</hi>, judged by an individual named Cassius Longinus,<note n="337" xml:id="ftn337"> His identity is debated. See the Prosopographic Index. </note> is known only through a brief reference in a decision rendered in a later case (Text <ref target="ddoc:302">
+            <bibl>
+               <biblScope>39.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref> and Text <ref target="ddoc:303">
+            <bibl>
+               <biblScope>39.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>).<note n="338" xml:id="ftn338"> See Instance <ref target="#INST16">
+               <bibl>
+                  <biblScope>39</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+            </ref> for a complete discussion and references. </note> This dispute may be classified as boundary-related on the grounds that a surveyor was required to create a <foreign xml:lang="la">determinatio</foreign> in order to implement <persName>Longinus’</persName> verdict (<foreign xml:lang="la">[ --- decr]etum</foreign>).</seg>
+   </p>
+</div>

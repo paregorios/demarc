@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST161">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>An Authoritative Demarcation in <placeName type="ancient">Asia</placeName> Brings Honor to the Severi</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 40</bibl>
+   </p>
+   <p>Date(s): <date>ca. AD 209?</date>
+   </p>
+   <p>
+      <seg type="instance-description">A fragmentary inscription on a broken cylindrical marker found near mod. Sarayköy in Turkey attests to an authoritative demarcation, carried out by a provincial quaestor, apparently at the behest of the proconsul of <placeName type="ancient">Asia</placeName>. The inscription provides us with the probable identity of the quaestor (Maximius Attianus), and the possible identity of a heretofore unknown proconsul (L. Sempronius Senecio). The names of parties whose property or territory was delimited have not survived. This inscription has been discussed as evidence of a <hi rend="bold">boundary dispute</hi>.<note n="507" xml:id="ftn507"> Thus Burton 1993, 20-21, who insists that “<seg type="treForeign">l’inscription fait incontestablement allusion au règlement d’un conflit de limites.</seg>” </note> I cannot support this conclusion. It is true that the word <foreign xml:lang="la">determin[avit ---]</foreign> or <foreign xml:lang="la">determin[atio --- ]</foreign> appears; therefore the inscription certainly concerns a boundary in some way. The appearance of the quaestor’s name in the nominative (as subject of the verb <foreign xml:lang="la">determinavit</foreign>?) and the putative proconsul’s name in the ablative might signal that the latter had appointed the former as <foreign xml:lang="la">iudex</foreign> in a boundary dispute, but the word <foreign xml:lang="la">missus</foreign> is not sufficiently explicit for us to be certain of this. We cannot even be certain that the word beginning <foreign xml:lang="la">determin</foreign>is the main verb in the sentence. To call this incident a dispute is pushing a lacunose and already heavily supplemented text rather far. In fact, the document preserves none of the diagnostic vocabulary that would be necessary for us to definitively classify this incident as a dispute. Moreover, the inscription begins with the phrase <foreign xml:lang="la">in h(onorem) DD(ominorum) Impp(eratorum)</foreign>, and is the only boundary marker I have found to do so. It seems more likely to me that this inscription records the restoration or expansion of boundaries – perhaps as a <foreign xml:lang="la">beneficium</foreign>, perhaps as the outcome of a dispute – and so should be compared primarily with the beneficence of the Severi to the <placeName type="ancient">Thuddedenses</placeName> in <placeName type="ancient">Africa</placeName> and of Hadrian to <placeName type="ancient">Abdera</placeName> in <placeName type="ancient">Thracia</placeName>, both memorialized by the recipients with inscriptions that were honorific in tone.</seg>
+   </p>
+   <div type="document" xml:id="DOC205"><!--*AE 1998.1361; Christol 1998; AE 1997.1448; French 1997, 61-63.3.-->
+      <head>DOC205: <bibl type="preferred">AE 1998.1361</bibl>; <bibl>Christol 1998</bibl>; <bibl>AE 1997.1448</bibl>; <bibl>French 1997, 61-63.3</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>In h(onorem) dd(ominorum) Impp(eratorum) Severi et Anton[ini et [[Ge]]]
+            <lb break="no"/>[[tae]] Caesaris Auggg(ustorum) nnn(ostrorum) Maxi[mius Atti]
+            <lb break="no"/>anus q(uaestor) pr(o) pr(aetore) missus[ - ca. 10 - Sem]
+            <lb break="no"/>pronio Senecione [proconsule --- ]
+            <lb/>determin[ ---- ]</ab>
+      </div>
+      <div type="translation">
+         <p>In honor of the lords, the emperors <persName type="emperor">Severus</persName> and Antoninus (<persName type="emperor">Caracalla</persName>), and of <persName type="emperor">Geta</persName> Caesar, our (three) Augusti,
+                Maximius Attianus(?), propraetorian quaestor, sent by(?) ... Sempronius Senecio ...
+                established (the boundaries?) ...</p>
+      </div>
+   </div>
+</div>

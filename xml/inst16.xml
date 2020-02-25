@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST16">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Verdicts of <persName>Avidius Nigrinus</persName> in Boundary Disputes Concerning <placeName type="ancient">Delphi</placeName> and Neighboring Communities</head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> nos. 67, 68, 69 and 70</bibl>
+   </p>
+   <p>Date(s): <date>AD 117?</date>
+   </p>
+   <p>
+      <seg type="instance-description">Sometime around AD 117, a series of documents were inscribed on the south wall of the temple of Apollo at <placeName type="ancient">Delphi</placeName>. These documents, originally presented in Latin with complete Greek translations, survive today in varying degrees of fragmentation. They relate to at least three verdicts promulgated by <persName>C. Avidius Nigrinus</persName>, a propraetorian legate of an emperor, probably <persName type="emperor" rend="normal">Trajan</persName>. He pronounced these verdicts after judging disputes between <placeName type="ancient">Delphi</placeName> and her neighbors in September and early October (probably of AD 117).</seg>
+   </p>
+   <p>
+      <persName>Nigrinus’</persName> role in Greece is ambiguous. He may have been serving as a special legate of the emperor, in lieu of the traditional proconsul, or he may have functioned as a special corrector, sent by <persName type="emperor" rend="normal">Trajan</persName> to assist the free cities of Greece in resolving disputes and handling other issues.</p>
+   <p>In the first decision (Text <ref target="ddoc:302">
+         <bibl>
+            <biblScope>39.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>and Text <ref target="ddoc:303">
+         <bibl>
+            <biblScope>39.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), <persName>Nigrinus </persName>confirmed an earlier verdict in a dispute between <placeName type="ancient">Delphi </placeName>and <placeName type="ancient">Ambryssos</placeName>. The original complaint had been brought before an unnamed emperor and delegated by him to the famous jurist <persName>C. Cassius Longinus</persName>. That case (Instance <ref target="#INST135">
+         <bibl>
+            <biblScope>44</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), which is otherwise unattested, must have occurred sometime between AD 41 (the accession of <persName type="emperor" rend="normal">Claudius</persName>) and AD 65 (when <persName type="emperor" rend="normal">Nero </persName>exiled the blind lawyer to <placeName type="ancient">Sardinia </placeName>in the aftermath of the Pisonian conspiracy). In reconfirming <persName>Longinus’ </persName>verdict, <persName>Nigrinus </persName>reiterated the validity of a then-extant <foreign xml:lang="la">determinatio</foreign>, which had been made under <persName>Longinus’ </persName>direction by the surveyor <persName>Valerius Iustus</persName>. In this verdict, <persName>Nigrinus </persName>does not make it clear why the case was reopened or how it came under his jurisdiction. The land in question, and the relevant evidence, seem to have been unrelated to the amphyctionic verdicts cited by <persName>Nigrinus </persName>in his other two rulings (or perhaps the decision of <persName>Longinus </persName>had explicitly superseded all earlier rulings). <persName>Nigrinus </persName>makes a point of observing that neither <placeName type="ancient">Delphi </placeName>nor <placeName type="ancient">Ambryssos </placeName>had disputed <persName>Longinus’ </persName>decision for a number of years, thereby implicitly acceding to its validity.</p>
+   <p>
+      <persName>Nigrinus </persName>settled the second dispute five days later in a verdict formally presented at <placeName type="ancient">Elatia </placeName>(Text <ref target="ddoc:304">
+         <bibl>
+            <biblScope>39.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> and Text <ref target="ddoc:305">
+         <bibl>
+            <biblScope>39.4</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). He makes it clear that this boundary dispute between <placeName type="ancient">Delphi </placeName>and its neighbors <placeName type="ancient">Amphissa </placeName>and <placeName type="ancient">Myania </placeName>had first been brought before <persName type="emperor" rend="normal">Trajan</persName>, who had delegated it to him with orders to “stand by the judgement of the hieromnemones that was made on the authority of <persName>Manius Acilius </persName>and the Senate” (<foreign xml:lang="la">cum hieromnemonum iudicio {quod} ex auctor[itate Ma]ni Acili et senatus facto op[ti]mus princeps stari iusserit</foreign>). In this context, <persName>Nigrinus </persName>cites a <foreign xml:lang="la">determinatio </foreign>made by the hieromnemones, “inscribed on the side of the temple of Apollo,” and formulates his ruling in accordance with it. There seems to have been some debate about the interpretation of the older <foreign xml:lang="la">determinatio</foreign>, for <persName>Nigrinus </persName>goes to greater length in explaining his decision than in the case of the <persName>Longinus</persName>/<persName>Iustus </persName>
+      <foreign xml:lang="la">determinatio</foreign>: both parties had been heard “many times,” a formal <foreign xml:lang="la">demonstratio </foreign>of the boundaries had been made, both parties had taken the opportunity to inspect the territory in question (in particular, those areas where they were in disagreement), and “documents pertaining to the case” had been carefully assessed. Because the old <foreign xml:lang="la">determinatio </foreign>required interpretation, <persName>Nigrinus </persName>provided – as part of his verdict – an annotated version in which he explained his interpretations and the evidence he had found to support them.</p>
+   <p>Nineteen days later, at <placeName type="ancient">Eleusis</placeName>, Nigrinus delivered a third verdict (Text <ref target="ddoc:306">
+         <bibl>
+            <biblScope>39.5</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref> and Text <ref target="ddoc:307">
+         <bibl>
+            <biblScope>39.6</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>), resolving a boundary dispute between <placeName type="ancient">Delphi </placeName>and <placeName type="ancient">Anticyra </placeName>over “the area sacred to Pythian Apollo.” As in the verdict delivered at <placeName type="ancient">Elatia</placeName>, <persName>Nigrinus </persName>signals delegation from <persName type="emperor" rend="normal">Trajan </persName>with an injunction to respect the earlier hieromnemonic decision. He reiterates many of the additional points made in the previous verdict, going to even greater lengths in explaining the need for additional investigation: “a more diligent investigation was therefore made necessary by the great antiquity of the matter, both because the possessio of certain places has changed and because the names of areas which are contained in the <foreign xml:lang="la">determinatio </foreign>of the hieromnemones are hardly known now because of the passage of time, and because both parties have transcribed them for their own advantage.” This verdict also included an annotated version of the <foreign xml:lang="la">determinatio </foreign>in question.</p>
+   <p>A number of other fragments, too small or enigmatic to provide much additional information, also survive (Text <ref target="ddoc:308">
+         <bibl>
+            <biblScope>39.7</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>-Text <ref target="ddoc:370">
+         <bibl>
+            <biblScope>39.10</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). At least one of these appears to have been a letter from <persName>Nigrinus </persName>to the Delphians.</p>
+   <p type="P33">
+      <foreign xml:lang="grc">πρ(ὸ) ιʹ Καλ. Ὀκτωβρ̣. v ἐν Ἐλατείᾳ v περὶ τῆς ἀμφισβητήσεως τῆς Δελφῶν πρὸς Ἀμ-/φισσεῖς καὶ Μυανεῖς περὶ τῶν ὅρων, περὶ ἧς ὁ μέγιστος αὐτοκράτωρ ἐκέλευσέν / με κρεῖναι, πλεονάκις ἑκατέρων διακούσας καὶ ἐπὶ τῶν τόπων γενόμενος καὶ / καταμαθὼν ἕκαστα ἐπὶ τῆς αὐτοψίας κατὰ τὴν ἀμφοτέρων ὑφήγησιν, προς-/έτι δὲ ἐντυχὼν τοῖς εἰς ἀπόδειξιν ὑπ’ αὐτῶν προφερομένοις, ἃ ἐπέγνων ταύ-/5τῃ τῇ ἀποφάσει περιέλαβον. v ἐπεὶ τὴν ὑπὸ τῶν ἱερομνημόνων γενομένην κρίσιν / [κ]ατὰ τὴν Μανίου Ἀκειλίου καὶ τῆς Συνκλήτου γνώμην, ἣν καὶ ὁ μέγιστος αὐ-/[τ]οκράτωρ πασῶν μάλιστα κυρίαν ἐτήρησεν, συνωμολογήθη ταύτην εἶναι τὴν / [ἐ]ν τῷ ἱερῷ τοῦ Ἀπόλλωνος τοῦ ἐν Δελφοῖς ἐξ εὐ[ω]νύμ[ου] ε̣[ἰσ]ι̣ό̣[ντων] ἐνκε-/[χαραγ]μένην, ἀρέσκει, κατὰ τὸν ὑπὸ τῶν ἱερομνημόνων [ἀφ]ο̣ρ[ισμὸν γενό]μενον· v ἀπὸ /10 [Τριναπέας ὅρ]ου, ἥτις ἐς̣τὶν πέτρα ἐ[ξ]έχουσα ὑπὲρ κοιλ[άδο]ς ἣν Χάραδρ[ον καλοῦσιν], ὑφ’ ἥν ἐστιν / [κρήνη Ἐμβ]άτεια, κατ’ εὐθ̣ὺ μέχρι τῆς προειρημένης κρήνης τ[ὸ] πρὸς [Δε]λφοὺς μέ[ρ]ος Δελφῶν / [εἶναι. v ἀπὸ] τῆς κρήνης τῆς Ἐ[μβ]ατείας, ἐπειδὴ ὁ α̣[ὐ]τὸς ἀφορισμὸς σημ̣α̣ίνει [κα]τ’ Ἀστράβαν-/[τα δεύτερον ὅρο]ν εἶναι, ἀρέσκει μέχρι τοῦ ὅρου τοῦ ἐν τῷ Ἀστράβαντι δεικν[υ]μένου, οὐ / [πόρρω τῆς] θαλάσση[ς, ἐ]ν ᾧ τρίπο[υ]ς ἐνκεκόλα[π]ται, ὃ [δ]οκεῖ ἴδιον εἶναι τῆς ἱερᾶς τῶν /15 [Δελφῶν χώρας ὅρι]ον, [ἅ]π[αντα] τὰ εὐώνυμα ὡς ἐπὶ θάλασσαν εἶναι Δελφῶν / [ - - - - c.20 - - - - ἐ]κείνου τ[οῦ ὅ]ρου ὃς ἐπεδεί[χθ]η μοι κα[τὰ ?] / [ - - - - - - - - - - c.46 - - - - - - - - - - ]νος ἐφαίνε[το] </foreign>
+   </p>
+   <p type="P30">(fragment:)</p>
+   <p type="P34">
+      <foreign xml:lang="grc">πε]ριαγωγὴν τὴν ε - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- έταξαν οὕτως α - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ἀπὸ θαλ]ά̣σσης κατὰ τὸ βραχ[ὺ </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">τοὺς ὅρους ἀπέχειν κ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">τ]ῆς ἁλέας καθ’ ὃ τελευ[τᾷ </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">τῶν ὅρων καὶ τῆς θα[λάσσης </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ἀναμφις[β]ήτ[ητον </foreign>
+   </p>
+   <p type="P30">(fragment:)</p>
+   <p type="P34">
+      <foreign xml:lang="grc">- ωκὼς </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- ου προ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">π̣ερὶ ἧς καὶ α - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">π]ροειρημέ̣[ν </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">περι]α̣γωγή</foreign>
+   </p>
+   <p type="P32">
+      <foreign xml:lang="grc">[ἐκ τῶν πινάκων μετειλημμέναι v πρ. εἰδ. v Ὀκτωβρ. ἐν Ἐλευσῖνι. ἐπεὶ προσετάχθη ὑπὸ τ]οῦ ἀρίστου αὐτοκράτορος τὴν τῶν ἱερο-/[μνημόνων κρίσιν, δι’ ἣν τὴν ἱερὰν χώραν τὴν τοῦ Ἀπόλλωνος τοῦ Πυθίου ἔκ τε τῆς Μ]ανίου Ἀκειλίου γνώμης καὶ ἐκ δόγματος / [τῆς συνκλήτου ἀφώρισαν, πασῶν μάλιστα κυρίαν τηρεῖν, ἥπερ καὶ νῦν ἐν τῷ ἱερῷ τοῦ Ἀ]πόλλωνος τοῦ ἐν Δελφοῖς ἐνκεχαραγ-/[μένη ἐστίν, ἕνεκα] καὶ τούτου ἐν τ̣[ῇ Ἀντικυρέων καὶ Δε]λ̣φῶν πρὸς ἀλλήλους ἀμ[φισβητή]σει, οἷς κριτὴς ἐδόθη&lt;ν&gt; ὑπὸ τοῦ μεγίστου / [αὐτοκράτορος, ἑ]κ̣ατέρων ὁμολογ̣[ούντων, ἀναγκαῖο]ν ἐγένετο ἐπιμελεστέραν [οὕτω]ς̣ παλαιοῦ πράγματος ποιήσασθαι τὴν /5 [ἐξέτασιν, ὅσω̣ μ]ᾶλλον ὅτι καὶ τὰ τ[εκμήρια τὰ περί τ]ινων μερῶν ἀμφιβολίαν εἶχε[ν καὶ αἱ] ὀνομασίαι τῶν τόπων αἱ ἐν τῷ τῶν ἱ-/[ερομνημόνων ἀφ]ορισμῷ διὰ τὸ τοῦ [χρόνου] μῆ[κος οὐ]κέτι ὁμοίως γεινωσκόμεναι [παρεῖ]χον ἀφορμὴν ἑκατέροις τοῦ μεταφέ-/[ρειν εἰς τὸ λυσι]τ̣ελοῦν αὐτοῖς. ἅτ[ε ο]ὖν καὶ ἐπ[ὶ τῆς] αὐτοψίας τῶν τόπων πλεονάκις [γενό]μενος καὶ ἢ ἐκ τῆς τῶν ἐνχωρίων γνώ-/[μης ἢ ἐκ τῶν προφερ]ομένων ἀποδεί&gt;[ξεω]ν πλείο[σιν] ἡμέραις ἐξετάσα&lt;ς, ἅ&gt; μοι μάλιστα ἔ[δοξε]ν̣ τῇ τῶν ἱερομνημόνων συμφωνεῖν / [κρίσει τῇδε τῇ ἀποφά]ς&lt;ει&gt; περιέ&lt;λαβον· δ̣[ι’ ἣν ε]ἰ καί τι [δ]όξει τῆς ἑκατέρων ἐλπίδος ἀφηρῆ[σθαι, ἀλλ]ὰ ἐκε[ῖνό] γ̣ε ἀμφοτέροις περ[ιέσ]/[ται, ὅτι ὁ μέγιστος ἡμῶ]ν αὐτοκ̣[ράτω]ρ̣ β̣ε̣[βαί]αν αὐτοῖς εἰς τοὐπιὸν ὧν ἔχουσι τὴν κτῆς[ιν καὶ ἀναμφισβ]ήτητον παρέσχ[ε]. / [Ὀπόεντα ἐν θαλάσσῃ ἣ πρὸς Ἀ]ν̣τίκ̣[υράν ἐστι]ν̣, ἣ̣ν̣ [π]ρώτην ἐν τῷ περιορισμῷ τῆς ἱερᾶς χ[ώρας οἱ ἱερομνήμονες ὠ]ν̣ό̣μας[αν], / [τὸ αὐτὸ εἶναι ἄκρον ὡμολογήθη, ὃ νῦν ὑπὸ μέν τι]νων Ὀπόεντα, ὑπὸ δέ τινων Ὀποῦς π[ροσονομάζεται καὶ τοῖς ἀπὸ Κίρρας] / [εἰς Ἀντίκυραν πλέουσιν ἐντός ἐστι Ναυλόχου, πρ]οκείμενον τῶν χωρίων ἃ καλεῖται Σα[λμοῦσσαι. ἐκ δὲ τούτου τοῦ ἄκρου] / [ἐπ’ ὀρθὸν εἰς ὄρη δύο ἃ ἐν τῇ τῶν ἱερομνημόνων κρίσε]ι κεκλῆσθαι Ἄκρα Κολώφια καὶ ἐκ τούτω[ν γεινώσκεται, ὅτι πετρώδεις τι]-/15[νὲς ἐν ἀμφοτέροις τοῖς ὄρεσι λίθοι εἰσὶν ὧν ἐν μὲν τῷ ἑτέρῳ] ἔτι καὶ νῦν ἐπιγραφὴ μένε[ι, διὰ τὴν ἀρχαιότητα πιστωτέα], / [ἣ σημαίνει τοῦτον τὸν λίθον Δελφῶν ὅρον εἶναι, ἐν δὲ τῷ ἑτέρῳ α]ὐ̣τὸ τοῦτο ἐπεγέγραπτ[ο, καίτοι νῦν ἐκκεκολαμμένον ἦν]· / [ὥστε τῷ ἐπαναβάντι τὰ δεξιὰ τῶν Ἀντικυρέων, τὰ δὲ εὐώνυμα τῆς ἱε]ρ̣ᾶς [χ]ώρας τῶν Δ[ελφῶν εἶναι]. - - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">Ἀουίδιος Νιγρῖ[νος πρεσβ.] Σ̣εβ. ἀντιστράτηγος [Δελφῶν] </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ἄρχουσι βο[υλῇ πόλει χαίρει]ν̣. </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">τῆς ἀντιγραφ[ῆς </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ὑπέταξα </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">τῆς .ο̣ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc"/>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">σ̣ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">γε - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">οὔτε </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ως τη[ - - - - - - - - - - - - τῆς ὁρο]-</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">θεσίας - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- ισσ̣ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">το]ὺς ὅρους ε - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ἐν Ἐ]λ̣ε̣[υ]σῖνι. ἐπιστο[λὴ? </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">Ἀουιδίου] Νιγρίνου </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- μ̣φε̣ι̣ν̣ -</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">προς τ̣ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">τὴν ἀν - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">στει - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">χ̣ο̣ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc"/>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">Δελφ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- ειναι </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- α̣μ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- αι εἰς </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">το]ὺς ὅρου[ς </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">Πο]λλίων.</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">Δελφῶν? ἄρχουσι βουλ]ῇ πόλει χ[αίρειν]. </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- μένους </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- μένην </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- υσιν </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- ..ω&gt;ς καὶ αὐτ̣ </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- &lt;ον σὺν ἐμοὶ φίλον καὶ .4 </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ἐπὶ τῶν] τόπων γενόμενον αὐτο[ψί]-</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[ας ἕνεκεν - - - - - - - - - - - ] ὑπὲρ τοῦ μηδεμίαν κατάλ[η]-</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[ψιν μήτε - - - - - - - - - - μηδ]έ̣ν τινος παρὰ τὴν ἐμὴν ἀπόφ[α]-</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[σιν γενέσθαι - - - - - - - παρ]όντος δ’ ἐμοὶ καὶ τοῦ φίλου τ. </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">οὐκ ἂν οἱ] Δελφοὶ μέμψασθαι δύναιντ̣[ο </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ὥ]σπερ οὖν καὶ ἐμέμφοντο ὅ[τ. </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- ων καταπαῦσαι τὴν .Ι̣Λ̣ΟΙ̣ </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- β̣.3τινας· εἴ τις - c.5 - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">π]εμψ.. </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ἔλ]εγεν ὑμᾶς ε </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- οι τὴν ὑμέτ̣[ε]-</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[ραν - - - - - - - - - - γεγραμμ[έν.7 ἀ]νομολογοῦς̣[ιν </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">μηδὲν κ]αινότερον [.7]τε ὧν ἐξ ἀρχ[ῆς </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">σ]υναπάντων· κ[οιναὶ ο]ὖν εἶεν αἱ νομ[αὶ </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- ]νῆσαι οἷόν τ’ ἐς[τὶν οὔ]τ’ ἐκ τῆς ἀπο̣[φά]-</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[σεως ἣ ἐξ ἀρχῆς ἐμοὶ ἤρε]ς̣εν οὔτ’ ἐκ τῆς [μετὰ τ]ὴν ἀπόφ[ασιν ταύ]-</foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">[την - - - - - - - - - - ]ς ἐγράφη [π]ρ̣(ὸ) [ - Ἀπ]ρ̣ειλ. ἐν Ἐλ̣[ευσῖνι]. </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- ν̣ος Καπ[ίτων? </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">πρεσβ.] Σεβ. ἀντ[ιστράτηγος </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">?Καπ]ίτων τὴν </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">πρ]ὸς Ἀντικυρε[ῖς </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ι ὑπὸ τῶ[ν </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">- α̣το εἰς α̣ὐ̣[τ - </foreign>
+   </p>
+   <p type="P34">
+      <foreign xml:lang="grc">ἐγράφη πρ(ὸ) ζʹ Κα̣[λ(ανδῶν) - - - ]. </foreign>
+   </p>
+   <div type="document" xml:id="DOC302"><!--*EDH HD033438; FD 3.4.290.-->
+      <head>DOC302: <bibl type="preferred">EDH HD033438</bibl>; <bibl>FD 3.4.290</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[C(aio) Avi]dio Nigrino leg(ato) Aug(usti) pro pr(aetore)
+            <lb/>[ex tabellis recitata XV] K(alendas) Octobr(es) [---] cum rerum iudicatarum auctoritas cu[stodienda semper sit spectari nunc]
+            <lb/>[oportet Longini decr]etum quod inter Delphos et Ambrossios in controversia quam in im[peratorem pertulissent]
+            <lb/>[ediderit in quo iis men]sorem dederit Valerium Iustum factamque ab eo deter[minationem phinium]
+            <lb/>[nam ex epistula eiu]s apparuit ad Delphos publice scripta neque Ambr[ossios neque Delphos deter]
+            <lb break="no"/>mina[tionem abnuisse] postea per aliquod iam annos de Longini constitu[tis in controversia inter]
+            <lb/>Del[phos et Ambros]sios de phinibus determinatione per Valerium Ius[tum facta decernere placet]
+            <lb/>in co[nsilio adfue]runt Q(uintus) Eppius Fl(avius) Arrianus C(aius) Papius Habitus T(itus) Liv[ius? &amp;</ab>
+      </div>
+      <div type="translation">
+         <p>Recitation from the tablets when Gaius Avidius
+                Nigrinus was propraetorian imperial legate, 15 days before the kalends of October.
+                Since the authority (<foreign xml:lang="la">auctoritas</foreign>) of prior legal decisions must always be preserved, one
+                ought now to pay attention to the decree which Longinus put forth in the dispute
+                between the <placeName type="ancient">Delphoi</placeName> and the
+                    <placeName type="ancient">Ambrossioi</placeName>, which they
+                had brought before the emperor, in which decree he (Longinus) gave to them Valerius
+                Iustus, the surveyor, and there was made by him (Iustus) a <foreign xml:lang="la">determinatio</foreign> of the boundaries, for it
+                appeared from his (Longinus’) letter to the <placeName type="ancient">Delphoi</placeName>, publicly posted, that
+                neither the <placeName type="ancient">Ambrossioi</placeName> nor
+                the <placeName type="ancient">Delphoi</placeName> had rejected
+                the demarcation after a period of years. In accordance with the ordinances of
+                Longinus, in the boundary dispute between the <placeName type="ancient">Delphoi</placeName> and the <placeName type="ancient">Ambrossioi</placeName>, I find in accordance
+                with the <foreign xml:lang="la">determinatio</foreign> made by
+                Valerius Iustus. In <foreign xml:lang="la">consilium</foreign> were
+                Q. Eppius, Fl. Arrianus, C. Papius Habitus, T. Liv[ius ...</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC303"><!--*FD 3.4.291.-->
+      <head>DOC303: <bibl type="preferred">FD 3.4.291</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἐκ τῶ[ν πινά]κων μετειλλημμέναι. vv πρὸ ιε̣ [Καλ. Ὀκτωβρ. τοῦ ἐμμένειν ἐν τοῖς κεκριμένο]ις vvvv
+            <lb/>ὄντ[ος ἀεὶ] λυσιτελεστάτου κα[ὶ ἀναγκαιοτάτου, ἐν τῷ παρόντι ἀξία ἐστὶ σκέπ]τεσθαι ἡ̣
+            <lb/>Κασσί[ου Λον]γ̣ίνου το[ῦ -- c.12 -- κρίσις ἣν κέκρικε μεταξὺ Δελφῶ]ν καὶ Ἀμβρος[σί]
+            <lb break="no"/>ων, ἐν̣ [τῇ ἀμφισβητήσει ἣν εἰς τὸν αὐτοκράτορα εἰσήνεγκον, ἐν ᾗ γεωμετρητὴ]ν Οὐαλέριον Ἰο[ῦσ]
+            <lb break="no"/>[τον αὐτοῖς ἔδωκε, καὶ ὁ ἀφορισμὸς ὁ τούτου. δῆλον γὰρ ἡμῖν ἐγένετο ἐ]κ̣ τῆς ἐπιστολῆ[ς]
+            <lb/>[αὐτοῦ τῆς πρὸς τοὺς Δελφοὺς μήτε Ἀμβροσσίους μήτε Δελφοὺς τὴν ὁρ]οθεσίαν [τὴν] Ἰ̣ούςτο[υ]
+            <lb/>[ἀποβαλεῖν ἔνια ἤδη ἔτη. ἐξ οὖν τῶν Λογγίνου καθεστώτων, ἐν τῇ μ]εταξὺ Δελφῶν καὶ Ἀμβρος[σίων]
+            <lb/>[περὶ τῶν ὅρων ἀμφισβητήσει, τῇ Ἰούστου ὁροθεσίᾳ διακρίνειν ἀρέσκε]ι. ἐν συμβουλίῳ ἐγένοντο· v
+            <lb/>[Κόιντος Ἔππιος, Φλαούιος Ἀρριανός, Γάιος Πάπιος Ἅβιτος, Τίτος Λίβιος]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC304"><!--*EDH HD033438; FD 3.4.292; Smallwood 1966 446.-->
+      <head>DOC304: <bibl type="preferred">EDH HD033438</bibl>; <bibl>FD 3.4.292</bibl>; <bibl>Smallwood 1966 446</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>X K(alendas) Octobres Elatiae [---] de c[o]ntroversia Delphorum adversus Amphissienses [et]
+            <lb/>Myanenses de finibus de q[ui]bus optimus princeps cognoscere me iussit quae au[ditis]
+            <lb/>saepius utrisque et peragr[at]is adque(!) inspectis secundum utriusque partis demon[stra]
+            <lb break="no"/>tionem locis de quibus amb[ig]ebantur item instrumentis ad eam rem pertinentibus [perpen]
+            <lb break="no"/>sis compereram hoc decret[o c]omplexus sum cum hieromnemonum iudicio {quod} ex auctor[itate Ma]
+            <lb break="no"/>ni Acili et senatus facto op[ti]mus princeps stari iusserit et prolata sit apud me determinatio per h[i]
+            <lb break="no"/>eromnemonas facta qu[ae etia]m Delp(h)es(!) in latere aedis Apollinis incisa est placet secundum eam dete[r]
+            <lb break="no"/>minationem a Trin[apea quae e]st petra imminens super vallem quam Charadoron vocant in qua e[st]
+            <lb/>fons Embat[eia usque ad eum f]ontem quod ad Delphos spectat finium Delphorum esse ab eo font[e cum]
+            <lb/>[determinatio ad Astraba]nta fines oportere derigi demonstret placet ad eum ter[minum]
+            <lb/>[qui in rupe quadam quae Astrab]as v[oca]tur non procul a mari mihi {N} ostensus est in qu[o tripus]
+            <lb/>[insculptus est quod proprium esse sa]crae Delphor[u]m regionis videtur fin[ium Delpho]
+            <lb break="no"/>[rum esse quod ad sinistrum usque ad mare ad Delphos verg]ens demonstratu[m est &amp;</ab>
+      </div>
+      <div type="translation">
+         <p>10 days before the kalends of October at
+                    <placeName type="ancient">Elatia</placeName>. With respect to
+                the dispute of the <placeName type="ancient">Delphoi </placeName>against the <placeName type="ancient">Amphissienses </placeName>and <placeName type="ancient">Myanenses </placeName>concerning boundaries, which the <foreign xml:lang="la">optimus princeps</foreign> ordered me to investigate, I have summed up in
+                this decree those things that I have verified for certain, after both parties had
+                been heard many times and after both parties had travelled all around and after the
+                places were inspected (according to the <foreign xml:lang="la">demonstratio </foreign>of both parties), (those places) concerning which they
+                were in disagreement, and also after the documents pertaining to the case had been
+                carefully assessed. Since the <foreign xml:lang="la">optimus princeps</foreign> ordered (me) to stand by the judgement of the <foreign xml:lang="la">hieromnemones</foreign> that was made on the
+                authority of <persName>Manius Acilius </persName>and
+                the Senate, and since a <foreign xml:lang="la">determinatio</foreign> made by the <foreign xml:lang="la">hieromnemones</foreign>, which is also inscribed on the side of the temple of
+                Apollo, was brought before me, let it be done according to this <foreign xml:lang="la">determinatio</foreign>: (a line) from <placeName type="ancient">Trinapea </placeName>(which is an overhanging
+                rock above the valley which they call <placeName type="ancient">Charadron</placeName> in which is located the spring (called) <placeName type="ancient">Embateia</placeName>) all the way to the
+                before-mentioned spring constitutes the boundary for the <placeName type="ancient">Delphoi</placeName> of (the land) which lies
+                toward the <placeName type="ancient">Delphoi</placeName>; from
+                this spring (since the <foreign xml:lang="la">determinatio</foreign> shows that the boundary must be aligned with
+                    <placeName type="ancient">Astrabas</placeName>) let [the
+                line] to the <foreign xml:lang="la">terminus</foreign> (which, it
+                appears to me, is on a certain rock called <placeName type="ancient">Astrabas </placeName>not far from the sea, on
+                which is inscribed a tripod, which appears to be a particular sign of the sacred
+                land of the <placeName type="ancient">Delphoi</placeName>)
+                constitute the boundary for the <placeName type="ancient">Delphoi </placeName>of (the land) on the left, all the way to the sea toward the <placeName type="ancient">Delphoi</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC305"><!--*FD 3.4.293.-->
+      <head>DOC305: <bibl type="preferred">FD 3.4.293</bibl>.</head>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC306"><!--FD 3.4.294.-->
+      <head>DOC306: <bibl>FD 3.4.294</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>C. Avidio Nigrino leg. Aug. pro pr.
+            <lb/>decreta ex tabellis recitata VI idus Octobr. Eleusine. cum Optimus Princeps sententia[m]
+            <lb/>hieromnemonum qua consecratam regione&lt;m&gt; Apolloni Pythio ex auctoritate Mani Acili et s[enatus]
+            <lb/>determinaverunt sequendam esse praescripsisset, quae etiam Delphis in latere aedis insculpta
+            <lb/>est, neque veniret in dubium inter Anticyrenses quoque et Delphos quibus iudex datus [sum]
+            <lb/>ab Optimo Principe ea sententia stari oportere, necessaria fuit diligentior exploratio tam ve
+            <lb break="no"/>tusta{t}e rei tanto magis quod et possessio quibusdam locis variaverat et vocabula regionum qu
+            <lb break="no"/>ae hieromnemonum determinatione continebantur vix iam nota propter temporis spatium
+            <lb/>utraque pars ad utilitatem suam transferebat. cum itaque et in re praesenti saepius fuerim et
+            <lb/>quid aut ex notitia hominum aut ex instrumentis quae exstabant colligi potera{n}t pluribus diebus [excus]
+            <lb break="no"/>serim, quae maxime visa sunt cum hieromnemonum iudicio congruere hac sententia comprehendi, [qua]
+            <lb/>etiamsi utrorumque spei aliquid apscisum est, poterit tamen videri utrisque consultum quod [in]
+            <lb/>posterum beneficio Optimi Principis certa possessio eis et sine lite continget. Opoentam in mari quod [ad]
+            <lb/>Anticyram vergit, quam primam in determinatione hieromnemones nominaverunt,
+            <lb/>eam esse constitit quae nunc ab aliis Opus ab aliis Opoenta dicitur promunt&lt;o&gt;rium quod
+            <lb/>est a Cirra Anticyram navigantibus citra Nolo[chum haud procul a Sa[l]musis. ab eo recto ri
+            <lb break="no"/>gore ad monticul[os quos app]ellatos Acra Colop[hia esse in sen]temtia (sic) hieromne{mon}
+            <lb break="no"/>monum etiam ex eo apparet quod naturales in ut[roque] monticulo lapides ex[stant]
+            <lb/>quorum in altero graeca inscriptio quae sign[ificat Delphi]cum terminum [hunc esse]
+            <lb/>adhuc manet, cui vetustas fidem faciat, in altero [vero ea]mdem inscriptionem
+            <lb/>[fuisse patet qua, quamvi]s sit erasa, fines o[b]ser[vari est mani]festum ad[s]cendent[ibus a mari]
+            <lb/>[ita ut ab iis] dextra Anticyrensium, laeva sacra&lt;e&gt; regionis Delphorum sint. ab iis [recto]
+            <lb/>[rigore ad rupem illam quae D]ol?i?chonos vocatur et indubitatus inter Delphos [et]
+            <lb/>[Anticyrenses limes est - - c.8 - - ]t perinde Delphorum region[ - - - - - - - ]
+            <lb/>[- - - - - - - - - - c.33 - - - - - - - - -] O?I?E?X?T?E?[ - - - c.14 - - - ]
+            <lb break="no"/>- - - ? lines - - - - -
+            <lb break="no"/>[in consilio adfuerunt - - ]us Pollio (leaf) Q. Eppius (leaf) Fl. [Arrianus - - ].
+            <lb break="no"/>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>Decree recited from the tablets when <persName>C. Avidius Nigrinus </persName>was propraetorian
+                imperial legate, 6 days before the Ides of October at <placeName type="ancient">Eleusis</placeName>. Since the <foreign xml:lang="la">optimus princeps</foreign> has already written that
+                the decision of the <foreign xml:lang="la">hieromnemones</foreign>
+                (by which they demarcated the area sacred to Pythian Apollo on the authority of
+                    <persName>Manius Acilius </persName>and the
+                Senate) should be preserved (which decision is also inscribed at <placeName type="ancient">Delphi</placeName> on the side of the temple),
+                and lest it should come into question that this decision between the <placeName type="ancient">Anticyrenses </placeName>and the <placeName type="ancient">Delphoi </placeName>(to whom I have been given
+                as a judge by the <foreign xml:lang="la">optimus princeps</foreign>) ought to stand, a more diligent investigation was therefore
+                made necessary by the great antiquity of the matter, both because the <foreign xml:lang="la">possessio</foreign> of certain places has changed
+                and because the names of areas which are contained in the <foreign xml:lang="la">determinatio</foreign> of the <foreign xml:lang="la">hieromnemones</foreign> are hardly known now
+                because of the passage of time, and because both parties have transcribed them for
+                their own advantage. Therefore, since I was frequently engaged in the present case,
+                and since I examined for many days what they were able to bring together, either
+                from the knowledge of men or from the documents that have survived, I have addressed
+                in this decision those things which, for the most part, appear to be consistent with
+                the judgement of the <foreign xml:lang="la">hieromnemones</foreign>, whereby, even if something of the hope of both parties
+                is crushed, nevertheless it will be possible for the decree to seem good to both of
+                them because certainty of <foreign xml:lang="la">possessio</foreign> will be granted to them in the future as a <foreign xml:lang="la">beneficium</foreign> of the <foreign xml:lang="la">optimus princeps</foreign>, free from legal
+                challenge. It is clear that “<placeName type="ancient">Opoenta </placeName>on the sea that looks to <placeName type="ancient">Anticyra</placeName>” (which is named first in the <foreign xml:lang="la">determinatio</foreign> of the <foreign xml:lang="la">hieromnemones</foreign>) is that which now by some
+                is called “<placeName type="ancient">Opus</placeName>” and by
+                others “<placeName type="ancient">Opoenta</placeName>”, namely,
+                the promontory which, when sailing from <placeName type="ancient">Cirra </placeName>to <placeName type="ancient">Anticyra</placeName>, comes before <placeName type="ancient">Nolochus</placeName>, not far from <placeName type="ancient">Salmusae</placeName>. From this point, in a straight line, to the little
+                mountains which are called <placeName type="ancient">Acra Colophia </placeName>in the decision of the <foreign xml:lang="la">hieromnemones</foreign> (also, it is clear from
+                this that some natural stones stand on top of each hill, on one of which a Greek
+                inscription--whose age guarantees its validity--still remains, marking it as Delphic
+                    <foreign xml:lang="la">terminus</foreign>, and truly it is
+                obvious that the same inscription was on the other, even though it has been erased)
+                whereby it is clear that the boundary is revealed by ascending this way from the sea
+                so that from the boundary the land of the <placeName type="ancient">Anticyrenses </placeName>is on the right and
+                the sacred lands of the <placeName type="ancient">Delphoi </placeName>on the left. From these [markers/hills] in a straight line to that
+                cliff/rock which is called <placeName type="ancient">Dolichonos </placeName>and indubitably between the <placeName type="ancient">Delphoi </placeName>and ... in the same way, the sacred(?) lands of the
+                    <placeName type="ancient">Delphoi </placeName>... [much is
+                lost here] ... In <foreign xml:lang="la">consilium</foreign> were
+                    <persName>[ --- ]us Pollio</persName>, <persName>Q. Eppius</persName>, <persName>Fl. [Arrianus --- ] </persName>...</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC307"><!--*FD 3.4.295.-->
+      <head>DOC307: <bibl type="preferred">FD 3.4.295</bibl>.</head>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC308"><!--*FD 3.4.296.-->
+      <head>DOC308: <bibl type="preferred">FD 3.4.296</bibl>.</head>
+      <div type="translation">
+         <p>
+            <foreign xml:lang="la">
+               <seg type="T39">(fragment)</seg>
+            </foreign>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC309"><!--*FD 3.4.297.-->
+      <head>DOC309: <bibl type="preferred">FD 3.4.297</bibl>.</head>
+      <div type="translation">
+         <p>
+            <foreign xml:lang="la">
+               <seg type="T39">(fragment)</seg>
+            </foreign>
+         </p>
+         <p>
+            <foreign xml:lang="la">
+               <seg type="T39">(fragment)</seg>
+            </foreign>
+         </p>
+      </div>
+      <div type="translation">
+         <p>
+            <foreign xml:lang="la">
+               <seg type="T39">(fragment)</seg>
+            </foreign>
+         </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC368"><!--*FD 3.4.299.-->
+      <head>DOC368: <bibl type="preferred">FD 3.4.299</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC370"><!--*FD 3.4.298. See also: Daux 1976, 78-79.-->
+      <head>DOC370: <bibl type="preferred">FD 3.4.298</bibl>. See also: <bibl>Daux 1976, 78-79</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC207"><!--French 1991, 57 s.v. ”KÜTAHYA”; AE 1982.896; SEG 32.1287; *Christol 1982. See also: SEG 41.1238.-->
+      <head>DOC207: <bibl>French 1991, 57 s.v. ”KÜTAHYA”</bibl>; <bibl>AE 1982.896</bibl>; <bibl>SEG 32.1287</bibl>; <bibl type="preferred">Christol 1982</bibl>. See also: <bibl>SEG 41.1238</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Εἰού(λιος) Διονύσιος
+            <lb/>ἀπὸ χιλιαρχιῶ
+            <lb break="no"/>ν, κατὰ τὴν κέλευ
+            <lb break="no"/>σιν τοῦ κρατίστου ἐπιτρόπου τῶν Σε
+            <lb break="no"/>βαστῶν Εἰουλ(ίου) Εἰου
+            <lb break="no"/>λιανοῦ διέποντος
+            <lb/>κὲ τὰ τῆς ἡγειμονίας
+            <lb/>μέρη Φρυγίας τε κὲ Καρίας,
+            <lb/>γενόμενος ἐπὶ τῶν τό
+            <lb break="no"/>πων κὲ τὴν ἀκριβίαν ἐξσε
+            <lb break="no"/>πάσας ὡροθέτησα,
+            <lb/>παρόντος κὲ γεομέ
+            <lb break="no"/>τρου Αἰλιανοῦ Ἐαρινο[ῦ]· ὅρος Τικταηνῶν κὲ Σπο
+            <lb break="no"/>ρηνῶν.</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Eioulios Dionysios</persName>, <foreign xml:lang="la">a militiis</foreign>(?),<note n="354" xml:id="ftn354"> Burton 2000 no. 42 would translate <foreign xml:lang="la">tribunus militum</foreign>. See Christol 1982 for discussion. </note> according to the order of the most excellent imperial
+                procurator <persName>Eioulios Eioulianos </persName>who manages the Phrygian and Carian parts of the province, having gone
+                to the places and examined the details, established the boundary, accompanied by the
+                surveyor <persName>Ailianos Earinos</persName>.
+                Boundary marker of the <placeName type="ancient">Tiktaenoi </placeName>and <placeName type="ancient">Sporenoi</placeName>. </p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC287"><!--Aichinger 1982, 197-198.4; AE 1938.144; MAMA 5.60.-->
+      <head>DOC287: <bibl>Aichinger 1982, 197-198.4</bibl>; <bibl>AE 1938.144</bibl>; <bibl>MAMA 5.60</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[ὅρο]ι μεταξὺ Δορυλαέων [καὶ --]
+            <lb break="no"/>[-]αιέων οἱ τεθέντες κατὰ κέ
+            <lb break="no"/>λευσιν Αὐτοκράτ(ορος) Καίσ(αρος) Τραιαν(οῦ)
+            <lb/>Ἁδριανοῦ Σεβ(αστοῦ) π(ατρὸς) π(ατρίδος) διὰ Γ. Ἰουλ(ίου)
+            <lb/>Σεουήρου πρεσβ(ευτοῦ) αὐτοῦ ἀν
+            <lb break="no"/>τιστρατήγου.</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary markers between the <placeName type="ancient">Dorylaeoi </placeName>and the <placeName type="ancient">(...)aieoi</placeName>, placed according to
+                the command of the emperor Caesar Trajan <persName type="emperor">Hadrian</persName> Augustus, father of the country, through G(aius) Iulius
+                Severus, his propraetorian legate.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC209"><!--*IArykanda 25a-b; Şahin 1992, 81-82; Şahin 1984, 39 s.v. ”Der neue Grenzstein”; SEG 6.764 (= 25a); SEG 34.1309; TAM 2.787 (= 25a).-->
+      <head>DOC209: <bibl type="preferred">IArykanda 25a-b</bibl>; <bibl>Şahin 1992, 81-82</bibl>; <bibl>Şahin 1984, 39 s.v. ”Der neue Grenzstein”</bibl>; <bibl>SEG 6.764 (= 25a)</bibl>; <bibl>SEG 34.1309</bibl>; <bibl>TAM 2.787 (= 25a)</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>[Αὐτοκρατόρων]
+            <lb/>[Καισάρω]ν Σε[βα]
+            <lb break="no"/>[στῶ]ν Μάρ(κου) Αὐ
+            <lb break="no"/>[ρηλί]ου Ἀντω
+            <lb break="no"/>[νείνο]υ καὶ Λου
+            <lb break="no"/>κί[ου] Αὐρηλίου
+            <lb/>Οὐήρου κελε[υ]
+            <lb break="no"/>σάντων Τιβέ
+            <lb break="no"/>ριος Ἰούλιος
+            <lb/>Φρούγι ὁ κρά
+            <lb break="no"/>τιστος ἀνθύ
+            <lb break="no"/>πατος περιορί
+            <lb break="no"/>σας τὴν πόλιν
+            <lb/>τὰς στήλας
+            <lb/>ἔταξεν</ab>
+      </div>
+      <div type="translation">
+         <p>With the emperor Caesar Augustus <persName type="emperor">Marcus Aurelius </persName>Antoninus and
+                    <persName type="emperor">Lucius Aurelius Verus</persName> having
+                commanded it, Tiberius Iulius Frugi, propraetorian legate, having established
+                boundaries for the city, placed the markers.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC474"><!--Şahin 1984, 40 s.v. ”Fragment eines dritten(?) Grenzsteins” (= 25c); Şahin 1984, 40 s.v. ”Ein zweiter Grenzstein” (= 25d); SEG 6.763 (= 25d); TAM 2.786 (= 25d); *IArykanda 25c-d.-->
+      <head>DOC474: <bibl>Şahin 1984, 40 s.v. ”Fragment eines dritten(?) Grenzsteins” (= 25c)</bibl>; <bibl>Şahin 1984, 40 s.v. ”Ein zweiter Grenzstein” (= 25d)</bibl>; <bibl>SEG 6.763 (= 25d)</bibl>; <bibl>TAM 2.786 (= 25d)</bibl>; <bibl type="preferred">IArykanda 25c-d</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκρ[ατόρων]
+            <lb/>Καισάρ[ων Σεβασ]
+            <lb break="no"/>τῶν Μά[ρ(κου) Αὐρη]
+            <lb break="no"/>λίου Ἀ[ντωνείνου]
+            <lb/>καὶ Λου[κίου Αὐρη]
+            <lb break="no"/>λίου Ο[ὐήρου κε]
+            <lb break="no"/>λευσά[ντων Τι]
+            <lb break="no"/>β[έ]ριο[ς Ἰού]
+            <lb break="no"/>[λιος Φρούγι ὁ]
+            <lb/>[κράτιστος ἀνθύ]
+            <lb break="no"/>[πατος περιορί]
+            <lb break="no"/>[σας τὴν πόλιν]
+            <lb/>[τὰς στήλας]
+            <lb/>[ἔταξεν]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC475"><!--*IArykanda 25e.-->
+      <head>DOC475: <bibl type="preferred">IArykanda 25e</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>Αὐτοκρατό[ρων]
+            <lb/>Κ[αι]σ[άρ]ων Σεβασ(τῶν)
+            <lb/>[Μάρ]κου [Αὐρη]
+            <lb break="no"/>[λίο]υ [Ἀντωνείνου]
+            <lb/>[καὶ Λουκίου Αὐρη]
+            <lb break="no"/>[λίου Οὐήρου κε]
+            <lb break="no"/>[λευσάντων Τι]
+            <lb break="no"/>[βέριος Ἰούλιος]
+            <lb/>[Φρούγι ὁ κρά]
+            <lb break="no"/>[τιστος ἀνθύ]
+            <lb break="no"/>[πατος περιορί]
+            <lb break="no"/>[σας τὴν πόλιν]
+            <lb/>[τὰς στήλας]
+            <lb/>[ἔταξεν]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC205"><!--*AE 1998.1361; Christol 1998; AE 1997.1448; French 1997, 61-63.3.-->
+      <head>DOC205: <bibl type="preferred">AE 1998.1361</bibl>; <bibl>Christol 1998</bibl>; <bibl>AE 1997.1448</bibl>; <bibl>French 1997, 61-63.3</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>In h(onorem) dd(ominorum) Impp(eratorum) Severi et Anton[ini et [[Ge]]]
+            <lb break="no"/>[[tae]] Caesaris Auggg(ustorum) nnn(ostrorum) Maxi[mius Atti]
+            <lb break="no"/>anus q(uaestor) pr(o) pr(aetore) missus[ - ca. 10 - Sem]
+            <lb break="no"/>pronio Senecione [proconsule --- ]
+            <lb/>determin[ ---- ]</ab>
+      </div>
+      <div type="translation">
+         <p>In honor of the lords, the emperors <persName type="emperor">Severus</persName> and Antoninus (<persName type="emperor">Caracalla</persName>), and of <persName type="emperor">Geta</persName> Caesar, our (three) Augusti,
+                Maximius Attianus(?), propraetorian quaestor, sent by(?) ... Sempronius Senecio ...
+                established (the boundaries?) ...</p>
+      </div>
+   </div>
+</div>

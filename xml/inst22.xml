@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST22">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>
+      <persName>Messia Pudentilla</persName>and the <placeName type="ancient">Vicani Buteridavenses</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 84</bibl>
+   </p>
+   <p>Date(s): <date>AD 98-102</date>
+   </p>
+   <p>
+      <seg type="instance-description">Two inscribed boundary markers found in the vicinity of mod. <placeName type="modern">Sariurt</placeName>in <placeName type="modern">Romania</placeName> were placed “by order, and in accordance with the verdict (<foreign xml:lang="la">ex decreto</foreign>) of” the legate of Moesia, thereby attesting to a <hi rend="bold">boundary dispute</hi> between an otherwise unknown private individual and an otherwise unknown community. Placement of the boundary markers was delegated to a military official (in this case, a <foreign xml:lang="la">praefectus classis</foreign>).<note n="350" xml:id="ftn350"> This is the only instance of which I am aware in which a <foreign xml:lang="la">praefectus classis</foreign> places boundary markers. Other types of military personnel are well represented in this role. The document is far to terse to permit us to speculate as to whether the choice of a fleet commander is related to the property in question or whether he was just an available, or especially competent, subordinate of the proconsul. </note>
+      </seg>
+   </p>
+   <div type="document" xml:id="DOC234"><!--*EDH HD018879; ISCM 1 359; AE 1919.14; CIL 3.14447. See also: AE 1956.206.-->
+      <head>DOC234: <bibl type="preferred">EDH HD018879</bibl>; <bibl>ISCM 1 359</bibl>; <bibl>AE 1919.14</bibl>; <bibl>CIL 3.14447</bibl>. See also: <bibl>AE 1956.206</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[I]ussu et ex dec[ret]
+            <lb break="no"/>o v(iri) c(larissimi) Ovini Ter[tul]
+            <lb break="no"/>li co(n)s(ularis) termini
+            <lb/>positi inter [M]es
+            <lb break="no"/>siam Pud[entil]
+            <lb break="no"/>lam [et] vicano[s]
+            <lb/>But[e]ridave[n]
+            <lb break="no"/>ses per Vind(i)
+            <lb break="no"/>u[m Verian]um pr
+            <lb break="no"/>[aef(ectum) cl(assis)]</ab>
+      </div>
+      <div type="translation">
+         <p>By the order and according to the verdict of
+                    <persName>Ovinius Tertullus</persName>, <foreign xml:lang="la">vir clarissimus</foreign> and <foreign xml:lang="la">consularis</foreign>, boundary markers placed
+                between (the property of) <persName>Messia Pudentilla </persName>and the <placeName type="ancient">Vicani Buteridavenses </placeName>through <persName>Vindius Verianus</persName>, <foreign xml:lang="la">praefectus classis</foreign>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC322"><!--*ISCM 1 360; AE 1919.14.-->
+      <head>DOC322: <bibl type="preferred">ISCM 1 360</bibl>; <bibl>AE 1919.14</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[I]ussu et ex de
+            <lb break="no"/>[c]reto v(iri) c(larissimi) Ovini
+            <lb/>[T]ertulli co(n)s(ularis) ter
+            <lb break="no"/>[mini] positi inter
+            <lb/>[M]essiam Pude[n]
+            <lb break="no"/>[til]lam et vicano[s]
+            <lb/>[Bu]teridavenses
+            <lb/>[per] Vindium Ve
+            <lb break="no"/>[r]ianum praef(ectum)
+            <lb/>cl(assis)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

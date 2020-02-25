@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST121">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration and Renovation of Boundary Markers at <placeName type="ancient">Ostippo</placeName>
+   </head>
+   <p>Date(s): <date>AD 49</date>
+   </p>
+   <p>
+      <seg type="instance-description">A single inscribed document from <placeName type="ancient">Ostippo</placeName> (mod. Estepa in Spain), now lost, attests to the restoration and renovation of boundary markers associated with <foreign xml:lang="la">agri decumani</foreign>during the reign of Claudius. The <foreign xml:lang="la">agri decumani</foreign> appear to have been public land of the Roman people, leased in perpetuity by the censors to provincial communities in return for a tenth of the proceeds on the land.<note n="436" xml:id="ftn436"> CIL 2<seg type="T19">2</seg>.5.994 (A. Stylow and J. González Fernández), with references. </note> No explanation is provided by the document for the restoration, the completion of which is left in the hands of the <placeName type="ancient">Ostipponenses</placeName> themselves. The coincidence of Claudius’ censorship may be related, but the details are obscure. There is no evidence of a dispute, nor of a land grant. This may simply be a matter of repair in order to facilitate accurate assessment of the vectigal. The original lease of the land is imagined by the editors to date to the time of Iulius Caesar or of Augustus.</seg>
+   </p>
+   <div type="document" xml:id="DOC244"><!--*EDH HD031451; CIL 2.5.994; ILS 5971; CIL 2.1438.-->
+      <head>DOC244: <bibl type="preferred">EDH HD031451</bibl>; <bibl>CIL 2.5.994</bibl>; <bibl>ILS 5971</bibl>; <bibl>CIL 2.1438</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Ti(berio) Claudio Drusi f(ilio)]
+            <lb/>[Caes(are) Aug(usto) Germanico]
+            <lb/>po[nt(ifice)] max(imo) trib(unicia) [po]
+            <lb break="no"/>tes[t(ate) VIIII?] p(atre) p(atriae) imp(eratore) XVI
+            <lb/>co(n)s(ule) II[II ce]nsore te
+            <lb break="no"/>rmin[i] agror(um) decu
+            <lb break="no"/>manor(um) [resti]tuti et
+            <lb/>novat[i] Q(uinto) Veranio
+            <lb/>C(aio) Pompeio Gallo co(n)s(ulibus)
+            <lb/>f(aciundum) c(uraverunt) O[s]tip(ponenses)</ab>
+      </div>
+      <div type="translation">
+         <p>When Tiberius <persName type="emperor">Claudius</persName>, son of Drusus, Caesar
+                Augustus Germanicus, pontifex maximus, (held the) tribunician power for the 8th(?)
+                time, (was) father of the country, (had been saluted as) imperator 16 (times), (and
+                had been) consul 4 times (and) censor, the boundary markers of the <foreign xml:lang="la">agri decumani </foreign>were restored and
+                renovated. (When) Quintus Veranius and Gaius Pompeius Gallus were consuls, the
+                    <placeName type="ancient">Ostipponenses </placeName>had
+                charge of carrying out the work.</p>
+      </div>
+   </div>
+</div>

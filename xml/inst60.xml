@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST60">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute between <placeName type="ancient">Nerate</placeName> and <placeName type="ancient">Oneum</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 12</bibl>
+   </p>
+   <p>Date(s): <date>AD 23-37</date>
+   </p>
+   <p>
+      <seg type="instance-description">Sometime between AD 23 and 37, <persName>Lucius Volusius Saturninus</persName>, the governor of <placeName type="ancient">Dalmatia</placeName>, delivered a verdict (<foreign xml:lang="la">sententia</foreign>) in a <hi rend="bold">boundary dispute</hi> between the communities of <placeName type="ancient">Nerate</placeName> (an unlocated site probably near <placeName type="ancient">Salona</placeName>, mod. <placeName type="modern">Solin</placeName> in <placeName type="modern">Croatia</placeName>) and <placeName type="ancient">Oneum</placeName> (mod. <placeName type="modern">Omiš</placeName>).</seg>
+   </p>
+   <p>
+      <persName>Saturninus</persName> judged the case himself, aided by his <foreign xml:lang="la">consilium</foreign>, and delegated the placement of boundary markers to a military officer, as indicated by the text on the best preserved of the surviving rectangular <foreign xml:lang="la">termini</foreign> (Text <ref target="ddoc:114">
+         <bibl>
+            <biblScope>7.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>). Remnants of the same text probably appear on two other surviving markers: Text <ref target="ddoc:115">
+         <bibl>
+            <biblScope>7.2</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>and Text <ref target="ddoc:464">
+         <bibl>
+            <biblScope>7.3</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+      </ref>. The latter may testify to a separate incident as it was found significantly further from <placeName type="ancient">Salona </placeName>than the other two; its fragmentary nature precludes certainty, for the names of the parties to the dispute are lost. See Wilkes 1974, nos. 13, 17 and 18 for detailed information on findspots and modern whereabouts.</p>
+   <div type="document" xml:id="DOC114"><!--*Wilkes 1974, 265 no. 17; ILS 5948; Betz 1938, 30-31 no. 3; *AE 1890.12; CIL 3.8472.-->
+      <head>DOC114: <bibl type="preferred">Wilkes 1974, 265 no. 17</bibl>; <bibl>ILS 5948</bibl>; <bibl>Betz 1938, 30-31 no. 3</bibl>; <bibl type="preferred">AE 1890.12</bibl>; <bibl>CIL 3.8472</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>L(ucius) Trebius
+            <lb/>Secundus pr
+            <lb break="no"/>aefectus castr
+            <lb break="no"/>orum inter
+            <lb/>Onastinos et
+            <lb/>Narestinos ter
+            <lb break="no"/>minos pos(u)it ius
+            <lb break="no"/>su L(uci) Volusi Satu
+            <lb break="no"/>rni(ni) leg(ati) pro pr
+            <lb break="no"/>aetore [[C(ai) Ca[es]]]
+            <lb break="no"/>[[[ari]s Au[g]u[sti]]] G
+            <lb break="no"/>[[[e]rmanici]] ex
+            <lb/>senten{ten}ti
+            <lb break="no"/>a quam iis ath
+            <lb break="no"/>ibito consi
+            <lb break="no"/>lio dixit</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Lucius Trebius Secundus</persName>, <foreign xml:lang="la">praefectus castrorum</foreign> placed boundary markers between the <placeName type="ancient">Onastini</placeName> and the <placeName type="ancient">Narestini</placeName> by order of <persName>Lucius Volusius Saturninus</persName>,
+                propraetorian imperial legate of , according to the
+                verdict that he delivered, having consulted his <foreign xml:lang="la">consilium</foreign>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC115"><!--*Wilkes 1974, 266 no. 18; *AE 1890.13; CIL 3.8473.-->
+      <head>DOC115: <bibl type="preferred">Wilkes 1974, 266 no. 18</bibl>; <bibl type="preferred">AE 1890.13</bibl>; <bibl>CIL 3.8473</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>---] ex se[ntentia]
+            <lb/>quem is adhib[ito con]
+            <lb break="no"/>silio dixit</ab>
+      </div>
+      <div type="translation">
+         <p>... according to the decision which he
+                delivered to them after consulting his <foreign xml:lang="la">consilium</foreign>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC464"><!--*Wilkes 1974, 263-264 no. 13; CIL 3.9833.-->
+      <head>DOC464: <bibl type="preferred">Wilkes 1974, 263-264 no. 13</bibl>; <bibl>CIL 3.9833</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>--- ] Volus[io]
+            <lb/>[Satu]rnino [leg(ato)]
+            <lb/>[pro] pr(aetore) C(ai) C[aesaris]
+            <lb/>[Aug(usti) G]erm[anici ---</ab>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST137">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute between <placeName type="ancient">Delphi</placeName> and <placeName type="ancient">Thessalia</placeName> over a harbor</head>
+   <p>Date(s): <date>AD 125</date>
+   </p>
+   <p>
+      <seg type="instance-description">In a letter inscribed on the wall of the temple of Apollo at <placeName type="ancient">Delphi</placeName>, the emperor <persName type="emperor" rend="normal">Hadrian</persName>communicated a number of legal decisions concerning the conduct of the Pythian games and the organization of the Delphic Amphictyony, issues which had evidently been brought before him at some earlier date. In addition to other matters, the emperor made a partial ruling in a dispute between the Delphians and the Thessalians over the control and operation of a harbor.</seg>
+   </p>
+   <p>
+      <persName type="emperor" rend="normal">Hadrian</persName> acknowledged that the Delphians had already proved that they had purchased some (evidently related) land (<foreign xml:lang="grc">δόντες ὑπὲρ τῆς χώρας</foreign>) from the emperor <persName type="emperor" rend="normal">Vespasian</persName> for a sum of 30 talents. In order to “ensure that (the Delphians) might have [title to both the] harbor and the pasturages (or districts? = <foreign xml:lang="grc">τῶν</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">νομῶν</foreign>) and [title] in every respect”, <persName type="emperor" rend="normal">Hadrian</persName> assigned the otherwise unknown <persName>Claudius Timocrates</persName> to collect and send to him a number of Amphictyonic decrees which were “in conflict with one another or with the laws of society, in order that an investigation also of these (might) be made.” It is not unreasonable to assume that the existence of such conflicting documents was an extenuating circumstance raised by Thessalian representatives arguing the case before <persName type="emperor" rend="normal">Hadrian</persName> once it became clear that the Delphians could prove title at least to the land in question. Nothing more is known of this matter, but surely, had <persName type="emperor" rend="normal">Hadrian</persName> issued later favorable rulings in the case, these too would have been inscribed on the wall of the temple. Fragments of other letters of <persName type="emperor" rend="normal">Hadrian</persName> to <placeName type="ancient">Delphi</placeName> do survive, but these are too fragmentary to permit an assessment of their content.</p>
+   <p>The case in question is not necessarily a boundary dispute. Ownership of land and a harbor, combined with the right to operate (and presumably profit from) the harbor were initially contested. It is possible that the problematic Amphictyonic decrees may have touched on boundary matters, and might then have led to the need for adjudication of boundaries on site, the dispatch of a surveyor, or similar measures.</p>
+   <p type="P15">Grants of Land and the Assignment or Restoration of Boundaries</p>
+   <div type="document" xml:id="DOC443"><!--*FD 3.4.302; Oliver 1989 no. 75.-->
+      <head>DOC443: <bibl type="preferred">FD 3.4.302</bibl>; <bibl>Oliver 1989 no. 75</bibl>.</head>
+   </div>
+</div>

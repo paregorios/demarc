@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST157">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>
+      <persName>Q. Articuleius Regulus</persName> Adjudicates a Boundary Dispute in <placeName type="ancient">Lusitania</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 5</bibl>
+   </p>
+   <p>Date(s): <date>2 BC - AD 14</date>
+   </p>
+   <p>
+      <seg type="instance-description">Perhaps the earliest imperial-era <hi rend="bold">boundary dispute</hi> on record.</seg>
+   </p>
+   <p type="treParaIndent_20_Char_20_Char">This fragmentary inscription from modern <placeName type="modern">Guardão-Caramulo</placeName>in <placeName type="modern">Portugal</placeName> can be dated to between 2 BC and AD 14 on the basis of <persName type="emperor" rend="normal">Augustus’</persName> 13th consulate and the grant of tribunician power.<note n="219" xml:id="ftn219"> Alföldy 1969, 134. </note> Reported without context or commentary in <seg type="treTitle">FA</seg> by F. Russell Cortez in 1951 (with photo), this inscription would seem to belong to a peculiar class of documents known only from the <placeName type="modern">Iberian peninsula</placeName>, the <foreign xml:lang="la">termini Augustales</foreign>.<note n="220" xml:id="ftn220"> In this case, the distinctive phrase is partly reconstructed: <foreign xml:lang="la">[ --- terminos] August(ales) ...</foreign> The exact nature and purport of these markers, which present a distinctive appearance and employ distinctive terminology, are a matter of speculation. The majority of them do not provide any definite testimony for boundary disputes. For more on the <foreign xml:lang="la">termini Augustales</foreign>, see Alarcáo 1976, 175-176 with AE 1976.272 and Le Roux 1994. Campbell 1996, 96-97 equates the <foreign xml:lang="la">termini Augustales</foreign> with the distinctive centurial markers associated with <persName type="emperor" rend="normal">Augustus</persName> (<foreign xml:lang="la">lapides Augustei</foreign>) mentioned in the <seg type="treTitle">Liber Coloniarum </seg>(Campbell 2000, 190.5-20). This is surely an error, for the <seg type="treTitle">Liber Coloniarum </seg>describes these as “round and made from flint or volcanic stone ... the total height is 4 feet” (Ibid.). The <foreign xml:lang="la">termini Augustales </foreign>are generally made from local stone and have a rectangular shape. None of them carries centurial grid designations. Many separate the <foreign xml:lang="la">prata</foreign> of legions or cohorts from communities, others separate the <foreign xml:lang="la">territoria</foreign> of two or more communities. </note> The block as photographed has been cut down to a rectangular shape with the resulting loss of the right-hand ends of all lines. No dimensions or information about the matrix were published.</p>
+   <p type="treParaIndent_20_Char_20_Char">Of the six published <foreign xml:lang="la">termini Augustales </foreign>that date to the Augustan age, this is the only one to mention an individual other than the emperor, and the only one to provide sure evidence that it was placed in accordance with a verdict in a dispute (<foreign xml:lang="la">causa cognit[a ---</foreign>).<note n="221" xml:id="ftn221"> See discussion of this terminology on page <bibl>
+            <biblScope type="page">27</biblScope> (<title type="short">Elliott 2004</title>)</bibl>. For a convenient list of those <foreign xml:lang="la">termini Augustales </foreign>that do not relate to the <foreign xml:lang="la">prata </foreign>of legions, see Le Roux 1994, 48-51, with additional literature. </note> The individual in question (on Alföldy’s argument and reconstruction) is <persName>Q. Articule[ius Regulus --- ]</persName>. Known otherwise (and his name in full) only from a laconic cursus inscription from <placeName type="ancient">Canusium</placeName> (mod. <placeName type="modern">Canosa di Puglia </placeName>in <placeName type="modern">Italy</placeName>), his offices there are listed as praetor, proconsul and legate of the emperor <persName type="emperor" rend="normal">Augustus</persName>.<note n="222" xml:id="ftn222"> CIL 9.331 = ERCanosa 22. </note> If we follow Alföldy, this inscription would place his service as legate in <placeName type="ancient">Lusitania </placeName>for at least part of this period.</p>
+   <p type="treParaIndent_20_Char_20_Char">The overall purport of this document is obscure. It seems at least that – in the context of whatever project, practice or policy led to the deployment of the various <foreign xml:lang="la">termini Augustales</foreign> – a boundary dispute arose or was addressed by the imperial authority in the province. The appearance of the emperor’s titulature in what appears to be the nominative case certainly seems to imply the emperor’s direct involvement in the affair, although this argument hinges solely on the word <foreign xml:lang="la">Caesar, </foreign>where it is possible that an inflected ending has been dropped. If the emperor’s name had appeared in the ablative, we might be looking at a date formula or a statement of the authority under which the case was handled. What remains of the second name (which we restore on the model of other boundary markers as <persName>Regulus’ </persName>and in the ablative) also lacks any inflected endings. To make matters worse, we lack both the main verb and any participle that might agree with one or the other name in an oblique case. Consequently, there is little point in speculating on details of individual roles. On the model of our more complete texts that mention verdicts, we may hypothesize that, as legate in <placeName type="ancient">Lusitania</placeName>, <persName>Regulus</persName> was indeed the Roman official who heard this case and issued the verdict, possibly having consulted the emperor or having received relevant general directions from him.<note n="223" xml:id="ftn223"> Le Roux 1994, 40 argues sensibly that <persName>Regulus’ </persName>role should be seen as a routine mission in context of his command in the province, and not a special mission, i.e., he was not a special legate of the emperor like <persName>Nigrinus</persName>, but a provincial governor dealing with a boundary dispute in the course of his regular duties. </note> Without further evidence or the recovery and publication of the missing portion of this inscription, we cannot responsibly say more. </p>
+   <div type="document" xml:id="DOC108"><!--*EDH HD017849; Le Roux 1994, 49.6; Alföldy 1969, 134; AE 1954.88; Russell Cortez 1951, 332.4419.-->
+      <head>DOC108: <bibl type="preferred">EDH HD017849</bibl>; <bibl>Le Roux 1994, 49.6</bibl>; <bibl>Alföldy 1969, 134</bibl>; <bibl>AE 1954.88</bibl>; <bibl>Russell Cortez 1951, 332.4419</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caesar Div[i f(ilius) Augustus co(n)s(ul)]
+            <lb/>XIII trib(unicia) potest[ate --- terminos]
+            <lb/>August(ales) inter [--- et ---]
+            <lb break="no"/>ie(n)ses Q(uinto) Artic(u)le[io Regulo leg(ato) ---]
+            <lb/>causa cognit[a ---]</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar (Augustus), (son of) the
+                god, (consul) 13 times, (holding) the tribunician power ... (established?) the
+                    <foreign xml:lang="la">termini Augustales </foreign>between (?
+                and ?) with(?) Quintus Articuleius (Regulus, legate doing something) ... the case
+                having been heard ...</p>
+      </div>
+   </div>
+</div>

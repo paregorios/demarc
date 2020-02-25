@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST54">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Dispute between the <placeName type="ancient">Comenses</placeName> and <placeName type="ancient">Bergalei</placeName>
+   </head>
+   <p>Date(s): <date>AD 46</date>
+   </p>
+   <p>
+      <seg type="instance-description">A protracted and, in some ways obscure, dispute between the inhabitants of <placeName type="ancient">Comum</placeName> (mod. Como in Italy) and a people living to their north, the <placeName type="ancient">Bergalei</placeName>, was finally settled by an edict of the emperor <persName type="emperor" rend="normal">Claudius</persName>. The affair was first raised under <persName type="emperor" rend="normal">Tiberius</persName> and investigated by two separate delegates, the second commissioned by <persName type="emperor" rend="normal">Claudius</persName>. To infer from the rulings and arrangements inherent in the edict, the matter seems to have touched on questions of citizenship rights, property ownership, territorial control and, possibly, boundaries. The fact that <persName type="emperor" rend="normal">Claudius</persName> rules on the citizenship issues, but delegates the issuance of a verdict in the rest of the case, strengthens the supposition that boundaries were involved, necessitating a definitive demarcation.</seg>
+   </p>
+   <div type="document" xml:id="DOC103"><!--AE 1983.445; Frézouls 1981; FIRA 1.71; ILS 206; *CIL 5.5050.-->
+      <head>DOC103: <bibl>AE 1983.445</bibl>; <bibl>Frézouls 1981</bibl>; <bibl>FIRA 1.71</bibl>; <bibl>ILS 206</bibl>; <bibl type="preferred">CIL 5.5050</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>M(arco) Iunio Silano Q(uinto) Sulpicio Camerino co(n)s(ulibus)
+            <lb/>Idibus Marti(i)s Bai(i)s in praetorio edictum
+            <lb/>Ti(beri) Claudi Caesaris Augusti Germanici propositum fuit id quod infra scriptum est
+            <lb/>Ti(berius) Claudius Caesar Augustus Germanicus pont(ifex)
+            <lb/>maxim(us) trib(unicia) potest(ate) VI imp(erator) XI p(ater) p(atriae) co(n)s(ul) designatus IIII dicit
+            <lb/>cum ex veteribus controversis pe&lt;nd=T&gt;entibus aliquamdiu etiam
+            <lb/>temporibus Ti(beri) Caesaris patrui mei ad quas ordinandas
+            <lb/>Pinarium Apollinarem miserat quae tantum modo
+            <lb/>inter Comenses essent quantum memoria refero et
+            <lb/>Bergaleos isque primum apsentia(!) pertinaci patrui mei
+            <lb/>deinde etiam Gai principatu quod ab eo non exigebatur
+            <lb/>referre non stulte quidem neglexserit et posteac
+            <lb/>detulerit Camurius Statutus ad me agros plerosque
+            <lb/>et saltus mei iuris esse in rem praesentem misi
+            <lb/>Plantam Iulium amicum et comitem meum qui
+            <lb/>cum adhibitis procuratoribus meis qui{s}que in alia
+            <lb/>regione quique in vicinia erant summa cura inqui
+            <lb break="no"/>sierit et cognoverit cetera quidem ut mihi demons
+            <lb break="no"/>trata commentario facto ab ipso sunt statuat pronun
+            <lb break="no"/>tietque ipsi permitto
+            <lb/>quod ad condicionem Anaunorum et Tulliassium et Sindu
+            <lb break="no"/>norum pertinet quorum partem delator adtributam Triden
+            <lb break="no"/>tinis partem ne adtributam quidem arguisse dicitur
+            <lb/>tam et si animadverto non nimium firmam id genus homi
+            <lb break="no"/>num habere civitatis Romanae originem tamen cum longa
+            <lb/>usurpatione in possessionem eius fuisse dicatur et ita permix
+            <lb break="no"/>tum cum Tridentinis ut diduci ab i(i)s sine gravi splendi(di) municipi(i)
+            <lb/>iniuria non possit patior eos in eo iure in quo esse se existima
+            <lb break="no"/>verunt permanere benificio meo eo quidem libentius quod
+            <lb/>pleri{s}que ex eo genere hominum etiam militare in praetorio
+            <lb/>meo dicuntur quidam vero ordines quoque duxisse
+            <lb/>non nulli &lt;a=CO&gt;llecti in decurias Romae res iudicare
+            <lb/>quod benificium i(i)s ita tribuo ut quaecumque tanquam
+            <lb/>cives Romani gesserunt egeruntque aut inter se aut cum
+            <lb/>Tridentinis alisve rata{m} esse iubea&lt;m=T&gt; nominaque ea
+            <lb/>quae habuerunt antea tanquam cives Romani ita habere i(i)s permittam</ab>
+      </div>
+      <div type="translation">
+         <p>When <persName>Marcus Iunius Silanus</persName> and <persName>Quintus Sulpicius Camerinus</persName> were consuls, on the Ides of March, in
+                the palace at <placeName type="ancient">Baiae</placeName>, the
+                edict of Tiberius <persName type="emperor">Claudius</persName>
+                Caesar Augustus Germanicus which is inscribed below was issued.</p>
+         <p>Tiberius <persName type="emperor">Claudius</persName> Caesar Augustus Germanicus,
+                pontifex maximus, (holding the) tribunician power for the 6th time, (hailed as)
+                imperator 11 times, father of the country, consul-designate for the 4th time, says:
+                Since with respect to unsettled disputes that were already old in the days of
+                    <persName type="emperor" rend="normal">Tiberius Caesar</persName> my
+                uncle, for the resolution of which he sent <persName>Pinarius Apollinaris</persName> and which were of great importance between the
+                    <placeName type="ancient">Comenses</placeName>, if memory
+                serves, and the <placeName type="ancient">Bergalei</placeName>,
+                    (<persName>Pinarius</persName>), first because of
+                the protracted absence of my uncle and then in the principate of <persName type="emperor" rend="normal">Gaius</persName> because he was not ordered
+                to report, not unwisely neglected to do so, and (since) later <persName>Camurius Statutus</persName> reported to me that
+                many fields and woodlands are under my jurisdiction, in the present case I sent out
+                    <persName>Iulius Planta</persName>, my friend and
+                companion, whom, since he investigated and examined the matter with the greatest of
+                care after consulting my procurators (both those who were in other regions and those
+                who were in the vicinity), I permit to settle and declare the remaining issues just
+                as he demonstrated them to me in the memorandum he prepared. As to that which
+                pertains to the status of the <placeName type="ancient">Anauni</placeName>, <placeName type="ancient">Tulliasses</placeName> and <placeName type="ancient">Sinduni</placeName>, some of whom are attributed to the <placeName type="ancient">Tridentini</placeName> and some of whom are
+                not (as the informer is said to have charged), although I am aware that this sort of
+                person does not have a very firm basis of Roman citizenship, nevertheless, since
+                they are said to have been in possession of it through long practice and to be so
+                intertwined with the <placeName type="ancient">Tridentini</placeName> that it is not possible to separate them without causing
+                grave injury to that splendid <foreign xml:lang="la">municipium</foreign>, I permit them to remain in that legal status that they
+                thought they had, as a <foreign xml:lang="la">beneficium</foreign>
+                from me, which indeed I am all the readier to do because many men of this sort are
+                said to be serving in my Praetorian Guard, and indeed also to have had command rank,
+                and some, enrolled in the <foreign xml:lang="la">decuriae</foreign>
+                at Rome, are said to judge cases; which <foreign xml:lang="la">beneficium</foreign> I grant to them so that whatever they did or said as if
+                Roman citizens, either amongst themselves or with the <placeName type="ancient">Tridentini</placeName> or others, I order to
+                be valid, and those names which they had before as if they were Roman citizens I
+                permit them to keep.</p>
+      </div>
+   </div>
+</div>

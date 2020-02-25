@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST40">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundaries assigned to the <placeName type="ancient">Suburbures</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 56</bibl>
+   </p>
+   <p>Date(s): <date>AD 116-117</date>
+   </p>
+   <p>
+      <seg type="instance-description">Two identical boundary inscriptions from an area to the northeast of mod. <placeName type="modern">Chott-el-Beida</placeName>
+         <note n="421" xml:id="ftn421"> The <placeName type="modern">Chott el-Beida</placeName> is a seasonal wetland, shown but not labeled at BAtlas 31 D4 (just below “B” in “SUBURBURES.” Also in 34 D2, upper right quadrant, south of label “MUSONI”. See also AAA F.16 “Sétif” (extreme lower right) and F.26 “Bou Taleb” (upper right), where it is labeled. </note> in <placeName type="modern">Algeria</placeName> record the assignment of boundaries to the <placeName type="ancient">Suburbures</placeName>. These markers help localize the western end of their attested area.<note n="422" xml:id="ftn422"> They are reasonably well attested in both literary and epigraphic sources and, like many large tribal groupings in this area, seem to have consisted of many sub-tribes and small clans. Their localization seems to have moved over the course of the Roman period, and they may have experienced a transition from mixed transhumance and farming to a more sedentary agriculturalism. See Desanges 1962, 135-136. </note> The demarcation was effected by the imperial legate in command of <placeName type="ancient">Legio III Augusta</placeName>, <persName>T. Sabinius Barbarus</persName>. He acted under the authority of the emperor Trajan (<foreign xml:lang="la">ex auctoritate imperatoris</foreign>). The reason for this boundary assignment is obscure, but should be compared to Instance <ref target="#INST78">
+            <bibl>
+               <biblScope>73</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>, the assignment of boundaries under Hadrian to the <placeName type="ancient">gens Numidarum</placeName>.</seg>
+   </p>
+   <div type="document" xml:id="DOC219"><!--*EDH HD033387; ILS 9381; AE 1904.144; Cagnat 1903, 99.I.-->
+      <head>DOC219: <bibl type="preferred">EDH HD033387</bibl>; <bibl>ILS 9381</bibl>; <bibl>AE 1904.144</bibl>; <bibl>Cagnat 1903, 99.I</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctoritate
+            <lb/>Imp(eratoris) Caesaris di
+            <lb break="no"/>vi Nervae f(ilii) Nerv[ae]
+            <lb/>Traiani optimi
+            <lb/>Aug(usti) Germ(anici) Dac(ici)
+            <lb/>[P]arthici fines
+            <lb/>adsignati gen[ti]
+            <lb/>Suburburum pe[r T(itum)]
+            <lb/>Sabinium Barba[rum]
+            <lb/>leg(atum) Aug(usti) pro pr(aetore)</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar, son of
+                the divine Nerva, Nerva <persName type="emperor">Trajan</persName>,
+                the best, Augustus, Germanicus Dacicus Parthicus. Boundaries assigned to the people
+                of the <placeName type="ancient">Suburbures</placeName> through
+                    <persName>Titus Sabinius Barbarus</persName>,
+                propraetorian imperial legate.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC218"><!--*ILS 9380; Cagnat 1903, 99.II.-->
+      <head>DOC218: <bibl type="preferred">ILS 9380</bibl>; <bibl>Cagnat 1903, 99.II</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex aucto[ritate]
+            <lb/>imp(eratoris) Caes(aris) divi [Nervae f(ilii)]
+            <lb/>Nervae Traiani O[ptimi]
+            <lb/>Aug(usti) Ger(manici) Dacic(i) Part[thic(i)]
+            <lb/>[fi]nes adsignati gent[i]
+            <lb/>[S]uburburum per T(itum) Sa[bi]
+            <lb break="no"/>nium Barbarum leg(atum)
+            <lb/>Aug(usti) pro pr(aetore)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+</div>

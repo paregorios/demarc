@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST51">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of Boundaries and Immunity of the <placeName type="ancient">Thudedenses</placeName> by the <persName type="emperor" rend="normal">Severi</persName>
+   </head>
+   <p>Date(s): <date>AD 202</date>
+   </p>
+   <p>
+      <seg type="instance-description">Boundary restoration with no direct evidence of a dispute.</seg>
+   </p>
+   <p>An inscription from the area of <placeName type="ancient">Tipasa</placeName> on the North African coast records the restoration of borders associated with a fortified community (<foreign xml:lang="la">castellum</foreign>) belonging to the otherwise unknown <placeName type="ancient">Thudedenses</placeName>. The text is datable, by the imperial titulature of <persName type="emperor" rend="normal">Septimius Severus</persName>, to sometime after 28 January AD 198, when the emperor assumed the title <foreign xml:lang="la">Parthicus maximus</foreign>, and made <persName type="emperor" rend="normal">Caracalla</persName> Augustus and <persName type="emperor" rend="normal">Geta</persName> Caesar. It seems most likely that the text refers to an event occurring in AD 202, when the entire imperial family was in <placeName type="modern">North Africa</placeName> and the emperor was personally leading a campaign against desert peoples in the area beyond <placeName type="ancient">Tripolitania</placeName>.</p>
+   <p>It would appear that an embassy of the <placeName type="ancient">Thudedenses</placeName> met the imperial trio while they were in North Africa and presented them with a petition.<note n="432" xml:id="ftn432"> It would be helpful for a future paper to review what we know about <persName type="emperor" rend="normal">Severus’</persName>activities in North Africa in 202, whether and to what degree he toured the various provinces there, and how close he might have come to <placeName type="ancient">Tipasa</placeName>. This inscription may indicate that the imperial family, including the emperor, were present at <placeName type="ancient">Tipasa</placeName>. </note> They were seeking the restoration of borders and an (associated?) immunity from taxation that had originally been conferred on them by <persName>King Juba II,</persName> somehow linked to an oath sworn to (or by) the emperor <persName type="emperor" rend="normal">Augustus</persName> himself.<note n="433" xml:id="ftn433"> This interpretation of the odd phrase <foreign xml:lang="la">coniuriationem divi Aug(usti)</foreign> in lines 8-9 relies upon an improved reading and explanatory analysis: Desanges 1994. </note> It is not clear whether a border dispute with a neighboring community led to the appearance before the emperor, or whether the <placeName type="ancient">Thudedenses</placeName> just seized upon the emperor’s presence as an opportunity to seek a <foreign xml:lang="la">
+         <seg type="T11">beneficium</seg>
+      </foreign>.</p>
+   <p>The text does not explicitly record the reason why the borders needed restoring, but it is clear from the phrase <foreign xml:lang="la">post</foreign> 
+      <foreign xml:lang="la">multis maximisque saeculis</foreign> that it had been a long time since they had been observed. The concomitant question of immunity may provide an additional clue. It is possible that the original <foreign xml:lang="la">territorium</foreign> of the <foreign xml:lang="la">castellum Thudedensium</foreign>, along with the original tax immunity, had been revoked or ignored by subsequent emperors, governors or imperial tax officials. A significant reduction in territory would have meant a corresponding reduction in taxable agricultural capacity. Combined with the revocation of immunity, the increase in tax burden on the community may have been substantial, thereby explaining the community’s interest in returning to the Augustan arrangement. That they still knew of the Augustan arrangement after “many very great ages” is in itself impressive.</p>
+   <p>The grant of <foreign xml:lang="la">beneficia</foreign> such as these is in keeping with <persName type="emperor" rend="normal">Severus’</persName> behavior in North Africa during 202. He is known to have granted the <foreign xml:lang="la">ius italicum</foreign> to <placeName type="ancient">Lepcis</placeName>, <placeName type="ancient">Carthage</placeName> and <placeName type="ancient">Utica</placeName>.<note n="434" xml:id="ftn434"> s.v. Septimius Severus, Lucius, OCD<seg type="T19">3</seg> by A. Birley. </note> Of course, the inscription does not record the names of any parties (other communities, imperial or private estates?) that might have been diminished or might have incurred new local tax obligations as a consequence of the <placeName type="ancient">Thudedenses’</placeName> good fortune.</p>
+   <p>Given that the emperor was prepared to grant the request of the <placeName type="ancient">Thudedenses</placeName>, how were the old borders to be identified for restoration? It is possible that <foreign xml:lang="la">termini</foreign> had been placed in <persName type="emperor" rend="normal">Augustus’</persName> day, but if the borders had been diminished by official action, these would probably have been removed. The <placeName type="ancient">Thudedenses</placeName>had a solution for the problem. They were able to produce, either from their own records or from some imperial archive, a <foreign xml:lang="la">determinatio saeculi</foreign>, which I take to mean a <foreign xml:lang="la">determinatio</foreign> “from the (former) age.” The <placeName type="ancient">Thudedenses</placeName> located a copy of an official survey description, of the type already discussed, delineating the borders granted them by Juba II! If this interpretation is correct and the <foreign xml:lang="la">determinatio</foreign> was genuine, it means that either the community or the imperial government had stored the document for as much as 200 years, and that someone was able to locate and produce that document from the archive after all that time.<note n="435" xml:id="ftn435"> Compare the antiquity of evidence consulted by Nigrinus (Instance <ref target="#INST16">
+            <bibl>
+               <biblScope>39</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). </note>
+   </p>
+   <div type="document" xml:id="DOC100"><!--*EDH HD002921; AE 1985.972; Bouchenaki 1977. See also: Desanges 1994.-->
+      <head>DOC100: <bibl type="preferred">EDH HD002921</bibl>; <bibl>AE 1985.972</bibl>; <bibl>Bouchenaki 1977</bibl>. See also: <bibl>Desanges 1994</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(erator) Caes(ar) L(ucius) Sept(imius) Severus Pius
+            <lb/>Pert(inax) Aug(ustus) Arab(icus) Adiab(enicus) Part(hicus) max(imus)
+            <lb/>pont(ifex) max(imus) p(ater) p(atriae) et Imp(erator) Caes(ar) M(arcus) Aure
+            <lb break="no"/>lius Antoninus Pius Aug(ustus) Arab(icus)
+            <lb/>Adiab(enicus) Part(hicus) max(imus) p(ater) p(atriae) [[et P(ublius) Sept(imius) Geta]]
+            <lb/>[[---]] castellanis Thude
+            <lb break="no"/>densibus fines et immunitatem
+            <lb/>a rege Iuba per coniurationem
+            <lb/>divi Aug(usti) concessos post
+            <lb/>[m]ultis maximisque saecu
+            <lb break="no"/>lis felicissimis temporibus
+            <lb/>suis divino iudicio restituerunt
+            <lb/>Thude(de)nses determinatione s(a)e
+            <lb break="no"/>culi terminos posuerunt
+            <lb/>et ded(icaverunt) felic(iter).</ab>
+      </div>
+      <div type="translation">
+         <p>The emperor Caesar Lucius <persName type="emperor">Septimius Severus</persName> Pius Pertinax
+                Augustus Arabicus Adiabenicus Parthicus Maximus, pontifex maximus, father of the
+                country and the Emperor Caesar Marcus Aurelius Antoninus [<persName type="emperor">Caracalla</persName>] Pius Augustus Arabicus
+                Adibenicus Parthicus Maximus, father of the country and <persName type="emperor">
+               <seg type="T41">Geta</seg>
+            </persName> – after a long and great age, in these happy
+                times, through their divine verdict – they restored to the <placeName type="ancient">castellani Thudedenses </placeName>the
+                boundaries and immunity given to them by <persName>King Juba </persName>with the oath of the divine <persName type="emperor">Augustus</persName>. The <placeName type="ancient">Thudedenses</placeName> placed the <foreign xml:lang="la">termini</foreign> in accordance with a <foreign xml:lang="la">determinatio</foreign> of that age and dedicated
+                them auspiciously.</p>
+      </div>
+   </div>
+</div>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST8">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Restoration of Boundaries between the <placeName type="ancient">Nybgenii</placeName> and the <placeName type="ancient">Tacapitani</placeName>
+   </head>
+   <p>Date(s): <date>Restoration, ca. AD 98-117 of AD 29-30 boundaries</date>
+   </p>
+   <p>
+      <seg type="instance-description">Epigraphic evidence attests to a massive centuriation effort in central <placeName type="modern">Tunisia</placeName> in AD 29 or 30 (Text <ref target="ddoc:338">
+            <bibl>
+               <biblScope>87.1</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>— Text <ref target="ddoc:29">
+            <bibl>
+               <biblScope>87.16</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>). During the third year of <persName>C. Vibius Marsus’</persName> service as proconsul, <placeName type="ancient">Legio III Augusta</placeName>carried out an extensive survey, evidently centered on high terrain to the northeast of <placeName type="ancient">Ammaedara</placeName> and extending at least 250 km to the southeast. Two other inscriptions (Text <ref target="ddoc:43">
+            <bibl>
+               <biblScope>87.17</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>— Text <ref target="ddoc:44">
+            <bibl>
+               <biblScope>87.18</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>) indicate that, sometime later during the reign of <persName type="emperor" rend="normal">Trajan</persName>, a copy of an existing survey map was obtained from <placeName type="modern">Rome</placeName> and used to reestablish a boundary between the <placeName type="ancient">Nybgenii</placeName> and the <placeName type="ancient">Tacapitani</placeName>, probably in the course of resolving a dispute. Scholars generally assume that the map in question derived from the delimitation under <persName>Marsus</persName>.</seg>
+   </p>
+   <p>All the boundary markers associated with these two events that have been recovered come from a 2,400 km<seg type="T25">2</seg> area of the <placeName type="modern">Bled Segui</placeName>, a valley centered on the ancient <placeName type="ancient">Lacus Salinarum</placeName>and roughly bounded by the ancient settlements of <placeName type="ancient">Capsa</placeName>, <placeName type="ancient">Turris Tamalleni </placeName>and <placeName type="ancient">Aquae Tacapitanae</placeName>.<note n="465" xml:id="ftn465"> BAtlas 33 C4-D4 and 35 A1-B1 </note> Twenty-one boundary markers probably deriving from the original survey (5 of then uninscribed) have so far been published, as well as the two from the subsequent Trajanic redemarcation.</p>
+   <p>The inscribed survey markers of AD 29-30 bear coordinates relative to the main axes of the centuriation grid: the <foreign xml:lang="la">cardo maximus</foreign> and <foreign xml:lang="la">decumanus maximus</foreign>. These coordinates indicate the locations of the marker within the grid of centuriation (these range from 55-110 centuries to the right of the <foreign xml:lang="la">decumanus</foreign> and 235-305 centuries beyond the <foreign xml:lang="la">cardo</foreign>, with one bearing coordinates of 45 to the left of the <foreign xml:lang="la">decumanus</foreign>). One of these inscribed boundary markers also carries the annotation NYBG, which has been variously supplemented as <foreign xml:lang="la">Nybg(enii) </foreign>or <foreign xml:lang="la">Nybg(eniorum)</foreign>. Whatever the precise case of the name, it seems likely that this annotation was meant to indicate one of two things: that the century thus marked (or a portion thereof) contained land that belonged to (or had been assigned to) the <placeName type="ancient">Nybgenii</placeName> (i.e., public land of the <placeName type="ancient">Nybgenii</placeName>), or that the <foreign xml:lang="la">limes</foreign> on which the marker stood also constituted a territorial boundary between the <placeName type="ancient">Nybgenii</placeName> and another community or people. Or it indicates that both conditions coincided.</p>
+   <p>In his definitive study of the centuriation, P. Trousset calculates from the relative position of the inscribed markers that the centuriation grid was composed of square centuries measuring approximately 710 m on a side.<note n="466" xml:id="ftn466"> See Trousset 1978 with Trousset 1997. </note> Leaving out the one marker from the left side of the <foreign xml:lang="la">decumanus maximus</foreign>, this means we have direct epigraphic evidence for the survey covering an area measuring 55 x 70 centuries (39.1 x 49.7 km). Further, by using the dimensions of the centuries and the coordinates of the surviving markers, it is possible to extrapolate the location of the grid’s origin. These calculations put the <foreign xml:lang="la">decumanus maximus</foreign> nearly 40 km away from the lowest-numbered marker, and the <foreign xml:lang="la">cardo maximus</foreign> nearly 167 km away. Given these distances and the angular alignments of the surviving markers, Trousset accordingly locates the origin atop the <placeName type="modern">Jebel bou el Hanèche</placeName>, a prominent peak just to the northeast of <placeName type="modern">Sidi-Ali-bou-Khraled</placeName>, where there is evidence for an ancient settlement and a road.<note n="467" xml:id="ftn467"> See BAtlas 33 C1, where the settlement is marked and the unlabeled peak indicated only by contour lines. </note> From there, the <foreign xml:lang="la">decumanus maximus</foreign> would have run to the southeast at an angle of approximately 35 degrees from south, taking it near <placeName type="ancient">Sufetula</placeName>. The <foreign xml:lang="la">cardo maximus</foreign> would have run at a right angle to the <foreign xml:lang="la">decumanus</foreign>, taking it near <placeName type="ancient">Ammaedara</placeName>, the winter camp of the legion from at least AD 14.<note n="468" xml:id="ftn468"> Fentress 1979, 66; Le Bohec 1989, 341-342. </note> Prior to the publication of Trousset’s study, the centuriation of AD 29-30 was thought to be part of an even larger, hypothetical system embracing the whole of southern <placeName type="modern">Tunisia</placeName>. Trousset soundly repudiates this view by comparing the orientation and grid size of this segment with those in other areas, though it is clear that the scheme was still large.</p>
+   <p>The two Trajanic inscriptions were in very poor condition when recovered. It is clear that both were labelled as <foreign xml:lang="la">termini inter Tacapitanos et Nybgenios</foreign>and that each carried a similar text beginning with the phrase <foreign xml:lang="la">ex auctoritate imperatoris.</foreign> The imperial titulature is that of <persName type="emperor" rend="normal">Trajan</persName>, but it is not expressed fully enough to provide a precise date. The name of the individual responsible for reestablishing the boundary has been lost, but he did so on the basis of a map (<foreign xml:lang="la">forma</foreign>) sent by the emperor. The orientation of these boundary markers was important, for opposite sides were clearly labelled with the names of the appropriate parties: the <placeName type="ancient">Nybgenii</placeName> on one side, the <placeName type="ancient">Tacapitani</placeName> on the other. The findspots of these markers, and the orientation of their faces, accord well with the earlier centuriation grid as reconstructed by Trousset; hence the common assumption that the map mentioned in the Trajanic inscriptions depicted the survey as conducted under <persName>Marsus</persName>.</p>
+   <p>There is no direct evidence linking the centuriation of AD 29-30 to any particular dispute or to any particular military or administrative actions, nor would we expect there to be such a linkage. Most modern commentators interpret the survey as a consequence of the revolt of <persName>Tacfarinas</persName> and a major escalation in an already aggressive assertion of Roman control over the region, signalled in preceding years by the establishment of the legion at <placeName type="ancient">Ammaedara</placeName> and the construction of a road from there to <placeName type="ancient">Tacape</placeName>. In the view of Trousset and others,<note n="469" xml:id="ftn469"> E.g., Hitchner 1994, 32-33. Cf. Instance <ref target="#INST4">
+            <bibl>
+               <biblScope>89</biblScope> (<title type="short">Elliott 2004</title>)</bibl>
+         </ref>. </note> the centuriation was a political and military measure taken to punish those native peoples that supported <persName>Tacfarinas,</persName> by limiting their territorial control and establishing a basis for future administration, land appropriation and tax assessment. Whether this centuriation scheme was thoroughly marked on the ground in all areas between its origin and the <placeName type="modern">Bled Segui</placeName>—where the territory of the <placeName type="ancient">Nybgenii</placeName> abutted that of the <placeName type="ancient">Tacapitani</placeName>—is a matter of speculation. The published analyses employing aerial photography do not yet extend this far to the south, so that it is impossible for us to assess the degree to which this grid left a lasting impact on the organization and exploitation of the landscape. That a land dispute could be settled at least 70 years later on the basis of the map held in the imperial archives recording the original survey indicates that the issue was not without some long-term importance.</p>
+   <p>NB: in the following presentation of texts, I have followed Trousset 1978 + Trousset 1997. Because his presentation is definitive, I have not felt it necessary to provide a full list of editions (lemma) or findspots for each stone. I have provided only one example text for each type of inscription, and have not listed at all the five “mute” stones cataloged by Trousset (1978 pp. 176-177 nos. 2-3, 8, 13, 16).</p>
+   <div type="document" xml:id="DOC338"><!--Trousset 1978  no. 1, pp. 129-132, 176-177; *EDH HD030558; ILS 9375; CIL 8.22786f; AE 1905.185.-->
+      <head>DOC338: <bibl>Trousset 1978  no. 1, pp. 129-132, 176-177</bibl>; <bibl type="preferred">EDH HD030558</bibl>; <bibl>ILS 9375</bibl>; <bibl>CIL 8.22786f</bibl>; <bibl>AE 1905.185</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>leg(io) III A[ug(usta)]
+            <lb/>leimitavit(!)
+            <lb/>C(aio) Vibio Marso
+            <lb/>proco(n)s(ule) III
+            <lb/>d(extra) d(ecumanum) LXX
+            <lb/>ul(tra) k(ardinem) CCLXXX</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <foreign xml:lang="la">Legio</foreign> III Augusta established the <foreign xml:lang="la">limites</foreign> when C. Vibius Marsus was
+                proconsul for the third time. To the right of the <foreign xml:lang="la">decumanus</foreign>: 70. Above the <foreign xml:lang="la">kardo</foreign>: 280.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC34"><!--Trousset 1976 no. 12, pp. 129-132, 176-177; *CIL 8.22786a.-->
+      <head>DOC34: <bibl>Trousset 1976 no. 12, pp. 129-132, 176-177</bibl>; <bibl type="preferred">CIL 8.22786a</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC346"><!--Trousset 1978 no. 14, pp. 176-177 and 129-132; CIL 8.22786k.-->
+      <head>DOC346: <bibl>Trousset 1978 no. 14, pp. 176-177 and 129-132</bibl>; <bibl>CIL 8.22786k</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC347"><!--Trousset 1978  no. 15, pp. 176-177 and 129-132; CIL 8.22786l.-->
+      <head>DOC347: <bibl>Trousset 1978  no. 15, pp. 176-177 and 129-132</bibl>; <bibl>CIL 8.22786l</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC348"><!--Trousset 1978  no. 17, pp. 176-177 and 129-132; CIL 8.22786m.-->
+      <head>DOC348: <bibl>Trousset 1978  no. 17, pp. 176-177 and 129-132</bibl>; <bibl>CIL 8.22786m</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC349"><!--Trousset 1978  no. 18, pp. 176-177 and 129-132; ILT 71; CIL 8.22789.-->
+      <head>DOC349: <bibl>Trousset 1978  no. 18, pp. 176-177 and 129-132</bibl>; <bibl>ILT 71</bibl>; <bibl>CIL 8.22789</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC350"><!--Trousset 1978 no. 19, pp. 176-177 and 129-132; ILT 73.-->
+      <head>DOC350: <bibl>Trousset 1978 no. 19, pp. 176-177 and 129-132</bibl>; <bibl>ILT 73</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC351"><!--Trousset 1978 no. 20, pp. 176-177 and 129-132; ILT 74.-->
+      <head>DOC351: <bibl>Trousset 1978 no. 20, pp. 176-177 and 129-132</bibl>; <bibl>ILT 74</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC33"><!--Trousset 1978  no. 7, pp. 129-132, 176-177; *CIL 8.22786e.-->
+      <head>DOC33: <bibl>Trousset 1978  no. 7, pp. 129-132, 176-177</bibl>; <bibl type="preferred">CIL 8.22786e</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>D(extra) d(ecumanus) LXV
+            <lb/>
+            <lb break="no"/>u(ltra) k(ardinem) CCLXX
+            <lb/>Nybg(eniorum)</ab>
+      </div>
+      <div type="translation">
+         <p>To the right of the decumanus: 55. // Above the
+                kardo: 270. (Land belonging to) the Nybgenii.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC352"><!--Trousset 1978  no. 9, pp. 176-177 and 132-133; CIL 8.22786g.-->
+      <head>DOC352: <bibl>Trousset 1978  no. 9, pp. 176-177 and 132-133</bibl>; <bibl>CIL 8.22786g</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC353"><!--Trousset 1978  no. 10, pp. 176-177 and 132-133; CIL 8.22786i.-->
+      <head>DOC353: <bibl>Trousset 1978  no. 10, pp. 176-177 and 132-133</bibl>; <bibl>CIL 8.22786i</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC354"><!--Trousset 1978  no. 11, pp. 176-177 and 132-133; CIL 8.22786h.-->
+      <head>DOC354: <bibl>Trousset 1978  no. 11, pp. 176-177 and 132-133</bibl>; <bibl>CIL 8.22786h</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC355"><!--*Trousset 1978  no. 4, pp. 176-177 and 132-133; CIL 8.22786d.-->
+      <head>DOC355: <bibl type="preferred">Trousset 1978  no. 4, pp. 176-177 and 132-133</bibl>; <bibl>CIL 8.22786d</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>(centuria) II
+            <lb/>
+            <lb break="no"/>(centuria) III</ab>
+      </div>
+      <div type="translation">
+         <p>Century (number) 2 // Century (number)
+                3</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC356"><!--Trousset 1978  no. 5, pp. 176-177 and 132-133; CIL 8.22786c.-->
+      <head>DOC356: <bibl>Trousset 1978  no. 5, pp. 176-177 and 132-133</bibl>; <bibl>CIL 8.22786c</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC357"><!--Trousset 1978  no. 6, pp. 176-177 and 132-133; CIL 8.22786b.-->
+      <head>DOC357: <bibl>Trousset 1978  no. 6, pp. 176-177 and 132-133</bibl>; <bibl>CIL 8.22786b</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC29"><!--AE 1997.1588; *Trousset 1997.-->
+      <head>DOC29: <bibl>AE 1997.1588</bibl>; <bibl type="preferred">Trousset 1997</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>leg(io) III Aug(usta)
+            <lb/>leimitavit
+            <lb/>C(aio) Vibio Mar
+            <lb break="no"/>so proco(n)s(ule) III
+            <lb/>
+            <lb break="no"/>
+            <lb break="no"/>Q(uintarii) p(ositi) XVI (centuriae) XI</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <placeName type="ancient">Legio III Augusta </placeName>established the limites when <persName>Caius Vibius Marsus </persName>was proconsul for
+                the third time. // <foreign xml:lang="la">(Terminus) Quintarius </foreign>(number) 16. Century (number) 11.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC43"><!--*EDH HD029523; AE 1910.20; Cagnat 1909, 569 (1re borne); CIL 8.22787. See also: Trousset 1978, 134-136.-->
+      <head>DOC43: <bibl type="preferred">EDH HD029523</bibl>; <bibl>AE 1910.20</bibl>; <bibl>Cagnat 1909, 569 (1re borne)</bibl>; <bibl>CIL 8.22787</bibl>. See also: <bibl>Trousset 1978, 134-136</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctoritate
+            <lb/>Tac(apitanos)
+            <lb/>BAVIB+ISATV
+            <lb/>[---]DIA[---]
+            <lb/>
+            <lb break="no"/>Imp(eratoris) Nervae Tr
+            <lb break="no"/>aiani Caes(aris) Aug(usti)
+            <lb/>[secun]dum formam m[i]
+            <lb break="no"/>[s]sam sibi ab eod
+            <lb break="no"/>[em ---?]AECNMEO posita
+            <lb/>est NF MIN
+            <lb/>SVMVM venire
+            <lb/>non potuit
+            <lb/>
+            <lb break="no"/>Term(inus) inte[r] Tac(apitanos) et N[ygbenios]
+            <lb/>N[yb]g(enios)(?)</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary marker between the <placeName type="ancient">Tacapitani</placeName> and the <placeName type="ancient">Nybgenii</placeName> / (Land belonging to) the
+                    <placeName type="ancient">Nybgenii</placeName>. // (By the
+                authority) of the emperor Nerva <persName type="emperor">Trajan</persName> Caesar Augustus, following the map sent for(?) him by the
+                same (i.e., the emperor?) ... was placed ... not able to come.<note n="471" xml:id="ftn471"> The significance of this phrase, indicating that someone was not able to come (<foreign xml:lang="la">venire non potuit</foreign>) is obscure, but it may reflect the requirement, evenident in other evidence, that the official with authority was expected to deliver his ruling on the spot when fixing a boundary. </note> // By the authority ... / (Land belonging to) the
+                    <placeName type="ancient">Tacapitani</placeName> /
+                -----</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC44"><!--*Cagnat 1909, 570 (2e borne); CIL 8.22788. See also: Trousset 1978, 134-136.-->
+      <head>DOC44: <bibl type="preferred">Cagnat 1909, 570 (2e borne)</bibl>; <bibl>CIL 8.22788</bibl>. See also: <bibl>Trousset 1978, 134-136</bibl>.</head>
+   </div>
+   <div type="document" xml:id="DOC124"><!--*EDH HD026335; AE 1924.57; Kazarow 1923, 275-278. See also: Pikoulas 1999, 899.10.-->
+      <head>DOC124: <bibl type="preferred">EDH HD026335</bibl>; <bibl>AE 1924.57</bibl>; <bibl>Kazarow 1923, 275-278</bibl>. See also: <bibl>Pikoulas 1999, 899.10</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imp(eratore) Caes(ari) [di]
+            <lb break="no"/>vi Traiani P[ar]
+            <lb break="no"/>thici fil(io) divi [Ner]
+            <lb break="no"/>vae nepoti Tr[ai]
+            <lb break="no"/>ano Ha(dria)no A[ug(usto)]
+            <lb/>pontifici m[a]
+            <lb break="no"/>ximo tr(ibunicia) pot[e]
+            <lb break="no"/>state IIII co(n)s(uli) [III]
+            <lb/>D(ecimo?) Terentio G[en]
+            <lb break="no"/>tiano leg(ato) A[ug(usti)]
+            <lb/>pr(o) pr(aetore) termin[i]
+            <lb/>positi per Cl(audium) A[---]
+            <lb break="no"/>num Maaxim[um(!) |(centurionem)]
+            <lb/>leg(ionis) I Minerv(i)ae [in]
+            <lb break="no"/>ter Geneata[s et ---]
+            <lb break="no"/>xinos</ab>
+      </div>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>
+         </ab>
+      </div>
+      <div type="translation">
+         <p>When(?) the emperor Caesar, son of the divine
+                Trajan Parthicus, grandson of the divine Nerva, Trajan <persName type="emperor">Hadrian </persName>Augustus, pontifex maximus,
+                (held the) tribunician power for the 4th time, (and was?) consul 3 times (and when?)
+                    <persName>Decimus(?) Terentius Gentianus</persName> (was) propraetorian imperial legate, boundary markers were
+                placed through <persName>Claudius A[---]nus Maaximus</persName> (sic), centurion of <placeName type="ancient">Legio I Minervia</placeName>, between the
+                    <placeName type="ancient">Geneatae</placeName> and the
+                    <placeName type="ancient">[---]xini</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC479"><!--Dig. 47.21.2.-->
+      <head>DOC479: <bibl>Dig. 47.21.2</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>CALLISTRATUS libro tertio de cognitionibus. Diuus Hadrianus in haec uerba rescripsit: ‘Quin pessimum factum sit eorum, qui terminos finium causa positos propulerunt, dubitari non potest. de poena tamen modus ex condicione personae et mente facientis magis statui potest: nam si splendidiores personae sunt, quae conuincuntur, non dubie occupandorum alienorum finium causa id admiserunt, et possunt in tempus, ut cuiusque patiatur aetas, relegari, id est si iuuenior, in longius, si senior, recisius. si uero alii negotium gesserunt et ministerio functi sunt, castigari et ad opus biennio dari. quod si per ignorantiam aut fortuito lapides furati sunt, sufficiet eos uerberibus decidere’.</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Callistratus</persName>, <foreign xml:lang="la">De Cognitionibus</foreign>, book 3: The god <persName type="emperor" rend="normal">Hadrian</persName> issued a rescript in the
+                following words: “That an evil deed has been done by those who have moved <foreign xml:lang="la">termini</foreign> placed for the sake of
+                boundaries, there can be no doubt. Concerning the penalty, however, it is possible
+                to determine the magnitude according to the status of the individual and the intent:
+                for, if the individuals who are found guilty are of higher rank, doubtless they did
+                it for the sake of occupying someone else’s boundaries, and they can, for a period
+                of time, as the age of each permits, be relegated; that is: if they are younger, for
+                longer, if older, shorter. But if they have undertaken the business of others and
+                are discharging a duty, (they should) be punished and remanded for labor for two
+                years. But if through ignorance or by chance the stones were removed, then it is
+                sufficient for them to be beaten with a whip.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC478"><!--*Coll. 13.3.-->
+      <head>DOC478: <bibl type="preferred">Coll. 13.3</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ulpianus libro octavo de officio proconsulis sub titulo de termino moto: Eos qui terminos moverunt non inpune id facere debere divus Hadrianus Terentio Gentiano XVII k. Sept. se III consule rescriptsit, quo rescripto poenam variam statuit. Verba rescripti ita se habent: ‘pessimum factum eorum, qui termino finium causa positos abstulerunt, dubitari non potest. Poenae tamen modus ex condicione personae et mente facientis magis statui potest: nam si splendidiores sunt personae, quae convincuntur, non dubito quin occupandorum allorum finium causa id admiserint, et possunt in tempus, ut cuiusque patitur aetas, relegari id est si iuvenior in longius, si senior reecisius: si vero alii negotium gesserunt et ministerio juncti sunt, castigari et sic in biennium aut triennium ad opus publicum dari. Quod si per ignorantiam aut fortuito lapides usus causa furati sunt, sufficit eos verberibus coerceri.’</ab>
+      </div>
+      <div type="translation">
+         <p>
+            <persName>Ulpian</persName>, <foreign xml:lang="la">De officio proconsulis</foreign>, book eight, under the heading <foreign xml:lang="la">De termino moto</foreign>: The god <persName type="emperor" rend="normal">Hadrian</persName> issued a rescript to
+                    <persName>Terentius Gentianus</persName> 17 days
+                before the Kalends of September in his third consulate that those who have moved
+                    <foreign xml:lang="la">termini</foreign> ought not to do so
+                with impunity, in which rescript he established a varying penalty. The wording of
+                the rescript is as follows: “That an evil deed has been done by those who have moved
+                    <foreign xml:lang="la">termini</foreign> placed for the sake of
+                boundaries, there can be no doubt. Nevertheless, the magnitude of the penalty can be
+                established according to the status of the individual and the intent: for, if the
+                individuals who are convicted are of higher rank, doubtless they did it for the sake
+                of occupying someone else’s boundaries, and they may be, for a time, as the age of
+                each allows, relegated, that is, if younger, for longer, if older, shorter. But, if
+                they have undertaken the business of others and are executing their duty, (they can
+                be) punished and thus given over to public work for two or three years. But if
+                through ignorance or by accident the stones were appropriated for reuse, it is
+                sufficient for them to be punished with the whip.”</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC385"><!--*IGLNovae 73; ILBulg 357; CIL 3.749.-->
+      <head>DOC385: <bibl type="preferred">IGLNovae 73</bibl>; <bibl>ILBulg 357</bibl>; <bibl>CIL 3.749</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>ex auctori
+            <lb break="no"/>tate Imp(eratoris) Caesaris
+            <lb/>divi Traiani Parthi
+            <lb break="no"/>ci filio(!) divi Nervae
+            <lb/>nepotis Traiani Ha
+            <lb break="no"/>driani Aug(usti) p(atris) p(atriae) pon
+            <lb break="no"/>tifici(s) maximo(!) trib(uniciae)
+            <lb/>potestatis XX co(n)s(ulis) II[I]
+            <lb/>Antius Rufinus in
+            <lb break="no"/>ter Moesos et Thra
+            <lb break="no"/>ces fines posuit</ab>
+      </div>
+      <div type="translation">
+         <p>By the authority of the emperor Caesar, son of
+                the god Trajan Parthicus, grandson of the god Nerva, Trajan <persName type="emperor">Hadrian </persName>Augustus, father of the
+                country, pontifex maximus, (holding the) tribunician power 20 (times), consul 3
+                (times), Antius Rufinus placed boundaries between the <placeName type="ancient">Moesi</placeName> and the <placeName type="ancient">Thraces</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC384"><!--*ILBulg 429; CIL 3.12407.-->
+      <head>DOC384: <bibl type="preferred">ILBulg 429</bibl>; <bibl>CIL 3.12407</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[ex auctori]
+            <lb break="no"/>[tate Imp(eratoris) Caesaris
+            <lb/>divi Traiani Parthi
+            <lb break="no"/>ci fili(i) divi Nervae
+            <lb/>nepotis Traiani Hadria]
+            <lb break="no"/>ni Aug(usti) p(atris) p(atriae) Pontifici(s) ma
+            <lb break="no"/>ximo(!) tribuniciae
+            <lb/>potestatis XX co(n)s(ulis) III
+            <lb/>Antius Rufinus [i]
+            <lb break="no"/>nter Moesos et [Thr]
+            <lb break="no"/>aces fines posui[t]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC360"><!--*EDH HD006328; ILBulg 390; AE 1985.729; Banev 1981, no. 1.-->
+      <head>DOC360: <bibl type="preferred">EDH HD006328</bibl>; <bibl>ILBulg 390</bibl>; <bibl>AE 1985.729</bibl>; <bibl>Banev 1981, no. 1</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctori
+            <lb break="no"/>tate Imp(eratoris) Caesa
+            <lb break="no"/>ris divi Traiani
+            <lb/>Parthici fili di
+            <lb break="no"/>vi Nervae nepo
+            <lb break="no"/>tis Traiani Ha
+            <lb break="no"/>driani Aug(usti) p(atris) p(atriae)
+            <lb/>pont(ificis) maximi
+            <lb/>trib(uniciae) potes(tatis) XX
+            <lb/>co(n)s(ulis) III Antius
+            <lb/>Rufinus inter
+            <lb/>Moesos et Th
+            <lb break="no"/>races fines
+            <lb/>posuit</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC359"><!--*EDH HD006340; ILBulg 386; AE 1985.730; Banev 1981; CIL 3 p. 992 n. 749.-->
+      <head>DOC359: <bibl type="preferred">EDH HD006340</bibl>; <bibl>ILBulg 386</bibl>; <bibl>AE 1985.730</bibl>; <bibl>Banev 1981</bibl>; <bibl>CIL 3 p. 992 n. 749</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctori
+            <lb break="no"/>tate Imp(eratoris) Caesa
+            <lb break="no"/>ris divi Traiani(i)
+            <lb/>Parthici fili di
+            <lb break="no"/>vi Nervae nepo(tis)
+            <lb/>Traiani Hadria
+            <lb break="no"/>ni Aug(usti) p(atris) p(atriae) ponti
+            <lb break="no"/>ficis maximi tri
+            <lb break="no"/>buniciae potes(tatis)
+            <lb/>XX co(n)s(ulis) III Antiu(s)
+            <lb/>Rufinus inter
+            <lb/>Moesos et Thra
+            <lb break="no"/>ces fines po
+            <lb break="no"/>suit.</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC358"><!--*EDH HD006322; AE 1985.733; Božilova 1985.-->
+      <head>DOC358: <bibl type="preferred">EDH HD006322</bibl>; <bibl>AE 1985.733</bibl>; <bibl>Božilova 1985</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>[Ex auctorita]
+            <lb break="no"/>[te Imp(eratoris) Caesa]
+            <lb break="no"/>[ris divi Tra]
+            <lb break="no"/>[iani Parthi]
+            <lb break="no"/>[ci fili divi]
+            <lb/>[Nervae nepo]
+            <lb break="no"/>[tis Traiani]
+            <lb/>[Hadriani Aug(usti)]
+            <lb/>[p(atris) p(atriae) pontifi]
+            <lb break="no"/>[cis maximi]
+            <lb/>[tribuniciae]
+            <lb/>[potestatis]
+            <lb/>[XX co(n)]s(ulis) [I]II M(arcus)
+            <lb/>[A]ntius Rufi
+            <lb break="no"/>nus inter M
+            <lb break="no"/>[oesos] et Thr
+            <lb break="no"/>[aces fines]
+            <lb/>[posuit]</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC271"><!--*EDH HD031971; ILBulg 358; CIL 3.14422/1; AE 1902.106.-->
+      <head>DOC271: <bibl type="preferred">EDH HD031971</bibl>; <bibl>ILBulg 358</bibl>; <bibl>CIL 3.14422/1</bibl>; <bibl>AE 1902.106</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Ex auctori
+            <lb break="no"/>tate Imp(eratoris) Caesaris
+            <lb/>divi Traiani Parthi
+            <lb break="no"/>ci filio(!) divi Nervae
+            <lb/>nepotis Traiani Ha
+            <lb break="no"/>driani Aug(usti) p(atris) p(atriae) pon[t]
+            <lb break="no"/>ifici(s) maximo(!) tr[i]
+            <lb break="no"/>buniciae potesta[tis]
+            <lb/>XX co(n)s(ulis) III M(arcus) An[tius]
+            <lb/>Rufinus inte[r Moe]
+            <lb break="no"/>sos et Thraces [fi]
+            <lb break="no"/>nes posuit</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC126"><!--*EDH HD017654; Vulpe 1968, 164; Fitz 1966, 41-42.14; AE 1957.333; CIL 3.14437/2.-->
+      <head>DOC126: <bibl type="preferred">EDH HD017654</bibl>; <bibl>Vulpe 1968, 164</bibl>; <bibl>Fitz 1966, 41-42.14</bibl>; <bibl>AE 1957.333</bibl>; <bibl>CIL 3.14437/2</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>termin(i) pos(iti)
+            <lb/>t(erritorii) c(ivitatis) Ausdec(ensium) adve
+            <lb break="no"/>r(sus) Dac(os) secun(dum) c(ivitatis)
+            <lb/>act(a) C(aius) Vexarus t(erminavit?)
+            <lb/>opus h(inc) excessent
+            <lb/>Dac(i) term(ini) t(erritorii) c(ivitatis) obli
+            <lb break="no"/>[g(ati)] sint M[es]sal(la) F[e]
+            <lb break="no"/>rox(?) term(inos) [p]os(uit) t(erritorii)
+            <lb/>iussu Helvi Per
+            <lb break="no"/>tinacis co(n)s(ularis) n(ostri) per
+            <lb/>Anternium An
+            <lb break="no"/>[to]ninum trib[unum]
+            <lb/>coh(ortis) I Cilic(um)</ab>
+      </div>
+      <div type="translation">
+         <p>Boundary markers of the territory of the
+                    <foreign xml:lang="la">civitas</foreign> of the <placeName type="ancient">Ausdecenses</placeName>, where it meets that
+                of the <placeName type="ancient">Daci</placeName>, in accordance
+                with decrees of the <foreign xml:lang="la">civitas</foreign>. Caius
+                Vexarus completed(?) the work. Let the <placeName type="ancient">Daci</placeName> go out of here. The boundary markers of the territory of the
+                    <foreign xml:lang="la">civitas</foreign> have been surveyed.
+                Messala Ferox(?) placed the boundary markers of the territory by order of Helvius
+                Pertinax, our <foreign xml:lang="la">consularis</foreign>, through
+                Anternius Antoninus, tribune of <placeName type="ancient">Cohors I Cilicum</placeName>.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC127"><!--*EDH HD019084; IScM 5.8; AE 1960.349.-->
+      <head>DOC127: <bibl type="preferred">EDH HD019084</bibl>; <bibl>IScM 5.8</bibl>; <bibl>AE 1960.349</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Impera[n]
+            <lb break="no"/>te domin[o n(ostro)]
+            <lb/>Severo [Ale]
+            <lb break="no"/>x[an]dro
+            <lb/>c(onsule) III et Cass(io)
+            <lb/>Dion(e) II (consule)
+            <lb/>Iul(ius) Vit[alis]
+            <lb/>|(centurio) leg(ionis) ex [pr(a)ec(epto)]
+            <lb/>v(iri) c(larissimi) Mant[enni]
+            <lb/>co(n)s(ularis) n(ostri) t[ermi(nos)]
+            <lb/>fix(it)</ab>
+      </div>
+      <div type="translation">
+         <p>(Dated:) when the emperor our lord <persName type="emperor">Severus Alexander</persName> was consul for the
+                3rd time and <persName>Cassius Dio </persName>was
+                consul for the second time. <persName>Iulius Vitalis</persName>, centurion of the legion, according to the command of
+                    <persName>Mantennius Sabinus</persName>,
+                    <foreign xml:lang="la">clarissimus vir</foreign> our <foreign xml:lang="la">consularis</foreign>, established boundary
+                markers.</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC123"><!--EDH HD025195; *IScM 5.57a; AE 1922.73; Parvan 1915, 245.-->
+      <head>DOC123: <bibl>EDH HD025195</bibl>; <bibl type="preferred">IScM 5.57a</bibl>; <bibl>AE 1922.73</bibl>; <bibl>Parvan 1915, 245</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Imper[an]
+            <lb break="no"/>te dom(ino)
+            <lb/>nostro [[Se]]
+            <lb break="no"/>[[vero Alex]]
+            <lb break="no"/>[[andro]] co(n)s(ule)
+            <lb/>III T[-](?) C[a]ssi[o]
+            <lb/>Dione II co(n)s(ule)
+            <lb/>Iul(ius) Vitale(s)(!)
+            <lb/>|(centurio) leg(ionis) ex pr(a)
+            <lb break="no"/>ecepto v(iri) c(larissimi)
+            <lb/>Manten
+            <lb break="no"/>ni Sabin[i]
+            <lb/>co(n)s(ularis) n(ostri) t(erminos) ficxi[t](!)</ab>
+      </div>
+      <div type="translation">
+         <p>See Text .</p>
+      </div>
+   </div>
+   <div type="document" xml:id="DOC125"><!--*EDH HD021309; ILS 5974; AE 1941.81; CIL 3.183.-->
+      <head>DOC125: <bibl type="preferred">EDH HD021309</bibl>; <bibl>ILS 5974</bibl>; <bibl>AE 1941.81</bibl>; <bibl>CIL 3.183</bibl>.</head>
+      <div type="edition" xml:lang="la">
+         <ab>
+            <lb n="1"/>Fines positi inter
+            <lb/>Caesarenses ad
+            <lb/>Libanum et Gigarte
+            <lb break="no"/>nos de vico Sidonior(um)
+            <lb/>iussu [[[--- leg(ati)? Aug(usti)?]]] pro [pr(aetore)?]
+            <lb/>per Dom[itium? ---]
+            <lb/>-----</ab>
+      </div>
+      <div type="translation">
+         <p>Boundaries placed between the <placeName type="ancient">Caesarenses ad Libanum</placeName> and the
+                    <placeName type="ancient">Gigarteni de vicus Sidoniorum</placeName>, by order of , through <persName>Dom(itius ?)</persName> ...</p>
+      </div>
+   </div>
+</div>

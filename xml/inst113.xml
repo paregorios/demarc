@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="instance" xml:id="INST113">
+    <!--                
+    Content and structure copyright 2020 by Tom Elliott (https://paregorios.org/about/). 
+    Derived from "Epigraphic Evidence for Boundary Disputes in the Early Roman
+    Empire", dissertation 2004, University of North Carolina at Chapel Hill. 
+    License: Creative Commons Attribution-ShareAlike 3.0 United States License.
+    See further: https://github.com/paregorios/demarc
+    -->
+   <head>Boundary Dispute Involving the Pastureland of the <placeName type="ancient">Phyle Rodopeis</placeName> at <placeName type="ancient">Philippopolis</placeName>
+   </head>
+   <p>
+      <bibl>
+         <ptr target="dbib:burton-2000"/> no. 26</bibl>
+   </p>
+   <p>Date(s): <date>AD 155</date>
+   </p>
+   <p>
+      <seg type="instance-description">This text records the establishment of boundary markers by an otherwise unknown individual (<persName>Flauios Skeles</persName>) who was appointed as judge and boundary-setter (<foreign xml:lang="grc">κριτής καὶ ὁροθέτης</foreign>) by the provincial governor of <placeName type="modern">Thrace</placeName>. The area demarcated appears to have been a pasturage located within the territory of <placeName type="ancient">Philippopolis</placeName> (mod. <placeName type="modern">Plovdiv</placeName> in <placeName type="modern">Bulgaria</placeName>). It is not clear what other properties or areas it was separated from by virtue of this demarcation. <persName>Skeles’</persName> titulature permits us to identify this case a dispute, but we only know the identity of one of the parties.</seg>
+   </p>
+   <p>The <foreign xml:lang="grc">φυλ</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T11">ὴ</seg>
+      </foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>
+      <foreign xml:lang="grc">Ῥοδοπηΐς</foreign>
+      <foreign xml:lang="grc">
+         <seg type="T2">  </seg>
+      </foreign>was one of the imperial-era tribal divisions within the territory of Philippopolis. Such <foreign xml:lang="grc">
+         <seg type="T11">φυλαί</seg>
+      </foreign>
+      <foreign xml:lang="grc">
+         <seg type="T4">  </seg>
+      </foreign>are attested in nine Thracian cities, none before the second century AD. They are thought to have replaced an earlier system of organization that the Romans had maintained. The change may have occurred under <persName type="emperor" rend="normal">Trajan</persName>
+      <foreign xml:lang="grc">
+         <seg type="T2">.</seg>
+      </foreign>
+      <seg type="T43">
+         <note n="343" xml:id="ftn343"> Tačeva 1992. </note>
+      </seg>
+   </p>
+   <div type="document" xml:id="DOC189"><!--*IGBulg 3.1401; Robert 1938, 223-226; IGR 1.709 (defective text); AE 1895.104.-->
+      <head>DOC189: <bibl type="preferred">IGBulg 3.1401</bibl>; <bibl>Robert 1938, 223-226</bibl>; <bibl>IGR 1.709 (defective text)</bibl>; <bibl>AE 1895.104</bibl>.</head>
+      <div type="edition" xml:lang="grc">
+         <ab>
+            <lb n="1"/>ἀγαθῆι τύ[χηι].
+            <lb/>ἐπὶ Αὐτοκράτορος Τ(ίτου) Αἰλίου Ἁδρι
+            <lb break="no"/>ανοῦ Ἀντωνείνου Καίσαρος Σεβ(αστοῦ)
+            <lb/>Εὐσεβοῦς, ἡγεμονύοντος τῆς
+            <lb/>Θρᾳκῶν ἐπαρχείας Γ(αίου) Ἰουλίου
+            <lb/>Κομ&lt;μ&gt;όδου πρεσβ(ευτοῦ) Σεβ(αστοῦ) ἀντιστρα
+            <lb break="no"/>τήγου, ὅροι χορτοκοπίων φυλῆς
+            <lb/>Ῥοδοπηΐδος τεθέντες ὑπὸ Φλ(αυίου)
+            <lb/>Σκελητος κριτοῦ καὶ ὁροθέτου.</ab>
+      </div>
+      <div type="translation">
+         <p>Good fortune! When the emperor Titus Aelius
+                Hadrianus <persName type="emperor">Antoninus Caesar Augustus Pius </persName>(reigned), and when <persName>Gaios Ioulios Kommodos</persName>, propraetorian imperial legate, governed the province of
+                the <placeName type="ancient">Thrakoi</placeName>, the boundaries
+                of the pasture(?) of the <placeName type="ancient">Phyle Rodopeis</placeName> were established by <persName>Flauios Skeles</persName>, judge and boundary-setter.</p>
+      </div>
+   </div>
+</div>
