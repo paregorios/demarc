@@ -1,0 +1,5737 @@
+{
+    "contents": {
+        "abdera": {
+            "attested": "Abdera",
+            "id": "abdera",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7274a39c-e590-4296-abed-9ae234f35a2a"
+            ],
+            "romanized": [
+                "Abdera"
+            ]
+        },
+        "abdereitoi": {
+            "attested": "Abdereitoi",
+            "id": "abdereitoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6fc7cae5-3db3-4e14-a838-4927b6103c67"
+            ],
+            "romanized": [
+                "Abdereitoi"
+            ]
+        },
+        "achaia": {
+            "attested": "Achaia",
+            "id": "achaia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ca85b321-f26c-422f-9d58-da56233011cb"
+            ],
+            "romanized": [
+                "Achaia"
+            ]
+        },
+        "acra-colophia": {
+            "attested": "Acra Colophia",
+            "id": "acra-colophia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dec02d03-c886-408e-9acd-e325cc21ec04"
+            ],
+            "romanized": [
+                "Acra Colophia"
+            ]
+        },
+        "aegae": {
+            "attested": "Aegae",
+            "id": "aegae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1479dd0e-b0d5-4cd2-80ca-6844c39b66aa"
+            ],
+            "romanized": [
+                "Aegae"
+            ]
+        },
+        "aegenses": {
+            "attested": "Aegenses",
+            "id": "aegenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b6c317ed-24e5-4c60-8a49-a64f5e52414b"
+            ],
+            "romanized": [
+                "Aegenses"
+            ]
+        },
+        "aemate": {
+            "attested": "Aemate",
+            "id": "aemate",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.409d1f5a-8432-48d2-b440-55c005b217a0"
+            ],
+            "romanized": [
+                "Aemate"
+            ]
+        },
+        "aematini": {
+            "attested": "Aematini",
+            "id": "aematini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.34ab9bb7-c123-41c7-bf48-0ea81e6ba8c1"
+            ],
+            "romanized": [
+                "Aematini"
+            ]
+        },
+        "aezaniti": {
+            "attested": "Aezaniti",
+            "id": "aezaniti",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dd4a5086-4fad-44f0-b23b-acc931f40230"
+            ],
+            "romanized": [
+                "Aezaniti"
+            ]
+        },
+        "aezanoi": {
+            "attested": "Aezanoi",
+            "id": "aezanoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.71352f6a-6cb7-411e-856c-37cc96bd0886"
+            ],
+            "romanized": [
+                "Aezanoi"
+            ]
+        },
+        "africa": {
+            "attested": "Africa",
+            "id": "africa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.12f055fc-d520-4d5e-9313-c434f67249c4"
+            ],
+            "romanized": [
+                "Africa"
+            ]
+        },
+        "africa-proconsularis": {
+            "attested": "Africa proconsularis",
+            "id": "africa-proconsularis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.458f0a70-27d8-4557-8ee3-ffaee91f4a76"
+            ],
+            "romanized": [
+                "Africa proconsularis"
+            ]
+        },
+        "ager-denthaliatis": {
+            "attested": "ager Denthaliatis",
+            "id": "ager-denthaliatis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c1948543-c877-430c-a2e9-e3dfafea5721"
+            ],
+            "romanized": [
+                "ager Denthaliatis"
+            ]
+        },
+        "ager-denthialitis": {
+            "attested": "ager Denthialitis",
+            "id": "ager-denthialitis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f9552e9f-c49a-47e0-8bb5-76f59370af33"
+            ],
+            "romanized": [
+                "ager Denthialitis"
+            ]
+        },
+        "agri-blaesiani": {
+            "attested": "agri Blaesiani",
+            "id": "agri-blaesiani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.21a092e6-5ecc-47d1-8cfe-3e202dd86bcd"
+            ],
+            "romanized": [
+                "agri Blaesiani"
+            ]
+        },
+        "aidepsos": {
+            "attested": "Aidepsos",
+            "id": "aidepsos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.483c65e9-eb13-4d58-a62c-e38ea0cdea1d"
+            ],
+            "romanized": [
+                "Aidepsos"
+            ]
+        },
+        "aieoi": {
+            "attested": "...aieoi",
+            "id": "aieoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1041cce4-e804-4050-95ee-2269e7fb75c6"
+            ],
+            "romanized": [
+                "aieoi"
+            ]
+        },
+        "aioi": {
+            "attested": "...aioi",
+            "id": "aioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.36dced0b-ace7-4ee2-a964-c3aab6427515"
+            ],
+            "romanized": [
+                "aioi"
+            ]
+        },
+        "aizanoi": {
+            "attested": "Aizanoi",
+            "id": "aizanoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1e165133-7ad8-46c5-91b2-cc7ae7478f4a"
+            ],
+            "romanized": [
+                "Aizanoi"
+            ]
+        },
+        "akontisma": {
+            "attested": "Akontisma",
+            "id": "akontisma",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.52390e1d-98e8-4e3d-99e2-216fb989ac9c"
+            ],
+            "romanized": [
+                "Akontisma"
+            ]
+        },
+        "albingaunum": {
+            "attested": "Albingaunum",
+            "id": "albingaunum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b52a9df3-a540-4d1f-a0fc-b4a71218b31e"
+            ],
+            "romanized": [
+                "Albingaunum"
+            ]
+        },
+        "almoura": {
+            "attested": "Almoura",
+            "id": "almoura",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f79a7fea-de7e-43b9-8abe-450163279c3a"
+            ],
+            "romanized": [
+                "Almoura"
+            ]
+        },
+        "alpes-graiae-et-poeninae": {
+            "attested": "Alpes Graiae et Poeninae",
+            "id": "alpes-graiae-et-poeninae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5813f39a-11f9-41b1-926f-d0b26ae05f26"
+            ],
+            "romanized": [
+                "Alpes Graiae et Poeninae"
+            ]
+        },
+        "alveria": {
+            "attested": "Alveria",
+            "id": "alveria",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5130a52a-6ee0-4f76-81ba-58e20f6fcd2e"
+            ],
+            "romanized": [
+                "Alveria"
+            ]
+        },
+        "alveritae": {
+            "attested": "Alveritae",
+            "id": "alveritae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.63deb6af-177d-443a-9ec3-551b5e17e095"
+            ],
+            "romanized": [
+                "Alveritae"
+            ]
+        },
+        "amaedara": {
+            "attested": "Amaedara",
+            "id": "amaedara",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c4b92ffd-4a1e-4d93-a007-0ec94abb2ea4"
+            ],
+            "romanized": [
+                "Amaedara"
+            ]
+        },
+        "ambrossioi": {
+            "attested": "Ambrossioi",
+            "id": "ambrossioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dddd9615-290e-4f7a-8c8f-ec1d939237b3"
+            ],
+            "romanized": [
+                "Ambrossioi"
+            ]
+        },
+        "ambrossos": {
+            "attested": "Ambrossos",
+            "id": "ambrossos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1433ad81-701f-496e-966e-7da1612eeb64"
+            ],
+            "romanized": [
+                "Ambrossos"
+            ]
+        },
+        "ambryssos": {
+            "attested": "Ambryssos",
+            "id": "ambryssos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8b7e4426-6d88-4dcb-a406-07b26a056a36"
+            ],
+            "romanized": [
+                "Ambryssos"
+            ]
+        },
+        "ammaedara": {
+            "attested": "Ammaedara",
+            "id": "ammaedara",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.853661c9-293c-4b6c-b68c-7b5f52bfd29a"
+            ],
+            "romanized": [
+                "Ammaedara"
+            ]
+        },
+        "ammaedarenses": {
+            "attested": "Ammaedarenses",
+            "id": "ammaedarenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b9eefbb1-11a9-4a1b-9d02-3223189888e0"
+            ],
+            "romanized": [
+                "Ammaedarenses"
+            ]
+        },
+        "amphissa": {
+            "attested": "Amphissa",
+            "id": "amphissa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a2b4b4d4-c242-4032-b937-ee85d36015d5"
+            ],
+            "romanized": [
+                "Amphissa"
+            ]
+        },
+        "amphissienses": {
+            "attested": "Amphissienses",
+            "id": "amphissienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.cedcee3a-8f24-4520-8877-c785bfaa57bc"
+            ],
+            "romanized": [
+                "Amphissienses"
+            ]
+        },
+        "anauni": {
+            "attested": "Anauni",
+            "id": "anauni",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b3f8cce7-f21c-45ca-b831-69d0c5e01a9b"
+            ],
+            "romanized": [
+                "Anauni"
+            ]
+        },
+        "ansienses": {
+            "attested": "Ansienses",
+            "id": "ansienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.35beabaf-61a6-4ee3-b91a-16095f2c8b32"
+            ],
+            "romanized": [
+                "Ansienses"
+            ]
+        },
+        "ansium": {
+            "attested": "Ansium",
+            "id": "ansium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.69f72702-6180-42b1-a690-62120f7a8bca"
+            ],
+            "romanized": [
+                "Ansium"
+            ]
+        },
+        "anticosa": {
+            "attested": "Anticosa",
+            "id": "anticosa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2819dcb7-c9ab-4315-9204-beadf91d66cd"
+            ],
+            "romanized": [
+                "Anticosa"
+            ]
+        },
+        "anticyra": {
+            "attested": "Anticyra",
+            "id": "anticyra",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.03052435-58ef-4ef4-881f-1c3a21fa50a1"
+            ],
+            "romanized": [
+                "Anticyra"
+            ]
+        },
+        "anticyrenses": {
+            "attested": "Anticyrenses",
+            "id": "anticyrenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.92305f6f-0cb0-471e-b428-6a8b28ae0419"
+            ],
+            "romanized": [
+                "Anticyrenses"
+            ]
+        },
+        "antikosa": {
+            "attested": "Antikosa",
+            "id": "antikosa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.45b2212b-33ee-4aa2-8b45-4d23b4f02140"
+            ],
+            "romanized": [
+                "Antikosa"
+            ]
+        },
+        "antikyra": {
+            "attested": "Antikyra",
+            "id": "antikyra",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c4469cbf-c842-4679-86a3-749fe9969846"
+            ],
+            "romanized": [
+                "Antikyra"
+            ]
+        },
+        "antium": {
+            "attested": "Antium",
+            "id": "antium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.32879afa-3475-45ca-a153-1bc3bb33c303"
+            ],
+            "romanized": [
+                "Antium"
+            ]
+        },
+        "apamea": {
+            "attested": "Apamea",
+            "id": "apamea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f0265b65-5f28-4e4c-bcdf-737a1b52310a"
+            ],
+            "romanized": [
+                "Apamea"
+            ]
+        },
+        "apollonia": {
+            "attested": "Apollonia",
+            "id": "apollonia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d9ea5681-6d70-4cef-ba21-3c0af761da0f"
+            ],
+            "romanized": [
+                "Apollonia"
+            ]
+        },
+        "apollonia-salbakes": {
+            "attested": "Apollonia Salbakes",
+            "id": "apollonia-salbakes",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3c47740a-32ef-4465-88c4-4224d7ab7246"
+            ],
+            "romanized": [
+                "Apollonia Salbakes"
+            ]
+        },
+        "apolloniatae": {
+            "attested": "Apolloniatae",
+            "id": "apolloniatae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d8006896-8d97-4e55-aace-b7a124f9d480"
+            ],
+            "romanized": [
+                "Apolloniatae"
+            ]
+        },
+        "aquae-tacapitanae": {
+            "attested": "Aquae Tacapitanae",
+            "id": "aquae-tacapitanae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7507f73a-ecdf-4052-bb26-e8ac05415056"
+            ],
+            "romanized": [
+                "Aquae Tacapitanae"
+            ]
+        },
+        "arabia": {
+            "attested": "Arabia",
+            "id": "arabia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1956ffce-0b77-43b1-a643-8b83497ac719"
+            ],
+            "romanized": [
+                "Arabia"
+            ]
+        },
+        "arausio": {
+            "attested": "Arausio",
+            "id": "arausio",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.82c4ae8c-b48a-4a4d-a2b2-72d3f302f490"
+            ],
+            "romanized": [
+                "Arausio"
+            ]
+        },
+        "ardea": {
+            "attested": "Ardea",
+            "id": "ardea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b1aa234b-f780-418f-ac0c-0475c2292284"
+            ],
+            "romanized": [
+                "Ardea"
+            ]
+        },
+        "ardeatini": {
+            "attested": "Ardeatini",
+            "id": "ardeatini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.370cfdb8-04b9-4c96-9759-d1bbfb55b1c7"
+            ],
+            "romanized": [
+                "Ardeatini"
+            ]
+        },
+        "argamensies": {
+            "attested": "Argamensies",
+            "id": "argamensies",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8712e32f-b0be-4904-9558-ad27d8c12a86"
+            ],
+            "romanized": [
+                "Argamensies"
+            ]
+        },
+        "arykanda": {
+            "attested": "Arykanda",
+            "id": "arykanda",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6d089120-6531-41ec-a681-2b6893536b72"
+            ],
+            "romanized": [
+                "Arykanda"
+            ]
+        },
+        "asia": {
+            "attested": "Asia",
+            "id": "asia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.75756cda-e484-4a62-8ec9-307c8588f19b"
+            ],
+            "romanized": [
+                "Asia"
+            ]
+        },
+        "asseria": {
+            "attested": "Asseria",
+            "id": "asseria",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ec004a8f-6f6d-4ad7-a3d1-51952d15961f"
+            ],
+            "romanized": [
+                "Asseria"
+            ]
+        },
+        "asseriates": {
+            "attested": "Asseriates",
+            "id": "asseriates",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5b45046b-e94a-4cac-a626-1a9109d54d98"
+            ],
+            "romanized": [
+                "Asseriates"
+            ]
+        },
+        "astrabas": {
+            "attested": "Astrabas",
+            "id": "astrabas",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.15472017-2eb0-429d-adb2-9fee74597028"
+            ],
+            "romanized": [
+                "Astrabas"
+            ]
+        },
+        "augusta-emerita": {
+            "attested": "Augusta Emerita",
+            "id": "augusta-emerita",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f7dbffac-b58e-4e72-a056-922a112daa33"
+            ],
+            "romanized": [
+                "Augusta Emerita"
+            ]
+        },
+        "augustani-emeritenses": {
+            "attested": "Augustani Emeritenses",
+            "id": "augustani-emeritenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.928b1c02-12ef-4120-a49f-e09de7eb8343"
+            ],
+            "romanized": [
+                "Augustani Emeritenses"
+            ]
+        },
+        "aunobari": {
+            "attested": "Aunobari",
+            "id": "aunobari",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b6f14b4f-46f4-4c05-b678-2f86a21d37b7"
+            ],
+            "romanized": [
+                "Aunobari"
+            ]
+        },
+        "aunobaritani": {
+            "attested": "Aunobaritani",
+            "id": "aunobaritani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0ccdd522-8604-467b-99a6-53eb83580033"
+            ],
+            "romanized": [
+                "Aunobaritani"
+            ]
+        },
+        "ausdecenses": {
+            "attested": "Ausdecenses",
+            "id": "ausdecenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.be8b3a55-1930-4c9d-a9a9-af9ac47cb956"
+            ],
+            "romanized": [
+                "Ausdecenses"
+            ]
+        },
+        "axima": {
+            "attested": "Axima",
+            "id": "axima",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e993c578-66be-4a9a-ac38-f9414eb62a82"
+            ],
+            "romanized": [
+                "Axima"
+            ]
+        },
+        "azzoris": {
+            "attested": "Azzoris",
+            "id": "azzoris",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2e566a16-68b8-4430-b19d-14303737efff"
+            ],
+            "romanized": [
+                "Azzoris"
+            ]
+        },
+        "baetica": {
+            "attested": "Baetica",
+            "id": "baetica",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d063db40-925a-472f-8efa-abab1a59ded4"
+            ],
+            "romanized": [
+                "Baetica"
+            ]
+        },
+        "baiae": {
+            "attested": "Baiae",
+            "id": "baiae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6ef2ca8f-215a-49fd-983e-c76df7c21816"
+            ],
+            "romanized": [
+                "Baiae"
+            ]
+        },
+        "balari": {
+            "attested": "Balari",
+            "id": "balari",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b9a85d2a-3b75-4b13-b1f8-9774ea3b2db0"
+            ],
+            "romanized": [
+                "Balari"
+            ]
+        },
+        "barizaniates": {
+            "attested": "Barizaniates",
+            "id": "barizaniates",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8eaef79f-b03c-4566-94ff-bb63982edc53"
+            ],
+            "romanized": [
+                "Barizaniates"
+            ]
+        },
+        "battyna": {
+            "attested": "Battyna",
+            "id": "battyna",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.389905aa-9639-4ee4-b122-e01796a3d3e7"
+            ],
+            "romanized": [
+                "Battyna"
+            ]
+        },
+        "battynaioi": {
+            "attested": "Battynaioi",
+            "id": "battynaioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.504fbee5-6f80-4678-b996-2925e10a8678"
+            ],
+            "romanized": [
+                "Battynaioi"
+            ]
+        },
+        "begi": {
+            "attested": "Begi",
+            "id": "begi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.da4b58d0-7d12-4907-a09d-4e370bd35b55"
+            ],
+            "romanized": [
+                "Begi"
+            ]
+        },
+        "bendiparoi": {
+            "attested": "Bendiparoi",
+            "id": "bendiparoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.28838b36-4cf7-42b1-88f8-e8eb6c387cff"
+            ],
+            "romanized": [
+                "Bendiparoi"
+            ]
+        },
+        "bergalei": {
+            "attested": "Bergalei",
+            "id": "bergalei",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7d65014b-6b19-49d0-8ec6-e6a78f32bd62"
+            ],
+            "romanized": [
+                "Bergalei"
+            ]
+        },
+        "bithynia": {
+            "attested": "Bithynia",
+            "id": "bithynia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.964e3625-cfe2-440e-a34b-fe65509c416f"
+            ],
+            "romanized": [
+                "Bithynia"
+            ]
+        },
+        "bithynia-pontus": {
+            "attested": "Bithynia-Pontus",
+            "id": "bithynia-pontus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.47fb0094-598a-439d-ab62-ab1a73450526"
+            ],
+            "romanized": [
+                "Bithynia Pontus"
+            ]
+        },
+        "blaesiani": {
+            "attested": "Blaesiani",
+            "id": "blaesiani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ed314be9-d033-4084-8d18-83c5661c6736"
+            ],
+            "romanized": [
+                "Blaesiani"
+            ]
+        },
+        "boeotia": {
+            "attested": "Boeotia",
+            "id": "boeotia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.785339ef-2b85-42a6-ac85-3ae480bc395f"
+            ],
+            "romanized": [
+                "Boeotia"
+            ]
+        },
+        "bragylai": {
+            "attested": "Bragylai",
+            "id": "bragylai",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d31e9f32-373a-41db-b1e2-7ecf08bebfb5"
+            ],
+            "romanized": [
+                "Bragylai"
+            ]
+        },
+        "bragylioi": {
+            "attested": "Bragylioi",
+            "id": "bragylioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3a0bcf68-f7d9-413e-8e9a-8093980afa8e"
+            ],
+            "romanized": [
+                "Bragylioi"
+            ]
+        },
+        "bullamenses": {
+            "attested": "Bullamenses",
+            "id": "bullamenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.82cfe1c1-884e-4be7-a880-75e27d13d2cf"
+            ],
+            "romanized": [
+                "Bullamenses"
+            ]
+        },
+        "burriligia": {
+            "attested": "Burriligia",
+            "id": "burriligia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.02e34b20-b6f5-43d5-b61d-0923be655bf2"
+            ],
+            "romanized": [
+                "Burriligia"
+            ]
+        },
+        "caesarea-ad-libanum": {
+            "attested": "Caesarea ad Libanum",
+            "id": "caesarea-ad-libanum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4151cd9f-b8ac-4205-ab61-40fd39171f18"
+            ],
+            "romanized": [
+                "Caesarea ad Libanum"
+            ]
+        },
+        "caesarenses-ad-libanum": {
+            "attested": "Caesarenses ad Libanum",
+            "id": "caesarenses-ad-libanum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.797680e7-bfbb-4833-a44c-a0b121138b23"
+            ],
+            "romanized": [
+                "Caesarenses ad Libanum"
+            ]
+        },
+        "calabaeus": {
+            "attested": "Calabaeus",
+            "id": "calabaeus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f88089be-ce8f-46ba-911d-c5e8910c1769"
+            ],
+            "romanized": [
+                "Calabaeus"
+            ]
+        },
+        "calama": {
+            "attested": "Calama",
+            "id": "calama",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2cf160bf-c87a-4934-9cba-744400383824"
+            ],
+            "romanized": [
+                "Calama"
+            ]
+        },
+        "campania": {
+            "attested": "Campania",
+            "id": "campania",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.749ead0f-ae77-49b6-bd18-6104fec9fcbb"
+            ],
+            "romanized": [
+                "Campania"
+            ]
+        },
+        "canabae-dimensium": {
+            "attested": "Canabae Dimensium",
+            "id": "canabae-dimensium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.df07c831-22b2-4879-8aea-5b419b067c91"
+            ],
+            "romanized": [
+                "Canabae Dimensium"
+            ]
+        },
+        "canusium": {
+            "attested": "Canusium",
+            "id": "canusium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f528e1e0-6522-4ac2-9e8d-e124761acdad"
+            ],
+            "romanized": [
+                "Canusium"
+            ]
+        },
+        "capidava": {
+            "attested": "Capidava",
+            "id": "capidava",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9346e785-cc54-44ef-9fae-f2d47ba0000a"
+            ],
+            "romanized": [
+                "Capidava"
+            ]
+        },
+        "capsa": {
+            "attested": "Capsa",
+            "id": "capsa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7b6d456b-aa50-4e99-b72f-c6513d2b211c"
+            ],
+            "romanized": [
+                "Capsa"
+            ]
+        },
+        "capua": {
+            "attested": "Capua",
+            "id": "capua",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.95d4b6e5-4d2c-4c31-add4-04c28de8a5e3"
+            ],
+            "romanized": [
+                "Capua"
+            ]
+        },
+        "carinium": {
+            "attested": "Carinium",
+            "id": "carinium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.65e21648-0fb7-419c-ab61-8b8356f87af5"
+            ],
+            "romanized": [
+                "Carinium"
+            ]
+        },
+        "carthage": {
+            "attested": "Carthage",
+            "id": "carthage",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7905de7a-0861-4210-97de-fbf49f8add96"
+            ],
+            "romanized": [
+                "Carthage"
+            ]
+        },
+        "castellani-thudedenses": {
+            "attested": "castellani Thudedenses",
+            "id": "castellani-thudedenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6581c7b6-54b1-49c2-8be1-64e98e85e07c"
+            ],
+            "romanized": [
+                "castellani Thudedenses"
+            ]
+        },
+        "castellum-aurelianense-antoninianense": {
+            "attested": "Castellum Aurelianense Antoninianense",
+            "id": "castellum-aurelianense-antoninianense",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e685d4e8-4ae8-4f4b-b722-872bb8f746ae"
+            ],
+            "romanized": [
+                "Castellum Aurelianense Antoninianense"
+            ]
+        },
+        "castellum-gurolensis": {
+            "attested": "castellum Gurolensis",
+            "id": "castellum-gurolensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.da63d43c-3944-481f-a074-411d3e3472c0"
+            ],
+            "romanized": [
+                "castellum Gurolensis"
+            ]
+        },
+        "castellum-tariona": {
+            "attested": "castellum Tariona",
+            "id": "castellum-tariona",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c2198536-d4bf-464e-b31a-9c3cc40617f6"
+            ],
+            "romanized": [
+                "castellum Tariona"
+            ]
+        },
+        "castellum-victoriae": {
+            "attested": "castellum Victoriae",
+            "id": "castellum-victoriae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.66a8adce-178a-432a-a364-40c68515d851"
+            ],
+            "romanized": [
+                "castellum Victoriae"
+            ]
+        },
+        "cauldobenda": {
+            "attested": "Cauldobenda",
+            "id": "cauldobenda",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f86d322b-610d-494a-8db8-015918fa2ead"
+            ],
+            "romanized": [
+                "Cauldobenda"
+            ]
+        },
+        "cayster": {
+            "attested": "Cayster",
+            "id": "cayster",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b4866c85-64d4-47c1-bb62-d5ec11af2289"
+            ],
+            "romanized": [
+                "Cayster"
+            ]
+        },
+        "ceutronae": {
+            "attested": "Ceutronae",
+            "id": "ceutronae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.033edd22-0ed6-45b3-b5d1-d4b0c60480cf"
+            ],
+            "romanized": [
+                "Ceutronae"
+            ]
+        },
+        "ceutrones": {
+            "attested": "Ceutrones",
+            "id": "ceutrones",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.bb008a5a-9cf0-4cb9-9ee0-51c5ea446f5e"
+            ],
+            "romanized": [
+                "Ceutrones"
+            ]
+        },
+        "chaeronea": {
+            "attested": "Chaeronea",
+            "id": "chaeronea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5e03a7c7-8f49-4bd0-ade3-16395cb269e8"
+            ],
+            "romanized": [
+                "Chaeronea"
+            ]
+        },
+        "chaironeia": {
+            "attested": "Chaironeia",
+            "id": "chaironeia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0d8c999d-7f8b-4344-bb71-4e1278a482d3"
+            ],
+            "romanized": [
+                "Chaironeia"
+            ]
+        },
+        "chalcis": {
+            "attested": "Chalcis",
+            "id": "chalcis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.55ac2298-7469-468e-8463-3af95dd27c9e"
+            ],
+            "romanized": [
+                "Chalcis"
+            ]
+        },
+        "charadron": {
+            "attested": "Charadron",
+            "id": "charadron",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0e73ef82-53b8-421b-bafa-988d6c5e6297"
+            ],
+            "romanized": [
+                "Charadron"
+            ]
+        },
+        "choireion": {
+            "attested": "Choireion",
+            "id": "choireion",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1b85a845-e5ff-47cd-a08f-c0de1db46c76"
+            ],
+            "romanized": [
+                "Choireion"
+            ]
+        },
+        "choireios": {
+            "attested": "Choireios",
+            "id": "choireios",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b2846357-af4b-4e71-b374-058df8017a69"
+            ],
+            "romanized": [
+                "Choireios"
+            ]
+        },
+        "chullu": {
+            "attested": "Chullu",
+            "id": "chullu",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1b440755-7d71-432f-8873-4262435bea7c"
+            ],
+            "romanized": [
+                "Chullu"
+            ]
+        },
+        "cilicia": {
+            "attested": "Cilicia",
+            "id": "cilicia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2a0515a7-65ee-44fc-ba72-629dfcb9e1eb"
+            ],
+            "romanized": [
+                "Cilicia"
+            ]
+        },
+        "cillobenda": {
+            "attested": "Cillobenda",
+            "id": "cillobenda",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.729719e7-9477-4737-a470-afee129e0e17"
+            ],
+            "romanized": [
+                "Cillobenda"
+            ]
+        },
+        "cirra": {
+            "attested": "Cirra",
+            "id": "cirra",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d2dbe6d3-731c-48f8-8fc5-a0eca44f97a0"
+            ],
+            "romanized": [
+                "Cirra"
+            ]
+        },
+        "cirta": {
+            "attested": "Cirta",
+            "id": "cirta",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.715d7c89-e915-402a-bf0b-0b23263fd0d9"
+            ],
+            "romanized": [
+                "Cirta"
+            ]
+        },
+        "cirtenses": {
+            "attested": "Cirtenses",
+            "id": "cirtenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e66f0fa1-43f3-4ea3-98da-85ab7e8242d1"
+            ],
+            "romanized": [
+                "Cirtenses"
+            ]
+        },
+        "cisiben-nses": {
+            "attested": "Cisiben?nses",
+            "id": "cisiben-nses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.24e7d4e1-6c56-4762-93c3-3ba41c08c885"
+            ],
+            "romanized": [
+                "Cisiben nses"
+            ]
+        },
+        "cisimbrium": {
+            "attested": "Cisimbrium",
+            "id": "cisimbrium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b2390733-e86f-4554-a27b-9a166f15833b"
+            ],
+            "romanized": [
+                "Cisimbrium"
+            ]
+        },
+        "cnossus": {
+            "attested": "Cnossus",
+            "id": "cnossus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e995ec74-fb99-40ed-9ba2-1e7c2c52ba3d"
+            ],
+            "romanized": [
+                "Cnossus"
+            ]
+        },
+        "cohors-i-cilicum": {
+            "attested": "Cohors I Cilicum",
+            "id": "cohors-i-cilicum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2ee749f2-7ad3-4194-bacd-39039f4fd6d8"
+            ],
+            "romanized": [
+                "Cohors I Cilicum"
+            ]
+        },
+        "cohors-urbana-xiii": {
+            "attested": "Cohors Urbana XIII",
+            "id": "cohors-urbana-xiii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ab3032a1-2c34-4bfd-a244-20110db70032"
+            ],
+            "romanized": [
+                "Cohors Urbana XIII"
+            ]
+        },
+        "cohors-vi": {
+            "attested": "cohors VI",
+            "id": "cohors-vi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.179d114f-4d50-4ba8-bf41-073026a09e46"
+            ],
+            "romanized": [
+                "cohors VI"
+            ]
+        },
+        "coloni-coloniae-claritatis-iuliae-ucubitanorum": {
+            "attested": "coloni coloniae Claritatis Iuliae Ucubitanorum",
+            "id": "coloni-coloniae-claritatis-iuliae-ucubitanorum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b88ab533-7278-4b1f-9bce-8ff53b2a9aae"
+            ],
+            "romanized": [
+                "coloni coloniae Claritatis Iuliae Ucubitanorum"
+            ]
+        },
+        "colonia-capua": {
+            "attested": "Colonia Capua",
+            "id": "colonia-capua",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.643c54da-b749-4725-83e1-48afc38dd054"
+            ],
+            "romanized": [
+                "Colonia Capua"
+            ]
+        },
+        "colonia-claritas-iulia": {
+            "attested": "colonia Claritas Iulia",
+            "id": "colonia-claritas-iulia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.cf0aa0d6-c024-4430-be03-8cd64775a8f9"
+            ],
+            "romanized": [
+                "colonia Claritas Iulia"
+            ]
+        },
+        "colonia-claritas-iuliae-of-the-ucubitani": {
+            "attested": "Colonia Claritas Iuliae of the Ucubitani",
+            "id": "colonia-claritas-iuliae-of-the-ucubitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.037d8d34-2d5b-4d60-83f7-5c1820f4e927"
+            ],
+            "romanized": [
+                "Colonia Claritas Iuliae of the Ucubitani"
+            ]
+        },
+        "colonia-cnossus": {
+            "attested": "Colonia Cnossus",
+            "id": "colonia-cnossus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3acde901-08ab-4d52-a711-e760fcec517a"
+            ],
+            "romanized": [
+                "Colonia Cnossus"
+            ]
+        },
+        "colonia-flavia-augusta-felix-capua": {
+            "attested": "Colonia Flavia Augusta Felix Capua",
+            "id": "colonia-flavia-augusta-felix-capua",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4e1d4264-7f61-44d6-9b90-de6d8f0f5f2d"
+            ],
+            "romanized": [
+                "Colonia Flavia Augusta Felix Capua"
+            ]
+        },
+        "colonia-iulia-nobilis-cnossus": {
+            "attested": "Colonia Iulia Nobilis Cnossus",
+            "id": "colonia-iulia-nobilis-cnossus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b67861b6-1742-4638-ae99-7b9d8224a803"
+            ],
+            "romanized": [
+                "Colonia Iulia Nobilis Cnossus"
+            ]
+        },
+        "comenses": {
+            "attested": "Comenses",
+            "id": "comenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.227b8835-42c1-4348-bbef-0942d209a409"
+            ],
+            "romanized": [
+                "Comenses"
+            ]
+        },
+        "como": {
+            "attested": "Como",
+            "id": "como",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4fce0128-8ec9-43fa-9baf-474fe9f309a2"
+            ],
+            "romanized": [
+                "Como"
+            ]
+        },
+        "compagani-rivi-larensis": {
+            "attested": "Compagani rivi Larensis",
+            "id": "compagani-rivi-larensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a9ef4908-5315-4855-893a-638a6ee13901"
+            ],
+            "romanized": [
+                "Compagani rivi Larensis"
+            ]
+        },
+        "comum": {
+            "attested": "Comum",
+            "id": "comum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.893c1f86-2255-49ad-9ac4-90a37fc1a11b"
+            ],
+            "romanized": [
+                "Comum"
+            ]
+        },
+        "contrebia": {
+            "attested": "Contrebia",
+            "id": "contrebia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7a96b19c-9f4e-4461-8c2b-754eb90906aa"
+            ],
+            "romanized": [
+                "Contrebia"
+            ]
+        },
+        "copais-lacus": {
+            "attested": "Copais Lacus",
+            "id": "copais-lacus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.52611e5b-4bb3-49b4-bc01-986c18fb34d3"
+            ],
+            "romanized": [
+                "Copais Lacus"
+            ]
+        },
+        "corinienses": {
+            "attested": "Corinienses",
+            "id": "corinienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.57bea4e4-4c51-4ea2-ab75-b51c284d1b27"
+            ],
+            "romanized": [
+                "Corinienses"
+            ]
+        },
+        "corinium": {
+            "attested": "Corinium",
+            "id": "corinium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1ae66257-33cd-4eb8-ad28-0f9827190d24"
+            ],
+            "romanized": [
+                "Corinium"
+            ]
+        },
+        "coronea": {
+            "attested": "Coronea",
+            "id": "coronea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.49292336-5a4d-4f8d-99d4-9af31d2951f0"
+            ],
+            "romanized": [
+                "Coronea"
+            ]
+        },
+        "coroneans": {
+            "attested": "Coroneans",
+            "id": "coroneans",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.cb957280-e105-4238-be94-de9543356ffa"
+            ],
+            "romanized": [
+                "Coroneans"
+            ]
+        },
+        "coroneia": {
+            "attested": "Coroneia",
+            "id": "coroneia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.bff200fd-daba-4a1e-8d27-b297e4571dc7"
+            ],
+            "romanized": [
+                "Coroneia"
+            ]
+        },
+        "corsica": {
+            "attested": "Corsica",
+            "id": "corsica",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.67bdb914-0587-442f-8956-7707e5a6b987"
+            ],
+            "romanized": [
+                "Corsica"
+            ]
+        },
+        "cosa": {
+            "attested": "Cosa",
+            "id": "cosa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.47d9e84a-82cd-4ad0-b444-a0cccd3e2d02"
+            ],
+            "romanized": [
+                "Cosa"
+            ]
+        },
+        "creta-et-cyrenae": {
+            "attested": "Creta et Cyrenae",
+            "id": "creta-et-cyrenae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.53274c04-58d7-4860-92f3-3571d1e8cc81"
+            ],
+            "romanized": [
+                "Creta et Cyrenae"
+            ]
+        },
+        "creta-et-cyrene": {
+            "attested": "Creta et Cyrene",
+            "id": "creta-et-cyrene",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.61fb05e5-dd05-4ab6-a3bb-4edd57804083"
+            ],
+            "romanized": [
+                "Creta et Cyrene"
+            ]
+        },
+        "cyprus": {
+            "attested": "Cyprus",
+            "id": "cyprus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2e89c7a5-5c5f-45ee-9828-f4f45a682560"
+            ],
+            "romanized": [
+                "Cyprus"
+            ]
+        },
+        "cyrenaica": {
+            "attested": "Cyrenaica",
+            "id": "cyrenaica",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a14c6627-d5eb-4356-9023-cfe0167b0cfa"
+            ],
+            "romanized": [
+                "Cyrenaica"
+            ]
+        },
+        "cyrene": {
+            "attested": "Cyrene",
+            "id": "cyrene",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ee243463-47cf-4ff6-b957-b30e0fe9f33a"
+            ],
+            "romanized": [
+                "Cyrene"
+            ]
+        },
+        "cyrenenses": {
+            "attested": "Cyrenenses",
+            "id": "cyrenenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7ab09171-a4c7-468a-9c74-cd6a2f7c4646"
+            ],
+            "romanized": [
+                "Cyrenenses"
+            ]
+        },
+        "daci": {
+            "attested": "Daci",
+            "id": "daci",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4b394fcb-4225-45cf-baa3-7806980d90b0"
+            ],
+            "romanized": [
+                "Daci"
+            ]
+        },
+        "dacia": {
+            "attested": "Dacia",
+            "id": "dacia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9447eb9f-5373-436d-82b8-5abbc65b2d26"
+            ],
+            "romanized": [
+                "Dacia"
+            ]
+        },
+        "dacians": {
+            "attested": "Dacians",
+            "id": "dacians",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.577fd9b1-5e90-4cd6-a77f-dabe96b4993d"
+            ],
+            "romanized": [
+                "Dacians"
+            ]
+        },
+        "dalmatia": {
+            "attested": "Dalmatia",
+            "id": "dalmatia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f48b8569-67d6-476b-9f48-1172085ba9fe"
+            ],
+            "romanized": [
+                "Dalmatia"
+            ]
+        },
+        "damascus": {
+            "attested": "Damascus",
+            "id": "damascus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7a1efff5-587c-489b-8f85-3624a303b7e2"
+            ],
+            "romanized": [
+                "Damascus"
+            ]
+        },
+        "damaskenoi": {
+            "attested": "Damaskenoi",
+            "id": "damaskenoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6b023702-737d-47d2-8714-f214d7b5d04b"
+            ],
+            "romanized": [
+                "Damaskenoi"
+            ]
+        },
+        "daulieoi": {
+            "attested": "Daulieoi",
+            "id": "daulieoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b1e428e0-9c7e-4aac-b292-cda0cc2f5be2"
+            ],
+            "romanized": [
+                "Daulieoi"
+            ]
+        },
+        "daulis": {
+            "attested": "Daulis",
+            "id": "daulis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c39878cb-361c-4224-b66e-d4e24f93674e"
+            ],
+            "romanized": [
+                "Daulis"
+            ]
+        },
+        "deb-ai": {
+            "attested": "Deb...ai",
+            "id": "deb-ai",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7b3544a1-36e1-4307-99e1-15b73da79bfb"
+            ],
+            "romanized": [
+                "Deb ai"
+            ]
+        },
+        "delos": {
+            "attested": "Delos",
+            "id": "delos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7d7d9ced-e83e-4bf9-9491-3b74e4416398"
+            ],
+            "romanized": [
+                "Delos"
+            ]
+        },
+        "delphi": {
+            "attested": "Delphi",
+            "id": "delphi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.fccf3689-fe17-4de0-ab6c-a338b820c4f5"
+            ],
+            "romanized": [
+                "Delphi"
+            ]
+        },
+        "delphoi": {
+            "attested": "Delphoi",
+            "id": "delphoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b7d4e097-7ca9-448e-ab42-e5ecfb12d830"
+            ],
+            "romanized": [
+                "Delphoi"
+            ]
+        },
+        "denthaliatis-ager": {
+            "attested": "Denthaliatis ager",
+            "id": "denthaliatis-ager",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7a26cd71-4d72-4d65-a447-4def3fa47aba"
+            ],
+            "romanized": [
+                "Denthaliatis ager"
+            ]
+        },
+        "dercynna": {
+            "attested": "Dercynna",
+            "id": "dercynna",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a8b88918-400d-469c-8bd9-8e288ddbddbc"
+            ],
+            "romanized": [
+                "Dercynna"
+            ]
+        },
+        "deultum": {
+            "attested": "Deultum",
+            "id": "deultum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dfe136ea-fc38-41fe-a23c-d76cafcc2108"
+            ],
+            "romanized": [
+                "Deultum"
+            ]
+        },
+        "diana-tifatina": {
+            "attested": "Diana Tifatina",
+            "id": "diana-tifatina",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c7a08cee-f04a-4767-bd10-7b4ed6d10a49"
+            ],
+            "romanized": [
+                "Diana Tifatina"
+            ]
+        },
+        "dienses": {
+            "attested": "Dienses",
+            "id": "dienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.eaaa9e18-5b06-450f-b61b-d6306642a344"
+            ],
+            "romanized": [
+                "Dienses"
+            ]
+        },
+        "dion": {
+            "attested": "Dion",
+            "id": "dion",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8712cd71-a086-494e-8970-6d5f76c58eb4"
+            ],
+            "romanized": [
+                "Dion"
+            ]
+        },
+        "dolichani": {
+            "attested": "Dolichani",
+            "id": "dolichani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.508c9ef3-8783-4176-b55f-b7f5c102ee16"
+            ],
+            "romanized": [
+                "Dolichani"
+            ]
+        },
+        "doliche": {
+            "attested": "Doliche",
+            "id": "doliche",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.02ffc3d3-a8b2-46cf-8203-af48989ba757"
+            ],
+            "romanized": [
+                "Doliche"
+            ]
+        },
+        "dolichonos": {
+            "attested": "Dolichonos",
+            "id": "dolichonos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9e11f1e7-7b7a-4f46-b170-a8ba2b29fe9a"
+            ],
+            "romanized": [
+                "Dolichonos"
+            ]
+        },
+        "dorylaeoi": {
+            "attested": "Dorylaeoi",
+            "id": "dorylaeoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dab7c4ee-4583-4f99-9d0b-a53908258c99"
+            ],
+            "romanized": [
+                "Dorylaeoi"
+            ]
+        },
+        "dorylaion": {
+            "attested": "Dorylaion",
+            "id": "dorylaion",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c5c545e9-769a-47b0-b737-003f3fd21306"
+            ],
+            "romanized": [
+                "Dorylaion"
+            ]
+        },
+        "dryppios": {
+            "attested": "Dryppios",
+            "id": "dryppios",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c7fffcc6-7fb9-4391-808a-d1e2e830aecf"
+            ],
+            "romanized": [
+                "Dryppios"
+            ]
+        },
+        "durostorum": {
+            "attested": "Durostorum",
+            "id": "durostorum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.cecff1f0-3d01-40cd-9c8e-7fc33adb9e65"
+            ],
+            "romanized": [
+                "Durostorum"
+            ]
+        },
+        "elatia": {
+            "attested": "Elatia",
+            "id": "elatia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d2c2fa9e-97d9-4339-a05b-8a3245c1e413"
+            ],
+            "romanized": [
+                "Elatia"
+            ]
+        },
+        "elemiotae": {
+            "attested": "Elemiotae",
+            "id": "elemiotae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.683e89ce-0164-47ac-9fa3-cfd322f440d7"
+            ],
+            "romanized": [
+                "Elemiotae"
+            ]
+        },
+        "elemiotari": {
+            "attested": "Elemiotari",
+            "id": "elemiotari",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e51ade4d-6afe-4d42-9919-140cbeb76825"
+            ],
+            "romanized": [
+                "Elemiotari"
+            ]
+        },
+        "eleusis": {
+            "attested": "Eleusis",
+            "id": "eleusis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ed874252-ac87-43b4-ae69-33117f5ad2e1"
+            ],
+            "romanized": [
+                "Eleusis"
+            ]
+        },
+        "eleutherolakones": {
+            "attested": "Eleutherolakones",
+            "id": "eleutherolakones",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f90936c1-9c6b-46d5-8fba-faf8b8b4d97d"
+            ],
+            "romanized": [
+                "Eleutherolakones"
+            ]
+        },
+        "elimeia": {
+            "attested": "Elimeia",
+            "id": "elimeia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.62a1b054-0820-4872-8cd8-1a999f2268df"
+            ],
+            "romanized": [
+                "Elimeia"
+            ]
+        },
+        "elimiotis": {
+            "attested": "Elimiotis",
+            "id": "elimiotis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e63f4552-f502-4fa5-90b3-c295e03398ff"
+            ],
+            "romanized": [
+                "Elimiotis"
+            ]
+        },
+        "embateia": {
+            "attested": "Embateia",
+            "id": "embateia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.71935f9a-6e64-4395-b28e-e1359cafe8eb"
+            ],
+            "romanized": [
+                "Embateia"
+            ]
+        },
+        "emerita-augusta": {
+            "attested": "Emerita Augusta",
+            "id": "emerita-augusta",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4ecf5ba3-52ca-49b4-9a3d-d597689882fa"
+            ],
+            "romanized": [
+                "Emerita Augusta"
+            ]
+        },
+        "emesa": {
+            "attested": "Emesa",
+            "id": "emesa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.cca71a9f-1f93-45e5-960c-7ef14db33932"
+            ],
+            "romanized": [
+                "Emesa"
+            ]
+        },
+        "emporion": {
+            "attested": "Emporion",
+            "id": "emporion",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.82969885-b8e9-44eb-8adc-84df5469b21b"
+            ],
+            "romanized": [
+                "Emporion"
+            ]
+        },
+        "ephesus": {
+            "attested": "Ephesus",
+            "id": "ephesus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.889fe506-6fbf-4e38-bc81-b408d6d3b4f5"
+            ],
+            "romanized": [
+                "Ephesus"
+            ]
+        },
+        "eporenses": {
+            "attested": "Eporenses",
+            "id": "eporenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.68a20dd9-7226-49fb-b029-45f3827af857"
+            ],
+            "romanized": [
+                "Eporenses"
+            ]
+        },
+        "euxyleia": {
+            "attested": "Euxyleia",
+            "id": "euxyleia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e1a2cbb8-fdec-4312-90ef-8a5e5e808a4c"
+            ],
+            "romanized": [
+                "Euxyleia"
+            ]
+        },
+        "falerieneses": {
+            "attested": "Falerieneses",
+            "id": "falerieneses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.05b10c1f-2ecb-4943-98f9-996b5ca6065a"
+            ],
+            "romanized": [
+                "Falerieneses"
+            ]
+        },
+        "falerienses": {
+            "attested": "Falerienses",
+            "id": "falerienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.cee24395-8655-40b4-8720-c4158e3b55e8"
+            ],
+            "romanized": [
+                "Falerienses"
+            ]
+        },
+        "falerio": {
+            "attested": "Falerio",
+            "id": "falerio",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ab10fc32-bcc5-4c03-9b14-6ef368fa823a"
+            ],
+            "romanized": [
+                "Falerio"
+            ]
+        },
+        "firmani": {
+            "attested": "Firmani",
+            "id": "firmani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.844c35b5-4b26-47ea-8ee9-020cea970658"
+            ],
+            "romanized": [
+                "Firmani"
+            ]
+        },
+        "firmum": {
+            "attested": "Firmum",
+            "id": "firmum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.efaabc85-83c0-4ae8-b5be-63da3541be5d"
+            ],
+            "romanized": [
+                "Firmum"
+            ]
+        },
+        "firmum-picenum": {
+            "attested": "Firmum Picenum",
+            "id": "firmum-picenum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d0c10d7c-8a08-4d0d-bb2b-1c22b40e01f3"
+            ],
+            "romanized": [
+                "Firmum Picenum"
+            ]
+        },
+        "fossa-regia": {
+            "attested": "Fossa Regia",
+            "id": "fossa-regia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.90b15b86-1caa-4b25-a176-7a64fa927a09"
+            ],
+            "romanized": [
+                "Fossa Regia"
+            ]
+        },
+        "fundus-herianicus": {
+            "attested": "Fundus Herianicus",
+            "id": "fundus-herianicus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.bed18451-cb47-4790-bacb-345f13ebc5b4"
+            ],
+            "romanized": [
+                "Fundus Herianicus"
+            ]
+        },
+        "fundus-vellanus": {
+            "attested": "Fundus Vellanus",
+            "id": "fundus-vellanus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.05ab2b1f-fea9-499d-8aac-d2e9aef2576b"
+            ],
+            "romanized": [
+                "Fundus Vellanus"
+            ]
+        },
+        "gabranus": {
+            "attested": "Gabranus",
+            "id": "gabranus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.72d096ba-0f7b-462b-881d-856d6fa14ae7"
+            ],
+            "romanized": [
+                "Gabranus"
+            ]
+        },
+        "gadarnauregium": {
+            "attested": "Gadarnauregium",
+            "id": "gadarnauregium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.40b03cbf-0b91-4b00-95cd-8a24f063dd92"
+            ],
+            "romanized": [
+                "Gadarnauregium"
+            ]
+        },
+        "galatia": {
+            "attested": "Galatia",
+            "id": "galatia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2f265699-6d4c-429f-b547-7ef983cb7377"
+            ],
+            "romanized": [
+                "Galatia"
+            ]
+        },
+        "galilenses": {
+            "attested": "Galilenses",
+            "id": "galilenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.079d326c-9187-42c2-b44f-237700b343c1"
+            ],
+            "romanized": [
+                "Galilenses"
+            ]
+        },
+        "galillenses": {
+            "attested": "Galillenses",
+            "id": "galillenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4a15ad15-3064-40da-8a68-59135f81a1d6"
+            ],
+            "romanized": [
+                "Galillenses"
+            ]
+        },
+        "gallia-narbonensis": {
+            "attested": "Gallia Narbonensis",
+            "id": "gallia-narbonensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4e3590be-2ff7-4ad6-80e1-602232d85601"
+            ],
+            "romanized": [
+                "Gallia Narbonensis"
+            ]
+        },
+        "garama": {
+            "attested": "Garama",
+            "id": "garama",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4bd424d2-aaa8-4e2f-aa56-4a8e2ce3f2cd"
+            ],
+            "romanized": [
+                "Garama"
+            ]
+        },
+        "garamantes": {
+            "attested": "Garamantes",
+            "id": "garamantes",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.60150ab0-2456-4a3d-ba39-954e513fba4e"
+            ],
+            "romanized": [
+                "Garamantes"
+            ]
+        },
+        "geneatae": {
+            "attested": "Geneatae",
+            "id": "geneatae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.fd2310b4-1577-4fa2-9bb7-06a73937080a"
+            ],
+            "romanized": [
+                "Geneatae"
+            ]
+        },
+        "gens-numidarum": {
+            "attested": "gens Numidarum",
+            "id": "gens-numidarum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1c3bec48-0a28-4e2a-b213-3fa37ec83dfd"
+            ],
+            "romanized": [
+                "gens Numidarum"
+            ]
+        },
+        "gens-suburburum": {
+            "attested": "gens Suburburum",
+            "id": "gens-suburburum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8fd21580-eeea-4f3e-b6e2-58cee6041f14"
+            ],
+            "romanized": [
+                "gens Suburburum"
+            ]
+        },
+        "geranae": {
+            "attested": "Geranae",
+            "id": "geranae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e0920e11-1096-4fdf-a208-934cb0c2d9f6"
+            ],
+            "romanized": [
+                "Geranae"
+            ]
+        },
+        "germani-superior": {
+            "attested": "Germani Superior",
+            "id": "germani-superior",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a9d963aa-c823-4ab5-9e64-c291a5c7e071"
+            ],
+            "romanized": [
+                "Germani Superior"
+            ]
+        },
+        "germania-superior": {
+            "attested": "Germania Superior",
+            "id": "germania-superior",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9bd76734-c198-4bb5-8161-92562cb33136"
+            ],
+            "romanized": [
+                "Germania Superior"
+            ]
+        },
+        "gigarteni": {
+            "attested": "Gigarteni",
+            "id": "gigarteni",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5cfd64d5-808b-47cb-b837-067f4660c472"
+            ],
+            "romanized": [
+                "Gigarteni"
+            ]
+        },
+        "gigarteni-de-vicus-sidoniorum": {
+            "attested": "Gigarteni de vicus Sidoniorum",
+            "id": "gigarteni-de-vicus-sidoniorum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f6b2fee7-471c-47a3-99ac-2ea48172a6b8"
+            ],
+            "romanized": [
+                "Gigarteni de vicus Sidoniorum"
+            ]
+        },
+        "gortunii": {
+            "attested": "Gortunii",
+            "id": "gortunii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c75ef7d5-1b71-4308-9946-5a9d7d36b2ed"
+            ],
+            "romanized": [
+                "Gortunii"
+            ]
+        },
+        "gortyn": {
+            "attested": "Gortyn",
+            "id": "gortyn",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3b10f9aa-424f-4f82-8e36-f3257978606a"
+            ],
+            "romanized": [
+                "Gortyn"
+            ]
+        },
+        "hadrumetum": {
+            "attested": "Hadrumetum",
+            "id": "hadrumetum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.26bde868-69a5-4aec-9cab-d69f1c2cf88c"
+            ],
+            "romanized": [
+                "Hadrumetum"
+            ]
+        },
+        "halmyris": {
+            "attested": "Halmyris",
+            "id": "halmyris",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2e251b92-c8d2-4656-a901-778b6614d4b0"
+            ],
+            "romanized": [
+                "Halmyris"
+            ]
+        },
+        "heraclea": {
+            "attested": "Heraclea",
+            "id": "heraclea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dcbc6768-35a8-45bf-9163-ba1fb9288716"
+            ],
+            "romanized": [
+                "Heraclea"
+            ]
+        },
+        "herakleia": {
+            "attested": "Herakleia",
+            "id": "herakleia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0d0e6c57-0fbd-4a64-85aa-f768db7e7a90"
+            ],
+            "romanized": [
+                "Herakleia"
+            ]
+        },
+        "herakleia-salbakes": {
+            "attested": "Herakleia Salbakes",
+            "id": "herakleia-salbakes",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1cd5ce9f-258a-474d-a3ce-046cb636cdb8"
+            ],
+            "romanized": [
+                "Herakleia Salbakes"
+            ]
+        },
+        "herculaneum": {
+            "attested": "Herculaneum",
+            "id": "herculaneum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9604121b-f4cf-4b6c-978b-221f1d5471aa"
+            ],
+            "romanized": [
+                "Herculaneum"
+            ]
+        },
+        "herkynna": {
+            "attested": "Herkynna",
+            "id": "herkynna",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.74a2dd53-e818-48a1-acac-a9072d245eaf"
+            ],
+            "romanized": [
+                "Herkynna"
+            ]
+        },
+        "hipponienses": {
+            "attested": "Hipponienses",
+            "id": "hipponienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d0b41077-61cd-4642-a1f8-ca9a55c6ea5e"
+            ],
+            "romanized": [
+                "Hipponienses"
+            ]
+        },
+        "hispania": {
+            "attested": "Hispania",
+            "id": "hispania",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3ad67676-e970-4c18-8d31-c1af6c97a4f9"
+            ],
+            "romanized": [
+                "Hispania"
+            ]
+        },
+        "hispania-citerior": {
+            "attested": "Hispania Citerior",
+            "id": "hispania-citerior",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ff0bb973-9f95-498e-9337-b234e9c5da01"
+            ],
+            "romanized": [
+                "Hispania Citerior"
+            ]
+        },
+        "hispania-tarraconensis": {
+            "attested": "Hispania Tarraconensis",
+            "id": "hispania-tarraconensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.71192082-1109-4466-ba18-07f0eb0a9eb3"
+            ],
+            "romanized": [
+                "Hispania Tarraconensis"
+            ]
+        },
+        "histonienses": {
+            "attested": "Histonienses",
+            "id": "histonienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2796f2b2-0f2c-4ec2-be35-1bc8e46844fb"
+            ],
+            "romanized": [
+                "Histonienses"
+            ]
+        },
+        "histoniensium": {
+            "attested": "Histoniensium",
+            "id": "histoniensium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dfc37bcc-d875-433e-b413-b76468609861"
+            ],
+            "romanized": [
+                "Histoniensium"
+            ]
+        },
+        "histonium": {
+            "attested": "Histonium",
+            "id": "histonium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.adda1b99-218b-4cfa-9df5-5b4626b6c371"
+            ],
+            "romanized": [
+                "Histonium"
+            ]
+        },
+        "histria": {
+            "attested": "Histria",
+            "id": "histria",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.58422efb-f86b-4a1a-b97f-e4ffc745b79f"
+            ],
+            "romanized": [
+                "Histria"
+            ]
+        },
+        "histriani": {
+            "attested": "Histriani",
+            "id": "histriani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.aad66fb4-b1e0-4457-891d-6a7dfa25d0e0"
+            ],
+            "romanized": [
+                "Histriani"
+            ]
+        },
+        "hypata": {
+            "attested": "Hypata",
+            "id": "hypata",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d35786a6-9291-4938-87ee-dd1fc4314ff9"
+            ],
+            "romanized": [
+                "Hypata"
+            ]
+        },
+        "hypataei": {
+            "attested": "Hypataei",
+            "id": "hypataei",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f7a99ba7-7da1-4950-99dc-296aca174f44"
+            ],
+            "romanized": [
+                "Hypataei"
+            ]
+        },
+        "hypataeoi": {
+            "attested": "Hypataeoi",
+            "id": "hypataeoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1bca38fa-333e-4253-aa5c-1b9c23f01b14"
+            ],
+            "romanized": [
+                "Hypataeoi"
+            ]
+        },
+        "igilgili": {
+            "attested": "Igilgili",
+            "id": "igilgili",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e449e813-979f-421c-8098-8a68d990300e"
+            ],
+            "romanized": [
+                "Igilgili"
+            ]
+        },
+        "igilgilitani": {
+            "attested": "Igilgilitani",
+            "id": "igilgilitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.baaa041b-3d50-4c1d-a10e-63fa6bcacd23"
+            ],
+            "romanized": [
+                "Igilgilitani"
+            ]
+        },
+        "imperium": {
+            "attested": "imperium",
+            "id": "imperium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5efe1fed-c75a-4187-b2f3-6f93559f7974"
+            ],
+            "romanized": [
+                "imperium"
+            ]
+        },
+        "indicetani": {
+            "attested": "Indicetani",
+            "id": "indicetani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1106b4d6-79cd-42ce-8eec-94ac453e4db5"
+            ],
+            "romanized": [
+                "Indicetani"
+            ]
+        },
+        "ioudaioi": {
+            "attested": "Ioudaioi",
+            "id": "ioudaioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f314e6f1-06af-48ef-ac57-6f5c7805d0d4"
+            ],
+            "romanized": [
+                "Ioudaioi"
+            ]
+        },
+        "istria": {
+            "attested": "Istria",
+            "id": "istria",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5e3020c2-8cdc-47cf-96be-705de8cc39f3"
+            ],
+            "romanized": [
+                "Istria"
+            ]
+        },
+        "istrianoi": {
+            "attested": "Istrianoi",
+            "id": "istrianoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.59d22a5c-d73a-4377-bd45-f0dbeb2df53a"
+            ],
+            "romanized": [
+                "Istrianoi"
+            ]
+        },
+        "istros": {
+            "attested": "Istros",
+            "id": "istros",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d73354f1-618c-4884-ae6e-00d04525dd38"
+            ],
+            "romanized": [
+                "Istros"
+            ]
+        },
+        "iudaea": {
+            "attested": "Iudaea",
+            "id": "iudaea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8d2913dc-0f29-484b-89a4-4b5a34a822cb"
+            ],
+            "romanized": [
+                "Iudaea"
+            ]
+        },
+        "iudaia": {
+            "attested": "Iudaia",
+            "id": "iudaia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.147b0c6d-8bee-4c30-b2bd-8799793aff86"
+            ],
+            "romanized": [
+                "Iudaia"
+            ]
+        },
+        "iudex": {
+            "attested": "iudex",
+            "id": "iudex",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.750e1c53-fcde-43aa-8d50-4459bc06317a"
+            ],
+            "romanized": [
+                "iudex"
+            ]
+        },
+        "iudex-datus": {
+            "attested": "iudex datus",
+            "id": "iudex-datus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.fe97c435-8f4b-481c-82a2-e66703d3358d"
+            ],
+            "romanized": [
+                "iudex datus"
+            ]
+        },
+        "kadmos-mons": {
+            "attested": "Kadmos Mons",
+            "id": "kadmos-mons",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.65c6cf36-8442-4dd2-9fbf-a7db33eaea21"
+            ],
+            "romanized": [
+                "Kadmos Mons"
+            ]
+        },
+        "kastellum-gurolensis": {
+            "attested": "kastellum Gurolensis",
+            "id": "kastellum-gurolensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9eab72b4-9d25-4317-8f34-f2cf43e77be6"
+            ],
+            "romanized": [
+                "kastellum Gurolensis"
+            ]
+        },
+        "kasturenses": {
+            "attested": "Kasturenses",
+            "id": "kasturenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.856a67f2-de6f-4481-a165-5e8ccf078a7e"
+            ],
+            "romanized": [
+                "Kasturenses"
+            ]
+        },
+        "kasturrenses": {
+            "attested": "Kasturrenses",
+            "id": "kasturrenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0d03ff8a-ea9a-439b-b308-6c6efb8424b1"
+            ],
+            "romanized": [
+                "Kasturrenses"
+            ]
+        },
+        "kepheisos": {
+            "attested": "Kepheisos",
+            "id": "kepheisos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1eab86e5-76b9-4676-b74d-1cedaeba118a"
+            ],
+            "romanized": [
+                "Kepheisos"
+            ]
+        },
+        "kierieis": {
+            "attested": "Kierieis",
+            "id": "kierieis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ed4d6260-34d0-4f80-ae29-0beed2ba8008"
+            ],
+            "romanized": [
+                "Kierieis"
+            ]
+        },
+        "kierion": {
+            "attested": "Kierion",
+            "id": "kierion",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.16424019-7a5b-4a4d-971d-9e18324653a0"
+            ],
+            "romanized": [
+                "Kierion"
+            ]
+        },
+        "kissynioi": {
+            "attested": "Kissynioi",
+            "id": "kissynioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1db7c824-aa03-4716-aa52-f82f94408899"
+            ],
+            "romanized": [
+                "Kissynioi"
+            ]
+        },
+        "koroneia": {
+            "attested": "Koroneia",
+            "id": "koroneia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2e2130bf-6e98-4e52-a77a-1053e28c6378"
+            ],
+            "romanized": [
+                "Koroneia"
+            ]
+        },
+        "koroneioi": {
+            "attested": "Koroneioi",
+            "id": "koroneioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.276bd8c3-cdb5-4f80-ab65-631804572a23"
+            ],
+            "romanized": [
+                "Koroneioi"
+            ]
+        },
+        "koroneoi": {
+            "attested": "Koroneoi",
+            "id": "koroneoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.63030f4c-a206-4f63-a19c-a4ff69b8de9e"
+            ],
+            "romanized": [
+                "Koroneoi"
+            ]
+        },
+        "kosa": {
+            "attested": "Kosa",
+            "id": "kosa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.965f6dc1-f6ad-49c0-adfc-e707233deca1"
+            ],
+            "romanized": [
+                "Kosa"
+            ]
+        },
+        "lacedaemonii": {
+            "attested": "Lacedaemonii",
+            "id": "lacedaemonii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5fd30d8e-11da-4a77-990a-ff55269ab0b8"
+            ],
+            "romanized": [
+                "Lacedaemonii"
+            ]
+        },
+        "lacinimurgenses": {
+            "attested": "Lacinimurgenses",
+            "id": "lacinimurgenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d1411bdf-fdb7-4375-92b7-61343bc11219"
+            ],
+            "romanized": [
+                "Lacinimurgenses"
+            ]
+        },
+        "lacus-salinarum": {
+            "attested": "Lacus Salinarum",
+            "id": "lacus-salinarum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0bb1d5be-266a-4092-83cc-15f147429a31"
+            ],
+            "romanized": [
+                "Lacus Salinarum"
+            ]
+        },
+        "lake-daimon": {
+            "attested": "Lake)daimon",
+            "id": "lake-daimon",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.85ec5a9d-d244-4184-8faf-b0bf9c48c18b"
+            ],
+            "romanized": [
+                "Lake daimon"
+            ]
+        },
+        "lakedaim-onioi": {
+            "attested": "Lakedaim)onioi",
+            "id": "lakedaim-onioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f3ef7dca-c620-466c-a53c-2e84882b2400"
+            ],
+            "romanized": [
+                "Lakedaim onioi"
+            ]
+        },
+        "lakedaimon": {
+            "attested": "Lakedaimon",
+            "id": "lakedaimon",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.29d0ed0d-cb78-435d-985a-146d5dde8011"
+            ],
+            "romanized": [
+                "Lakedaimon"
+            ]
+        },
+        "lamia": {
+            "attested": "Lamia",
+            "id": "lamia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.fbd5c29c-a3e9-4e78-a141-91a841536320"
+            ],
+            "romanized": [
+                "Lamia"
+            ]
+        },
+        "lamienses": {
+            "attested": "Lamienses",
+            "id": "lamienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2e5e6edb-dd37-4568-88ab-a0f9027fb9c1"
+            ],
+            "romanized": [
+                "Lamienses"
+            ]
+        },
+        "larisa": {
+            "attested": "Larisa",
+            "id": "larisa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7134760a-aa4b-42b9-b80e-a2fc14cbd41c"
+            ],
+            "romanized": [
+                "Larisa"
+            ]
+        },
+        "larissa": {
+            "attested": "Larissa",
+            "id": "larissa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.323d9f85-05ad-42ae-902f-0bd3115fc9e3"
+            ],
+            "romanized": [
+                "Larissa"
+            ]
+        },
+        "latium": {
+            "attested": "Latium",
+            "id": "latium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2c1a9b46-4a92-437d-bbae-e9b54677d39e"
+            ],
+            "romanized": [
+                "Latium"
+            ]
+        },
+        "legio-11-claudia": {
+            "attested": "Legio 11 Claudia",
+            "id": "legio-11-claudia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3ccd8437-09cb-446f-8779-8afa9f0ce05e"
+            ],
+            "romanized": [
+                "Legio 11 Claudia"
+            ]
+        },
+        "legio-i-minervia": {
+            "attested": "Legio I Minervia",
+            "id": "legio-i-minervia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.719f06d7-c18d-40b7-b5cc-41f0b06c92e3"
+            ],
+            "romanized": [
+                "Legio I Minervia"
+            ]
+        },
+        "legio-ii-augusta": {
+            "attested": "Legio II Augusta",
+            "id": "legio-ii-augusta",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.96ad94d6-4eb0-4140-9dce-82158385a978"
+            ],
+            "romanized": [
+                "Legio II Augusta"
+            ]
+        },
+        "legio-iii-augusta": {
+            "attested": "Legio III Augusta",
+            "id": "legio-iii-augusta",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.db547f72-81a1-4f2d-b7bf-2b6514df64fb"
+            ],
+            "romanized": [
+                "Legio III Augusta"
+            ]
+        },
+        "legio-iii-flavia-felix": {
+            "attested": "Legio III Flavia Felix",
+            "id": "legio-iii-flavia-felix",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e54901d3-1102-4a09-8dd1-1ec35d806e30"
+            ],
+            "romanized": [
+                "Legio III Flavia Felix"
+            ]
+        },
+        "legio-vii": {
+            "attested": "Legio VII",
+            "id": "legio-vii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.af18ae74-4f4a-4af8-ad56-822a93d23fae"
+            ],
+            "romanized": [
+                "Legio VII"
+            ]
+        },
+        "legio-vii-claudia-pia-fidelis": {
+            "attested": "Legio VII Claudia Pia Fidelis",
+            "id": "legio-vii-claudia-pia-fidelis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.232fdd00-8be7-46aa-8ec5-3da009966487"
+            ],
+            "romanized": [
+                "Legio VII Claudia Pia Fidelis"
+            ]
+        },
+        "legio-xi": {
+            "attested": "Legio XI",
+            "id": "legio-xi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3aab164b-6830-4979-a9e2-3c9845104f3e"
+            ],
+            "romanized": [
+                "Legio XI"
+            ]
+        },
+        "legio-xi-claudia": {
+            "attested": "Legio XI Claudia",
+            "id": "legio-xi-claudia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.67b86ed6-0b6f-4cdf-98c4-7cc8adcf915f"
+            ],
+            "romanized": [
+                "Legio XI Claudia"
+            ]
+        },
+        "lepcis": {
+            "attested": "Lepcis",
+            "id": "lepcis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7c932fb8-b52b-476d-bb99-7762511b00a7"
+            ],
+            "romanized": [
+                "Lepcis"
+            ]
+        },
+        "lepcis-magna": {
+            "attested": "Lepcis Magna",
+            "id": "lepcis-magna",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.51db99b5-5dd5-4cf6-8913-883acf1a8e07"
+            ],
+            "romanized": [
+                "Lepcis Magna"
+            ]
+        },
+        "lepcitani": {
+            "attested": "Lepcitani",
+            "id": "lepcitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b130503e-1486-49ef-92ed-739f8b1178da"
+            ],
+            "romanized": [
+                "Lepcitani"
+            ]
+        },
+        "limes-tripolitanus": {
+            "attested": "limes Tripolitanus",
+            "id": "limes-tripolitanus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8c36114f-dbba-4bf4-b0b9-864475f80ef4"
+            ],
+            "romanized": [
+                "limes Tripolitanus"
+            ]
+        },
+        "lizaviates": {
+            "attested": "Lizaviates",
+            "id": "lizaviates",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.bfa4d133-e322-4d2e-91cc-cf561cd710e3"
+            ],
+            "romanized": [
+                "Lizaviates"
+            ]
+        },
+        "locus-subiati": {
+            "attested": "locus Subiati",
+            "id": "locus-subiati",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.047acd72-f062-4dcb-9873-ccb32eeddf86"
+            ],
+            "romanized": [
+                "locus Subiati"
+            ]
+        },
+        "lusitania": {
+            "attested": "Lusitania",
+            "id": "lusitania",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8b0cbce0-60e7-46d5-93a9-15769ec9027e"
+            ],
+            "romanized": [
+                "Lusitania"
+            ]
+        },
+        "lycia-et-pamphylia": {
+            "attested": "Lycia et Pamphylia",
+            "id": "lycia-et-pamphylia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7ffbde26-3e14-472d-8c41-fcb1f18fa205"
+            ],
+            "romanized": [
+                "Lycia et Pamphylia"
+            ]
+        },
+        "macae": {
+            "attested": "Macae",
+            "id": "macae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.67d0db47-c6fb-452c-9cc8-54fd9a8bfff7"
+            ],
+            "romanized": [
+                "Macae"
+            ]
+        },
+        "macedon": {
+            "attested": "Macedon",
+            "id": "macedon",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0e91bc4a-003a-48a2-8f16-cfd597c9ad85"
+            ],
+            "romanized": [
+                "Macedon"
+            ]
+        },
+        "macedonia": {
+            "attested": "Macedonia",
+            "id": "macedonia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2259b8e9-92f8-48c1-be0b-13c7507adf72"
+            ],
+            "romanized": [
+                "Macedonia"
+            ]
+        },
+        "madaurenses": {
+            "attested": "Madaurenses",
+            "id": "madaurenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.69690fda-33fb-49a8-9b01-1b98e50fc1b3"
+            ],
+            "romanized": [
+                "Madaurenses"
+            ]
+        },
+        "madauros": {
+            "attested": "Madauros",
+            "id": "madauros",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1e422524-6a5b-497d-81c7-462644860adc"
+            ],
+            "romanized": [
+                "Madauros"
+            ]
+        },
+        "mariana": {
+            "attested": "Mariana",
+            "id": "mariana",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8ff6f2e8-cf66-42ed-b6c7-371efbbe52f4"
+            ],
+            "romanized": [
+                "Mariana"
+            ]
+        },
+        "mariani": {
+            "attested": "Mariani",
+            "id": "mariani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.bada84f1-9a8a-4fab-922a-665dfb10e4f1"
+            ],
+            "romanized": [
+                "Mariani"
+            ]
+        },
+        "mauretania-caesariensis": {
+            "attested": "Mauretania Caesariensis",
+            "id": "mauretania-caesariensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.95143642-9596-483a-8e03-003e44176826"
+            ],
+            "romanized": [
+                "Mauretania Caesariensis"
+            ]
+        },
+        "mauretania-sitifensis": {
+            "attested": "Mauretania Sitifensis",
+            "id": "mauretania-sitifensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.91abffc8-b6f7-4670-a362-f2401a081e33"
+            ],
+            "romanized": [
+                "Mauretania Sitifensis"
+            ]
+        },
+        "medaion": {
+            "attested": "Medaion",
+            "id": "medaion",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2f5cc58c-7c89-483c-9b50-5cbc9313cbc2"
+            ],
+            "romanized": [
+                "Medaion"
+            ]
+        },
+        "medianum-matidianum-alexandrianum-tizirlensis": {
+            "attested": "Medianum Matidianum Alexandrianum Tizirlensis",
+            "id": "medianum-matidianum-alexandrianum-tizirlensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.317a095a-dd57-445d-b604-49347e623696"
+            ],
+            "romanized": [
+                "Medianum Matidianum Alexandrianum Tizirlensis"
+            ]
+        },
+        "messene": {
+            "attested": "Messene",
+            "id": "messene",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7fcf5ad0-5b74-43dc-9283-8590a835270e"
+            ],
+            "romanized": [
+                "Messene"
+            ]
+        },
+        "messenii": {
+            "attested": "Messenii",
+            "id": "messenii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.acfbd19f-d8ae-47c1-bbd0-f8ebf6c4d76a"
+            ],
+            "romanized": [
+                "Messenii"
+            ]
+        },
+        "messenioi": {
+            "attested": "Messenioi",
+            "id": "messenioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f7cc671a-4a77-4a26-9a1d-919ef68e7567"
+            ],
+            "romanized": [
+                "Messenioi"
+            ]
+        },
+        "messogis-mons": {
+            "attested": "Messogis Mons",
+            "id": "messogis-mons",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8d442e00-dbaa-4f91-9e98-3a39327152fe"
+            ],
+            "romanized": [
+                "Messogis Mons"
+            ]
+        },
+        "mestos": {
+            "attested": "Mestos",
+            "id": "mestos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.612d7dcb-acea-4fd8-8cfe-3b7033b68576"
+            ],
+            "romanized": [
+                "Mestos"
+            ]
+        },
+        "metropoleitai": {
+            "attested": "Metropoleitai",
+            "id": "metropoleitai",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1b39128a-6855-42b1-ae65-3949af20e72e"
+            ],
+            "romanized": [
+                "Metropoleitai"
+            ]
+        },
+        "metropolis": {
+            "attested": "Metropolis",
+            "id": "metropolis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ab8426f6-df0c-4624-b0c4-6509a1c36712"
+            ],
+            "romanized": [
+                "Metropolis"
+            ]
+        },
+        "midaion": {
+            "attested": "Midaion",
+            "id": "midaion",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.19b591d4-f6c6-41e1-9edf-be4dfb784274"
+            ],
+            "romanized": [
+                "Midaion"
+            ]
+        },
+        "milesii": {
+            "attested": "Milesii",
+            "id": "milesii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e768f90b-2518-4cdf-829b-c7a302ad95a1"
+            ],
+            "romanized": [
+                "Milesii"
+            ]
+        },
+        "miletos": {
+            "attested": "Miletos",
+            "id": "miletos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.efa5e5d5-1094-47aa-b6b2-4625646efa81"
+            ],
+            "romanized": [
+                "Miletos"
+            ]
+        },
+        "milev": {
+            "attested": "Milev",
+            "id": "milev",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1a0cc683-0b6e-4871-b3b1-af7d11b212c5"
+            ],
+            "romanized": [
+                "Milev"
+            ]
+        },
+        "milevitani": {
+            "attested": "Milevitani",
+            "id": "milevitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ada11eb3-1ffa-41b5-9852-82337a62d3df"
+            ],
+            "romanized": [
+                "Milevitani"
+            ]
+        },
+        "moesi": {
+            "attested": "Moesi",
+            "id": "moesi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8e365989-0cfe-4e2a-8d3c-c6253207583b"
+            ],
+            "romanized": [
+                "Moesi"
+            ]
+        },
+        "moesia": {
+            "attested": "Moesia",
+            "id": "moesia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.fd2d1dad-c6f2-4aae-9b66-8ae83ec18c4a"
+            ],
+            "romanized": [
+                "Moesia"
+            ]
+        },
+        "moesia-inferior": {
+            "attested": "Moesia Inferior",
+            "id": "moesia-inferior",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.726a5e7e-7f05-456b-893a-af10a2c7cb8b"
+            ],
+            "romanized": [
+                "Moesia Inferior"
+            ]
+        },
+        "moesia-superior": {
+            "attested": "Moesia Superior",
+            "id": "moesia-superior",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.76c58c2b-daf6-44dd-8025-08bec8926ec7"
+            ],
+            "romanized": [
+                "Moesia Superior"
+            ]
+        },
+        "moesiae": {
+            "attested": "Moesiae",
+            "id": "moesiae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b1b577a2-53eb-4861-846a-1d6977d645a1"
+            ],
+            "romanized": [
+                "Moesiae"
+            ]
+        },
+        "moesoi": {
+            "attested": "Moesoi",
+            "id": "moesoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.eff0ec19-513a-42ba-a43b-2fdae7dc4fba"
+            ],
+            "romanized": [
+                "Moesoi"
+            ]
+        },
+        "mons-tifata": {
+            "attested": "Mons Tifata",
+            "id": "mons-tifata",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.18a142ed-98cb-421c-9175-f6279c9e9a4d"
+            ],
+            "romanized": [
+                "Mons Tifata"
+            ]
+        },
+        "mopseotae": {
+            "attested": "Mopseotae",
+            "id": "mopseotae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.11ac4781-f241-4731-b4ec-687d3d4fc8fd"
+            ],
+            "romanized": [
+                "Mopseotae"
+            ]
+        },
+        "mopsouestia": {
+            "attested": "Mopsouestia",
+            "id": "mopsouestia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.133a482b-6eea-41c4-baf3-9cf0d822f765"
+            ],
+            "romanized": [
+                "Mopsouestia"
+            ]
+        },
+        "moschotomeai": {
+            "attested": "Moschotomeai",
+            "id": "moschotomeai",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4dfb39ff-b2cb-4478-965b-db4377f291dc"
+            ],
+            "romanized": [
+                "Moschotomeai"
+            ]
+        },
+        "moseia-inferior": {
+            "attested": "Moseia Inferior",
+            "id": "moseia-inferior",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.29ee3a36-683e-4c05-9aa8-bbf750625789"
+            ],
+            "romanized": [
+                "Moseia Inferior"
+            ]
+        },
+        "mudicivi": {
+            "attested": "Mudicivi",
+            "id": "mudicivi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.cccaa0b3-9806-4f4b-88ae-0643c1a58582"
+            ],
+            "romanized": [
+                "Mudicivi"
+            ]
+        },
+        "muduciuvi": {
+            "attested": "Muduciuvi",
+            "id": "muduciuvi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.25eb2d69-cce3-4755-a791-249d1a7ec6d9"
+            ],
+            "romanized": [
+                "Muduciuvi"
+            ]
+        },
+        "municipium-canusinum": {
+            "attested": "Municipium Canusinum",
+            "id": "municipium-canusinum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.554e5001-feae-449e-b305-24a2728865ef"
+            ],
+            "romanized": [
+                "Municipium Canusinum"
+            ]
+        },
+        "municipium-flavium-cisimbrense": {
+            "attested": "Municipium Flavium Cisimbrense",
+            "id": "municipium-flavium-cisimbrense",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7dc359da-5852-4bdb-8e97-d61ba2a8cb19"
+            ],
+            "romanized": [
+                "Municipium Flavium Cisimbrense"
+            ]
+        },
+        "musti": {
+            "attested": "Musti",
+            "id": "musti",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f5bd09e0-df51-450a-8ff8-a52ecad8cbaa"
+            ],
+            "romanized": [
+                "Musti"
+            ]
+        },
+        "mustitani": {
+            "attested": "Mustitani",
+            "id": "mustitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.34d64746-63ca-4419-8f0b-c9e879cf234d"
+            ],
+            "romanized": [
+                "Mustitani"
+            ]
+        },
+        "musulamii": {
+            "attested": "Musulamii",
+            "id": "musulamii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6c126a6e-ef28-4ec1-8d8e-81b1df0dba13"
+            ],
+            "romanized": [
+                "Musulamii"
+            ]
+        },
+        "myanenses": {
+            "attested": "Myanenses",
+            "id": "myanenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dbdd83ae-4c7a-4ff1-a001-cae03c1eb2da"
+            ],
+            "romanized": [
+                "Myanenses"
+            ]
+        },
+        "myania": {
+            "attested": "Myania",
+            "id": "myania",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e0e808ed-d3bd-4b89-b571-496715f4fe25"
+            ],
+            "romanized": [
+                "Myania"
+            ]
+        },
+        "narestini": {
+            "attested": "Narestini",
+            "id": "narestini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e674b09c-2066-43da-ac40-1b95f1036ca8"
+            ],
+            "romanized": [
+                "Narestini"
+            ]
+        },
+        "nasamones": {
+            "attested": "Nasamones",
+            "id": "nasamones",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.74809d19-219b-4318-b558-35c745d859f3"
+            ],
+            "romanized": [
+                "Nasamones"
+            ]
+        },
+        "nedinum": {
+            "attested": "Nedinum",
+            "id": "nedinum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.524e0dea-8ee9-4554-8d72-280e7df00c91"
+            ],
+            "romanized": [
+                "Nedinum"
+            ]
+        },
+        "neditae": {
+            "attested": "Neditae",
+            "id": "neditae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b8c25fad-3b9e-46b1-85b3-0db712188e0d"
+            ],
+            "romanized": [
+                "Neditae"
+            ]
+        },
+        "nediti": {
+            "attested": "Nediti",
+            "id": "nediti",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8afaac02-b54e-4c9d-b2ff-5c09374a49d9"
+            ],
+            "romanized": [
+                "Nediti"
+            ]
+        },
+        "nerastini": {
+            "attested": "Nerastini",
+            "id": "nerastini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b12532a4-c5b3-4310-bc22-7fb6283146ec"
+            ],
+            "romanized": [
+                "Nerastini"
+            ]
+        },
+        "nerate": {
+            "attested": "Nerate",
+            "id": "nerate",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.87bdfd49-d2a4-41a3-bd09-c8da4a9a2b0e"
+            ],
+            "romanized": [
+                "Nerate"
+            ]
+        },
+        "nestos": {
+            "attested": "Nestos",
+            "id": "nestos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.52509f17-7048-426b-8cac-227c4862852a"
+            ],
+            "romanized": [
+                "Nestos"
+            ]
+        },
+        "nettuno": {
+            "attested": "Nettuno",
+            "id": "nettuno",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4165ed17-8561-49b7-bda1-e75b09c5041f"
+            ],
+            "romanized": [
+                "Nettuno"
+            ]
+        },
+        "nibgenii": {
+            "attested": "Nibgenii",
+            "id": "nibgenii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3a5f8e1f-3803-4558-879f-74d9b68dbf9f"
+            ],
+            "romanized": [
+                "Nibgenii"
+            ]
+        },
+        "nicaea": {
+            "attested": "Nicaea",
+            "id": "nicaea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7ba99e01-3960-4ab0-b401-99a107013406"
+            ],
+            "romanized": [
+                "Nicaea"
+            ]
+        },
+        "nicea": {
+            "attested": "Nicea",
+            "id": "nicea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.00bbd26e-50d3-4fa5-99ee-345aaed67044"
+            ],
+            "romanized": [
+                "Nicea"
+            ]
+        },
+        "nicibes": {
+            "attested": "Nicibes",
+            "id": "nicibes",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3f2187a0-2637-4e52-94e8-b56dcb57bc5e"
+            ],
+            "romanized": [
+                "Nicibes"
+            ]
+        },
+        "nicives": {
+            "attested": "Nicives",
+            "id": "nicives",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8abe255e-2fb9-4e34-9021-59df087c0ccf"
+            ],
+            "romanized": [
+                "Nicives"
+            ]
+        },
+        "nolochus": {
+            "attested": "Nolochus",
+            "id": "nolochus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.629409bf-3928-4940-b6aa-d661b60f54bc"
+            ],
+            "romanized": [
+                "Nolochus"
+            ]
+        },
+        "numidae": {
+            "attested": "Numidae",
+            "id": "numidae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7e232b8e-ccd2-4d9f-8de8-5f8141fe8b0b"
+            ],
+            "romanized": [
+                "Numidae"
+            ]
+        },
+        "numidia": {
+            "attested": "Numidia",
+            "id": "numidia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dd5c6331-8764-4fff-bcc4-891fa60b648c"
+            ],
+            "romanized": [
+                "Numidia"
+            ]
+        },
+        "nybgenii": {
+            "attested": "Nybgenii",
+            "id": "nybgenii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9ec9a43b-4cee-4d11-a6cd-eebbb023224a"
+            ],
+            "romanized": [
+                "Nybgenii"
+            ]
+        },
+        "oea": {
+            "attested": "Oea",
+            "id": "oea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5750df35-eb2b-43ec-babc-9fc42fb7ada9"
+            ],
+            "romanized": [
+                "Oea"
+            ]
+        },
+        "oeenses": {
+            "attested": "Oeenses",
+            "id": "oeenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.70873a01-0a38-4e47-86bb-b52f95f1edaf"
+            ],
+            "romanized": [
+                "Oeenses"
+            ]
+        },
+        "olooson": {
+            "attested": "Olooson",
+            "id": "olooson",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3f46dd6e-ff54-4355-842c-eecf14bffd15"
+            ],
+            "romanized": [
+                "Olooson"
+            ]
+        },
+        "olossitani": {
+            "attested": "Olossitani",
+            "id": "olossitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.853a17c1-e53f-4964-9ca5-464e1639c637"
+            ],
+            "romanized": [
+                "Olossitani"
+            ]
+        },
+        "olossonii": {
+            "attested": "Olossonii",
+            "id": "olossonii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3362490e-2cdb-4b6c-b2cf-ef5aea8da338"
+            ],
+            "romanized": [
+                "Olossonii"
+            ]
+        },
+        "olossonioi": {
+            "attested": "Olossonioi",
+            "id": "olossonioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8549177c-d3b7-46b2-afba-a6337a6daa97"
+            ],
+            "romanized": [
+                "Olossonioi"
+            ]
+        },
+        "olympia": {
+            "attested": "Olympia",
+            "id": "olympia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8672f2ce-90b7-40b7-90c6-125d4eb7d152"
+            ],
+            "romanized": [
+                "Olympia"
+            ]
+        },
+        "onastini": {
+            "attested": "Onastini",
+            "id": "onastini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c2cd85d8-8edd-4218-91d6-c4b5ca32cb06"
+            ],
+            "romanized": [
+                "Onastini"
+            ]
+        },
+        "oneum": {
+            "attested": "Oneum",
+            "id": "oneum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.073b18ef-c796-4c8e-8d94-125abb3d9e85"
+            ],
+            "romanized": [
+                "Oneum"
+            ]
+        },
+        "onoareae": {
+            "attested": "Onoareae",
+            "id": "onoareae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ed059236-10ef-435c-ac88-1de62caa073b"
+            ],
+            "romanized": [
+                "Onoareae"
+            ]
+        },
+        "opoenta": {
+            "attested": "Opoenta",
+            "id": "opoenta",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ab8bc981-266a-40fe-8b68-864af242001b"
+            ],
+            "romanized": [
+                "Opoenta"
+            ]
+        },
+        "opus": {
+            "attested": "Opus",
+            "id": "opus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.325f56ab-c4d0-4fee-b7a8-1c9dbe894218"
+            ],
+            "romanized": [
+                "Opus"
+            ]
+        },
+        "orchomenioi": {
+            "attested": "Orchomenioi",
+            "id": "orchomenioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.837c5e8e-692d-4bd0-92b4-1f01fb7073fa"
+            ],
+            "romanized": [
+                "Orchomenioi"
+            ]
+        },
+        "orchomenos": {
+            "attested": "Orchomenos",
+            "id": "orchomenos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.bf03343d-7e2d-4408-bb5f-9bbf6b8f3bb4"
+            ],
+            "romanized": [
+                "Orchomenos"
+            ]
+        },
+        "ortopla": {
+            "attested": "Ortopla",
+            "id": "ortopla",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a30a1750-248d-40d8-bed3-8e78bab53ef5"
+            ],
+            "romanized": [
+                "Ortopla"
+            ]
+        },
+        "ortoplini": {
+            "attested": "Ortoplini",
+            "id": "ortoplini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a9464f6e-29af-43b2-ba24-4e394cb2796d"
+            ],
+            "romanized": [
+                "Ortoplini"
+            ]
+        },
+        "ostia": {
+            "attested": "Ostia",
+            "id": "ostia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.67b8ed9b-f960-458a-8328-a23cab104a06"
+            ],
+            "romanized": [
+                "Ostia"
+            ]
+        },
+        "ostienses": {
+            "attested": "Ostienses",
+            "id": "ostienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3b2784e0-8810-4b18-9f1d-f823a32958b8"
+            ],
+            "romanized": [
+                "Ostienses"
+            ]
+        },
+        "ostippo": {
+            "attested": "Ostippo",
+            "id": "ostippo",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f549e8cd-41ec-4e9a-aa57-86bdddf16b04"
+            ],
+            "romanized": [
+                "Ostippo"
+            ]
+        },
+        "ostipponenses": {
+            "attested": "Ostipponenses",
+            "id": "ostipponenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.58601107-95cc-4e99-a5b4-94de8f5a91df"
+            ],
+            "romanized": [
+                "Ostipponenses"
+            ]
+        },
+        "palmyra": {
+            "attested": "Palmyra",
+            "id": "palmyra",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7d1c78fe-ec1c-4949-8181-48a5943b5204"
+            ],
+            "romanized": [
+                "Palmyra"
+            ]
+        },
+        "parentini": {
+            "attested": "Parentini",
+            "id": "parentini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9d955568-84ac-47cd-8e22-14a31d67c548"
+            ],
+            "romanized": [
+                "Parentini"
+            ]
+        },
+        "parentium": {
+            "attested": "Parentium",
+            "id": "parentium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.fb70458f-600e-4d36-9f04-acee8ecf4102"
+            ],
+            "romanized": [
+                "Parentium"
+            ]
+        },
+        "patras": {
+            "attested": "Patras",
+            "id": "patras",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0f70ff7a-ca9d-4a67-a168-36150d27f6f7"
+            ],
+            "romanized": [
+                "Patras"
+            ]
+        },
+        "patulcenses": {
+            "attested": "Patulcenses",
+            "id": "patulcenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5d872fb2-82a8-42d7-8499-45f016322ee5"
+            ],
+            "romanized": [
+                "Patulcenses"
+            ]
+        },
+        "patulcenses-campani": {
+            "attested": "Patulcenses Campani",
+            "id": "patulcenses-campani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0bcd3af6-a942-40ec-913b-e3408310c2ad"
+            ],
+            "romanized": [
+                "Patulcenses Campani"
+            ]
+        },
+        "pelion": {
+            "attested": "Pelion",
+            "id": "pelion",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3f3020d8-a12d-40a0-b13d-45cb3d9628d7"
+            ],
+            "romanized": [
+                "Pelion"
+            ]
+        },
+        "peloponnesus": {
+            "attested": "Peloponnesus",
+            "id": "peloponnesus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8742e720-54b7-4e3c-80f7-605f1864f3bf"
+            ],
+            "romanized": [
+                "Peloponnesus"
+            ]
+        },
+        "peneios": {
+            "attested": "Peneios",
+            "id": "peneios",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3b3c8ea8-eaa4-4842-bdae-55a38e5a2fd2"
+            ],
+            "romanized": [
+                "Peneios"
+            ]
+        },
+        "peraia": {
+            "attested": "Peraia",
+            "id": "peraia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.fe576d2a-fb8b-4dbc-9d8b-64e57684b6bc"
+            ],
+            "romanized": [
+                "Peraia"
+            ]
+        },
+        "petraeae": {
+            "attested": "Petraeae",
+            "id": "petraeae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.30f9ecfd-ade1-4e18-9693-4532b73bbf6a"
+            ],
+            "romanized": [
+                "Petraeae"
+            ]
+        },
+        "peuce": {
+            "attested": "Peuce",
+            "id": "peuce",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.63463f47-224f-4f22-a528-b0d361491e8f"
+            ],
+            "romanized": [
+                "Peuce"
+            ]
+        },
+        "peucus": {
+            "attested": "Peucus",
+            "id": "peucus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.87dc183f-017a-4b57-9f8a-91f0e13bc322"
+            ],
+            "romanized": [
+                "Peucus"
+            ]
+        },
+        "peuke": {
+            "attested": "Peuke",
+            "id": "peuke",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.cb2ac293-b889-4d33-965e-7810075bcc2c"
+            ],
+            "romanized": [
+                "Peuke"
+            ]
+        },
+        "phalaros": {
+            "attested": "Phalaros",
+            "id": "phalaros",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.107002b6-8274-4248-bf85-7b0371590b0e"
+            ],
+            "romanized": [
+                "Phalaros"
+            ]
+        },
+        "phaleros": {
+            "attested": "Phaleros",
+            "id": "phaleros",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.443026eb-753b-4a7a-aa85-a6b35ab66016"
+            ],
+            "romanized": [
+                "Phaleros"
+            ]
+        },
+        "phalinga": {
+            "attested": "Phalinga",
+            "id": "phalinga",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0554a5a9-4fd6-41e5-8b1d-12f339db592d"
+            ],
+            "romanized": [
+                "Phalinga"
+            ]
+        },
+        "philadelpheia": {
+            "attested": "Philadelpheia",
+            "id": "philadelpheia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.eef434c1-6705-4830-a214-0623784010ee"
+            ],
+            "romanized": [
+                "Philadelpheia"
+            ]
+        },
+        "philadelphenoi": {
+            "attested": "Philadelphenoi",
+            "id": "philadelphenoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c02db537-7471-44bd-a931-028278b57673"
+            ],
+            "romanized": [
+                "Philadelphenoi"
+            ]
+        },
+        "philadelphia": {
+            "attested": "Philadelphia",
+            "id": "philadelphia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1c817c31-f02b-4f83-96ad-76e1653e0546"
+            ],
+            "romanized": [
+                "Philadelphia"
+            ]
+        },
+        "philippi": {
+            "attested": "Philippi",
+            "id": "philippi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.948895a9-4965-4604-b68d-21284fed6385"
+            ],
+            "romanized": [
+                "Philippi"
+            ]
+        },
+        "philippopolis": {
+            "attested": "Philippopolis",
+            "id": "philippopolis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.685c4e7c-89e9-4ed5-852f-8a3dea362432"
+            ],
+            "romanized": [
+                "Philippopolis"
+            ]
+        },
+        "phrygia": {
+            "attested": "Phrygia",
+            "id": "phrygia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1f20611e-867a-40ee-b4cc-300155738cde"
+            ],
+            "romanized": [
+                "Phrygia"
+            ]
+        },
+        "phrygia-et-caria": {
+            "attested": "Phrygia et Caria",
+            "id": "phrygia-et-caria",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6673876d-db19-4b1b-b7f6-6345967f57c6"
+            ],
+            "romanized": [
+                "Phrygia et Caria"
+            ]
+        },
+        "phyle-rodopeis": {
+            "attested": "Phyle Rodopeis",
+            "id": "phyle-rodopeis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.16a41d38-5c0a-4710-b55b-cf53d301b29b"
+            ],
+            "romanized": [
+                "Phyle Rodopeis"
+            ]
+        },
+        "picenum": {
+            "attested": "Picenum",
+            "id": "picenum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d38a61b0-fd6a-4d83-83c6-5d085c59504f"
+            ],
+            "romanized": [
+                "Picenum"
+            ]
+        },
+        "picusculus": {
+            "attested": "Picusculus",
+            "id": "picusculus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.840abef2-ef95-4e9b-bc77-d9de7094ca6e"
+            ],
+            "romanized": [
+                "Picusculus"
+            ]
+        },
+        "pituntini": {
+            "attested": "Pituntini",
+            "id": "pituntini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.82d2b8e3-d1e4-4bbd-a93b-af01900f977c"
+            ],
+            "romanized": [
+                "Pituntini"
+            ]
+        },
+        "pituntium": {
+            "attested": "Pituntium",
+            "id": "pituntium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f1067c65-b54f-4d9b-aa20-2ac3fa3a1b19"
+            ],
+            "romanized": [
+                "Pituntium"
+            ]
+        },
+        "platanos": {
+            "attested": "Platanos",
+            "id": "platanos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8a51910d-fbb1-4b03-ba05-cd7a28f76299"
+            ],
+            "romanized": [
+                "Platanos"
+            ]
+        },
+        "pompeiani": {
+            "attested": "Pompeiani",
+            "id": "pompeiani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1c526197-08b0-4a9a-8958-d68adaf1f4b9"
+            ],
+            "romanized": [
+                "Pompeiani"
+            ]
+        },
+        "pompeii": {
+            "attested": "Pompeii",
+            "id": "pompeii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.274dd932-1095-407a-9540-01d2313d8a95"
+            ],
+            "romanized": [
+                "Pompeii"
+            ]
+        },
+        "pontus-et-bithynia": {
+            "attested": "Pontus et Bithynia",
+            "id": "pontus-et-bithynia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d1b2f904-7d0a-42d3-b62d-13914ea9b128"
+            ],
+            "romanized": [
+                "Pontus et Bithynia"
+            ]
+        },
+        "populus-philippensis": {
+            "attested": "populus Philippensis",
+            "id": "populus-philippensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ca846628-1fb7-42f1-911d-7d5169517716"
+            ],
+            "romanized": [
+                "populus Philippensis"
+            ]
+        },
+        "pronomae": {
+            "attested": "Pronomae",
+            "id": "pronomae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.527b3c6e-afa8-4a05-b8d1-932ac467b5bb"
+            ],
+            "romanized": [
+                "Pronomae"
+            ]
+        },
+        "provincia-delmatia": {
+            "attested": "provincia Delmatia",
+            "id": "provincia-delmatia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f29d32da-9aa1-487a-9e3c-a90181c1189f"
+            ],
+            "romanized": [
+                "provincia Delmatia"
+            ]
+        },
+        "ptolemaenses": {
+            "attested": "Ptolemaenses",
+            "id": "ptolemaenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5a450e27-595e-43c1-9914-8a726f78ec1e"
+            ],
+            "romanized": [
+                "Ptolemaenses"
+            ]
+        },
+        "ptolemais": {
+            "attested": "Ptolemais",
+            "id": "ptolemais",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.20b0a25c-dfee-4c1e-ba8b-04b00aec9c7d"
+            ],
+            "romanized": [
+                "Ptolemais"
+            ]
+        },
+        "pyranthos": {
+            "attested": "Pyranthos",
+            "id": "pyranthos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.bf4542c1-ac96-4885-b1ea-b1d13135843a"
+            ],
+            "romanized": [
+                "Pyranthos"
+            ]
+        },
+        "regiae": {
+            "attested": "Regiae",
+            "id": "regiae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7f1182c1-ca24-4000-b551-e19530a11487"
+            ],
+            "romanized": [
+                "Regiae"
+            ]
+        },
+        "regienses": {
+            "attested": "Regienses",
+            "id": "regienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0808c352-69ce-4e24-9eca-ca249d78fb53"
+            ],
+            "romanized": [
+                "Regienses"
+            ]
+        },
+        "regio-palmyrena": {
+            "attested": "Regio Palmyrena",
+            "id": "regio-palmyrena",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2a74dfb5-3574-4b82-977d-65755c5ba335"
+            ],
+            "romanized": [
+                "Regio Palmyrena"
+            ]
+        },
+        "res-publica": {
+            "attested": "res publica",
+            "id": "res-publica",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e3406c5e-b6fd-43e3-b6aa-08cda29b8dd0"
+            ],
+            "romanized": [
+                "res publica"
+            ]
+        },
+        "res-publica-colonia-philippiensis": {
+            "attested": "Res Publica Colonia Philippiensis",
+            "id": "res-publica-colonia-philippiensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1b1c43c3-a5e8-48db-8025-17007dcd833b"
+            ],
+            "romanized": [
+                "Res Publica Colonia Philippiensis"
+            ]
+        },
+        "res-publica-pompeianorum": {
+            "attested": "res publica Pompeianorum",
+            "id": "res-publica-pompeianorum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.366f0c39-2eb3-426c-8ca6-80c875cef952"
+            ],
+            "romanized": [
+                "res publica Pompeianorum"
+            ]
+        },
+        "rivus-larensis": {
+            "attested": "rivus Larensis",
+            "id": "rivus-larensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8670cda4-58c7-4144-9b03-31fe25e74d1b"
+            ],
+            "romanized": [
+                "rivus Larensis"
+            ]
+        },
+        "rusicade": {
+            "attested": "Rusicade",
+            "id": "rusicade",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a5a3f681-083b-48ea-93d8-81009739e0a9"
+            ],
+            "romanized": [
+                "Rusicade"
+            ]
+        },
+        "sacilienses": {
+            "attested": "Sacilienses",
+            "id": "sacilienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.bd404db3-c190-4b97-9d2a-bac6a58c558e"
+            ],
+            "romanized": [
+                "Sacilienses"
+            ]
+        },
+        "sagalasseoi": {
+            "attested": "Sagalasseoi",
+            "id": "sagalasseoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6429e2eb-c4af-4b15-b8b0-f576273e742b"
+            ],
+            "romanized": [
+                "Sagalasseoi"
+            ]
+        },
+        "sagalassos": {
+            "attested": "Sagalassos",
+            "id": "sagalassos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8d8b852c-024d-4a56-80a6-ab9fbd337f93"
+            ],
+            "romanized": [
+                "Sagalassos"
+            ]
+        },
+        "salbake-mons": {
+            "attested": "Salbake Mons",
+            "id": "salbake-mons",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3f48b25e-d9a6-4b65-86ff-029bc0d4398b"
+            ],
+            "romanized": [
+                "Salbake Mons"
+            ]
+        },
+        "salmusae": {
+            "attested": "Salmusae",
+            "id": "salmusae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b8dff4a2-a1fe-470f-9d3f-3ae3ec892538"
+            ],
+            "romanized": [
+                "Salmusae"
+            ]
+        },
+        "salona": {
+            "attested": "Salona",
+            "id": "salona",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0df1f6a6-88f0-413f-9e3b-3fd14023722a"
+            ],
+            "romanized": [
+                "Salona"
+            ]
+        },
+        "saltus-cu": {
+            "attested": "Saltus Cu ---",
+            "id": "saltus-cu",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.b407a038-2621-4dc8-b21e-f4792390b84d"
+            ],
+            "romanized": [
+                "Saltus Cu"
+            ]
+        },
+        "saltus-cu.1": {
+            "attested": "Saltus Cu---",
+            "id": "saltus-cu.1",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "saltus-cu",
+                "GeographicString.dfa89bfc-ef10-4e2d-a202-6b7c68343294"
+            ],
+            "romanized": [
+                "Saltus Cu"
+            ]
+        },
+        "salvia": {
+            "attested": "Salvia",
+            "id": "salvia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6be69556-5c17-40de-b68a-f52af29c5b3f"
+            ],
+            "romanized": [
+                "Salvia"
+            ]
+        },
+        "salviatae": {
+            "attested": "Salviatae",
+            "id": "salviatae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1c79001d-0f33-4a6d-948e-579af59fac69"
+            ],
+            "romanized": [
+                "Salviatae"
+            ]
+        },
+        "sanpaeus": {
+            "attested": "Sanpaeus",
+            "id": "sanpaeus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4b821a68-9654-49c6-922f-73116adc13a3"
+            ],
+            "romanized": [
+                "Sanpaeus"
+            ]
+        },
+        "sapuates": {
+            "attested": "Sapuates",
+            "id": "sapuates",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ab011cfc-bb94-49ba-a3ff-fa1fdd5c71f0"
+            ],
+            "romanized": [
+                "Sapuates"
+            ]
+        },
+        "sardinia": {
+            "attested": "Sardinia",
+            "id": "sardinia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3b433c8a-66fc-453e-bd4d-01333de45452"
+            ],
+            "romanized": [
+                "Sardinia"
+            ]
+        },
+        "segesta": {
+            "attested": "Segesta",
+            "id": "segesta",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8577e5ef-46ae-43cc-8cce-ee1b163388a3"
+            ],
+            "romanized": [
+                "Segesta"
+            ]
+        },
+        "seguisonal": {
+            "attested": "Seguisonal...",
+            "id": "seguisonal",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a6b5d39c-924f-43d8-83a3-efe77ab14072"
+            ],
+            "romanized": [
+                "Seguisonal"
+            ]
+        },
+        "side": {
+            "attested": "Side",
+            "id": "side",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c21c607f-f2b0-4370-a9f2-a635ca450c9d"
+            ],
+            "romanized": [
+                "Side"
+            ]
+        },
+        "sidon": {
+            "attested": "Sidon",
+            "id": "sidon",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.077ec24c-9094-4134-b569-8bf8f1c2b427"
+            ],
+            "romanized": [
+                "Sidon"
+            ]
+        },
+        "sidonioi": {
+            "attested": "Sidonioi",
+            "id": "sidonioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9a59a070-f8ac-46d9-b555-249b6fe8356a"
+            ],
+            "romanized": [
+                "Sidonioi"
+            ]
+        },
+        "sidrini": {
+            "attested": "Sidrini",
+            "id": "sidrini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8cd78153-0aad-4cf1-a105-1fd8eaeea742"
+            ],
+            "romanized": [
+                "Sidrini"
+            ]
+        },
+        "sidrona": {
+            "attested": "Sidrona",
+            "id": "sidrona",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2ce2d942-253e-4d1a-a818-500152cd9dfd"
+            ],
+            "romanized": [
+                "Sidrona"
+            ]
+        },
+        "siguitani": {
+            "attested": "Siguitani",
+            "id": "siguitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.28b892f7-ad4a-4992-82ac-50c291a6c017"
+            ],
+            "romanized": [
+                "Siguitani"
+            ]
+        },
+        "sigus": {
+            "attested": "Sigus",
+            "id": "sigus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.62a9b1c3-8631-40c1-a6f4-2be15e6bc3cf"
+            ],
+            "romanized": [
+                "Sigus"
+            ]
+        },
+        "siklia": {
+            "attested": "Siklia",
+            "id": "siklia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.91c35805-8fc9-4795-81c7-e18f04db8f19"
+            ],
+            "romanized": [
+                "Siklia"
+            ]
+        },
+        "sinduni": {
+            "attested": "Sinduni",
+            "id": "sinduni",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8ef6ac81-774e-4f69-a0aa-3f29c4de8c87"
+            ],
+            "romanized": [
+                "Sinduni"
+            ]
+        },
+        "sir": {
+            "attested": "Sir...",
+            "id": "sir",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2a2b20b1-2511-4c88-8c9f-c8f4165af2af"
+            ],
+            "romanized": [
+                "Sir"
+            ]
+        },
+        "smilec": {
+            "attested": "Smilec",
+            "id": "smilec",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.cd2ab999-5788-4a6a-81f3-ccb401a509fc"
+            ],
+            "romanized": [
+                "Smilec"
+            ]
+        },
+        "solia": {
+            "attested": "Solia",
+            "id": "solia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.8bb0f78a-e12d-4913-b7fe-b4400b490924"
+            ],
+            "romanized": [
+                "Solia"
+            ]
+        },
+        "solienses": {
+            "attested": "Solienses",
+            "id": "solienses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d29521d4-1650-4e2e-b967-3b08c797c0e3"
+            ],
+            "romanized": [
+                "Solienses"
+            ]
+        },
+        "sparta": {
+            "attested": "Sparta",
+            "id": "sparta",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2887249e-a655-4a86-b1e5-d3f057962b70"
+            ],
+            "romanized": [
+                "Sparta"
+            ]
+        },
+        "sperchion": {
+            "attested": "Sperchion",
+            "id": "sperchion",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3ba6b5fe-50d8-40d8-a6d9-8fa09bc20c73"
+            ],
+            "romanized": [
+                "Sperchion"
+            ]
+        },
+        "sporenoi": {
+            "attested": "Sporenoi",
+            "id": "sporenoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.526e78b9-e6a7-45d0-bb8c-6359f23f3b22"
+            ],
+            "romanized": [
+                "Sporenoi"
+            ]
+        },
+        "stridon": {
+            "attested": "Stridon",
+            "id": "stridon",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7de50bb2-5a4c-40b9-8f96-236af6cc2c39"
+            ],
+            "romanized": [
+                "Stridon"
+            ]
+        },
+        "stridonenses": {
+            "attested": "Stridonenses",
+            "id": "stridonenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d8ac94dc-40e1-4af5-8b51-4a33ce16e853"
+            ],
+            "romanized": [
+                "Stridonenses"
+            ]
+        },
+        "suburbures": {
+            "attested": "Suburbures",
+            "id": "suburbures",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f9d1e49b-bece-4b51-bdef-178b767005c1"
+            ],
+            "romanized": [
+                "Suburbures"
+            ]
+        },
+        "suburbures-regiani": {
+            "attested": "Suburbures Regiani",
+            "id": "suburbures-regiani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.347aeadb-37f5-4924-b2c3-0516d1cd8bb0"
+            ],
+            "romanized": [
+                "Suburbures Regiani"
+            ]
+        },
+        "sufetula": {
+            "attested": "Sufetula",
+            "id": "sufetula",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c5104fb2-f259-4ff6-9a78-70a9a1a8f3ed"
+            ],
+            "romanized": [
+                "Sufetula"
+            ]
+        },
+        "suppenses": {
+            "attested": "Suppenses",
+            "id": "suppenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2933837e-a22f-431e-afd8-f3dacf6465e3"
+            ],
+            "romanized": [
+                "Suppenses"
+            ]
+        },
+        "synnada": {
+            "attested": "Synnada",
+            "id": "synnada",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.43e7b2c3-ddc9-430c-a9ca-538269eac73b"
+            ],
+            "romanized": [
+                "Synnada"
+            ]
+        },
+        "syria": {
+            "attested": "Syria",
+            "id": "syria",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.23bf4d4f-720b-467e-ad90-cc39da87ba9b"
+            ],
+            "romanized": [
+                "Syria"
+            ]
+        },
+        "syria-coele": {
+            "attested": "Syria Coele",
+            "id": "syria-coele",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.053b5e50-1d8a-47cc-95b1-23fa9e625b98"
+            ],
+            "romanized": [
+                "Syria Coele"
+            ]
+        },
+        "syria-palaestina": {
+            "attested": "Syria Palaestina",
+            "id": "syria-palaestina",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f1d3db79-a194-460c-9e5b-b5d37a8472e7"
+            ],
+            "romanized": [
+                "Syria Palaestina"
+            ]
+        },
+        "syria-phoenice": {
+            "attested": "Syria Phoenice",
+            "id": "syria-phoenice",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7c3e5ec5-0464-4cb4-b3fe-e0820f819cea"
+            ],
+            "romanized": [
+                "Syria Phoenice"
+            ]
+        },
+        "tacape": {
+            "attested": "Tacape",
+            "id": "tacape",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ec102c99-a3b7-48e8-a46f-831c84460831"
+            ],
+            "romanized": [
+                "Tacape"
+            ]
+        },
+        "tacapitani": {
+            "attested": "Tacapitani",
+            "id": "tacapitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.366a60f2-04c8-4f31-84f0-36fb5d782044"
+            ],
+            "romanized": [
+                "Tacapitani"
+            ]
+        },
+        "tariona": {
+            "attested": "Tariona",
+            "id": "tariona",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.797f0ae4-b730-4650-8d08-50b189d25d9a"
+            ],
+            "romanized": [
+                "Tariona"
+            ]
+        },
+        "tarraco": {
+            "attested": "Tarraco",
+            "id": "tarraco",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ad59aa30-06f5-46c5-97e6-1cb5574185e2"
+            ],
+            "romanized": [
+                "Tarraco"
+            ]
+        },
+        "taygetos": {
+            "attested": "Taygetos",
+            "id": "taygetos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.37e58d93-fd55-4818-b72c-a6a71281256e"
+            ],
+            "romanized": [
+                "Taygetos"
+            ]
+        },
+        "thabbora": {
+            "attested": "Thabbora",
+            "id": "thabbora",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f2d15dd3-6eae-412c-a2d2-7dddf64a84d1"
+            ],
+            "romanized": [
+                "Thabbora"
+            ]
+        },
+        "thabborenses": {
+            "attested": "Thabborenses",
+            "id": "thabborenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6956a35e-4f06-4273-8c43-1b597d059628"
+            ],
+            "romanized": [
+                "Thabborenses"
+            ]
+        },
+        "thagaste": {
+            "attested": "Thagaste",
+            "id": "thagaste",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f3569fc2-8576-474f-aa54-47dd8ba7916f"
+            ],
+            "romanized": [
+                "Thagaste"
+            ]
+        },
+        "thasii": {
+            "attested": "Thasii",
+            "id": "thasii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c1df354f-9d85-49a2-81b5-3df4465917ea"
+            ],
+            "romanized": [
+                "Thasii"
+            ]
+        },
+        "thasos": {
+            "attested": "Thasos",
+            "id": "thasos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0a8b4d26-ff97-4b99-a887-5ea39e4512cb"
+            ],
+            "romanized": [
+                "Thasos"
+            ]
+        },
+        "thelgae": {
+            "attested": "Thelgae",
+            "id": "thelgae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4c9b3f81-201c-46ec-bbce-03a02f7442af"
+            ],
+            "romanized": [
+                "Thelgae"
+            ]
+        },
+        "thessalia": {
+            "attested": "Thessalia",
+            "id": "thessalia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c257b60d-a6ff-47bc-9dff-cda7120d117f"
+            ],
+            "romanized": [
+                "Thessalia"
+            ]
+        },
+        "theveste": {
+            "attested": "Theveste",
+            "id": "theveste",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1be524da-d711-4cae-8d03-bee8fa591a04"
+            ],
+            "romanized": [
+                "Theveste"
+            ]
+        },
+        "thimisua": {
+            "attested": "Thimisua",
+            "id": "thimisua",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2b58db0f-8c7a-4a2a-a91d-8132d3981c2a"
+            ],
+            "romanized": [
+                "Thimisua"
+            ]
+        },
+        "thimisuenses": {
+            "attested": "Thimisuenses",
+            "id": "thimisuenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.695d75fc-6e8c-4caa-aaf1-0bcef186345c"
+            ],
+            "romanized": [
+                "Thimisuenses"
+            ]
+        },
+        "thisbe": {
+            "attested": "Thisbe",
+            "id": "thisbe",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.eed59b90-f829-4495-aa47-fd7b0ab40ffc"
+            ],
+            "romanized": [
+                "Thisbe"
+            ]
+        },
+        "thisbeis": {
+            "attested": "Thisbeis",
+            "id": "thisbeis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.223ce4eb-b8b5-4e2b-aa0d-4696e01aca6c"
+            ],
+            "romanized": [
+                "Thisbeis"
+            ]
+        },
+        "thracae": {
+            "attested": "Thracae",
+            "id": "thracae",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c0497445-b6b2-4aee-855c-efb012879d3d"
+            ],
+            "romanized": [
+                "Thracae"
+            ]
+        },
+        "thraces": {
+            "attested": "Thraces",
+            "id": "thraces",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.e13fd9bc-263d-4d12-95c6-0437b581bf93"
+            ],
+            "romanized": [
+                "Thraces"
+            ]
+        },
+        "thracia": {
+            "attested": "Thracia",
+            "id": "thracia",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.2a8d22f7-2dd4-411f-8908-0ff661377cc7"
+            ],
+            "romanized": [
+                "Thracia"
+            ]
+        },
+        "thrakoi": {
+            "attested": "Thrakoi",
+            "id": "thrakoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f0a2318a-4240-4758-b37b-ee235e21b954"
+            ],
+            "romanized": [
+                "Thrakoi"
+            ]
+        },
+        "thuddedenses": {
+            "attested": "Thuddedenses",
+            "id": "thuddedenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.76d4de3a-ce9d-4bf0-ae00-541ddb08395d"
+            ],
+            "romanized": [
+                "Thuddedenses"
+            ]
+        },
+        "thudedenses": {
+            "attested": "Thudedenses",
+            "id": "thudedenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.36534636-c7e2-429e-8c9b-a54751cf7d3c"
+            ],
+            "romanized": [
+                "Thudedenses"
+            ]
+        },
+        "thyateira": {
+            "attested": "Thyateira",
+            "id": "thyateira",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6b19eedd-5eb6-43d7-a93e-f29d9bfa975e"
+            ],
+            "romanized": [
+                "Thyateira"
+            ]
+        },
+        "tiberioi": {
+            "attested": "Tiberioi",
+            "id": "tiberioi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c280064d-6363-4105-9faa-21e5623d4516"
+            ],
+            "romanized": [
+                "Tiberioi"
+            ]
+        },
+        "tiktaenoi": {
+            "attested": "Tiktaenoi",
+            "id": "tiktaenoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.62fbd587-7c20-4268-ad9f-aa7a9d736555"
+            ],
+            "romanized": [
+                "Tiktaenoi"
+            ]
+        },
+        "tipasa": {
+            "attested": "Tipasa",
+            "id": "tipasa",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.038a4aff-a31c-42a3-a703-ad7dc26e9672"
+            ],
+            "romanized": [
+                "Tipasa"
+            ]
+        },
+        "tisibenenses": {
+            "attested": "Tisibenenses",
+            "id": "tisibenenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a1a3b377-ecbc-436b-bcae-dafd8b2a0a0f"
+            ],
+            "romanized": [
+                "Tisibenenses"
+            ]
+        },
+        "tithorea": {
+            "attested": "Tithorea",
+            "id": "tithorea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d2899439-d5d6-4247-82a4-0a2f57a4ac9d"
+            ],
+            "romanized": [
+                "Tithorea"
+            ]
+        },
+        "titus": {
+            "attested": "Titus",
+            "id": "titus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ab272909-3bc3-49c7-bf96-b95695e2c99b"
+            ],
+            "romanized": [
+                "Titus"
+            ]
+        },
+        "tomis": {
+            "attested": "Tomis",
+            "id": "tomis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.9b2c3232-88a0-412f-89ae-7bc9b5576ca4"
+            ],
+            "romanized": [
+                "Tomis"
+            ]
+        },
+        "tragurium": {
+            "attested": "Tragurium",
+            "id": "tragurium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6a3af557-8b8f-4e8f-8d96-e4711adc8395"
+            ],
+            "romanized": [
+                "Tragurium"
+            ]
+        },
+        "tridentini": {
+            "attested": "Tridentini",
+            "id": "tridentini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ce301471-d8e2-4cc2-99e1-443275f7f9cb"
+            ],
+            "romanized": [
+                "Tridentini"
+            ]
+        },
+        "tridentum": {
+            "attested": "Tridentum",
+            "id": "tridentum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.daeadee2-eec6-41c6-abe0-a7888969a98a"
+            ],
+            "romanized": [
+                "Tridentum"
+            ]
+        },
+        "trinapea": {
+            "attested": "Trinapea",
+            "id": "trinapea",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.d0c85f52-d0ad-4e5a-90d7-fa45ff185901"
+            ],
+            "romanized": [
+                "Trinapea"
+            ]
+        },
+        "tripolitania": {
+            "attested": "Tripolitania",
+            "id": "tripolitania",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.23fb9f85-9dcd-4c07-bcb2-858a9a4691b7"
+            ],
+            "romanized": [
+                "Tripolitania"
+            ]
+        },
+        "tropaeum-traiani": {
+            "attested": "Tropaeum Traiani",
+            "id": "tropaeum-traiani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4a16611e-2d2c-41d2-baff-ef3f57ab06cb"
+            ],
+            "romanized": [
+                "Tropaeum Traiani"
+            ]
+        },
+        "tulliasses": {
+            "attested": "Tulliasses",
+            "id": "tulliasses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.ab21d5f0-b761-4766-89c3-45bb92e78544"
+            ],
+            "romanized": [
+                "Tulliasses"
+            ]
+        },
+        "turgiculus": {
+            "attested": "Turgiculus",
+            "id": "turgiculus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.75b157db-0efd-434c-a305-c44681b959b4"
+            ],
+            "romanized": [
+                "Turgiculus"
+            ]
+        },
+        "turris-tamalleni": {
+            "attested": "Turris Tamalleni",
+            "id": "turris-tamalleni",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f7cc8f21-41ce-44a9-9b43-e6b933252285"
+            ],
+            "romanized": [
+                "Turris Tamalleni"
+            ]
+        },
+        "tymbrianasseoi": {
+            "attested": "Tymbrianasseoi",
+            "id": "tymbrianasseoi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.22579f4b-eb37-4e39-9f52-e4292ad1c8e1"
+            ],
+            "romanized": [
+                "Tymbrianasseoi"
+            ]
+        },
+        "tymbrianassos": {
+            "attested": "Tymbrianassos",
+            "id": "tymbrianassos",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a05a253a-d11c-46d9-89ba-76a7542903a4"
+            ],
+            "romanized": [
+                "Tymbrianassos"
+            ]
+        },
+        "uchitani": {
+            "attested": "Uchitani",
+            "id": "uchitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5cb5e0fe-0e6b-450e-af11-3fa43b3a16f4"
+            ],
+            "romanized": [
+                "Uchitani"
+            ]
+        },
+        "ucubi": {
+            "attested": "Ucubi",
+            "id": "ucubi",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.80ed1f0e-0e6b-4532-a251-bc6e98fc276b"
+            ],
+            "romanized": [
+                "Ucubi"
+            ]
+        },
+        "ucubis": {
+            "attested": "Ucubis",
+            "id": "ucubis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.554825c7-9633-4168-b3cb-30bff28ad839"
+            ],
+            "romanized": [
+                "Ucubis"
+            ]
+        },
+        "ucubitani": {
+            "attested": "Ucubitani",
+            "id": "ucubitani",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6969feea-33b6-49e6-9f90-d1aa21f2b900"
+            ],
+            "romanized": [
+                "Ucubitani"
+            ]
+        },
+        "urbanus-fl": {
+            "attested": "Urbanus fl",
+            "id": "urbanus-fl",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7deaf332-63d4-47c2-863d-d62eda884393"
+            ],
+            "romanized": [
+                "Urbanus fl"
+            ]
+        },
+        "utica": {
+            "attested": "Utica",
+            "id": "utica",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0f16c050-0541-4e6f-9caa-19b394bd8bfb"
+            ],
+            "romanized": [
+                "Utica"
+            ]
+        },
+        "vagabrobenda": {
+            "attested": "Vagabrobenda",
+            "id": "vagabrobenda",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1ca6b1fc-122e-4a1e-aa86-3e0186a69c11"
+            ],
+            "romanized": [
+                "Vagabrobenda"
+            ]
+        },
+        "vanacini": {
+            "attested": "Vanacini",
+            "id": "vanacini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.28b2b3f4-5415-433b-93a5-3198650a1178"
+            ],
+            "romanized": [
+                "Vanacini"
+            ]
+        },
+        "vegium": {
+            "attested": "Vegium",
+            "id": "vegium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a5c3091c-2d98-49b0-b809-0249190d8eb7"
+            ],
+            "romanized": [
+                "Vegium"
+            ]
+        },
+        "vicani-buteridavenses": {
+            "attested": "Vicani Buteridavenses",
+            "id": "vicani-buteridavenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.68bc2475-8e9a-45be-8508-1544d524a520"
+            ],
+            "romanized": [
+                "Vicani Buteridavenses"
+            ]
+        },
+        "vicus-augusti": {
+            "attested": "vicus Augusti",
+            "id": "vicus-augusti",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.164c8817-484a-49e2-9719-4f74ada55420"
+            ],
+            "romanized": [
+                "vicus Augusti"
+            ]
+        },
+        "vicus-buteridavensis": {
+            "attested": "Vicus Buteridavensis",
+            "id": "vicus-buteridavensis",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.dd7500de-52cf-4e52-bbb6-5c3d109f37a1"
+            ],
+            "romanized": [
+                "Vicus Buteridavensis"
+            ]
+        },
+        "vicus-rhadeloninus": {
+            "attested": "vicus Rhadeloninus",
+            "id": "vicus-rhadeloninus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.f8759adb-78ed-44f4-9075-4d1f86ddaa5c"
+            ],
+            "romanized": [
+                "vicus Rhadeloninus"
+            ]
+        },
+        "vicus-sidoniorum": {
+            "attested": "Vicus Sidoniorum",
+            "id": "vicus-sidoniorum",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.0d4d8b37-46c4-4b75-9e33-daf6f8e36f13"
+            ],
+            "romanized": [
+                "Vicus Sidoniorum"
+            ]
+        },
+        "vicus-ulmetensium": {
+            "attested": "Vicus *Ulmetensium",
+            "id": "vicus-ulmetensium",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.27a3e73b-9fbf-4c46-847d-3439f8e11fda"
+            ],
+            "romanized": [
+                "Vicus Ulmetensium"
+            ]
+        },
+        "vienna": {
+            "attested": "Vienna",
+            "id": "vienna",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.1ce752af-1e51-487d-a35a-a5a1bb46d297"
+            ],
+            "romanized": [
+                "Vienna"
+            ]
+        },
+        "vienne": {
+            "attested": "Vienne",
+            "id": "vienne",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.6d13099c-48b8-4679-888c-bd8848123b11"
+            ],
+            "romanized": [
+                "Vienne"
+            ]
+        },
+        "viennenses": {
+            "attested": "Viennenses",
+            "id": "viennenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5216526b-9e88-4aea-9915-a21053e4db5c"
+            ],
+            "romanized": [
+                "Viennenses"
+            ]
+        },
+        "vofricenses": {
+            "attested": "Vofricenses",
+            "id": "vofricenses",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.25c245a7-5a48-4271-89ab-117f5ce6929f"
+            ],
+            "romanized": [
+                "Vofricenses"
+            ]
+        },
+        "voligobend": {
+            "attested": "Voligobend...",
+            "id": "voligobend",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.4a2ea239-049a-4519-93c2-f87d5b17fa3c"
+            ],
+            "romanized": [
+                "Voligobend"
+            ]
+        },
+        "volturnus": {
+            "attested": "Volturnus",
+            "id": "volturnus",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.86cb07fe-1f59-453f-8908-326455e07a16"
+            ],
+            "romanized": [
+                "Volturnus"
+            ]
+        },
+        "xini": {
+            "attested": "---xini",
+            "id": "xini",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.3efd63d0-e7f1-4235-9901-3b6c2151356d"
+            ],
+            "romanized": [
+                "xini"
+            ]
+        },
+        "zamucci": {
+            "attested": "Zamucci",
+            "id": "zamucci",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.c73e3a44-9981-4ad8-b343-0e54058858f8"
+            ],
+            "romanized": [
+                "Zamucci"
+            ]
+        },
+        "zamuci": {
+            "attested": "Zamuci",
+            "id": "zamuci",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.5dae6c6a-acca-4815-aa8a-0425e71460b3"
+            ],
+            "romanized": [
+                "Zamuci"
+            ]
+        },
+        "zamucii": {
+            "attested": "Zamucii",
+            "id": "zamucii",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.a4526cf8-857f-4563-bae7-9569d3c7e86f"
+            ],
+            "romanized": [
+                "Zamucii"
+            ]
+        },
+        "zimizes": {
+            "attested": "Zimizes",
+            "id": "zimizes",
+            "object_type": "GeographicString",
+            "prior_ids": [
+                "GeographicString.7845546b-3565-4f83-90bd-05f66a0cab0c"
+            ],
+            "romanized": [
+                "Zimizes"
+            ]
+        }
+    },
+    "object_type": "Gazetteer"
+}
